@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1,
+    "title": "Terrarienwand aus 2 Terrarien – Kornnatter-Terrarium",
+    "description": "Terrarienwand bestehend aus zwei Terrarien. Das gezeigte Terrarium ist ein Halbfeucht-/Waldterrarium für eine Kornnatter (Pantherophis guttatus). Das zweite Terrarium ist ein Wüstenterrarium für eine Bartagame. Die Anlage beinhaltet eine Granitfels-Wald-Optik, integrierte Beregnungsanlage, hochwertige Beleuchtung, Verkabelungsset sowie ein großes Pflanzen-Set.",
+    "images": [
+      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778530128/T07-komplett-683x1024_itxa3o.jpg"
+    ],
+    "technicalDetails": {
+      "terrarium": "Halbfeucht/Wald",
+      "reptilien": "Kornnatter – Pantherophis guttatus",
+      "maßeTerrariumBTH": "150x60x120 cm",
+      "unterschrankHöhe": "50 cm",
+      "dekor": [
+        "weiß mit Miniperloberfläche",
+        "Holzdekor",
+        "Steinoptikoberflächen",
+        "Betonoptik",
+        "Metallic-Optik",
+        "Uni-Farben"
+      ],
+      "schiebescheiben": "4mm Floatglas mit polierten Kanten in Doppel-U-Profilen",
+      "beleuchtung": [
+        "2 Bright Sun Jungle 50W incl. EVG",
+        "2 Wärme-Licht-Spots",
+        "4 flach eingebaute Reflektoren mit Schutzgittern"
+      ],
+      "lüftung": [
+        "weiße Lüftungen in der Lichtdecke",
+        "Lüftungen im Deckel",
+        "Frontlüftung mit Lüftungsrosetten"
+      ],
+      "besonderheiten": [
+        "weiße Lichtdecke zur besseren Lichtreflektion",
+        "Festglaselement auf der rechten Seite",
+        "unsichtbare Innenverkleidung aus Kunststoff",
+        "höhenverstellbare Füße",
+        "Zuschlagdämpfersystem mit Griffen"
+      ],
+      "felslandschaft": [
+        "Granitfels-Wald-Optik",
+        "Felsen",
+        "Wurzeln",
+        "Korkelemente"
+      ],
+      "beregnungsanlage": [
+        "3 Düsen",
+        "flüsterleise Anlage",
+        "Rückschlagventil",
+        "Feinfilter",
+        "Wassertank",
+        "sekundengenau einstellbare Zeitschaltuhr"
+      ],
+      "verkabelungsset": [
+        "Sammelsteckdosen",
+        "Zeitschaltuhr",
+        "6-er Sammelsteckdose",
+        "Verlängerungskabel",
+        "Verkabelung zum Lichtkasten"
+      ],
+      "pflanzenSet": [
+        "Gräser",
+        "Tillandsien",
+        "Bromelien",
+        "Luftwurzeln",
+        "Hängepflanzen",
+        "Lianen",
+        "Kletteräste"
+      ],
+      "bodengrund": "Coconut Bark Chips"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Regenwald-Terrarium für ein Chamäleon",
+    "description": "Hochwertiges Regenwald-Terrarium für ein Panther-Chamäleon (Furcifer pardalis). Ausgestattet mit leistungsstarker Beleuchtung, Beregnungsanlage, Klima- und Luftsteuerung, Granitfels-Jungle-Optik, echten Pflanzen sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
+    "images": [
+      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778530129/Totale-im-Zimmer-diagonal_l51uwl.jpg",
+      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778530129/Totale-im-Zimmer-diagonal_l51uwl.jpg"
+    ],
+    "technicalDetails": {
+      "terrarium": "Regenwald",
+      "reptilien": "Panther-Chamäleon – Furcifer pardalis",
+      "maßeTerrariumBTH": "120x60x175 cm",
+      "lichtkastenHöhe": "25 cm",
+      "unterschrankHöhe": "40 cm",
+      "unterschrank": [
+        "Tip-on-System (Push-to-open)"
+      ],
+      "dekor": [
+        "weiß mit Miniperloberfläche",
+        "Holzdekor",
+        "Steinoptikoberflächen",
+        "Betonoptik",
+        "Metallic-Optik",
+        "Uni-Farben"
+      ],
+      "schiebescheiben": "6mm Glas mit Laufschuhsystem auf Rollen incl. Schloss",
+      "beleuchtung": [
+        "2 Bright Sun Jungle Flood incl. EVG",
+        "umschaltbar 35W / 50W / 70W",
+        "2 Wärme-Licht-Spots",
+        "4 eingebaute Reflektoren mit Schutzgittern"
+      ],
+      "lüftung": [
+        "große Gazefläche in der Lichtdecke",
+        "Terrarium ohne sichtbaren Deckel",
+        "Frontlüftung mit Lüftungsrosetten",
+        "2 Ventilatoren mit Trafo und Zeitschaltuhr"
+      ],
+      "besonderheiten": [
+        "weiße Lichtdecke zur besseren Lichtreflektion",
+        "unsichtbare Innenverkleidung aus Kunststoff",
+        "integriertes Lüfterset",
+        "programmierbarer Sonnenauf- und Sonnenuntergang",
+        "Mondlichtfunktion"
+      ],
+      "felslandschaft": [
+        "Granitfels-Jungle-Optik",
+        "Felsen",
+        "Wurzeln",
+        "Korkelemente",
+        "Pflanzmulden für echte Pflanzen"
+      ],
+      "technik": [
+        "Thermocontrol Pro II",
+        "Humiditycontrol II"
+      ],
+      "beregnungsanlage": [
+        "3 Düsen",
+        "flüsterleise Anlage",
+        "Rückschlagventil",
+        "Feinfilter",
+        "Wassertank",
+        "sekundengenau einstellbare Zeitschaltuhr"
+      ],
+      "verkabelungsset": [
+        "2x 3er Sammelsteckdosen",
+        "2 digitale Zeitschaltuhren",
+        "6-er Sammelsteckdose",
+        "Verlängerungskabel",
+        "Verkabelung zum Lichtkasten"
+      ],
+      "pflanzenSet": [
+        "echte Regenwaldpflanzen",
+        "farbige Bromelien",
+        "Luftwurzeln",
+        "Farne",
+        "Hängepflanzen",
+        "Lianen",
+        "Korkeich-Kletteräste"
+      ],
+      "sonnenaufUntergangMondlichtSet": {
+        "features": [
+          "Dimmung der Wärmespots",
+          "programmierbarer Sonnenaufgang",
+          "programmierbarer Sonnenuntergang",
+          "bläuliches Mondlicht",
+          "100 cm LED-Leiste",
+          "Programmiereinheit"
+        ]
+      },
+      "anlieferung": {
+        "art": "eigene Anlieferung und Aufbau",
+        "ort": "Ludwigsburg",
+        "inklusive": [
+          "Lieferung in mehreren Teilen",
+          "Auf- und Zusammenbau vor Ort",
+          "Aufbau im 2. OG"
+        ]
+      }
+    }
+  }
+]
