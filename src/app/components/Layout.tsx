@@ -48,7 +48,7 @@ export function Layout() {
       {/* CENTER LOGO */}
       <div className="absolute left-1/2 transform -translate-x-1/2">
         <img
-          src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778004277/a0baa8e5-6e13-49e7-a664-bb560f8d04a5_h46gqu.jpg"
+          src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778662746/HOPPE-Terrarienbau-transparent-3D_kls9am.png"
           alt="Center Logo"
           className="w-[370px] h-auto object-contain"
         />
