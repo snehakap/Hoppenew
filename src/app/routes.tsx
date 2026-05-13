@@ -9,6 +9,9 @@ import { Videos } from "./pages/Videos";
 import { Legal } from "./pages/Legal";
 import { Calculator } from "./pages/Calculator";
 import { ProductDetails } from "./pages/ProductDetails";
+import { ReptileDetails } from "./pages/ReptileDetails";
+
+
 
 export const router = createBrowserRouter([
   {
@@ -18,6 +21,17 @@ export const router = createBrowserRouter([
       { index: true, Component: Home },
 
       { path: "products", Component: Products },
+
+
+      /* ================= REPTILES ================= */
+
+      { path: "reptiles", Component: AboutUs },
+
+      { 
+        path: "reptiles/:id", 
+        Component: ReptileDetails 
+      },
+
 
       {/* PRODUCT DETAILS PAGE */}
       ,{ path: "products/:id", Component: ProductDetails },
@@ -31,3 +45,5 @@ export const router = createBrowserRouter([
     ],
   },
 ]);
+
+
