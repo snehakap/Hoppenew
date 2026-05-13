@@ -221,7 +221,7 @@ export function Contact() {
               </p>
 
               <Link
-                to="/calculator"
+                to="/Calculator"
                 className="group inline-flex items-center gap-4
                 px-10 py-5 rounded-2xl
                 bg-white text-[#00A86B]
