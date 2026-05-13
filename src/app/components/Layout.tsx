@@ -11,8 +11,8 @@ export function Layout() {
   const navigation = [
     { name: "Home", href: "/" },
     { name: "Ihr Terrarium", href: "/service" },
-    { name: "Unsere Terrarien", href: "/products" },
     { name: "Terrarium Calculator", href: "/Calculator" },
+    { name: "Unsere Terrarien", href: "/products" },
     { name: "Reptilien", href: "/about" },
     { name: "Soziale Medien", href: "/videos" },
     { name: "Kontakt", href: "/contact" },
@@ -46,13 +46,13 @@ export function Layout() {
 </Link>
 
       {/* CENTER LOGO */}
-      <div className="absolute left-1/2 transform -translate-x-1/2">
-        <img
-          src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778662746/HOPPE-Terrarienbau-transparent-3D_kls9am.png"
-          alt="Center Logo"
-          className="w-[370px] h-auto object-contain"
-        />
-      </div>
+<div className="absolute left-1/2 transform -translate-x-1/2 pointer-events-none">
+  <img
+    src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778662746/HOPPE-Terrarienbau-transparent-3D_kls9am.png"
+    alt="Center Logo"
+    className="w-[550px] h-auto object-contain"
+  />
+</div>
 
       {/* MOBILE MENU BUTTON */}
       <div className="lg:hidden">
