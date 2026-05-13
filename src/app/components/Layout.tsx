@@ -20,9 +20,20 @@ export function Layout() {
   ];
 
   const isActive = (href: string) => {
-    if (href === "/") return location.pathname === "/";
-    return location.pathname.startsWith(href);
-  };
+  if (href === "/") {
+    return location.pathname === "/";
+  }
+
+  // Keep Reptilien active on reptile detail pages
+  if (href === "/about") {
+    return (
+      location.pathname.startsWith("/about") ||
+      location.pathname.startsWith("/reptiles")
+    );
+  }
+
+  return location.pathname.startsWith(href);
+};
 
   return (
     <div className="min-h-screen flex flex-col bg-gradient-to-br from-[#020617] via-[#020617] to-[#0b1220] text-slate-200">
