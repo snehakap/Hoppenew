@@ -1,0 +1,74 @@
+[
+  {
+    "id": "terrarien-moebelbau",
+    "title": "Terrarien-Möbelbau",
+    "preview_text": "Der stabile Grundaufbau jedes Premium-Terrariums wird individuell geplant und präzise gefertigt.",
+    "cover_image": "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778689306/1P_vgprgb.jpg",
+    "images": [],
+    "description": "Unsere Terrarienmöbel werden aus hochwertigen Materialien gefertigt und individuell an die Anforderungen des Projekts angepasst."
+  },
+  {
+    "id": "schiebescheiben-und-festglaselemente",
+    "title": "Schiebescheiben und Festglaselemente",
+    "preview_text": "Hochwertige Glaselemente sorgen für Sicherheit, Komfort und eine elegante Präsentation.",
+    "cover_image": "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778690296/2P_h4lcni.jpg",
+    "images": [],
+    "description": "Unsere Glaslösungen werden millimetergenau gefertigt und sorgen für eine hochwertige Optik und maximale Stabilität."
+  },
+  {
+    "id": "deckenkonstruktion-und-beleuchtung",
+    "title": "Deckenkonstruktion und Beleuchtung",
+    "preview_text": "Perfekt integrierte Lichtsysteme schaffen optimale Bedingungen und ein modernes Erscheinungsbild.",
+    "cover_image": "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778690297/3P_jmkiab.jpg",
+    "images": [],
+    "description": "Die Beleuchtungssysteme werden individuell geplant und exakt auf die Bedürfnisse der Tiere und Pflanzen abgestimmt."
+  },
+  {
+    "id": "terrarien-landschaftsbau",
+    "title": "Terrarien-Landschaftsbau",
+    "preview_text": "Realistische Landschaften schaffen natürliche Lebensräume für Reptilien und Amphibien.",
+    "cover_image": "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778690297/4P_cfofby.jpg",
+    "images": [],
+    "description": "Jede Landschaft wird individuell gestaltet und detailreich von Hand aufgebaut."
+  },
+  {
+    "id": "oberflaechen-der-landschaften",
+    "title": "Oberflächen der Landschaften",
+    "preview_text": "Strukturierte Oberflächen sorgen für natürliche Optik und authentische Details.",
+    "cover_image": "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778690297/5P_tnp1fo.jpg",
+    "images": [],
+    "description": "Die Oberflächen werden mit speziellen Techniken bearbeitet, um realistische Fels- und Naturstrukturen zu erzeugen."
+  },
+  {
+    "id": "bodengrund",
+    "title": "Bodengrund",
+    "preview_text": "Der passende Bodengrund bildet die Grundlage für ein gesundes und stabiles Terrarienklima.",
+    "cover_image": "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778690387/6P_q3tn6m.jpg",
+    "images": [],
+    "description": "Je nach Tierart und Landschaft wird ein spezieller Bodengrund verwendet, der optimale Bedingungen schafft."
+  },
+  {
+    "id": "pflanzen-und-kletteraeste",
+    "title": "Pflanzen und Kletteräste",
+    "preview_text": "Natürliche Pflanzen und Äste schaffen ein artgerechtes und lebendiges Umfeld.",
+    "cover_image": "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778690387/7P_v4o7ws.jpg",
+    "images": [],
+    "description": "Die Auswahl der Pflanzen und Äste erfolgt passend zur jeweiligen Tierart und zum gewünschten Lebensraum."
+  },
+  {
+    "id": "dekoration-und-einrichtung",
+    "title": "Dekoration und Einrichtung eines Terrariums",
+    "preview_text": "Dekorative Elemente vervollständigen das Gesamtbild und schaffen ein harmonisches Ambiente.",
+    "cover_image": "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778690503/8P_x3ydcs.jpg",
+    "images": [],
+    "description": "Jedes Detail wird sorgfältig ausgewählt, um Funktionalität und Ästhetik perfekt zu kombinieren."
+  },
+  {
+    "id": "dekore-fuer-den-terrarienmoebelbau",
+    "title": "Dekore für den Terrarienmöbelbau",
+    "preview_text": "Individuelle Dekore verleihen jedem Terrarium eine einzigartige und stilvolle Optik.",
+    "cover_image": "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778690503/9P_bmjmhp.jpg",
+    "images": [],
+    "description": "Durch verschiedene Oberflächen und Dekore entsteht ein harmonisches Gesamtbild passend zum Wohnraum."
+  }
+]
