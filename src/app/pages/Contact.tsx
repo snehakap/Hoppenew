@@ -134,7 +134,7 @@ export function Contact() {
               </h2>
 
               <p className="text-slate-600 text-lg leading-relaxed">
-                info@hoppe-glass.com
+                info@hoppe.com
               </p>
 
             </div>
