@@ -50,7 +50,7 @@ export function Layout() {
       {/* LEFT LOGO */}
 <Link to="/" className="hidden lg:flex items-center ml-0 pl-0">
   <img
-    src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779093275/Gecko-Hoppe-080425-RZ06-Chrome_3D_ohne-txt-800px_ocygrt.png"
+    src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779093748/Gecko-Hoppe-080425-RZ06-Chrome_3D_ohne-txt-800px_agc69g.png"
     alt="Hoppe Logo"
     className="w-[200px] h-auto object-contain"
   />
