@@ -1,22 +1,28 @@
 import { useState } from "react";
 import { Link } from "react-router";
 import { Search } from "lucide-react";
+import Fuse from "fuse.js";
 import ProductData from "./Reptiles.json";
 
 export function AboutUs() {
   const [searchTerm, setSearchTerm] = useState("");
 
-  const filteredProducts = ProductData.filter((product) => {
-  const search = searchTerm.toLowerCase();
+  // ================= FUZZY SEARCH =================
+  const fuse = new Fuse(ProductData, {
+    keys: [
+      "title",
+      "name_en",
+      "name_de",
+      "umbrella_term",
+      "species_name_latin",
+    ],
+    threshold: 0.4, // typo tolerance
+  });
 
-  return (
-    product.title?.toLowerCase().includes(search) ||
-    product.name_en?.toLowerCase().includes(search) ||
-    product.name_de?.toLowerCase().includes(search) ||
-    product.umbrella_term?.toLowerCase().includes(search) ||
-    product.species_name_latin?.toLowerCase().includes(search)
-  );
-});
+  const filteredProducts =
+    searchTerm.trim() === ""
+      ? ProductData
+      : fuse.search(searchTerm).map((result) => result.item);
 
   return (
     <div className="min-h-screen bg-white">
@@ -99,13 +105,13 @@ export function AboutUs() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
 
-              {filteredProducts.map((product, index) => (
+              {filteredProducts.map((product) => (
 
                 <Link
-  key={product.id}
-  to={`/reptiles/${product.id}`}
-  className="group block"
->
+                  key={product.id}
+                  to={`/reptiles/${product.id}`}
+                  className="group block"
+                >
 
                   <div
                     className="overflow-hidden rounded-[30px]
@@ -143,8 +149,6 @@ export function AboutUs() {
                       >
                         {product.title}
                       </h2>
-
-                      
 
                     </div>
 
