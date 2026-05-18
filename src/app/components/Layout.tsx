@@ -48,9 +48,9 @@ export function Layout() {
     <div className="relative flex items-center justify-between">
 
       {/* LEFT LOGO */}
-<Link to="/" className="flex items-center ml-0 pl-0">
+<Link to="/" className="hidden lg:flex items-center ml-0 pl-0">
   <img
-    src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778525994/image0_dsd2jh.png"
+    src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779093275/Gecko-Hoppe-080425-RZ06-Chrome_3D_ohne-txt-800px_ocygrt.png"
     alt="Hoppe Logo"
     className="w-[200px] h-auto object-contain"
   />
