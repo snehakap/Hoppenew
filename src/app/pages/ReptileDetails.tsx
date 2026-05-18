@@ -1,9 +1,19 @@
 import { useEffect, useRef, useState } from "react";
-import { useParams } from "react-router";
-import { ChevronLeft, ChevronRight } from "lucide-react";
+import {
+  useNavigate,
+  useParams
+} from "react-router";
+
+import {
+  ChevronLeft,
+  ChevronRight
+} from "lucide-react";
+
 import ReptilesData from "./Reptiles.json";
 
 export function ReptileDetails() {
+
+  const navigate = useNavigate();
 
   const { id } = useParams();
 
@@ -85,6 +95,39 @@ export function ReptileDetails() {
       <section className="pt-28 pb-14 bg-white">
 
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
+
+          {/* ================= BACK LINK ================= */}
+          <div className="mb-8">
+
+            <button
+              onClick={() => navigate(-1)}
+              className="
+                group inline-flex items-center gap-2
+                text-slate-500 hover:text-[#00A86B]
+                transition-all duration-300
+                [font-family:'Poppins',sans-serif]
+              "
+            >
+
+              <ChevronLeft
+                className="
+                  w-5 h-5
+                  transition-transform duration-300
+                  group-hover:-translate-x-1
+                "
+              />
+
+              <span
+                className="
+                  text-lg md:text-2xl tracking-wide font-medium
+                "
+              >
+                Zurück
+              </span>
+
+            </button>
+
+          </div>
 
           {/* ================= IMAGE SLIDER ================= */}
           {reptile.images?.length > 0 && (
