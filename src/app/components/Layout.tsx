@@ -1,7 +1,7 @@
 import { Outlet, Link, useLocation } from "react-router";
 import { Menu, X } from "lucide-react";
 import { useState } from "react";
-import { Footer } from "./Footer";F
+import { Footer } from "./Footer";
 import { ScrollToTop } from "./ScrollToTop";
 
 export function Layout() {
