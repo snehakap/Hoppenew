@@ -1,7 +1,7 @@
 import { Outlet, Link, useLocation } from "react-router";
 import { Menu, X } from "lucide-react";
 import { useState } from "react";
-import { Footer } from "./Footer";
+import { Footer } from "./Footer";F
 import { ScrollToTop } from "./ScrollToTop";
 
 export function Layout() {
@@ -121,7 +121,7 @@ export function Layout() {
   )}
 </nav>
       {/* ================= PAGE CONTENT ================= */}
-      <main className="pt-36 flex-grow">
+      <main className="pt-16 lg:pt-36 flex-grow">
         <Outlet />
       </main>
 
