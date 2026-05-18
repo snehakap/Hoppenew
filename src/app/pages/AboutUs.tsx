@@ -2,22 +2,26 @@ import { useState } from "react";
 import { Link } from "react-router";
 import { Search } from "lucide-react";
 import ProductData from "./Reptiles.json";
+import Fuse from "fuse.js";
 
 export function AboutUs() {
   const [searchTerm, setSearchTerm] = useState("");
 
-  const filteredProducts = ProductData.filter((product) => {
-  const search = searchTerm.toLowerCase();
-
-  return (
-    product.title?.toLowerCase().includes(search) ||
-    product.name_en?.toLowerCase().includes(search) ||
-    product.name_de?.toLowerCase().includes(search) ||
-    product.umbrella_term?.toLowerCase().includes(search) ||
-    product.species_name_latin?.toLowerCase().includes(search) 
-    
-  );
+  const fuse = new Fuse(ProductData, {
+  keys: [
+    "title",
+    "name_en",
+    "name_de",
+    "umbrella_term",
+    "species_name_latin",
+  ],
+  threshold: 0.4, // lower = stricter, higher = more typo tolerant
 });
+
+const filteredProducts =
+  searchTerm.trim() === ""
+    ? ProductData
+    : fuse.search(searchTerm).map((result) => result.item);
 
   return (
     <div className="min-h-screen bg-white">
@@ -48,7 +52,7 @@ export function AboutUs() {
           </div>
 
           {/* ================= SEARCH BAR ================= */}
-          <div className="flex justify-end mt-10">
+          <div className="flex justify-center mt-10">
 
             <div className="relative w-full md:w-[420px]">
 
