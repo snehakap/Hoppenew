@@ -121,7 +121,7 @@ export function Layout() {
   )}
 </nav>
       {/* ================= PAGE CONTENT ================= */}
-      <main className="pt-20 lg:pt-36 flex-grow">
+      <main className="pt-16 lg:pt-36 flex-grow">
         <Outlet />
       </main>
 
