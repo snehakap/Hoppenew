@@ -1,24 +1,26 @@
 import { useState } from "react";
 import { Link } from "react-router";
 import { Search } from "lucide-react";
+import Fuse from "fuse.js";
 import ProductData from "./ProductsData.json";
 
 export function Products() {
   const [searchTerm, setSearchTerm] = useState("");
 
-  const filteredProducts = ProductData.filter((product) => {
-    const search = searchTerm.toLowerCase();
-
-    return (
-      product.title.toLowerCase().includes(search) ||
-      product.technicalDetails?.terrarium
-        ?.toLowerCase()
-        .includes(search) ||
-      product.technicalDetails?.reptilien
-        ?.toLowerCase()
-        .includes(search)
-    );
+  // ================= FUZZY SEARCH =================
+  const fuse = new Fuse(ProductData, {
+    keys: [
+      "title",
+      "technicalDetails.terrarium",
+      "technicalDetails.reptilien",
+    ],
+    threshold: 0.4, // typo tolerance
   });
+
+  const filteredProducts =
+    searchTerm.trim() === ""
+      ? ProductData
+      : fuse.search(searchTerm).map((result) => result.item);
 
   return (
     <div className="min-h-screen bg-white">
@@ -48,7 +50,7 @@ export function Products() {
           </div>
 
           {/* ================= SEARCH BAR ================= */}
-          <div className="flex justify-end mt-10">
+          <div className="flex justify-center mt-10">
 
             <div className="relative w-full md:w-[420px]">
 
@@ -100,13 +102,13 @@ export function Products() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
 
-              {filteredProducts.map((product, index) => (
+              {filteredProducts.map((product) => (
 
                 <Link
-  key={product.id}
-  to={`/products/${product.id}`}
-  className="group block"
->
+                  key={product.id}
+                  to={`/products/${product.id}`}
+                  className="group block"
+                >
 
                   <div
                     className="overflow-hidden rounded-[30px]
@@ -132,7 +134,6 @@ export function Products() {
 
                     {/* ================= TEXT BELOW IMAGE ================= */}
                     <div className="p-8">
-
 
                       {/* Title */}
                       <h2
