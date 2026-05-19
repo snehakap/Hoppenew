@@ -572,6 +572,42 @@
     "species_name_latin": "Pantherophis guttatus",
     "umbrella_term": "Natter",
     "description": "Die Kornnatter (Pantherophis guttatus) ist eine ungiftige Schlange aus der Familie der Nattern (Colubridae) und in Nordamerika verbreitet. Ihr Verbreitungsgebiet erstreckt sich über große Teile der östlichen USA von New York bis zu den Florida Keys. Kornnattern bewohnen unterschiedlichste Lebensräume wie Wälder, Graslandschaften, Feuchtgebiete und landwirtschaftlich genutzte Regionen und kommen häufig in der Nähe menschlicher Siedlungen vor. Die Art erreicht gewöhnlich Körperlängen von 120 bis 150 Zentimetern, in Ausnahmefällen auch über 180 Zentimeter. Der Körper ist schlank gebaut, die Grundfärbung variiert von grau bis orangebraun und wird von dunklen sattelförmigen Flecken auf dem Rücken ergänzt. Charakteristisch ist außerdem das schwarz-weiß gemusterte Schachbrettmuster auf der Bauchseite. Kornnattern sind dämmerungs- und nachtaktive Lauerjäger und ernähren sich hauptsächlich von kleinen Säugetieren, Amphibien, Reptilien und Vögeln. Aufgrund ihres ruhigen Wesens und ihrer variablen Farbformen zählen sie zu den beliebtesten Schlangenarten in der Terraristik."
+  },
+  {
+    "id": "panther-chamaeleon",
+    "title": "Panther-Chamäleon",
+    "name_en": "Panther Chameleon",
+    "name_de": "Panther-Chamäleon",
+    "images": [
+      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779222326/44_s4xg0p.jpg"
+    ],
+    "species_name_latin": "Furcifer pardalis",
+    "umbrella_term": "Chamäleon",
+    "description": "Das Panther-Chamäleon (Furcifer pardalis) gehört zur Familie der Chamäleons (Chamaeleonidae) und ist auf Madagaskar sowie auf Mauritius und Réunion verbreitet. Die Art lebt überwiegend in feuchtwarmen Küstenregionen, in Büschen, Bäumen, Gärten und an Feldrändern. Männchen erreichen Körperlängen von bis zu 55 Zentimetern, Weibchen bleiben deutlich kleiner. Charakteristisch sind der Rückenkamm aus stacheligen Schuppen sowie die auffälligen Lateralstreifen entlang der Körperseiten. Die Farbgebung variiert stark je nach Herkunftsgebiet. Besonders die Männchen zeigen intensive Farben wie Grün, Blau, Rot oder Türkis, während Weibchen meist schlichter gefärbt sind. Panther-Chamäleons besitzen wie alle Chamäleons unabhängig bewegliche Augen, Greiffüße und eine lange Schleuderzunge zum Beutefang. Die Tiere ernähren sich hauptsächlich von Insekten und anderen kleinen Wirbellosen."
+  },
+  {
+    "id": "fidschi-leguan",
+    "title": "Fidschi-Leguan",
+    "name_en": "Fiji Iguana",
+    "name_de": "Fidschi-Leguan",
+    "images": [
+      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779222325/45_vrp2tx.jpg"
+    ],
+    "species_name_latin": "Brachylophus fasciatus",
+    "umbrella_term": "Leguan",
+    "description": "Der Fidschi-Leguan (Brachylophus fasciatus) gehört zur Familie der Leguane (Iguanidae) und ist endemisch auf den Fidschi-Inseln und Tonga verbreitet. Die Tiere leben in tropischen Wäldern und halten sich überwiegend auf Bäumen auf. Im Vergleich zum Grünen Leguan bleibt der Fidschi-Leguan deutlich kleiner und erreicht eine Gesamtlänge von bis zu einem Meter. Charakteristisch sind die langen Schwänze, die etwa die dreifache Kopf-Rumpf-Länge erreichen können, sowie die weniger stark ausgeprägten Rücken- und Nackenkämme. Fidschi-Leguane ernähren sich hauptsächlich von Blättern und anderen Pflanzenteilen. Weibchen legen drei bis sechs Eier in selbst gegrabene Höhlen. Die Jungtiere schlüpfen nach einer Inkubationszeit von etwa 150 bis 200 Tagen."
+  },
+  {
+    "id": "bartagame",
+    "title": "Bartagame",
+    "name_en": "Bearded Dragon",
+    "name_de": "Bartagame",
+    "images": [
+      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779222325/46_kgtkbe.jpg"
+    ],
+    "species_name_latin": "Pogona vitticeps",
+    "umbrella_term": "Agame",
+    "description": "Die Bartagame (Pogona vitticeps) gehört zur Familie der Agamen (Agamidae) und ist in Australien verbreitet. Die Art lebt in trockenen Busch- und Steppenlandschaften und hält sich häufig auf Baumstämmen, Ästen oder Zaunpfählen auf. Bartagamen erreichen Gesamtlängen von etwa 30 bis 50 Zentimetern. Charakteristisch sind die zahlreichen Stachelschuppen entlang von Körper, Kopf und Kehle, die den typischen „Bart“ bilden. Der Körper ist abgeflacht und die Beine sind vergleichsweise kurz. Bartagamen sind tagaktive Allesfresser und ernähren sich von Insekten, kleinen Wirbeltieren, Blättern, Blüten und Früchten. Bei Gefahr flachen die Tiere ihren Körper ab, spreizen den Bart und öffnen das Maul, um größer und bedrohlicher zu wirken. Aufgrund ihres ruhigen Wesens und ihrer vergleichsweise einfachen Haltung zählen Bartagamen zu den beliebtesten Terrarientieren weltweit."
   }
   
 ]
