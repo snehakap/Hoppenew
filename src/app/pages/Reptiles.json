@@ -452,6 +452,126 @@
     "species_name_latin": "Uromastycinae",
     "umbrella_term": "Agame",
     "description": "Die Dornschwanzagamen (Uromastycinae) gehören zur Familie der Agamen (Agamidae) und sind typische Bewohner trockener Wüsten- und Halbwüstengebiete Afrikas und Asiens. Die Tiere besitzen einen gedrungenen Körperbau mit kurzen kräftigen Beinen und einem charakteristischen Schwanz, der dicht mit stacheligen Schuppen besetzt ist. Je nach Art erreichen Dornschwanzagamen Körperlängen zwischen 25 und 75 Zentimetern. Die Färbung variiert von braun und grau bis zu leuchtendem Gelb, Orange oder Grün und kann sich je nach Temperatur und Sonneneinstrahlung verändern. Diese Farbwechsel helfen den Tieren bei der Regulierung ihrer Körpertemperatur. Dornschwanzagamen sind tagaktiv und verbringen die heißesten Tageszeiten in Höhlen oder Felsspalten. Viele Arten halten während kühlerer Jahreszeiten eine Winterruhe. Die Tiere ernähren sich überwiegend pflanzlich, nur Jungtiere nehmen gelegentlich auch Insekten auf. Männchen verteidigen große Reviere und zeigen während der Paarungszeit auffälliges Imponierverhalten. Dornschwanzagamen besitzen zahlreiche Anpassungen an trockene Lebensräume, darunter eine besonders effiziente Wasserspeicherung und die Fähigkeit, Wasserverluste stark zu reduzieren."
-  } 
+  },
+  {
+  "id": "feuersalamander",
+  "title": "Feuersalamander",
+  "name_en": "Fire Salamander",
+  "name_de": "Feuersalamander",
+  "images": [
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779221904/37_vqdex3.jpg"
+  ],
+  "species_name_latin": "Salamandra salamandra",
+  "umbrella_term": "Lurch",
+  "description": "Der Feuersalamander (Salamandra salamandra) gehört zur Familie der Echten Salamander und ist in Deutschland sowie in Mittel- und Südeuropa verbreitet. Die Art lebt bevorzugt in feuchten Laub- und Mischwäldern mit naturnahen Bachläufen und ist vor allem nachts oder bei Regen aktiv. Feuersalamander erreichen Körperlängen von bis zu 23 Zentimetern und besitzen eine glänzend schwarze Haut mit auffälligen gelben bis orangefarbenen Flecken oder Linien, die individuell unterschiedlich ausgeprägt sind. Die Tiere verbringen den Großteil ihres Lebens versteckt unter Totholz, Steinen, Wurzeln oder in Bodenhöhlen. Im Gegensatz zu vielen anderen Amphibien legen Feuersalamander keine Eier ins Wasser, sondern setzen meist bereits weit entwickelte Larven mit äußeren Kiemen in Bäche oder Quellen ab. Die Art ist stark an feuchte Waldlebensräume gebunden und meidet trockene oder reine Nadelwälder. Die Nahrung besteht hauptsächlich aus kleinen wirbellosen Tieren wie Insekten, Würmern und Schnecken. Feuersalamander besitzen Hautdrüsen, die ein giftiges Sekret absondern und damit Fressfeinde abschrecken."
+},
+{
+  "id": "zwergbartagame",
+  "title": "Zwergbartagame",
+  "name_en": "Rankin's Dragon",
+  "name_de": "Zwergbartagame",
+  "images": [
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779218991/0_q9dog7.jpg"
+  ],
+  "species_name_latin": "Pogona henrylawsoni",
+  "umbrella_term": "Agame",
+  "description": "Die Zwergbartagame (Pogona henrylawsoni) gehört zur Familie der Agamen (Agamidae) und ist in Australien verbreitet. Ihr Verbreitungsgebiet beschränkt sich auf das zentrale Queensland, wo sie trockene Graslandschaften mit Mitchell-Gras sowie Gebiete mit Erdspalten bewohnt. Die Art erreicht eine Kopf-Rumpf-Länge von bis zu 15 Zentimetern, wobei der Schwanz etwas kürzer als der restliche Körper ist. Charakteristisch sind der gedrungene Kopf, die kurzen Hinterbeine und der nur schwach ausgeprägte Bart ohne große Kehlstacheln. Kleine Stacheln befinden sich vor allem an den Flanken, Schultern und am hinteren Kieferbereich. Die Grundfärbung reicht von blassoliv über braun bis gelblich und wird von helleren Fleckenreihen auf dem Rücken ergänzt. Über die Lebensweise in der Natur ist nur wenig bekannt. Im Gegensatz zu anderen Bartagamen sonnt sich die Zwergbartagame meist auf Felsen statt auf erhöhten Ästen oder Strukturen. Als Unterschlupf dienen Erdspalten und selbst gegrabene Baue."
+},
+{
+  "id": "jemenchamaeleon",
+  "title": "Jemenchamäleon",
+  "name_en": "Veiled Chameleon",
+  "name_de": "Jemenchamäleon",
+  "images": [
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779221910/36_yi2qtk.jpg"
+  ],
+  "species_name_latin": "Chamaeleo calyptratus",
+  "umbrella_term": "Chamäleon",
+  "description": "Das Jemenchamäleon (Chamaeleo calyptratus) gehört zur Familie der Chamäleons (Chamaeleonidae) und ist auf der südlichen Arabischen Halbinsel verbreitet. Die Art besiedelt sowohl trockene Hochebenen als auch feuchte Bergregionen im Jemen und in Saudi-Arabien. Jemenchamäleons zählen zu den größeren Chamäleonarten und erreichen Gesamtlängen von über 60 Zentimetern. Charakteristisch ist der hohe helmartige Kopfkamm, der bei Männchen besonders ausgeprägt ist. Die Färbung variiert stark und reicht von Grün über Braun bis Gelb, Blau und Orange. Männchen zeigen häufig auffällige vertikale Streifen auf den Flanken. Wie alle Chamäleons besitzt die Art unabhängig bewegliche Augen, einen Greifschwanz und eine lange Schleuderzunge zum Fang von Beutetieren. Jemenchamäleons leben überwiegend einzelgängerisch und verteidigen ihre Reviere aggressiv gegenüber anderen Männchen. Die Nahrung besteht hauptsächlich aus Insekten, gelegentlich werden auch kleine Wirbeltiere sowie pflanzliche Nahrung aufgenommen. Weibchen legen Eier in selbst gegrabene Erdhöhlen ab. Aufgrund ihrer vergleichsweise einfachen Haltung zählt die Art zu den beliebtesten Chamäleons in der Terraristik. :contentReference[oaicite:0]{index=0}"
+},
+   {
+    "id": "koenigspython",
+    "title": "Königspython",
+    "name_en": "Ball Python",
+    "name_de": "Königspython",
+    "images": [
+      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779221904/38_ayj2bi.jpg"
+    ],
+    "species_name_latin": "Python regius",
+    "umbrella_term": "Python",
+    "description": "Der Königspython (Python regius) gehört zur Familie der Pythons (Pythonidae) und ist in West- und Zentralafrika verbreitet. Die Art lebt in tropischen Regenwäldern, Savannen sowie landwirtschaftlich genutzten Gebieten und gilt als besonders anpassungsfähig. Mit einer maximalen Länge von etwa zwei Metern ist der Königspython die kleinste Art der Gattung Python. Der Körper ist kräftig gebaut, der Kopf deutlich vom Hals abgesetzt und der Schwanz vergleichsweise kurz. Die Grundfärbung reicht von hell- bis dunkelbraun und wird von großen hellbraunen bis beigefarbenen Flecken auf Rücken und Flanken ergänzt. Charakteristisch ist außerdem der helle Augenstreif am Kopf. Königspythons sind dämmerungs- und nachtaktiv und verbringen den Tag meist versteckt in Termitenhügeln oder verlassenen Nagetierbauten. Bei Gefahr rollen sie sich eng zusammen und verstecken den Kopf im Körperring, was ihnen den englischen Namen „Ball Python“ eingebracht hat. Die Nahrung besteht hauptsächlich aus kleinen Säugetieren und Vögeln, die durch Umschlingen erdrückt werden."
+  },
+  {
+    "id": "regenbogenboa",
+    "title": "Regenbogenboa",
+    "name_en": "Rainbow Boa",
+    "name_de": "Regenbogenboa",
+    "images": [
+      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779218991/0_q9dog7.jpg"
+    ],
+    "species_name_latin": "Epicrates cenchria",
+    "umbrella_term": "Boa",
+    "description": "Die Regenbogenboa (Epicrates cenchria) gehört zur Familie der Boas (Boidae) und ist in Mittelamerika sowie im nördlichen Südamerika verbreitet. Die Schlange lebt hauptsächlich in tropischen Regenwäldern, kommt aber auch in felsigen Landschaften und Kulturlandschaften in Gewässernähe vor. Weibchen erreichen meist Körperlängen von bis zu zwei Metern, während Männchen kleiner bleiben. Charakteristisch ist die kupferrote bis orangefarbene Grundfärbung mit schwarzen ringförmigen Zeichnungen auf dem gesamten Körper. Besonders auffällig sind die irisierenden Schuppen, die bei Sonnenlicht regenbogenartige Lichtreflexe erzeugen und der Art ihren Namen verleihen. Jungtiere halten sich häufig auf Bäumen auf, während adulte Tiere überwiegend bodenbewohnend sind. Die Regenbogenboa ernährt sich von kleinen Säugetieren, Vögeln und anderen Wirbeltieren, die durch Umschlingen getötet werden."
+  },
+  {
+    "id": "leopardgecko",
+    "title": "Leopardgecko",
+    "name_en": "Leopard Gecko",
+    "name_de": "Leopardgecko",
+    "images": [
+      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779221904/39_qtjmmd.jpg"
+    ],
+    "species_name_latin": "Eublepharis macularius",
+    "umbrella_term": "Gecko",
+    "description": "Der Leopardgecko (Eublepharis macularius) gehört zur Familie der Lidgeckos (Eublepharidae) und ist in den trockenen Steppenregionen von Pakistan, Nordwestindien und Afghanistan verbreitet. Die Tiere sind dämmerungs- und nachtaktiv und leben überwiegend am Boden. Charakteristisch ist die gelbliche bis cremefarbene Grundfärbung mit schwarzen oder braunen Flecken, die an das Muster eines Leoparden erinnert. Im Gegensatz zu vielen anderen Geckos besitzt der Leopardgecko bewegliche Augenlider und keine Haftlamellen an den Füßen. Stattdessen tragen die Tiere Krallen, die hervorragend zum Graben geeignet sind. Leopardgeckos verstecken sich tagsüber unter Steinen oder in Höhlen, um extremen Temperaturen zu entgehen. Die Nahrung besteht hauptsächlich aus Insekten, Spinnen, Skorpionen und gelegentlich kleinen Wirbeltieren. Wie viele Geckos können Leopardgeckos ihren Schwanz bei Gefahr abwerfen, wobei später ein neuer, meist kürzerer Schwanz nachwächst. Das Geschlecht der Jungtiere wird durch die Inkubationstemperatur der Eier beeinflusst."
+  },
+{
+    "id": "grosser-madagaskar-taggecko",
+    "title": "Großer Madagaskar-Taggecko",
+    "name_en": "Giant Day Gecko",
+    "name_de": "Großer Madagaskar-Taggecko",
+    "images": [
+      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779221903/40_hptk1z.jpg"
+    ],
+    "species_name_latin": "Phelsuma grandis",
+    "umbrella_term": "Gecko",
+    "description": "Der Große Madagaskar-Taggecko (Phelsuma grandis) gehört zur Familie der Geckos (Gekkonidae) und zählt zu den größten Arten der Gattung Phelsuma. Die Art lebt im Norden Madagaskars sowie auf der Insel Nosy Be und wurde zusätzlich auf Mauritius und den Florida Keys eingeführt. Große Madagaskar-Taggeckos erreichen eine Gesamtlänge von bis zu 30 Zentimetern. Die Grundfärbung ist leuchtend grün mit roten Querbändern, die bei Jungtieren besonders deutlich ausgeprägt sind und bei adulten Tieren teilweise verschwinden können. Charakteristisch bleibt jedoch ein roter Streifen zwischen Nase und Auge. Bauch und Kehle sind weiß bis hellgrau gefärbt. Die Tiere ernähren sich von Insekten, Spinnen, Schnecken sowie von Früchten, Nektar und Pollen. Männchen werden größer als Weibchen und besitzen einen kräftigeren Kopf sowie deutlich ausgeprägte Femoralporen. Der Große Madagaskar-Taggecko ist tagaktiv und lebt überwiegend auf Bäumen in tropischen Küstenregionen."
+  },
+  {
+    "id": "angola-python",
+    "title": "Angola-Python",
+    "name_en": "Angolan Python",
+    "name_de": "Angola-Python",
+    "images": [
+      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779221903/41_kxsxdb.jpg"
+    ],
+    "species_name_latin": "Python anchietae",
+    "umbrella_term": "Python",
+    "description": "Der Angola-Python (Python anchietae), auch Angola-Zwergpython genannt, gehört zur Familie der Pythons (Pythonidae) und ist in Angola und Namibia verbreitet. Die Art bewohnt trockene und felsige Hochebenen, Savannen und Halbwüstengebiete mit saisonalen Gewässern oder Restfeuchtigkeit. Angola-Pythons besitzen einen kräftigen, zylinderförmigen Körper und einen deutlich vom Hals abgesetzten Kopf. Weibchen erreichen Gesamtlängen von bis zu 168 Zentimetern, Männchen bleiben meist kleiner. Die Tiere sind hervorragend an extreme Temperaturunterschiede angepasst, die in ihrem Lebensraum zwischen großer Hitze und Frostnähe schwanken können. Wie alle Pythons ist der Angola-Python eine ungiftige Würgeschlange, die sich hauptsächlich von kleinen Säugetieren und Vögeln ernährt. Weibchen legen Eier und erhöhen die Bruttemperatur durch Muskelzittern. Die Art gilt aufgrund ihres abgelegenen Lebensraumes derzeit als nicht gefährdet."
+  },
+  {
+    "id": "halsbandleguan",
+    "title": "Halsbandleguan",
+    "name_en": "Collared Lizard",
+    "name_de": "Halsbandleguan",
+    "images": [
+      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779221903/42_sbumol.jpg"
+    ],
+    "species_name_latin": "Crotaphytus collaris",
+    "umbrella_term": "Leguan",
+    "description": "Der Halsbandleguan (Crotaphytus collaris) gehört zur Teilordnung der Leguanartigen (Iguania) und ist im Südwesten der USA sowie in Mexiko verbreitet. Die Art bewohnt trockene, felsige Landschaften und erreicht eine Gesamtlänge von bis zu 35 Zentimetern. Namensgebend ist die doppelte schwarze Zeichnung am Hals, die wie ein Halsband wirkt. Männchen sind meist kräftiger gefärbt als Weibchen und besitzen deutlich sichtbare Femoralporen sowie große Postanalschuppen. Halsbandleguane sind tagaktive Boden- und Felsenbewohner, die sich häufig auf erhöhten Steinen sonnen und von dort nach Beute und Feinden Ausschau halten. Die Nahrung besteht überwiegend aus Insekten und kleinen Wirbeltieren, gelegentlich werden auch Blätter, Blüten und Früchte gefressen. Bei Gefahr können Halsbandleguane sehr schnell auf den Hinterbeinen laufen, wobei der lange Schwanz als Gleichgewichtshilfe dient. Während der Wintermonate halten die Tiere eine mehrmonatige Winterruhe."
+  },
+  {
+    "id": "kornnatter",
+    "title": "Kornnatter",
+    "name_en": "Corn Snake",
+    "name_de": "Kornnatter",
+    "images": [
+      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779221904/43_pmpwii.jpg"
+    ],
+    "species_name_latin": "Pantherophis guttatus",
+    "umbrella_term": "Natter",
+    "description": "Die Kornnatter (Pantherophis guttatus) ist eine ungiftige Schlange aus der Familie der Nattern (Colubridae) und in Nordamerika verbreitet. Ihr Verbreitungsgebiet erstreckt sich über große Teile der östlichen USA von New York bis zu den Florida Keys. Kornnattern bewohnen unterschiedlichste Lebensräume wie Wälder, Graslandschaften, Feuchtgebiete und landwirtschaftlich genutzte Regionen und kommen häufig in der Nähe menschlicher Siedlungen vor. Die Art erreicht gewöhnlich Körperlängen von 120 bis 150 Zentimetern, in Ausnahmefällen auch über 180 Zentimeter. Der Körper ist schlank gebaut, die Grundfärbung variiert von grau bis orangebraun und wird von dunklen sattelförmigen Flecken auf dem Rücken ergänzt. Charakteristisch ist außerdem das schwarz-weiß gemusterte Schachbrettmuster auf der Bauchseite. Kornnattern sind dämmerungs- und nachtaktive Lauerjäger und ernähren sich hauptsächlich von kleinen Säugetieren, Amphibien, Reptilien und Vögeln. Aufgrund ihres ruhigen Wesens und ihrer variablen Farbformen zählen sie zu den beliebtesten Schlangenarten in der Terraristik."
+  }
   
 ]
