@@ -120,24 +120,27 @@ export function Service() {
                       {step.preview_text}
                     </p>
 
-                    <Link
-                      to={`/prozess/${step.id}`}
-                      className="inline-flex items-center
-                      gap-3 px-8 py-4 rounded-2xl
-                      bg-[#00A86B]
-                      text-white font-medium
-                      shadow-lg
-                      hover:scale-105
-                      hover:shadow-[0_15px_40px_rgba(0,168,107,0.35)]
-                      transition-all duration-300"
-                    >
-                      Mehr erfahren
+                    {/* ================= BUTTON ================= */}
+{step.title === "Dekore für den Terrarienmöbelbau" && (
+  <Link
+    to={`/prozess/${step.id}`}
+    className="inline-flex items-center
+    gap-3 px-8 py-4 rounded-2xl
+    bg-[#00A86B]
+    text-white font-medium
+    shadow-lg
+    hover:scale-105
+    hover:shadow-[0_15px_40px_rgba(0,168,107,0.35)]
+    transition-all duration-300"
+  >
+    Mehr erfahren
 
-                      <span className="text-xl">
-                        →
-                      </span>
+    <span className="text-xl">
+      →
+    </span>
 
-                    </Link>
+  </Link>
+)}
 
                   </div>
 
