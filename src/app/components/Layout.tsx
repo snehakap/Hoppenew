@@ -52,7 +52,7 @@ export function Layout() {
   <img
     src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779093748/Gecko-Hoppe-080425-RZ06-Chrome_3D_ohne-txt-800px_agc69g.png"
     alt="Hoppe Logo"
-    className="w-[230px] h-auto object-contain"
+    className="w-[210px] h-auto object-contain"
   />
 </Link>
 
@@ -61,7 +61,7 @@ export function Layout() {
   <img
     src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779471607/HOPPE-Terrarienbau-transparent-3D_kls9am_d5ek6h.png"
     alt="Center Logo"
-    className="w-[520px] h-auto object-contain"
+    className="w-[480px] h-auto object-contain"
   />
 </div>
 
