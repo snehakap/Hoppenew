@@ -10,7 +10,7 @@ export function ProcessDetails() {
     {
       name: "Ahorn Mandal Natur",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779572702/Ahorn-Mandal-natur-H3840-ST9-150x150_cedtny.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574237/Ahorn-Mandal-natur-H3840-ST9_wlqlid.jpg",
     },
     {
       name: "Akazie Hell Lakeland",
