@@ -1,5 +1,6 @@
 import { Link } from "react-router";
 import ProcessData from "./ProcessData.json";
+import ProcessDetails from "./ProcessDetails";
 
 export function Service() {
 
@@ -123,7 +124,7 @@ export function Service() {
                     {/* ================= BUTTON ================= */}
 {step.title === "Dekore für den Terrarienmöbelbau" && (
   <Link
-    to={`/prozess/${step.id}`}
+    to="/ProcessDetails"
     className="inline-flex items-center
     gap-3 px-8 py-4 rounded-2xl
     bg-[#00A86B]
