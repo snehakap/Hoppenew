@@ -192,6 +192,7 @@ export function ProcessDetails() {
     </div>
   </div>
 </div>
+          </div>
       </section>
     </div>
   );
