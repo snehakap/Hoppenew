@@ -99,46 +99,99 @@ export function ProcessDetails() {
           </div>
 
           {/* ================= HOLZ-DEKORE SECTION ================= */}
-          <div className="mt-28">
-            <div className="max-w-5xl">
-              <h2
-                className="text-3xl md:text-4xl font-semibold
-                text-slate-800 mb-10
-                [font-family:'Playfair_Display',serif]"
-              >
-                Holz-Dekore
-              </h2>
+<div className="mt-28">
+  <div className="max-w-5xl">
+    <h2
+      className="text-3xl md:text-4xl font-semibold
+      text-slate-800 mb-10
+      [font-family:'Playfair_Display',serif]"
+    >
+      Holz-Dekore
+    </h2>
 
-              <div
-                className="space-y-8 text-lg text-slate-600
-                leading-9
-                [font-family:'Poppins',sans-serif]"
-              >
-                <p>
-                  Hier zeigen wir einige der meist gefragtesten
-                  Dekore, um Ihnen schon mal einige Ideen für Ihre
-                  eigene Planung zu bieten: Ahorn, Buche, Eiche,
-                  Kirsche, Erle, Fichte, Birke, Nussbaum etc.
-                </p>
+    <div
+      className="space-y-8 text-lg text-slate-600
+      leading-9
+      [font-family:'Poppins',sans-serif]"
+    >
+      <p>
+        Hier zeigen wir einige der meist gefragtesten
+        Dekore, um Ihnen schon mal einige Ideen für Ihre
+        eigene Planung zu bieten: Ahorn, Buche, Eiche,
+        Kirsche, Erle, Fichte, Birke, Nussbaum etc.
+      </p>
 
-                <p>
-                  Einige Dekore besitzen eine besondere Haptik durch
-                  eine strukturierte Oberfläche, die sich anfühlt wie
-                  echtes Holz. Viele andere haben eine sichtbare und
-                  auch fühlbare Maserung (Haptik).
-                </p>
+      <p>
+        Einige Dekore besitzen eine besondere Haptik durch
+        eine strukturierte Oberfläche, die sich anfühlt wie
+        echtes Holz. Viele andere haben eine sichtbare und
+        auch fühlbare Maserung (Haptik).
+      </p>
 
-                <p>
-                  Für spezielle Holzdekore, die genau zu Ihrem
-                  Ambiente passen sollen, finden wir sicherlich unter
-                  vielen hundert Möglichkeiten für Sie genau das
-                  Richtige. Dies stimmen wir dann anhand von
-                  Original-Holzmustern mit Ihnen ab.
-                </p>
-              </div>
-            </div>
+      <p>
+        Für spezielle Holzdekore, die genau zu Ihrem
+        Ambiente passen sollen, finden wir sicherlich unter
+        vielen hundert Möglichkeiten für Sie genau das
+        Richtige. Dies stimmen wir dann anhand von
+        Original-Holzmustern mit Ihnen ab.
+      </p>
+    </div>
+
+    {/* ================= WOOD DECORS GRID ================= */}
+    <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8 mt-16">
+      {[
+        {
+          name: "Ahorn Mandal Natur",
+          image:
+            "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779572702/Ahorn-Mandal-natur-H3840-ST9-150x150_cedtny.jpg",
+        },
+        {
+          name: "Akazie Hell Lakeland",
+          image:
+            "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779572718/Akazie-hell-Lakeland-H1277-ST9_ahlkg5.jpg",
+        },
+        {
+          name: "Berglärche Anthrazit",
+          image:
+            "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779572750/Bergla%CC%88rche-anthrazit-H3406-ST38-150x150_qdfr3y.jpg",
+        },
+        {
+          name: "Coco Bolo Natur",
+          image:
+            "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779572767/Coco-Bolo-natur-H3012-ST22-150x150_jlm8d2.jpg",
+        },
+        {
+          name: "Berglärche Thermobraun",
+          image:
+            "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779572757/Bergla%CC%88rche-thermobraun-H3408-ST38-150x150_rtuwxd.jpg",
+        },
+      ].map((decor, index) => (
+        <div key={index} className="group text-center">
+          <div
+            className="overflow-hidden rounded-2xl
+            shadow-[0_12px_35px_rgba(0,0,0,0.12)]"
+          >
+            <img
+              src={decor.image}
+              alt={decor.name}
+              className="w-full aspect-square object-cover
+              transition-transform duration-500
+              group-hover:scale-105"
+            />
           </div>
+
+          <p
+            className="mt-4 text-sm md:text-base text-slate-700
+            leading-relaxed
+            [font-family:'Poppins',sans-serif]"
+          >
+            {decor.name}
+          </p>
         </div>
+      ))}
+    </div>
+  </div>
+</div>
       </section>
     </div>
   );
