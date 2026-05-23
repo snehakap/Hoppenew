@@ -1,7 +1,3 @@
-// Removed:
-// import { ArrowRight } from "lucide-react";
-// import { Link } from "react-router";
-
 export function ProcessDetails() {
   return (
     <div className="min-h-screen bg-white">
@@ -104,73 +100,41 @@ export function ProcessDetails() {
 
           {/* ================= HOLZ-DEKORE SECTION ================= */}
           <div className="mt-28">
-            <div
-              className="rounded-[40px] border border-slate-200
-              bg-gradient-to-br from-slate-50 to-white
-              p-10 md:p-14
-              shadow-[0_20px_60px_rgba(0,0,0,0.08)]"
-            >
-              <div className="max-w-5xl mx-auto">
-                <h2
-                  className="text-3xl md:text-4xl font-semibold
-                  text-slate-800 mb-10
-                  [font-family:'Playfair_Display',serif]"
-                >
-                  Holz-Dekore
-                </h2>
+            <div className="max-w-5xl">
+              <h2
+                className="text-3xl md:text-4xl font-semibold
+                text-slate-800 mb-10
+                [font-family:'Playfair_Display',serif]"
+              >
+                Holz-Dekore
+              </h2>
 
-                <div
-                  className="space-y-8 text-lg text-slate-600
-                  leading-9
-                  [font-family:'Poppins',sans-serif]"
-                >
-                  <p>
-                    Hier zeigen wir einige der meist gefragtesten
-                    Dekore, um Ihnen schon mal einige Ideen für Ihre
-                    eigene Planung zu bieten: Ahorn, Buche, Eiche,
-                    Kirsche, Erle, Fichte, Birke, Nussbaum etc.
-                  </p>
+              <div
+                className="space-y-8 text-lg text-slate-600
+                leading-9
+                [font-family:'Poppins',sans-serif]"
+              >
+                <p>
+                  Hier zeigen wir einige der meist gefragtesten
+                  Dekore, um Ihnen schon mal einige Ideen für Ihre
+                  eigene Planung zu bieten: Ahorn, Buche, Eiche,
+                  Kirsche, Erle, Fichte, Birke, Nussbaum etc.
+                </p>
 
-                  <p>
-                    Einige Dekore besitzen eine besondere Haptik
-                    durch eine strukturierte Oberfläche, die sich
-                    anfühlt wie echtes Holz. Viele andere haben eine
-                    sichtbare und auch fühlbare Maserung (Haptik).
-                  </p>
+                <p>
+                  Einige Dekore besitzen eine besondere Haptik durch
+                  eine strukturierte Oberfläche, die sich anfühlt wie
+                  echtes Holz. Viele andere haben eine sichtbare und
+                  auch fühlbare Maserung (Haptik).
+                </p>
 
-                  <p>
-                    Für spezielle Holzdekore, die genau zu Ihrem
-                    Ambiente passen sollen, finden wir sicherlich
-                    unter vielen hundert Möglichkeiten für Sie genau
-                    das Richtige. Dies stimmen wir dann anhand von
-                    Original-Holzmustern mit Ihnen ab.
-                  </p>
-                </div>
-
-                {/* ================= DECOR TAGS ================= */}
-                <div className="flex flex-wrap gap-4 mt-12">
-                  {[
-                    "Ahorn",
-                    "Buche",
-                    "Eiche",
-                    "Kirsche",
-                    "Erle",
-                    "Fichte",
-                    "Birke",
-                    "Nussbaum",
-                  ].map((wood) => (
-                    <div
-                      key={wood}
-                      className="px-6 py-3 rounded-full
-                      bg-white border border-slate-200
-                      text-slate-700 text-base font-medium
-                      shadow-sm
-                      [font-family:'Poppins',sans-serif]"
-                    >
-                      {wood}
-                    </div>
-                  ))}
-                </div>
+                <p>
+                  Für spezielle Holzdekore, die genau zu Ihrem
+                  Ambiente passen sollen, finden wir sicherlich unter
+                  vielen hundert Möglichkeiten für Sie genau das
+                  Richtige. Dies stimmen wir dann anhand von
+                  Original-Holzmustern mit Ihnen ab.
+                </p>
               </div>
             </div>
           </div>
