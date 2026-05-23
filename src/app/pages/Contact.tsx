@@ -40,140 +40,163 @@ export function Contact() {
       </section>
 
       {/* ================= CONTACT INFO ================= */}
-      <section className="pb-24">
 
-        <div className="max-w-7xl mx-auto px-6 lg:px-8">
+<section className="pb-24">
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+  <div className="max-w-7xl mx-auto px-6 lg:px-8">
 
-            {/* ADDRESS */}
-            <div
-              className="group p-10 rounded-[32px]
-              bg-slate-50 border border-slate-200
-              shadow-[0_10px_40px_rgba(0,0,0,0.05)]
-              hover:shadow-[0_20px_60px_rgba(0,0,0,0.12)]
-              transition-all duration-500 hover:-translate-y-2"
-            >
+```
+<div className="grid grid-cols-1 md:grid-cols-2 gap-8">
 
-              <div
-                className="w-16 h-16 rounded-2xl
-                bg-[#00A86B]
-                flex items-center justify-center
-                shadow-lg mb-8"
-              >
-                <MapPin className="w-8 h-8 text-white" />
-              </div>
+  {/* ADDRESS */}
+  <div
+    className="group p-10 rounded-[32px]
+    bg-slate-50 border border-slate-200
+    shadow-[0_10px_40px_rgba(0,0,0,0.05)]
+    hover:shadow-[0_20px_60px_rgba(0,0,0,0.12)]
+    transition-all duration-500 hover:-translate-y-2"
+  >
 
-              <h2
-                className="text-3xl font-semibold text-slate-900 mb-5
-                [font-family:'Playfair_Display',serif]"
-              >
-                Standort
-              </h2>
+    <div
+      className="w-16 h-16 rounded-2xl
+      bg-[#00A86B]
+      flex items-center justify-center
+      shadow-lg mb-8"
+    >
+      <MapPin className="w-8 h-8 text-white" />
+    </div>
 
-              <p className="text-slate-600 text-lg leading-relaxed">
-                Stuttgart, Deutschland
-              </p>
+    <h2
+      className="text-3xl font-semibold text-slate-900 mb-5
+      [font-family:'Playfair_Display',serif]"
+    >
+      Adresse
+    </h2>
 
-            </div>
+    <div className="space-y-2 text-slate-600 text-lg leading-relaxed">
+      <p>Gewerbering 11</p>
+      <p>47661 Issum</p>
+    </div>
 
-            {/* PHONE */}
-            <div
-              className="group p-10 rounded-[32px]
-              bg-slate-50 border border-slate-200
-              shadow-[0_10px_40px_rgba(0,0,0,0.05)]
-              hover:shadow-[0_20px_60px_rgba(0,0,0,0.12)]
-              transition-all duration-500 hover:-translate-y-2"
-            >
+  </div>
 
-              <div
-                className="w-16 h-16 rounded-2xl
-                bg-[#00A86B]
-                flex items-center justify-center
-                shadow-lg mb-8"
-              >
-                <Phone className="w-8 h-8 text-white" />
-              </div>
+  {/* PHONE */}
+  <div
+    className="group p-10 rounded-[32px]
+    bg-slate-50 border border-slate-200
+    shadow-[0_10px_40px_rgba(0,0,0,0.05)]
+    hover:shadow-[0_20px_60px_rgba(0,0,0,0.12)]
+    transition-all duration-500 hover:-translate-y-2"
+  >
 
-              <h2
-                className="text-3xl font-semibold text-slate-900 mb-5
-                [font-family:'Playfair_Display',serif]"
-              >
-                Telefon
-              </h2>
+    <div
+      className="w-16 h-16 rounded-2xl
+      bg-[#00A86B]
+      flex items-center justify-center
+      shadow-lg mb-8"
+    >
+      <Phone className="w-8 h-8 text-white" />
+    </div>
 
-              <p className="text-slate-600 text-lg leading-relaxed">
-                +49 711 555 0100
-              </p>
+    <h2
+      className="text-3xl font-semibold text-slate-900 mb-6
+      [font-family:'Playfair_Display',serif]"
+    >
+      Telefon
+    </h2>
 
-            </div>
+    <div className="space-y-6">
 
-            {/* EMAIL */}
-            <div
-              className="group p-10 rounded-[32px]
-              bg-slate-50 border border-slate-200
-              shadow-[0_10px_40px_rgba(0,0,0,0.05)]
-              hover:shadow-[0_20px_60px_rgba(0,0,0,0.12)]
-              transition-all duration-500 hover:-translate-y-2"
-            >
+      <div>
+        <p className="text-sm uppercase tracking-wider text-slate-500 mb-2">
+          Tech & Support
+        </p>
 
-              <div
-                className="w-16 h-16 rounded-2xl
-                bg-[#00A86B]
-                flex items-center justify-center
-                shadow-lg mb-8"
-              >
-                <Mail className="w-8 h-8 text-white" />
-              </div>
+        <a
+          href="tel:+491788585416"
+          className="text-lg text-slate-700 hover:text-[#00A86B] transition-colors"
+        >
+          +49 178 8585416
+        </a>
+      </div>
 
-              <h2
-                className="text-3xl font-semibold text-slate-900 mb-5
-                [font-family:'Playfair_Display',serif]"
-              >
-                E-Mail
-              </h2>
+      <div>
+        <p className="text-sm uppercase tracking-wider text-slate-500 mb-2">
+          Beratung und Verkauf
+        </p>
 
-              <p className="text-slate-600 text-lg leading-relaxed">
-                info@hoppe.com
-              </p>
+        <a
+          href="tel:+491778114125"
+          className="text-lg text-slate-700 hover:text-[#00A86B] transition-colors"
+        >
+          +49 177 8114125
+        </a>
+      </div>
 
-            </div>
+    </div>
 
-            {/* BUSINESS HOURS */}
-            <div
-              className="group p-10 rounded-[32px]
-              bg-slate-50 border border-slate-200
-              shadow-[0_10px_40px_rgba(0,0,0,0.05)]
-              hover:shadow-[0_20px_60px_rgba(0,0,0,0.12)]
-              transition-all duration-500 hover:-translate-y-2"
-            >
+  </div>
 
-              <div
-                className="w-16 h-16 rounded-2xl
-                bg-[#00A86B]
-                flex items-center justify-center
-                shadow-lg mb-8"
-              >
-                <Clock className="w-8 h-8 text-white" />
-              </div>
+  {/* EMAIL */}
+  <div
+    className="group p-10 rounded-[32px]
+    bg-slate-50 border border-slate-200
+    shadow-[0_10px_40px_rgba(0,0,0,0.05)]
+    hover:shadow-[0_20px_60px_rgba(0,0,0,0.12)]
+    transition-all duration-500 hover:-translate-y-2"
+  >
 
-              <h2
-                className="text-3xl font-semibold text-slate-900 mb-5
-                [font-family:'Playfair_Display',serif]"
-              >
-                Öffnungszeiten
-              </h2>
+    <div
+      className="w-16 h-16 rounded-2xl
+      bg-[#00A86B]
+      flex items-center justify-center
+      shadow-lg mb-8"
+    >
+      <Mail className="w-8 h-8 text-white" />
+    </div>
 
-              <p className="text-slate-600 text-lg leading-relaxed">
-                Montag - Freitag<br />
-                09:00 - 18:00 Uhr
-              </p>
+    <h2
+      className="text-3xl font-semibold text-slate-900 mb-6
+      [font-family:'Playfair_Display',serif]"
+    >
+      E-Mail
+    </h2>
 
-            </div>
+    <div className="space-y-6">
 
-          </div>
+      <div>
+        <p className="text-sm uppercase tracking-wider text-slate-500 mb-2">
+          Allgemeine Anfragen
+        </p>
 
-        </div>
+        <a
+          href="mailto:info@hoppe-terrarienbau.de"
+          className="text-lg text-slate-700 break-all
+          hover:text-[#00A86B] transition-colors"
+        >
+          info@hoppe-terrarienbau.de
+        </a>
+      </div>
+
+      <div>
+        <p className="text-sm uppercase tracking-wider text-slate-500 mb-2">
+          Für Kaufinteressenten
+        </p>
+
+        <a
+          href="mailto:vertrieb@hoppe-terrarienbau.de"
+          className="text-lg text-slate-700 break-all
+          hover:text-[#00A86B] transition-colors"
+        >
+          vertrieb@hoppe-terrarienbau.de
+        </a>
+      </div>
+
+    </div>
+
+  </div>
+```
+
 
       </section>
 
