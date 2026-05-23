@@ -47,7 +47,7 @@ return (
           >
 
             <img
-              src="/images/terrarium-1.jpg"
+              src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778690503/9P_bmjmhp.jpg"
               alt="Terrarium Möbelbau"
               className="w-full h-[950px] object-cover"
             />
@@ -119,7 +119,7 @@ return (
           >
 
             <img
-              src="/images/terrarium-2.jpg"
+              src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779569457/Alu-Glaseinfassung-pc1b9pkd73ftyxtr1degflgjhw4t1ha1s1hi4o654o_anulnw.jpg"
               alt="Terrarium Details"
               className="w-full h-[320px] object-cover"
             />
