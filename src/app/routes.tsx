@@ -10,7 +10,7 @@ import { Legal } from "./pages/Legal";
 import { Calculator } from "./pages/Calculator";
 import { ProductDetails } from "./pages/ProductDetails";
 import { ReptileDetails } from "./pages/ReptileDetails";
-
+import { ProcessDetails } from "./pages/ProcessDetails";
 
 
 export const router = createBrowserRouter([
@@ -42,6 +42,7 @@ export const router = createBrowserRouter([
       { path: "videos", Component: Videos },
       { path: "legal", Component: Legal },
       { path: "calculator", Component: Calculator },
+      { path: "ProcessDetails", Component: ProcessDetails },
     ],
   },
 ]);
