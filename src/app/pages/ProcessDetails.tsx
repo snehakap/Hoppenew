@@ -7,9 +7,9 @@ export function ProcessDetails() {
       {/* ================= HERO SECTION ================= */}
       <section className="pt-28 pb-20 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
-          
+
           {/* ================= HEADING ================= */}
-          <div className="text-center mb-16">
+          <div className="text-center mb-20">
             <h1
               className="text-4xl md:text-5xl font-semibold tracking-tight
               text-transparent bg-clip-text
@@ -29,109 +29,112 @@ export function ProcessDetails() {
             </p>
           </div>
 
-          {/* ================= IMAGES ================= */}
-          <div className="space-y-8 mb-20">
-            
-            {/* LONG IMAGE */}
+          {/* ================= CONTENT + IMAGES ================= */}
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-14 items-start">
+
+            {/* ================= LEFT TEXT ================= */}
             <div
-              className="overflow-hidden rounded-[36px]
-              shadow-[0_20px_60px_rgba(0,0,0,0.12)]"
+              className="p-8 md:p-12 rounded-[40px]
+              bg-slate-50 border border-slate-200
+              shadow-[0_10px_40px_rgba(0,0,0,0.06)]"
             >
-              <img
-                src="/images/optik-banner.jpg"
-                alt="Terrarium Optik"
-                className="w-full h-[260px] md:h-[520px]
-                object-cover"
-              />
-            </div>
+              <div
+                className="space-y-10 text-slate-600
+                text-lg leading-9
+                [font-family:'Poppins',sans-serif]"
+              >
+                <div>
+                  <h2
+                    className="text-3xl font-semibold mb-5
+                    text-slate-900
+                    [font-family:'Playfair_Display',serif]"
+                  >
+                    Hochwertige Materialien
+                  </h2>
 
-            {/* SECOND IMAGE */}
-            <div
-              className="max-w-4xl mx-auto overflow-hidden
-              rounded-[36px]
-              shadow-[0_20px_60px_rgba(0,0,0,0.12)]"
-            >
-              <img
-                src="/images/optik-detail.jpg"
-                alt="Terrarium Details"
-                className="w-full h-[260px] md:h-[500px]
-                object-cover"
-              />
-            </div>
+                  <p>
+                    Wir verwenden standardmäßig 19mm Spanplatten.
+                    Diese sind mit Kunststoff-Furnieren beschichtet.
+                    Wir verwenden weit über 200 Dekore für den
+                    Terrarienmöbelbau. Die Platten sind durch die
+                    Kunststoff-Furnierung besonders widerstandsfähig
+                    gegen Feuchtigkeit, hohe Temperaturen und hohe
+                    Luftfeuchtigkeit.
+                  </p>
+                </div>
 
-          </div>
+                <div>
+                  <h2
+                    className="text-3xl font-semibold mb-5
+                    text-slate-900
+                    [font-family:'Playfair_Display',serif]"
+                  >
+                    Individuelle Gestaltung
+                  </h2>
 
-          {/* ================= CONTENT ================= */}
-          <div
-            className="max-w-5xl mx-auto
-            p-8 md:p-14 rounded-[40px]
-            bg-slate-50 border border-slate-200
-            shadow-[0_10px_40px_rgba(0,0,0,0.06)]"
-          >
-            <div
-              className="space-y-10 text-slate-600
-              text-lg leading-9
-              [font-family:'Poppins',sans-serif]"
-            >
-              <div>
-                <h2
-                  className="text-3xl font-semibold mb-5
-                  text-slate-900
-                  [font-family:'Playfair_Display',serif]"
-                >
-                  Hochwertige Materialien
-                </h2>
+                  <p>
+                    Bei der Planung der Optik haben Sie die freie Auswahl.
+                    So können Sie in unzähligen Holzdekoren von allen
+                    namhaften Herstellern den zu Ihren Möbeln passenden
+                    Ton wählen. Viele Dekore zählen zur
+                    Standardpreiskategorie. Andere, sehr ausgefallene
+                    Dekore haben längere Lieferzeiten, werden extra
+                    angefertigt und haben dadurch einen Aufpreis.
+                  </p>
+                </div>
 
-                <p>
-                  Wir verwenden standardmäßig 19mm Spanplatten.
-                  Diese sind mit Kunststoff-Furnieren beschichtet.
-                  Wir verwenden weit über 200 Dekore für den
-                  Terrarienmöbelbau. Die Platten sind durch die
-                  Kunststoff-Furnierung besonders widerstandsfähig
-                  gegen Feuchtigkeit, hohe Temperaturen und hohe
-                  Luftfeuchtigkeit.
-                </p>
-              </div>
+                <div>
+                  <h2
+                    className="text-3xl font-semibold mb-5
+                    text-slate-900
+                    [font-family:'Playfair_Display',serif]"
+                  >
+                    Präzise Verarbeitung
+                  </h2>
 
-              <div>
-                <h2
-                  className="text-3xl font-semibold mb-5
-                  text-slate-900
-                  [font-family:'Playfair_Display',serif]"
-                >
-                  Individuelle Gestaltung
-                </h2>
-
-                <p>
-                  Bei der Planung der Optik haben Sie die freie Auswahl.
-                  So können Sie in unzähligen Holzdekoren von allen
-                  namhaften Herstellern den zu Ihren Möbeln passenden
-                  Ton wählen. Viele Dekore zählen zur
-                  Standardpreiskategorie. Andere, sehr ausgefallene
-                  Dekore haben längere Lieferzeiten, werden extra
-                  angefertigt und haben dadurch einen Aufpreis.
-                </p>
-              </div>
-
-              <div>
-                <h2
-                  className="text-3xl font-semibold mb-5
-                  text-slate-900
-                  [font-family:'Playfair_Display',serif]"
-                >
-                  Präzise Verarbeitung
-                </h2>
-
-                <p>
-                  Die 2mm starken ABS-Umleimer besitzen abgerundete
-                  Kanten und sorgen für eine besonders hochwertige
-                  Verarbeitung. Beim Plattenzuschnitt achten wir
-                  darauf, dass die Maserung beim Terrarium und
-                  Unterschrank optisch durchläuft und ein harmonisches
-                  Gesamtbild entsteht.
-                </p>
+                  <p>
+                    Die 2mm starken ABS-Umleimer besitzen abgerundete
+                    Kanten und sorgen für eine besonders hochwertige
+                    Verarbeitung. Beim Plattenzuschnitt achten wir
+                    darauf, dass die Maserung beim Terrarium und
+                    Unterschrank optisch durchläuft und ein harmonisches
+                    Gesamtbild entsteht.
+                  </p>
+                </div>
               </div>
             </div>
+
+            {/* ================= RIGHT IMAGES ================= */}
+            <div className="space-y-8">
+
+              {/* LONG IMAGE */}
+              <div
+                className="overflow-hidden rounded-[36px]
+                shadow-[0_20px_60px_rgba(0,0,0,0.12)]"
+              >
+                <img
+                  src="/images/optik-banner.jpg"
+                  alt="Terrarium Optik"
+                  className="w-full h-[240px] md:h-[380px]
+                  object-cover"
+                />
+              </div>
+
+              {/* SECOND IMAGE */}
+              <div
+                className="overflow-hidden rounded-[36px]
+                shadow-[0_20px_60px_rgba(0,0,0,0.12)]"
+              >
+                <img
+                  src="/images/optik-detail.jpg"
+                  alt="Terrarium Details"
+                  className="w-full h-[240px] md:h-[420px]
+                  object-cover"
+                />
+              </div>
+
+            </div>
+
           </div>
 
           {/* ================= CTA ================= */}
