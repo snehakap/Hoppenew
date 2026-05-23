@@ -47,8 +47,8 @@ export function Layout() {
     {/* TOP BAR */}
     <div className="relative flex items-center justify-between">
 
-      {/* LEFT LOGO */}
-<Link to="/" className="flex items-center ml-4">
+    {/* LEFT LOGO */}
+<Link to="/" className="hidden md:flex items-center ml-4">
   <img
     src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779093748/Gecko-Hoppe-080425-RZ06-Chrome_3D_ohne-txt-800px_agc69g.png"
     alt="Hoppe Logo"
@@ -56,12 +56,12 @@ export function Layout() {
   />
 </Link>
 
-      {/* CENTER LOGO */}
+{/* CENTER LOGO */}
 <div className="absolute left-1/2 transform -translate-x-1/2 pointer-events-none">
   <img
     src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779471607/HOPPE-Terrarienbau-transparent-3D_kls9am_d5ek6h.png"
     alt="Center Logo"
-    className="w-[480px] h-auto object-contain"
+    className="w-[260px] md:w-[480px] h-auto object-contain"
   />
 </div>
 
