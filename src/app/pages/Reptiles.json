@@ -608,6 +608,18 @@
     "species_name_latin": "Pogona vitticeps",
     "umbrella_term": "Agame",
     "description": "Die Bartagame (Pogona vitticeps) gehört zur Familie der Agamen (Agamidae) und ist in Australien verbreitet. Die Art lebt in trockenen Busch- und Steppenlandschaften und hält sich häufig auf Baumstämmen, Ästen oder Zaunpfählen auf. Bartagamen erreichen Gesamtlängen von etwa 30 bis 50 Zentimetern. Charakteristisch sind die zahlreichen Stachelschuppen entlang von Körper, Kopf und Kehle, die den typischen „Bart“ bilden. Der Körper ist abgeflacht und die Beine sind vergleichsweise kurz. Bartagamen sind tagaktive Allesfresser und ernähren sich von Insekten, kleinen Wirbeltieren, Blättern, Blüten und Früchten. Bei Gefahr flachen die Tiere ihren Körper ab, spreizen den Bart und öffnen das Maul, um größer und bedrohlicher zu wirken. Aufgrund ihres ruhigen Wesens und ihrer vergleichsweise einfachen Haltung zählen Bartagamen zu den beliebtesten Terrarientieren weltweit."
-  }
+  },
+  {
+  "id": "argentinischer-teju",
+  "title": "Argentinischer Teju",
+  "name_en": "Argentine Black and White Tegu",
+  "name_de": "Argentinischer Teju",
+  "images": [
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779218991/0_q9dog7.jpg"
+  ],
+  "species_name_latin": "Tupinambis merianae",
+  "umbrella_term": "Teju",
+  "description": "Der Argentinische Teju (Tupinambis merianae), auch Schwarzweißer Teju genannt, ist eine große Echsenart aus Südamerika. Sein natürliches Verbreitungsgebiet umfasst insbesondere Argentinien, Paraguay, Uruguay und Brasilien, wo er Savannen, Graslandschaften und buschreiche Gebiete bewohnt. Als invasive Art kommt er mittlerweile auch in einigen Regionen der USA, insbesondere in Florida, vor. Der Argentinische Teju erreicht Körperlängen von bis zu 1,5 Metern und ein Gewicht von bis zu zehn Kilogramm. Charakteristisch ist die schwarz-weiße Musterung mit hellen Punkten und Querbändern entlang des Körpers. Jungtiere besitzen häufig eine olivgrüne Kopfoberseite, die der Tarnung dient. Die Tiere verfügen über kräftige Gliedmaßen mit scharfen Krallen zum Graben und Klettern sowie über einen starken Schwanz, den sie zur Verteidigung einsetzen können. Argentinische Tejus graben Wohnhöhlen und legen auf der Nahrungssuche weite Strecken zurück. Sie ernähren sich opportunistisch von kleinen Wirbeltieren, Insekten, Früchten, Eiern und Aas. Trotz äußerlicher Ähnlichkeiten mit Waranen besteht keine nähere Verwandtschaft; die Gemeinsamkeiten beruhen auf konvergenter Evolution."
+}
   
 ]
