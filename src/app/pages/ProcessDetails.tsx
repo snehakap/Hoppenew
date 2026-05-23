@@ -143,6 +143,60 @@ export function ProcessDetails() {
         "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574981/Eiche-Halifax-natur-H1180-ST37_wpzmeb.jpg",
     }
 ];
+
+const metallicDecors = [
+    {
+      name: "Alabasterweiss",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574237/Ahorn-Mandal-natur-H3840-ST9_wlqlid.jpg",
+    },
+    {
+      name: "Hellgrau",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574445/Akazie-hell-Lakeland-H1277-ST9_i8w3xo.jpg",
+    },
+    {
+      name: "Berglärche Anthrazit",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574444/Bergla%CC%88rche-anthrazit-H3406-ST38_re0gld.jpg",
+    },
+    {
+      name: "Coco Bolo Natur",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574442/Coco-Bolo-natur-H3012-ST22_piz0d7.jpg",
+    },
+    {
+      name: "Berglärche Thermobraun",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574443/Bergla%CC%88rche-thermobraun-H3408-ST38_ksnhma.jpg",
+    },
+    {
+      name: "Eiche Bardolino natur",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574443/Bergla%CC%88rche-thermobraun-H3408-ST38_ksnhma.jpg",
+    },{
+      name: "Eiche Charleston dunkelbraun",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574440/Eiche-Charleston-dunkelbraun-H3154-ST36_l8gv3t.jpg",
+    },{
+      name: "Eiche Corbridge natur",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574440/Eiche-Corbridge-natur-H3395-ST9_ncptx0.jpg",
+    }
+];
+
+const steinoptikDecors = [
+    {
+      name: "Alabasterweiss",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574237/Ahorn-Mandal-natur-H3840-ST9_wlqlid.jpg",
+    },
+    {
+      name: "Hellgrau",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574445/Akazie-hell-Lakeland-H1277-ST9_i8w3xo.jpg",
+    }
+];
   
   return (
     <div className="min-h-screen bg-white">
@@ -344,6 +398,123 @@ Viele Dekore sind zudem mit unterschiedlichen Oberflächen erhältlich: von supe
               {/* ================= UNI DECORS GRID ================= */}
               <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8 mt-16">
                 {uniDecors.map((decor, index) => (
+                  <div key={index} className="group text-center">
+                    <button
+                      onClick={() => setSelectedImage(decor)}
+                      className="w-full"
+                    >
+                      <div
+                        className="overflow-hidden rounded-2xl
+                        shadow-[0_12px_35px_rgba(0,0,0,0.12)]"
+                      >
+                        <img
+                          src={decor.image}
+                          alt={decor.name}
+                          className="w-full aspect-square object-cover
+                          transition-transform duration-500
+                          group-hover:scale-105 cursor-pointer"
+                        />
+                      </div>
+                    </button>
+
+                    <p
+                      className="mt-4 text-sm md:text-base text-slate-700
+                      leading-relaxed
+                      [font-family:'Poppins',sans-serif]"
+                    >
+                      {decor.name}
+                    </p>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+
+      {/* ================= metallic-Dekore SECTION ================= */}
+          <div className="mt-28">
+            <div className="max-w-5xl">
+              <h2
+                className="text-3xl md:text-4xl font-semibold
+                text-slate-800 mb-10
+                [font-family:'Playfair_Display',serif]"
+              >
+                Metallic-Dekore
+              </h2>
+
+              <div
+                className="space-y-8 text-lg text-slate-600
+                leading-9
+                [font-family:'Poppins',sans-serif]"
+              >
+                <p>
+                  Daneben gibt es mit einem Aufpreis auch Dekore in Metallic-Optik
+                </p>
+
+              </div>
+
+              {/* ================= UNI DECORS GRID ================= */}
+              <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8 mt-16">
+                {metallicDecors.map((decor, index) => (
+                  <div key={index} className="group text-center">
+                    <button
+                      onClick={() => setSelectedImage(decor)}
+                      className="w-full"
+                    >
+                      <div
+                        className="overflow-hidden rounded-2xl
+                        shadow-[0_12px_35px_rgba(0,0,0,0.12)]"
+                      >
+                        <img
+                          src={decor.image}
+                          alt={decor.name}
+                          className="w-full aspect-square object-cover
+                          transition-transform duration-500
+                          group-hover:scale-105 cursor-pointer"
+                        />
+                      </div>
+                    </button>
+
+                    <p
+                      className="mt-4 text-sm md:text-base text-slate-700
+                      leading-relaxed
+                      [font-family:'Poppins',sans-serif]"
+                    >
+                      {decor.name}
+                    </p>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+    
+
+    {/* ================= Steinoptik-Dekore SECTION ================= */}
+          <div className="mt-28">
+            <div className="max-w-5xl">
+              <h2
+                className="text-3xl md:text-4xl font-semibold
+                text-slate-800 mb-10
+                [font-family:'Playfair_Display',serif]"
+              >
+                Steinoptik-Dekore
+              </h2>
+
+              <div
+                className="space-y-8 text-lg text-slate-600
+                leading-9
+                [font-family:'Poppins',sans-serif]"
+              >
+                <p>
+                 Daneben gibt es mit einem Aufpreis auch Dekore in Stein-Optik.
+
+Neben den hier gezeigten gibt es viele weitere Dekore, die aber nicht als fertige Platten zu erhalten sind, sondern extra mit Schichtstoff angefertigt werden müssen.
+                </p>
+
+              </div>
+
+              {/* ================= UNI DECORS GRID ================= */}
+              <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8 mt-16">
+                {steinoptikDecors.map((decor, index) => (
                   <div key={index} className="group text-center">
                     <button
                       onClick={() => setSelectedImage(decor)}
