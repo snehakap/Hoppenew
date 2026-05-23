@@ -200,11 +200,11 @@ export function ReptileDetails() {
                   >
 
                     <img
-                      src={image}
-                      alt={`${reptile.title} ${index + 1}`}
-                      className="w-full h-[450px] md:h-[700px]
-                      object-contain bg-white"
-                    />
+  src={image}
+  alt={`${reptile.title} ${index + 1}`}
+  className="w-full h-auto max-h-[700px]
+  object-contain bg-white"
+/>
 
                   </div>
                 ))}
