@@ -6,155 +6,163 @@ export function Service() {
 
   return (
     <div className="min-h-screen bg-white">
-
-      {/* ================= HEADING ================= */}
-      <section className="pt-28 pb-16 bg-white">
-
+      {/* ================= HERO SECTION ================= */}
+      <section className="pt-28 pb-20 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
 
-          <div className="text-center">
-
+          {/* ================= HEADING ================= */}
+          <div className="text-center mb-20">
             <h1
               className="text-4xl md:text-5xl font-semibold tracking-tight
               text-transparent bg-clip-text
               bg-gradient-to-r from-green-400 to-slate-500
               [font-family:'Playfair_Display',serif]"
             >
-              Der Aufbau unserer Terrarien
+              Die äußere Optik unserer Terrarien
             </h1>
 
             <p
               className="mt-6 text-lg md:text-xl text-slate-600
-              max-w-4xl mx-auto leading-relaxed
+              max-w-3xl mx-auto leading-relaxed
               [font-family:'Poppins',sans-serif]"
             >
-              Entdecken Sie Schritt für Schritt,
-              wie unsere individuellen Premium-Terrarien
-              mit höchster Präzision und Liebe zum Detail
-              gefertigt werden.
+              Hochwertige Materialien, exklusive Dekore und
+              perfekte Verarbeitung für individuelle Premium-Terrarien.
             </p>
-
           </div>
 
-        </div>
+          {/* ================= CONTENT + IMAGES ================= */}
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-14 items-start">
 
-      </section>
-
-      {/* ================= PROCESS FLOW ================= */}
-      <section className="pb-28 bg-white">
-
-        <div
-          className="max-w-7xl mx-auto
-          px-6 lg:px-8"
-        >
-
-          <div className="space-y-28">
-
-            {ProcessData.map((step, index) => {
-
-              const isEven = index % 2 === 0;
-
-              return (
-
-                <div
-                  key={step.id}
-                  className={`
-                    grid lg:grid-cols-2 gap-14 items-center
-                    ${!isEven ? "lg:[&>*:first-child]:order-2" : ""}
-                  `}
-                >
-
-                  {/* ================= IMAGE ================= */}
-                  <Link
-                    to={`/prozess/${step.id}`}
-                    className="group relative block"
+            {/* ================= LEFT TEXT ================= */}
+            <div
+              className="p-8 md:p-12 rounded-[40px]
+              bg-slate-50 border border-slate-200
+              shadow-[0_10px_40px_rgba(0,0,0,0.06)]"
+            >
+              <div
+                className="space-y-10 text-slate-600
+                text-lg leading-9
+                [font-family:'Poppins',sans-serif]"
+              >
+                <div>
+                  <h2
+                    className="text-3xl font-semibold mb-5
+                    text-slate-900
+                    [font-family:'Playfair_Display',serif]"
                   >
+                    Hochwertige Materialien
+                  </h2>
 
-                    <div
-                      className="overflow-hidden rounded-[36px]
-                      shadow-[0_25px_80px_rgba(0,0,0,0.18)]"
-                    >
-
-                      <img
-                        src={step.cover_image}
-                        alt={step.title}
-                        className="w-full h-[420px] md:h-[520px]
-                        object-cover
-                        transition duration-700
-                        group-hover:scale-105"
-                      />
-
-                    </div>
-
-                    {/* ================= STEP NUMBER ================= */}
-                    <div
-                      className="absolute -top-6 -left-6
-                      w-20 h-20 rounded-full
-                      bg-[#00A86B]
-                      text-white text-2xl font-semibold
-                      flex items-center justify-center
-                      shadow-2xl"
-                    >
-                      {String(index + 1).padStart(2, "0")}
-                    </div>
-
-                  </Link>
-
-                  {/* ================= TEXT ================= */}
-                  <div>
-
-
-                    <h2
-                      className="text-4xl md:text-5xl
-                      font-semibold text-slate-900
-                      leading-tight mb-8
-                      [font-family:'Playfair_Display',serif]"
-                    >
-                      {step.title}
-                    </h2>
-
-                    <p
-                      className="text-lg text-slate-600
-                      leading-9 mb-10
-                      [font-family:'Poppins',sans-serif]"
-                    >
-                      {step.preview_text}
-                    </p>
-
-                    {/* ================= BUTTON ================= */}
-{step.title === "Dekore für den Terrarienmöbelbau" && (
-  <Link
-    to="/ProcessDetails"
-    className="inline-flex items-center
-    gap-3 px-8 py-4 rounded-2xl
-    bg-[#00A86B]
-    text-white font-medium
-    shadow-lg
-    hover:scale-105
-    hover:shadow-[0_15px_40px_rgba(0,168,107,0.35)]
-    transition-all duration-300"
-  >
-    Mehr erfahren
-
-    <span className="text-xl">
-      →
-    </span>
-
-  </Link>
-)}
-
-                  </div>
-
+                  <p>
+                    Wir verwenden standardmäßig 19mm Spanplatten.
+                    Diese sind mit Kunststoff-Furnieren beschichtet.
+                    Wir verwenden weit über 200 Dekore für den
+                    Terrarienmöbelbau. Die Platten sind durch die
+                    Kunststoff-Furnierung besonders widerstandsfähig
+                    gegen Feuchtigkeit, hohe Temperaturen und hohe
+                    Luftfeuchtigkeit.
+                  </p>
                 </div>
-              );
-            })}
+
+                <div>
+                  <h2
+                    className="text-3xl font-semibold mb-5
+                    text-slate-900
+                    [font-family:'Playfair_Display',serif]"
+                  >
+                    Individuelle Gestaltung
+                  </h2>
+
+                  <p>
+                    Bei der Planung der Optik haben Sie die freie Auswahl.
+                    So können Sie in unzähligen Holzdekoren von allen
+                    namhaften Herstellern den zu Ihren Möbeln passenden
+                    Ton wählen. Viele Dekore zählen zur
+                    Standardpreiskategorie. Andere, sehr ausgefallene
+                    Dekore haben längere Lieferzeiten, werden extra
+                    angefertigt und haben dadurch einen Aufpreis.
+                  </p>
+                </div>
+
+                <div>
+                  <h2
+                    className="text-3xl font-semibold mb-5
+                    text-slate-900
+                    [font-family:'Playfair_Display',serif]"
+                  >
+                    Präzise Verarbeitung
+                  </h2>
+
+                  <p>
+                    Die 2mm starken ABS-Umleimer besitzen abgerundete
+                    Kanten und sorgen für eine besonders hochwertige
+                    Verarbeitung. Beim Plattenzuschnitt achten wir
+                    darauf, dass die Maserung beim Terrarium und
+                    Unterschrank optisch durchläuft und ein harmonisches
+                    Gesamtbild entsteht.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            {/* ================= RIGHT IMAGES ================= */}
+            <div className="space-y-8">
+
+              {/* LONG IMAGE */}
+              <div
+                className="overflow-hidden rounded-[36px]
+                shadow-[0_20px_60px_rgba(0,0,0,0.12)]"
+              >
+                <img
+                  src="/images/optik-banner.jpg"
+                  alt="Terrarium Optik"
+                  className="w-full h-[240px] md:h-[380px]
+                  object-cover"
+                />
+              </div>
+
+              {/* SECOND IMAGE */}
+              <div
+                className="overflow-hidden rounded-[36px]
+                shadow-[0_20px_60px_rgba(0,0,0,0.12)]"
+              >
+                <img
+                  src="/images/optik-detail.jpg"
+                  alt="Terrarium Details"
+                  className="w-full h-[240px] md:h-[420px]
+                  object-cover"
+                />
+              </div>
+
+            </div>
 
           </div>
 
+          {/* ================= CTA ================= */}
+          <div className="text-center mt-20">
+            <Link
+              to="/Calculator"
+              className="group inline-flex items-center gap-4
+              px-10 py-5 rounded-2xl
+              bg-[#00A86B] text-white
+              font-semibold text-lg
+              shadow-[0_15px_45px_rgba(0,168,107,0.25)]
+              transition-all duration-500
+              hover:scale-105 hover:bg-[#008f5a]"
+            >
+              Zum Terrarium Rechner
+
+              <ArrowRight
+                className="w-6 h-6
+                transition-transform duration-300
+                group-hover:translate-x-1"
+              />
+            </Link>
+          </div>
+
         </div>
-
       </section>
-
     </div>
   );
 }
