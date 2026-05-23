@@ -115,7 +115,7 @@ export function ProcessDetails() {
                 <img
                   src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778690503/9P_bmjmhp.jpg"
                   alt="Terrarium Optik"
-                  className="w-full h-[240px] md:h-[380px]
+                  className="w-full h-[500px] md:h-[380px]
                   object-cover"
                 />
               </div>
