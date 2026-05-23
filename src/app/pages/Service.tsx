@@ -1,12 +1,10 @@
 import { Link } from "react-router";
 import ProcessData from "./ProcessData.json";
-import ProcessDetails from "./ProcessDetails";
 
 export function Service() {
 
 return (
 
-```
 <div className="min-h-screen bg-white">
 
   {/* ================= HEADING ================= */}
@@ -68,7 +66,7 @@ return (
 
               {/* ================= IMAGE ================= */}
               <Link
-                to="/ProcessDetails"
+                to={`/prozess/${step.id}`}
                 className="group relative block"
               >
 
@@ -162,7 +160,7 @@ return (
   </section>
 
 </div>
-```
+
 
 );
 
