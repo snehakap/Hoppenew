@@ -203,7 +203,7 @@ export function ReptileDetails() {
                       src={image}
                       alt={`${reptile.title} ${index + 1}`}
                       className="w-full h-[450px] md:h-[700px]
-                      object-cover"
+                      object-contain bg-white"
                     />
 
                   </div>
