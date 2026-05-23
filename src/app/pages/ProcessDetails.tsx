@@ -546,6 +546,40 @@ Neben den hier gezeigten gibt es viele weitere Dekore, die aber nicht als fertig
               </div>
             </div>
           </div>
+          {/* ================= SPECIAL FINISHES SECTION ================= */}
+<div className="mt-32">
+  <div className="max-w-5xl">
+    <h2
+      className="text-3xl md:text-4xl font-semibold
+      text-slate-800 mb-10
+      [font-family:'Playfair_Display',serif]"
+    >
+      Hochglanz-Acryl, Echtholzfurnier, Spritzlackierung …
+    </h2>
+
+    <div
+      className="space-y-8 text-lg text-slate-600
+      leading-9
+      [font-family:'Poppins',sans-serif]"
+    >
+      <p>
+        Wenn Sie ein spezielles Dekor suchen, fragen Sie uns einfach
+        und wir schicken Ihnen eine Auswahl.
+      </p>
+
+      <p>
+        Wenn es mal etwas ganz Besonderes ein soll: Es sind auch
+        Ausführungen in Echtholzfurnier möglich oder Lösungen in
+        Acryl-Hochglanz – eine Optik wie Klavierlack.
+      </p>
+
+      <p>
+        Ebenso können wir das fertige Möbelstück auch in jedem
+        Farbton spritzlackieren.
+      </p>
+    </div>
+  </div>
+</div>
         </div>
       </section>
 
