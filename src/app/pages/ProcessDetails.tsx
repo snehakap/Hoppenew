@@ -306,9 +306,7 @@ export function ProcessDetails() {
               </div>
             </div>
           </div>
-        </div>
-      </section>
-      
+        
       {/* ================= Uni-Dekore SECTION ================= */}
           <div className="mt-28">
             <div className="max-w-5xl">
