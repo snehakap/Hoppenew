@@ -210,59 +210,61 @@ export function ProcessDetails() {
       </section>
 
       {/* ================= IMAGE MODAL ================= */}
-      {selectedImage && (
-        <div
-          className="fixed inset-0 z-50
-          bg-black/80 backdrop-blur-sm
-          flex items-center justify-center
-          p-6"
-          onClick={() => setSelectedImage(null)}
-        >
-          <div
-            className="relative flex justify-center"
-            onClick={(e) => e.stopPropagation()}
-          >
-            {/* ================= CLOSE BUTTON ================= */}
-            <button
-              onClick={() => setSelectedImage(null)}
-              className="absolute -top-14 right-0
-              text-white text-5xl font-light
-              hover:opacity-70 transition-opacity"
-            >
-              ×
-            </button>
+{selectedImage && (
+  <div
+    className="fixed inset-0 z-50
+    bg-black/75 backdrop-blur-sm
+    flex items-center justify-center
+    p-6"
+    onClick={() => setSelectedImage(null)}
+  >
+    <div
+      className="relative flex flex-col items-center"
+      onClick={(e) => e.stopPropagation()}
+    >
+      {/* ================= CLOSE BUTTON ================= */}
+      <button
+        onClick={() => setSelectedImage(null)}
+        className="absolute -top-16 right-0
+        text-white text-5xl font-light
+        hover:opacity-70 transition-opacity z-10"
+      >
+        ×
+      </button>
 
-            {/* ================= LARGE IMAGE ================= */}
-<div
-  className="flex items-center justify-center
-  bg-white rounded-3xl p-8"
->
-  <img
-    src={selectedImage.image}
-    alt={selectedImage.name}
-    className="
-      h-[900px]
-      w-auto
-      object-contain
-      rounded-2xl
-      shadow-[0_25px_80px_rgba(0,0,0,0.25)]
-    "
-    style={{
-      imageRendering: "auto",
-    }}
-  />
-</div>
+      {/* ================= IMAGE CONTAINER ================= */}
+      <div
+        className="
+        bg-white
+        rounded-sm
+        overflow-hidden
+        shadow-[0_35px_120px_rgba(0,0,0,0.45)]
+        "
+      >
+        <img
+          src={selectedImage.image}
+          alt={selectedImage.name}
+          className="
+            h-[92vh]
+            w-auto
+            max-w-none
+            object-contain
+            block
+          "
+        />
+      </div>
 
-            {/* ================= IMAGE TITLE ================= */}
-            <p
-              className="text-center text-white mt-6
-              text-lg [font-family:'Poppins',sans-serif]"
-            >
-              {selectedImage.name}
-            </p>
-          </div>
-        </div>
-      )}
+      {/* ================= TITLE ================= */}
+      <p
+        className="text-white text-lg mt-6
+        tracking-wide
+        [font-family:'Poppins',sans-serif]"
+      >
+        {selectedImage.name}
+      </p>
+    </div>
+  </div>
+)}
     </div>
   );
 }
