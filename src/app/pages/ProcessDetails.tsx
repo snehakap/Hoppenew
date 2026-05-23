@@ -131,6 +131,16 @@ export function ProcessDetails() {
       name: "Eiche Gladstone sandbeige",
       image:
         "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574982/Eiche-Gladstone-sandbeige-H3309-ST28_zahk2b.jpg",
+    },
+    {
+      name: "Eiche Gladstone tabak",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574981/Eiche-Gladstone-tabak-H3325-ST28_bylano.jpg",
+    },
+    {
+      name: "Eiche Halifax natur",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574981/Eiche-Halifax-natur-H1180-ST37_wpzmeb.jpg",
     }
 ];
   
@@ -324,7 +334,9 @@ export function ProcessDetails() {
                 [font-family:'Poppins',sans-serif]"
               >
                 <p>
-                  Neben den Holzdekoren bieten wir natürlich auch Uni-Töne (gelb, rot, grün, blau etc.) und viele Grauabstufungen.
+                  Neben den Holzdekoren bieten wir selbstverständlich auch eine große Auswahl an Uni-Dekoren in verschiedenen Farben wie Gelb, Rot, Grün oder Blau sowie zahlreiche Grauabstufungen – ergänzt durch klassisches Schwarz und Weiß.
+
+Viele Dekore sind zudem mit unterschiedlichen Oberflächen erhältlich: von supermatten Ausführungen über edlen Seidenglanz bis hin zu fühlbaren Maserungen oder feinen Miniperlstrukturen.
                 </p>
 
               </div>
