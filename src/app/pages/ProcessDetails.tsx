@@ -277,12 +277,12 @@ export function ProcessDetails() {
     rounded-full
     bg-black/70 backdrop-blur-md
     flex items-center justify-center
-    text-white text-3xl
+    text-white
     transition-all duration-300
     hover:bg-black hover:scale-110
   "
 >
-  ×
+  <span className="text-5xl leading-none -mt-1">×</span>
 </button>
 
       {/* ================= IMAGE CONTAINER ================= */}
