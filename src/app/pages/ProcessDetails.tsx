@@ -219,7 +219,7 @@ export function ProcessDetails() {
           onClick={() => setSelectedImage(null)}
         >
           <div
-            className="relative w-auto max-w-5xl"
+            className="relative flex justify-center"
             onClick={(e) => e.stopPropagation()}
           >
             {/* ================= CLOSE BUTTON ================= */}
@@ -234,15 +234,22 @@ export function ProcessDetails() {
 
             {/* ================= LARGE IMAGE ================= */}
 <div
-  className="w-full h-[650px]
-  bg-white rounded-3xl overflow-hidden
-  flex items-center justify-center"
+  className="flex items-center justify-center
+  bg-white rounded-3xl p-8"
 >
   <img
     src={selectedImage.image}
     alt={selectedImage.name}
-    className="h-full w-auto
-    object-cover"
+    className="
+      h-[900px]
+      w-auto
+      object-contain
+      rounded-2xl
+      shadow-[0_25px_80px_rgba(0,0,0,0.25)]
+    "
+    style={{
+      imageRendering: "auto",
+    }}
   />
 </div>
 
