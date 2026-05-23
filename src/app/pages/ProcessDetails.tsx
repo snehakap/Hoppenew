@@ -15,23 +15,69 @@ export function ProcessDetails() {
     {
       name: "Akazie Hell Lakeland",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779572718/Akazie-hell-Lakeland-H1277-ST9_ahlkg5.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574445/Akazie-hell-Lakeland-H1277-ST9_i8w3xo.jpg",
     },
     {
       name: "Berglärche Anthrazit",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779572750/Bergla%CC%88rche-anthrazit-H3406-ST38-150x150_qdfr3y.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574444/Bergla%CC%88rche-anthrazit-H3406-ST38_re0gld.jpg",
     },
     {
       name: "Coco Bolo Natur",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779572767/Coco-Bolo-natur-H3012-ST22-150x150_jlm8d2.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574442/Coco-Bolo-natur-H3012-ST22_piz0d7.jpg",
     },
     {
       name: "Berglärche Thermobraun",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779572757/Bergla%CC%88rche-thermobraun-H3408-ST38-150x150_rtuwxd.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574443/Bergla%CC%88rche-thermobraun-H3408-ST38_ksnhma.jpg",
     },
+    {
+      name: "Eiche Bardolino natur",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574443/Bergla%CC%88rche-thermobraun-H3408-ST38_ksnhma.jpg",
+    },{
+      name: "Eiche Charleston dunkelbraun",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574440/Eiche-Charleston-dunkelbraun-H3154-ST36_l8gv3t.jpg",
+    },{
+      name: "Eiche Corbridge natur",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574440/Eiche-Corbridge-natur-H3395-ST9_ncptx0.jpg",
+    },{
+      name: "Eiche Davos natur",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574438/Eiche-Davos-natur-H3131-ST12_lfqonf.jpg",
+    },{
+      name: "Eiche Denver trüffelbraun",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574438/Eiche-Denver-tru%CC%88ffelbraun-H1399-ST10_lhiblk.jpg",
+    },
+    {
+      name: "Eiche Gladstone sandbeige",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574982/Eiche-Gladstone-sandbeige-H3309-ST28_zahk2b.jpg",
+    },
+    {
+      name: "Eiche Gladstone greige",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574983/Eiche-Gladstone-greige-H3326-ST28_aygvgd.jpg",
+    },
+    {
+      name: "Eiche Gladstone weiss",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574982/Eiche-Gladstone-weiss-H3335-ST28_e5tvyr.jpg",
+    },
+    {
+      name: "Eiche Gladstone tabak",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574981/Eiche-Gladstone-tabak-H3325-ST28_bylano.jpg",
+    },
+    {
+      name: "Eiche Halifax natur",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574981/Eiche-Halifax-natur-H1180-ST37_wpzmeb.jpg",
+    }
   ];
 
   return (
