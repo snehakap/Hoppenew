@@ -219,7 +219,7 @@ export function ProcessDetails() {
           onClick={() => setSelectedImage(null)}
         >
           <div
-            className="relative max-w-4xl w-full"
+            className="relative w-auto max-w-5xl"
             onClick={(e) => e.stopPropagation()}
           >
             {/* ================= CLOSE BUTTON ================= */}
@@ -233,12 +233,18 @@ export function ProcessDetails() {
             </button>
 
             {/* ================= LARGE IMAGE ================= */}
-            <img
-              src={selectedImage.image}
-              alt={selectedImage.name}
-              className="w-full max-h-[85vh]
-              object-contain rounded-3xl"
-            />
+<div
+  className="w-full h-[650px]
+  bg-white rounded-3xl overflow-hidden
+  flex items-center justify-center"
+>
+  <img
+    src={selectedImage.image}
+    alt={selectedImage.name}
+    className="h-full w-auto
+    object-cover"
+  />
+</div>
 
             {/* ================= IMAGE TITLE ================= */}
             <p
