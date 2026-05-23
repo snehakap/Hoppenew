@@ -269,14 +269,21 @@ export function ProcessDetails() {
       onClick={(e) => e.stopPropagation()}
     >
       {/* ================= CLOSE BUTTON ================= */}
-      <button
-        onClick={() => setSelectedImage(null)}
-        className="absolute -top-16 right-0
-        text-white text-5xl font-light
-        hover:opacity-70 transition-opacity z-10"
-      >
-        ×
-      </button>
+<button
+  onClick={() => setSelectedImage(null)}
+  className="
+    absolute top-4 right-4 z-20
+    w-14 h-14
+    rounded-full
+    bg-black/70 backdrop-blur-md
+    flex items-center justify-center
+    text-white text-3xl
+    transition-all duration-300
+    hover:bg-black hover:scale-110
+  "
+>
+  ×
+</button>
 
       {/* ================= IMAGE CONTAINER ================= */}
       <div
