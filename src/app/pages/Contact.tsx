@@ -171,7 +171,7 @@ export function Contact() {
       </section>
 
       {/* ================= CALCULATOR CTA ================= */}
-      <section className="pb-28">
+      <section className="pb-28" bg-white>
         <div className="max-w-5xl mx-auto px-6 lg:px-8">
           <div
             className="relative overflow-hidden rounded-[40px]
