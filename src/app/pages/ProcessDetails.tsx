@@ -62,15 +62,6 @@ return (
           {/* ================= TEXT ================= */}
           <div>
 
-            <h2
-              className="text-4xl md:text-5xl
-              font-semibold text-slate-900
-              leading-tight mb-10
-              [font-family:'Playfair_Display',serif]"
-            >
-              Die äußere Optik unserer Terrarien
-            </h2>
-
             <div
               className="space-y-8 text-lg text-slate-600
               leading-9
@@ -121,7 +112,7 @@ return (
             <img
               src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779569457/Alu-Glaseinfassung-pc1b9pkd73ftyxtr1degflgjhw4t1ha1s1hi4o654o_anulnw.jpg"
               alt="Terrarium Details"
-              className="w-full h-[320px] object-cover"
+              className="w-full h-[520px] object-cover"
             />
 
           </div>
