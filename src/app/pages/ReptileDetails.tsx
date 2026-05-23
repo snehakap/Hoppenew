@@ -186,24 +186,26 @@ export function ReptileDetails() {
 
               {/* IMAGES */}
               <div
-                ref={scrollRef}
-                className="flex overflow-hidden
-                rounded-[32px]
-                shadow-[0_20px_60px_rgba(0,0,0,0.15)]"
-              >
+  ref={scrollRef}
+  className="flex overflow-x-hidden overflow-y-visible
+  rounded-[32px]
+  bg-white
+  shadow-[0_20px_60px_rgba(0,0,0,0.15)]"
+>
 
                 {reptile.images.map((image, index) => (
 
                   <div
-                    key={index}
-                    className="min-w-full flex-shrink-0"
-                  >
+  key={index}
+  className="min-w-full flex-shrink-0
+  flex items-center justify-center"
+>
 
                     <img
   src={image}
   alt={`${reptile.title} ${index + 1}`}
-  className="w-full max-h-[700px]
-  object-contain bg-white"
+  className="w-full h-auto
+  object-contain rounded-[32px]"
 />
 
                   </div>
