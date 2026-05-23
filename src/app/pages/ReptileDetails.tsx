@@ -206,7 +206,7 @@ export function ReptileDetails() {
   alt={`${reptile.title} ${index + 1}`}
   className="
 w-full
-h-[300px] sm:h-[350px] md:h-auto
+h-[270px] sm:h-[350px] md:h-auto
 object-contain
 rounded-[32px]
 bg-white
