@@ -272,7 +272,7 @@ export function ProcessDetails() {
 <button
   onClick={() => setSelectedImage(null)}
   className="
-    absolute top-4 right-4 z-20
+    absolute top-6 right-4 z-20
     w-14 h-14
     rounded-full
     bg-black/70 backdrop-blur-md
