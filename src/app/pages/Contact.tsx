@@ -6,7 +6,7 @@ Clock,
 ArrowRight,
 } from "lucide-react";
 
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 
 export function Contact() {
 return ( <div className="min-h-screen bg-white">
@@ -169,8 +169,7 @@ return ( <div className="min-h-screen bg-white">
 
               <a
                 href="mailto:info@hoppe-terrarienbau.de"
-                className="text-lg text-slate-700 break-all
-                hover:text-[#00A86B] transition-colors"
+                className="text-lg text-slate-700 break-all hover:text-[#00A86B] transition-colors"
               >
                 info@hoppe-terrarienbau.de
               </a>
@@ -183,8 +182,7 @@ return ( <div className="min-h-screen bg-white">
 
               <a
                 href="mailto:vertrieb@hoppe-terrarienbau.de"
-                className="text-lg text-slate-700 break-all
-                hover:text-[#00A86B] transition-colors"
+                className="text-lg text-slate-700 break-all hover:text-[#00A86B] transition-colors"
               >
                 vertrieb@hoppe-terrarienbau.de
               </a>
@@ -286,14 +284,12 @@ return ( <div className="min-h-screen bg-white">
             transition-all duration-500
             hover:scale-105 hover:bg-slate-100"
           >
-
             Zum Terrarium Rechner
 
             <ArrowRight
               className="w-6 h-6 transition-transform duration-300
               group-hover:translate-x-1"
             />
-
           </Link>
 
         </div>
