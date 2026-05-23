@@ -1,7 +1,7 @@
 import { ArrowRight } from "lucide-react";
 import { Link } from "react-router";
 
-export function Optik() {
+export function ProcessDetails() {
   return (
     <div className="min-h-screen bg-white">
       {/* ================= HERO SECTION ================= */}
