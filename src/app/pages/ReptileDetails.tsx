@@ -204,8 +204,13 @@ export function ReptileDetails() {
                     <img
   src={image}
   alt={`${reptile.title} ${index + 1}`}
-  className="w-full h-auto
-  object-contain rounded-[32px]"
+  className="
+w-full
+h-[260px] sm:h-[350px] md:h-auto
+object-contain
+rounded-[32px]
+bg-white
+"
 />
 
                   </div>
