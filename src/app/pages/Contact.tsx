@@ -6,7 +6,7 @@ Clock,
 ArrowRight,
 } from "lucide-react";
 
-import { Link } from "react-router-dom";
+import { Link } from "react-router";
 
 export function Contact() {
 return ( <div className="min-h-screen bg-white">
