@@ -113,7 +113,7 @@ export function ProcessDetails() {
                 shadow-[0_20px_60px_rgba(0,0,0,0.12)]"
               >
                 <img
-                  src="/images/optik-banner.jpg"
+                  src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778690503/9P_bmjmhp.jpg"
                   alt="Terrarium Optik"
                   className="w-full h-[240px] md:h-[380px]
                   object-cover"
@@ -126,7 +126,7 @@ export function ProcessDetails() {
                 shadow-[0_20px_60px_rgba(0,0,0,0.12)]"
               >
                 <img
-                  src="/images/optik-detail.jpg"
+                  src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779569457/Alu-Glaseinfassung-pc1b9pkd73ftyxtr1degflgjhw4t1ha1s1hi4o654o_anulnw.jpg"
                   alt="Terrarium Details"
                   className="w-full h-[240px] md:h-[420px]
                   object-cover"
