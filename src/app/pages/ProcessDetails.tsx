@@ -271,10 +271,11 @@ export function ProcessDetails() {
         "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622716/Steingrau-U727-ST9_higism.jpg",
     },
     {
-      name: "Staubgrau",
-      image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622716/Staubgrau-U732-ST9_nychzs.jpg,
-    },{
+  name: "Staubgrau",
+  image:
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622716/Staubgrau-U732-ST9_nychzs.jpg",
+}
+    ,{
       name: "Taupe dunkel",
       image:
         "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622715/Taupe-Dunkel-U740-ST9_iuaqun.jpg",
