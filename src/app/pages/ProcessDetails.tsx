@@ -248,12 +248,12 @@ export function ProcessDetails() {
     {
       name: "Alabasterweiss",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574237/Ahorn-Mandal-natur-H3840-ST9_wlqlid.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622717/Alabasterweiss-U104-ST9_eh222h.jpg",
     },
     {
       name: "Hellgrau",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574445/Akazie-hell-Lakeland-H1277-ST9_i8w3xo.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622717/Hellgrau-U708-ST9_lmccdb.jpg",
     },
     {
       name: "Kaschmirgrau",
@@ -263,38 +263,38 @@ export function ProcessDetails() {
     {
       name: "Kieselgrau",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574442/Coco-Bolo-natur-H3012-ST22_piz0d7.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622717/Hellgrau-U708-ST9_lmccdb.jpg",
     },
     {
       name: "Steingrau",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574443/Bergla%CC%88rche-thermobraun-H3408-ST38_ksnhma.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622716/Steingrau-U727-ST9_higism.jpg",
     },
     {
       name: "Staubgrau",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574443/Bergla%CC%88rche-thermobraun-H3408-ST38_ksnhma.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622716/Staubgrau-U732-ST9_nychzs.jpg,
     },{
       name: "Taupe dunkel",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574440/Eiche-Charleston-dunkelbraun-H3154-ST36_l8gv3t.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622715/Taupe-Dunkel-U740-ST9_iuaqun.jpg",
     },{
       name: "Onyxgrau",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574440/Eiche-Corbridge-natur-H3395-ST9_ncptx0.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622716/Onyxgrau-U960-ST9_oqcpbo.jpg",
     },{
       name: "Diamantgrau",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574438/Eiche-Davos-natur-H3131-ST12_lfqonf.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622716/Diamantgrau-U963-ST9_kafkhq.jpg",
     },{
       name: "Lavagrau",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574438/Eiche-Denver-tru%CC%88ffelbraun-H1399-ST10_lhiblk.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622715/Lavagrau-U741-ST9_lcwoqu.jpg",
     },
     {
       name: "Softschwarz",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574982/Eiche-Gladstone-sandbeige-H3309-ST28_zahk2b.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622717/Softschwarz-U899-ST9_kayxys.jpg",
     },
     {
       name: "Topweiß",
