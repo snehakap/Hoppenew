@@ -12,7 +12,7 @@ export function Footer() {
   ];
 
   return (
-    <footer className="hidden md:block bg-slate-900 text-slate-300">
+    <footer className="hidden md:block bg-[#00A86B] text-white">
       <div className="max-w-7xl mx-auto px-6 lg:px-8 py-12">
         
         {/* Main Layout */}
@@ -26,8 +26,8 @@ export function Footer() {
             </h2>
 
             <ul className="space-y-2 text-sm text-slate-400">
-              <li>Email: info@hoppe-terrarienbau.de</li>
-              <li>Phone: 00 49 178 8585416</li>
+              <li>E-mail: info@hoppe-terrarienbau.de</li>
+              <li>Telefon: 00 49 178 8585416</li>
               <li>Gewerbering 11,
                  47661 Issum</li>
             </ul>
