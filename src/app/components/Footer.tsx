@@ -25,7 +25,7 @@ export function Footer() {
               Hoppe Terrarienbau
             </h2>
 
-            <ul className="space-y-2 text-sm text-slate-400">
+            <ul className="space-y-2 text-sm text-white/90">
               <li>E-mail: info@hoppe-terrarienbau.de</li>
               <li>Telefon: 00 49 178 8585416</li>
               <li>Gewerbering 11,
