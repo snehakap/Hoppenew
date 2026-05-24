@@ -11,14 +11,7 @@
       "reptilien": "Kornnatter – Pantherophis guttatus",
       "maßeTerrariumBTH": "150x60x120 cm",
       "unterschrankHöhe": "50 cm",
-      "dekor": [
-        "weiß mit Miniperloberfläche",
-        "Holzdekor",
-        "Steinoptikoberflächen",
-        "Betonoptik",
-        "Metallic-Optik",
-        "Uni-Farben"
-      ],
+      "dekor": "weiß mit Miniperloberfläche",
       "schiebescheiben": "4mm Floatglas mit polierten Kanten in Doppel-U-Profilen",
       "beleuchtung": [
         "2 Bright Sun Jungle 50W incl. EVG",
@@ -170,5 +163,95 @@
         ]
       }
     }
+  },
+  {
+  "id": 3,
+  "title": "Regenwaldterrarium um eine Zimmerecke herum gebaut",
+  "description": "Großes Regenwaldterrarium über Eck gebaut – ausschließlich für Pflanzen (ohne Reptilien). Ausgestattet mit LED-Beleuchtung, Beregnungsanlage, Luftbefeuchter, Sonnenauf- und Untergangssteuerung, Mondlichtfunktion sowie hochwertiger Belüftung und unsichtbarer Innenverkleidung.",
+  "images": [],
+  "technicalDetails": {
+    "terrarium": "Regenwald",
+    "reptilien": "nur Pflanzen (ohne Reptilien)",
+    "terratyp": "R03",
+    "maßeTerrariumBTH": "lt. Skizze, Gesamthöhe 155 cm inkl. 25 cm Lichtkasten",
+    "unterschrankHöhe": "60 cm",
+    "unterschrank": [
+      "10 cm höhenverstellbare Füße",
+      "10 cm hohe Bodenblende",
+      "Push-to-open (Tip-on) System"
+    ],
+    "dekor": [
+      "Eiche-Halifax-Zinn",
+      "Holzdekor",
+      "Steinoptikoberflächen",
+      "Betonoptik",
+      "Metallic-Optik",
+      "Uni-Farben"
+    ],
+    "schiebescheiben": "2x Schiebescheiben in 6mm Glas mit Laufschuhsystem auf Rollen ohne Schloss, polierte Kanten",
+    "beleuchtung": [
+      "4x LED-Leisten Tageslichtfarben 100 cm",
+      "2x LED-Leisten Tageslichtfarben 50 cm",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "große Gazefläche in der Lichtdecke",
+      "Terrarium mit Deckel",
+      "3x senkrechte Lüftungsrosetten in der Frontlüftung",
+      "Lüfterset mit 2 Ventilatoren",
+      "12 cm Ø Ventilatoren",
+      "Trafo und elektronische Zeitschaltuhr"
+    ],
+    "besonderheiten": [
+      "unsichtbare Innenverkleidung aus Kunststoff",
+      "eingebauter Luftbefeuchter",
+      "Humidity Control II",
+      "Display im Alu-Rahmen integriert",
+      "Fühler im Leerrohr an der Rückwand",
+      "programmierbarer Sonnenauf- und Sonnenuntergang",
+      "Mondlichtfunktion"
+    ],
+    "felslandschaft": [
+      "kundenseitig selbst gebaut"
+    ],
+    "beregnungsanlage": [
+      "5 Düsen",
+      "flüsterleise Anlage",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "verkabelungsset": [
+      "2x 3er Sammelsteckdosen",
+      "2 digitale Zeitschaltuhren",
+      "6-er Sammelsteckdose",
+      "Verlängerungskabel",
+      "nur 1 Kabelausgang aus dem Lichtkasten",
+      "Verkabelung zum Lichtkasten",
+      "Sammelsteckdosen im Unterschrank"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "Dimmung der Wärmespots",
+        "frei einstellbare Startzeit",
+        "1 Stunde Dimmungsdauer",
+        "rötlicher Sonnenaufgang",
+        "rötlicher Sonnenuntergang",
+        "bläuliches Mondlicht",
+        "frei programmierbar per App",
+        "Programmiereinheit",
+        "2x 100 cm LED-Leiste",
+        "1x 50 cm LED-Leiste"
+      ]
+    },
+    "technik": [
+      "Humidity Control II"
+    ],
+    "anlieferung": {
+      "art": "Lieferung in Einzelteilen mit Auf- und Zusammenbau",
+      "ort": "Dresden"
+    }
   }
+}
 ]
