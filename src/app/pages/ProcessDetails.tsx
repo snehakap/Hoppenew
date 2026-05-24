@@ -400,7 +400,7 @@ const steinoptikDecors = [
                 <img
                   src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778690503/9P_bmjmhp.jpg"
                   alt="Terrarium Möbelbau"
-                  className="w-full h-[950px] object-cover"
+                  className="w-full h-[420px] md:h-[950px] object-cover"
                 />
               </div>
             </div>
@@ -456,7 +456,7 @@ const steinoptikDecors = [
                 <img
                   src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779569457/Alu-Glaseinfassung-pc1b9pkd73ftyxtr1degflgjhw4t1ha1s1hi4o654o_anulnw.jpg"
                   alt="Terrarium Details"
-                  className="w-full h-[520px] object-cover"
+                  className="w-full h-[300px] md:h-[520px] object-cover"
                 />
               </div>
             </div>
