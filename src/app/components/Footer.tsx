@@ -55,7 +55,7 @@ export function Footer() {
         </div>
 
         {/* Bottom */}
-        <div className="border-t border-slate-700 mt-10 pt-6 flex flex-col md:flex-row justify-between items-center text-sm text-slate-400">
+        <div className="border-t border-white/20 mt-10 pt-6 flex flex-col md:flex-row justify-between items-center text-sm text-white/80">
           <p>© {new Date().getFullYear()} Hoppe Terrarienbau. All rights reserved.</p>
 
           <div className="flex space-x-6 mt-4 md:mt-0">
