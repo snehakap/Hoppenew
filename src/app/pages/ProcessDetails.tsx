@@ -106,141 +106,141 @@ export function ProcessDetails() {
     {
       name: "Eiche Kaisersberg",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629050/Eiche-Kaisersberg-H3349-ST19_mnnwer.jpg",
     },{
       name: "Eiche Kendal geölt",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629050/Eiche-Kendal-geo%CC%88lt-H3171-ST9_yvnjmj.jpg,
     },
     {
       name: "Eiche Kendal cognac",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629050/Eiche-Kendal-cognac-H3398-ST9_gqfanx.jpg",
     },
     {
       name: "Eiche Kendal natur",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629049/Eiche-Kendal-natur-H3170-ST9_i7fphv.jpg",
     },
     {
       name: "Eiche Lorenzo beigegrau",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629048/Eiche-Lorenzo-beigegrau-H3146-ST19_qtfx3r.jpg",
     },
     {
       name: "Eiche Nebraska grau",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629048/Eiche-Nebraska-grau-H3332-ST10_hewviw.jpg",
     },
     {
       name: "Eiche Nebraska natur",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629048/Eiche-Nebraska-natur-H3331-ST10_gz8o3h.jpg",
     },
     {
       name: "Eiche Orleans braun",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629047/Eiche-Orleans-braun-H1379-ST36_zxo3wp.jpg",
     },
     {
       name: "Eiche Orleans sandbeige",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629047/Eiche-Orleans-sandbeige-H1377-ST36_hpw8mu.jpg",
     },
     {
       name: "Eiche Santa Fe vintage",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629046/Eiche-Santa-Fe-vintage-H1330-ST10_k5y9kb.jpg",
     },
     {
       name: "Eiche Sherman anthrazit",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629045/Eiche-Sherman-anthrazit-H1346-ST32_j7f1oy.jpg",
     },
     {
       name: "Eiche Sherman cognacbraun",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629045/Eiche-Sherman-cognacbraun-H1344-ST32_l6emib.jpg",
     },
     {
       name: "Eiche Vicenza",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629049/Eiche-Vicenza-H3157-ST9_rghowk.jpg",
     },
     {
       name: "Eiche Whiteriver graubraun",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629047/Eiche-Whiteriver-graubraun-H1313-ST10_qtyjqk.jpg",
     },
     {
       name: "Esche Navarra",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629047/Esche-Navarra-H1250-ST36_dqvnot.jpg",
     },
     {
       name: "Fichte Astfichte natur",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629047/Fichte-Astfichte-natur-H3470-ST22_gdv9uq.jpg",
     },
     {
       name: "Hickory natur",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629048/Hickory-natur-H3730-ST10_ecnucp.jpg",
     },
     {
       name: "Hard Maple champagne",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629048/Hard-Maple-champagne-H3860-ST9_rwqcfn.jpg",
     },
     {
       name: "Kentucky Chestnut sand",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629047/Kentucky-Chestnut-sand-H1710-ST10_palbzz.jpg",
     },
     {
       name: "Kirschbaum Locarno",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629046/Kirschbaum-Locarno-H1636-ST9_gqjhhl.jpg",
     },
     {
       name: "Nussbaum Lincoln",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629046/Nussbaum-Lincoln-H1714-ST10_blkhn1.jpg",
     },
     {
       name: "Nussbaum Dijon natur",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629046/Nussbaum-Dijon-natur-H3734-ST9_ecfkmc.jpg",
     },
     {
       name: "Nussbaum Pacific natur",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629046/Nussbaum-Pacific-natur-H3700-ST10_zzqzxp.jpg",
     },
     {
       name: "Nussbaum tabak Pacific",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629046/Nussbaum-tabak-Pacific-H3702-ST10_zvolvc.jpg",
     },
     {
       name: "Pinie Cascina",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629046/Pinie-Cascina-H1401-ST22_binp9e.jpg",
     },
     {
       name: "Pinie polar Aland",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629045/Pinie-polar-Aland-H3433-ST22_o5xwnl.jpg",
     },
     {
       name: "Pinie weiss Aland",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629045/Pinie-weiss-Aland-H3430-ST22_aggune.jpg",
     },
     {
       name: "Wildeiche natur",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629045/Wildeiche-natur-H1318-ST10_zzuja8.jpg",
     }
   ];
 
