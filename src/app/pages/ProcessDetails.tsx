@@ -400,7 +400,7 @@ const steinoptikDecors = [
                 <img
                   src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778690503/9P_bmjmhp.jpg"
                   alt="Terrarium Möbelbau"
-                  className="w-full h-[420px] md:h-[950px] object-cover"
+                  className="w-full h-[600px] md:h-[950px] object-cover"
                 />
               </div>
             </div>
