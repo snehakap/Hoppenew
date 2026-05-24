@@ -68,7 +68,6 @@
     "title": "Regenwald-Terrarium für ein Chamäleon",
     "description": "Hochwertiges Regenwald-Terrarium für ein Panther-Chamäleon (Furcifer pardalis). Ausgestattet mit leistungsstarker Beleuchtung, Beregnungsanlage, Klima- und Luftsteuerung, Granitfels-Jungle-Optik, echten Pflanzen sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
     "images": [
-      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778530129/Totale-im-Zimmer-diagonal_l51uwl.jpg",
       "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778530129/Totale-im-Zimmer-diagonal_l51uwl.jpg"
     ],
     "technicalDetails": {
@@ -168,7 +167,7 @@
   "id": 3,
   "title": "Regenwaldterrarium um eine Zimmerecke herum gebaut",
   "description": "Großes Regenwaldterrarium über Eck gebaut – ausschließlich für Pflanzen (ohne Reptilien). Ausgestattet mit LED-Beleuchtung, Beregnungsanlage, Luftbefeuchter, Sonnenauf- und Untergangssteuerung, Mondlichtfunktion sowie hochwertiger Belüftung und unsichtbarer Innenverkleidung.",
-  "images": [],
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779642403/Totale-diagonal-m.-Scheiben-882x1024_aucxrr.jpg"],
   "technicalDetails": {
     "terrarium": "Regenwald",
     "reptilien": "nur Pflanzen (ohne Reptilien)",
@@ -251,6 +250,542 @@
     "anlieferung": {
       "art": "Lieferung in Einzelteilen mit Auf- und Zusammenbau",
       "ort": "Dresden"
+    }
+  }
+},
+  {
+  "id": 4,
+  "title": "Terrarium für ein Panther-Chamäleon",
+  "description": "Hochwertiges Regenwald-Terrarium für ein Panther-Chamäleon (Furcifer pardalis) mit Granitfels-Jungle-Optik, integrierter Beregnungsanlage, Klima- und Luftsteuerung, Pflanzen-Set sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779642404/Totale-seitlich-1_ltgvgv.jpg"],
+  "technicalDetails": {
+    "terrarium": "Regenwald",
+    "reptilien": "Panther-Chamäleon – Furcifer pardalis",
+    "maßeTerrariumBTH": "110x60x175 cm",
+    "lichtkastenHöhe": "25 cm",
+    "unterschrankHöhe": "50 cm",
+    "unterschrank": [
+      "Tip-on-System (Push-to-open)"
+    ],
+    "dekor": [
+      "Eiche-Halifax-Zinn",
+      "Holzdekor",
+      "Steinoptikoberflächen",
+      "Betonoptik",
+      "Metallic-Optik",
+      "Uni-Farben"
+    ],
+    "schiebescheiben": "6mm Glas mit Laufschuhsystem auf Rollen incl. Schloss, polierte Kanten",
+    "beleuchtung": [
+      "2 Bright Sun Jungle Flood incl. EVG",
+      "umschaltbar 35W / 50W / 70W",
+      "2 Wärme-Licht-Spots",
+      "4 flach eingebaute Reflektoren mit Schutzgittern"
+    ],
+    "lüftung": [
+      "große Gazefläche in der Lichtdecke",
+      "Terrarium ohne sichtbaren Deckel",
+      "Frontlüftung mit Metall-Gaze im Alurahmen",
+      "2 Ventilatoren mit Trafo und elektronischer Zeitschaltuhr"
+    ],
+    "besonderheiten": [
+      "weiße Lichtdecke zur besseren Lichtreflektion",
+      "unsichtbare Innenverkleidung aus Kunststoff",
+      "integriertes Lüfterset",
+      "programmierbarer Sonnenauf- und Sonnenuntergang",
+      "Mondlichtfunktion"
+    ],
+    "felslandschaft": [
+      "Granitfels-Jungle-Optik",
+      "Felsen",
+      "Wurzeln",
+      "Korkelemente",
+      "Pflanzmulden für echte Pflanzen"
+    ],
+    "technik": [
+      "Thermocontrol Pro II",
+      "Humiditycontrol II"
+    ],
+    "beregnungsanlage": [
+      "3 Düsen",
+      "flüsterleise Anlage",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "verkabelungsset": [
+      "2x 3er Sammelsteckdosen",
+      "2 digitale Zeitschaltuhren",
+      "6-er Sammelsteckdose",
+      "Verlängerungskabel",
+      "Verkabelung zum Lichtkasten",
+      "Programmierung der Zeitschaltuhren"
+    ],
+    "pflanzenSet": [
+      "echte Regenwaldpflanzen",
+      "farbige Bromelien",
+      "Luftwurzeln",
+      "Farne",
+      "Hängepflanzen",
+      "Schlingpflanzen",
+      "Lianen",
+      "große Kletterwurzel",
+      "Korkeich-Kletteräste"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "Dimmung der Wärmespots",
+        "frei einstellbare Startzeit",
+        "1 Stunde Dimmungsdauer",
+        "rötlicher Sonnenaufgang",
+        "rötlicher Sonnenuntergang",
+        "bläuliches Mondlicht",
+        "frei programmierbar",
+        "Programmiereinheit",
+        "50 cm LED-Leiste"
+      ]
+    }
+  }
+},
+{
+  "id": 5,
+  "title": "Terrarium für eine Boa Imperator",
+  "description": "Großes Halbfeucht-/Waldterrarium für eine Boa Imperator mit Granitfels-Wald-Optik, integrierter Beregnungsanlage, hochwertiger Beleuchtung, Pflanzen-Set sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779642404/Totale-im-Zimmer_y5cffk.jpg"],
+  "technicalDetails": {
+    "terrarium": "Halbfeucht/Wald",
+    "reptilien": "Boa Imperator",
+    "maßeTerrariumBTH": "150x60x120 cm",
+    "unterschrankHöhe": "70 cm",
+    "dekor": [
+      "Egger Boston Concrete F283 ST22",
+      "Betondekor",
+      "weitere Holzdekore verfügbar"
+    ],
+    "schiebescheiben": "4mm Floatglas mit polierten Kanten in Doppel-U-Profilen",
+    "beleuchtung": [
+      "1 Bright Sun Jungle Flood 70W incl. EVG",
+      "2 Wärme-Licht-Spots",
+      "3 flach eingebaute Reflektoren mit Schutzgittern"
+    ],
+    "lüftung": [
+      "Gazefläche in der Lichtdecke",
+      "Lüftungen im Deckel",
+      "Frontlüftung mit Metall-Gaze im Alurahmen"
+    ],
+    "besonderheiten": [
+      "weiße Lichtdecke zur besseren Lichtreflektion",
+      "unsichtbare Innenverkleidung aus Kunststoff",
+      "höhenverstellbare Füße",
+      "Zuschlagdämpfersystem mit Griffen",
+      "programmierbarer Sonnenauf- und Sonnenuntergang",
+      "Mondlichtfunktion"
+    ],
+    "felslandschaft": [
+      "Granitfels-Wald-Optik",
+      "Felsen",
+      "Wurzeln",
+      "Korkelemente",
+      "2 große Sonnenplateaus",
+      "Höhlen als Unterschlupf",
+      "loser Stein am Boden"
+    ],
+    "technik": [
+      "Thermocontrol Pro II"
+    ],
+    "beregnungsanlage": [
+      "3 Düsen",
+      "flüsterleise Anlage",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "verkabelungsset": [
+      "Sammelsteckdosen",
+      "Zeitschaltuhr",
+      "6-er Sammelsteckdose",
+      "Verlängerungskabel",
+      "nur 1 Kabelausgang aus dem Lichtkasten",
+      "Verkabelung zum Lichtkasten",
+      "Sammelsteckdosen im Unterschrank"
+    ],
+    "pflanzenSet": [
+      "Gräser",
+      "Tillandsien",
+      "Bromelien",
+      "Luftwurzeln",
+      "Hängepflanzen",
+      "Schlingpflanzen",
+      "Lianen",
+      "große Kletterwurzel",
+      "Kletteräste"
+    ],
+    "bodengrund": "Coconut Bark Chips – 10x 1kg Packungen für 8l Kokos Einstreu",
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "Dimmung der Wärmespots",
+        "frei einstellbare Startzeit",
+        "1 Stunde Dimmungsdauer",
+        "rötlicher Sonnenaufgang",
+        "rötlicher Sonnenuntergang",
+        "bläuliches Mondlicht",
+        "frei programmierbar",
+        "Programmiereinheit",
+        "100 cm LED-Leiste"
+      ]
+    },
+    "anlieferung": {
+      "art": "versicherte Lieferung per Spedition",
+      "ort": "Luxemburg",
+      "inklusive": [
+        "Palette",
+        "Verpackungsmaterial",
+        "Verpackung"
+      ]
+    }
+  }
+},
+{
+  "id": 6,
+  "title": "Doppelstöckiges Wüstenterrarium für Leopardgecko und Bartagame",
+  "description": "Großes doppelstöckiges Wüstenterrarium für Bartagame und Leopardgeckos mit Sandsteinoptik, integrierter Beleuchtung, Festglaselementen sowie hochwertiger Verkabelung.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779642403/Totale-seitlich_c1e0w4.jpg"],
+  "technicalDetails": {
+    "terrarium": "Wüste/Steppe",
+    "reptilien": [
+      "Bartagame",
+      "Leopardgeckos"
+    ],
+    "terratyp": "Doppelstöcker",
+    "maßeTerrariumBTH": "je Terrarium 180x50x95 cm",
+    "lichtkastenHöhe": "18 cm",
+    "unterschrankHöhe": "30 cm",
+    "gesamthöhe": "220 cm",
+    "dekor": [
+      "schwarz mit Linienstruktur",
+      "weitere Holzdekore verfügbar"
+    ],
+    "schiebescheiben": "6mm Glas mit Laufschuhsystem auf Rollen incl. Schloss, polierte Kanten",
+    "beleuchtung": [
+      "weiße Lichtdecke zur besseren Lichtreflektion",
+      "weiße dreh- und kippbare Einbaustrahler",
+      "je Terrarium 4 Einbaustrahler"
+    ],
+    "lüftung": [
+      "weiße Lüftungen in der Lichtdecke",
+      "Kaminlüftung vorne waagerecht",
+      "Metall-Gaze Frontlüftung"
+    ],
+    "besonderheiten": [
+      "Festglaselemente auf beiden Seiten",
+      "Verkabelungsset incl. Verkabelung und Anschluss"
+    ],
+    "felslandschaft": [
+      "mehrfarbig besandet",
+      "Sandsteinfarben",
+      "Terracottastruktur"
+    ]
+  }
+},
+  {
+  "id": 7,
+  "title": "Terrarium für einen argentinischen Teju",
+  "description": "Großes Wüstenterrarium für einen argentinischen Teju mit Sandsteinoptik, hochwertiger Beleuchtung, integrierter Lüftung sowie professioneller Verkabelung und Lieferung mit Aufbau.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779642402/Totale-1-1024x768_owfsql.jpg"],
+  "technicalDetails": {
+    "terrarium": "Wüste/Steppe",
+    "reptilien": "Tupinambis merianae – Argentinischer Teju",
+    "maßeTerrariumBTH": "200x100x100 cm",
+    "lichtkastenHöhe": "18 cm",
+    "unterschrank": [
+      "kein Unterschrank",
+      "höhenverstellbare Füße"
+    ],
+    "dekor": [
+      "weiß Miniperl",
+      "weitere Holzdekore verfügbar"
+    ],
+    "schiebescheiben": "6mm Glas mit Laufschuhsystem auf Rollen incl. Schloss, polierte Kanten",
+    "beleuchtung": [
+      "weiße Lichtdecke zur besseren Lichtreflektion",
+      "6 weiße dreh- und kippbare Einbaustrahler incl. Einbau und Anschluss"
+    ],
+    "lüftung": [
+      "weiße Lüftungen in der Lichtdecke",
+      "Lüftungen im Deckel",
+      "Kaminlüftung vorne waagerecht",
+      "Metall-Gaze Frontlüftung"
+    ],
+    "besonderheiten": [
+      "30 cm hohe Bodenblende",
+      "kundenseitig ausgeführte Dekoration",
+      "kundenseitig ausgeführter Bodengrund"
+    ],
+    "felslandschaft": [
+      "mehrfarbig besandet",
+      "Sandsteinfarben",
+      "Terracottastrukturen"
+    ],
+    "verkabelungsset": [
+      "2x 3er Sammelsteckdosen",
+      "2 digitale Zeitschaltuhren",
+      "6-er Sammelsteckdose",
+      "Verlängerungskabel",
+      "nur 1 Kabelausgang aus dem Lichtkasten",
+      "Programmierung der Zeitschaltuhren"
+    ],
+    "anlieferung": {
+      "art": "eigene Anlieferung mit Aufbau und Inbetriebnahme",
+      "ort": "Ulm",
+      "inklusive": [
+        "Lieferung in mehreren Teilen",
+        "Zusammenbau",
+        "Inbetriebnahme",
+        "1 Übernachtung",
+        "Aufbau in der 2. Etage"
+      ]
+    }
+  }
+},
+  {
+  "id": 8,
+  "title": "Paludarium für Dendrobaten – Phyllobates vittatus",
+  "description": "Hochwertiges Paludarium für Phyllobates vittatus (Gestreifter Blattsteiger) mit Wasserfall, Bachlauf, epiphytischen Pflanzen, integrierter Klima- und Luftsteuerung sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779642403/Totale_hxixus.jpg"],
+  "technicalDetails": {
+    "terrarium": "Paludarium / Regenwald",
+    "reptilien": "Phyllobates vittatus – Gestreifter Blattsteiger",
+    "maßeTerrariumBTH": "90x50x100 cm",
+    "lichtkastenHöhe": "25 cm",
+    "unterschrankHöhe": "70 cm",
+    "unterschrank": [
+      "höhenverstellbare Füße",
+      "Push-to-open (Tip-on) System"
+    ],
+    "dekor": [
+      "Ahorn",
+      "weitere Holzdekore verfügbar"
+    ],
+    "schiebescheiben": "4mm Glas im Doppel-U-Profil mit Drosophiladichtung zwischen den Scheiben",
+    "beleuchtung": [
+      "2 Bright Sun Jungle 35W",
+      "1 Wärme-Licht-Spot",
+      "3 flach integrierte Reflektoren mit Schutzgittern",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "Frontlüftung mit Gazefläche im Alurahmen",
+      "große Gazefläche in der Lichtdecke",
+      "Lüfterset mit 2 Ventilatoren",
+      "12 cm Ø Ventilatoren",
+      "Trafo und elektronische Zeitschaltuhr"
+    ],
+    "besonderheiten": [
+      "unsichtbarer Ganzglaskern aus 6mm Floatglas",
+      "kleiner Wasserfall",
+      "Bachlauf",
+      "Wasserkanal mit ca. 6 cm Wasserstand",
+      "bemooste Flächen",
+      "epiphytisch aufgebundene Bromelien",
+      "programmierbarer Sonnenauf- und Sonnenuntergang",
+      "Mondlichtfunktion"
+    ],
+    "felslandschaft": [
+      "Granitfels-Jungle-Optik",
+      "Wurzeln",
+      "Lianen",
+      "Rankpflanzen",
+      "trockene Landbereiche"
+    ],
+    "technik": [
+      "Thermo-Control",
+      "Humidity-Control"
+    ],
+    "beregnungsanlage": [
+      "3 Düsen",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "wassertechnik": [
+      "Wasserfallpumpe mit Vorfilter"
+    ],
+    "verkabelungsset": [
+      "elektronische Zeitschaltuhr",
+      "Verkabelung und Anschluss integriert"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "Dimmung der Wärmespots",
+        "frei einstellbare Startzeit",
+        "1 Stunde Dimmungsdauer",
+        "rötlicher Sonnenaufgang",
+        "rötlicher Sonnenuntergang",
+        "bläuliches Mondlicht",
+        "frei programmierbar",
+        "Programmiereinheit",
+        "50 cm LED-Leiste"
+      ]
+    }
+  }
+},
+{
+  "id": 9,
+  "title": "Steppenterrarium für eine Bartagame – Pogona vitticeps",
+  "description": "Großes Steppenterrarium für Bartagamen mit Sandsteinoptik, hochwertiger Beleuchtung, Wüstenpflanzen-Set sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779642403/Terrarium-Zimmer-hf_vbeyid.jpg"],
+  "technicalDetails": {
+    "terrarium": "Wüste/Steppe",
+    "reptilien": [
+      "Bartagame – Pogona vitticeps",
+      "geeignet für Zwergbartagamen",
+      "geeignet für Dornschwanzagamen"
+    ],
+    "maßeTerrariumBTH": "160x70x100 cm",
+    "lichtkastenHöhe": "18 cm",
+    "unterschrankHöhe": "70 cm",
+    "unterschrank": [
+      "höhenverstellbare Füße",
+      "gebogene Griffe"
+    ],
+    "dekor": [
+      "Eiche Denver trüffelbraun",
+      "weitere Holzdekore verfügbar"
+    ],
+    "schiebescheiben": "6mm Glas mit Laufschuhsystem auf Rollen incl. Schloss, polierte Kanten",
+    "beleuchtung": [
+      "2 Bright Sun Desert 70W incl. EVG",
+      "umschaltbar 35W / 50W / 70W",
+      "2 Wärme-Licht-Spots",
+      "4 weiße dreh- und kippbare Einbaustrahler",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "weiße Lüftungen in der Lichtdecke",
+      "Lüftungen im Deckel",
+      "Kaminlüftung vorne waagerecht",
+      "Metall-Gaze Frontlüftung"
+    ],
+    "felslandschaft": [
+      "mehrfarbig besandet",
+      "Sandsteinfarben",
+      "Terracottastrukturen"
+    ],
+    "pflanzenSet": [
+      "künstliche Wüstenpflanzen",
+      "künstliche Steppenpflanzen",
+      "echte Kletteräste",
+      "Wurzelteile",
+      "verdorrte Gräser"
+    ],
+    "bodengrund": "Desert Bedding White – 100l heller Sand mit Steinchen und hohem Lehmanteil",
+    "verkabelungsset": [
+      "Programmierung der Zeitschaltuhren"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "100 cm LED-Leiste",
+        "50 cm LED-Leiste",
+        "programmierbarer Sonnenauf- und Sonnenuntergang",
+        "Mondlichtfunktion"
+      ]
+    },
+    "anlieferung": {
+      "art": "eigene Anlieferung mit Auf- und Zusammenbau",
+      "inklusive": [
+        "Lieferung in 7 Teilen",
+        "Aufbau im 1. OG"
+      ]
+    }
+  }
+},
+  {
+  "id": 10,
+  "title": "Regenwald-Terrarium für ein Jemen-Chamäleon",
+  "description": "Hochwertiges Regenwald-Terrarium für ein Jemen-Chamäleon mit Granitfels-Jungle-Optik, integrierter Beregnungsanlage, Klima- und Luftsteuerung sowie hochwertigen echten Pflanzen.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779642403/Totale-im-Zimmer_1_yqiezg.jpg"],
+  "technicalDetails": {
+    "terrarium": "Regenwald",
+    "reptilien": "Jemen-Chamäleon – Chamaeleo calyptratus",
+    "maßeTerrariumBTH": "110x60x180 cm",
+    "lichtkastenHöhe": "25 cm",
+    "unterschrankHöhe": "55 cm",
+    "unterschrank": [
+      "höhenverstellbare Füße",
+      "Push-to-open (Tip-on) System"
+    ],
+    "dekor": [
+      "weiß Miniperl",
+      "weitere Holzdekore verfügbar"
+    ],
+    "schiebescheiben": "6mm Glas mit Laufschuhsystem auf Rollen incl. Schloss, polierte Kanten",
+    "beleuchtung": [
+      "2 Bright Sun Jungle Flood 70W incl. EVG",
+      "umschaltbar 35W / 50W / 70W",
+      "2 Wärme-Licht-Spots",
+      "4 flach eingebaute Reflektoren mit Schutzgittern",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "große Gazefläche in der Lichtdecke",
+      "Terrarium ohne sichtbaren Deckel",
+      "Frontlüftung mit Metall-Gaze im Alurahmen",
+      "Lüfterset mit 2 Ventilatoren",
+      "12 cm Ø Ventilatoren",
+      "Trafo und elektronische Zeitschaltuhr"
+    ],
+    "besonderheiten": [
+      "unsichtbare Innenverkleidung aus Kunststoff",
+      "optimierte Durchlüftung",
+      "digitale Luftfeuchtigkeitsanzeige",
+      "digitale Temperaturanzeige"
+    ],
+    "felslandschaft": [
+      "Granitfels-Jungle-Optik",
+      "Felsen",
+      "Wurzeln",
+      "Korkelemente",
+      "Pflanzmulden für echte Pflanzen"
+    ],
+    "technik": [
+      "Humidity Control II",
+      "Thermocontrol Pro II"
+    ],
+    "beregnungsanlage": [
+      "3 Düsen",
+      "flüsterleise Anlage",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "verkabelungsset": [
+      "2x 3er Sammelsteckdosen",
+      "2 digitale Zeitschaltuhren",
+      "6-er Sammelsteckdose",
+      "Verlängerungskabel",
+      "nur 1 Kabelausgang aus dem Lichtkasten",
+      "Verkabelung zum Lichtkasten",
+      "Sammelsteckdosen im Unterschrank"
+    ],
+    "pflanzenSet": [
+      "echte Rankpflanzen",
+      "echte Kletteräste",
+      "Hängepflanzen",
+      "Kletterpflanzen",
+      "Rhipsalisarten",
+      "Peperomia-Arten",
+      "Farne",
+      "dünne Lianen",
+      "dünne Korkeich-Kletteräste"
+    ],
+    "bodengrund": "Terrarienhumus 70 l",
+    "anlieferung": {
+      "art": "eigene Anlieferung mit Aufbau",
+      "ort": "Dortmund"
     }
   }
 }
