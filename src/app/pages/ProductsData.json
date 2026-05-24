@@ -902,7 +902,7 @@
   "id": 12,
   "title": "Waldterrarium für einen Königspython",
   "description": "Hochwertiges Waldterrarium für einen Königspython mit Granitfels-Wald-Optik, Nachtbeheizung, Klima- und Luftsteuerung sowie integriertem Pflanzen-Set.",
-  "images": [],
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779643288/Totale-schraeg_zmgbve.jpg"],
   "technicalDetails": {
     "terrarium": "Halbfeucht/Wald",
     "reptilien": "Königspython – Python regius",
@@ -964,7 +964,7 @@
   "id": 13,
   "title": "Raumteiler aus Regenwaldterrarium und Schlangenterrarium",
   "description": "Kombinierter Raumteiler aus Regenwald- und Schlangenterrarium für Madagaskar Boa und neukaledonischen Flechtengecko mit Granitfels-Jungle-Optik, integrierten Beregnungsanlagen sowie hochwertigen Pflanzen- und Belüftungssystemen.",
-  "images": [],
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779643288/Ansicht-diagonal-1024x768_fhep34.jpg"],
   "technicalDetails": {
     "terrarium": [
       "Halbfeucht/Wald",
@@ -1037,7 +1037,7 @@
   "id": 14,
   "title": "Wüstenterrarium mit 2 Festglaselementen",
   "description": "Großes Wüstenterrarium für Bartagamen und andere Wüstenreptilien mit zwei Festglaselementen, Sandsteinoptik, hochwertiger Beleuchtung sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
-  "images": [],
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779643287/Totale-1024x683_kkvsq8.jpg"],
   "technicalDetails": {
     "terrarium": "Wüste/Steppe",
     "reptilien": [
@@ -1100,7 +1100,7 @@
   "id": 15,
   "title": "Regenwaldterrarium für ein Panther-Chamäleon",
   "description": "Großes Regenwaldterrarium für ein Panther-Chamäleon mit Granitfels-Jungle-Optik, integrierter Beregnungsanlage, Lüftersystem sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
-  "images": [],
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779643287/Terrarium-im-Zimmer-1152x1536_algk5n.jpg"],
   "technicalDetails": {
     "terrarium": "Regenwald",
     "reptilien": "Panther-Chamäleon – Furcifer pardalis",
@@ -1172,7 +1172,7 @@
   "id": 16,
   "title": "Unser Wüstenterrarium auf der Interzoo 2024 – ZZF Stand",
   "description": "Wüsten-/Steppenterrarium für Bartagamen, präsentiert auf der Interzoo 2024 am Stand des ZZF. Ausgestattet mit Rustico-Sandsteinoptik, großem Pflanzen-Set sowie hochwertiger Licht- und Klimatechnik.",
-  "images": [],
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779643287/Terrarium-mit-uns-1024x683_hrypkn.jpg"],
   "technicalDetails": {
     "terrarium": "Wüste/Steppe",
     "reptilien": "Bartagame – Pogona vitticeps",
@@ -1231,7 +1231,7 @@
   "id": 17,
   "title": "Paludarium für eine Greifschwanz-Lanzenotter",
   "description": "Hochwertiges Paludarium für eine Greifschwanz-Lanzenotter mit Wasserfall, Bachlauf, Granitfels-Jungle-Optik sowie integrierter Beregnungsanlage und echten Regenwaldpflanzen.",
-  "images": [],
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779643287/Landschaftstotale-1024x683_gaxdk7.jpg"],
   "technicalDetails": {
     "terrarium": "Paludarium / Regenwald",
     "reptilien": "Greifschwanz-Lanzenotter – Bothriechis schlegeli",
@@ -1300,7 +1300,7 @@
   "id": 18,
   "title": "Terrarium für einen argentinischen Teju",
   "description": "Großes Panorama-Terrarium für einen argentinischen Teju mit Granitfels-Jungle-Optik, mehreren Ruheplätzen sowie hochwertiger Beleuchtungs- und Klimatechnik.",
-  "images": [],
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779643288/Totale-im-Raum-1_y2dwzv.jpg"],
   "technicalDetails": {
     "terrarium": "Wüste/Steppe",
     "reptilien": "Argentinischer Teju – Tupinambis merianae",
@@ -1358,7 +1358,7 @@
   "id": 19,
   "title": "Terrarium passend zur Zimmerwandfarbe in Indigo blau",
   "description": "Individuell gestaltetes Waldterrarium für eine Kornnatter in Indigo-Blau mit Granitfels-Jungle-Optik, Wetbox, Beregnungsanlage sowie Klima- und Luftsteuerung.",
-  "images": [""],
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779643288/Totale-1_oarcfp.jpg"],
   "technicalDetails": {
     "terrarium": "Halbfeucht/Wald",
     "reptilien": "Kornnatter – Pantherophis guttatus",
