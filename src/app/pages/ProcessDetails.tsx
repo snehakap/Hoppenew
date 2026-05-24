@@ -77,6 +77,170 @@ export function ProcessDetails() {
       name: "Eiche Halifax natur",
       image:
         "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574981/Eiche-Halifax-natur-H1180-ST37_wpzmeb.jpg",
+    },
+    {
+      name: "Eiche Halifax tabak",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621231/Eiche-Halifax-tabak-H1181-ST37_nwboh6.jpg",
+    },
+     {
+      name: "Eiche Halifax weiß",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Halifax-wei%C3%9F-H1176-ST37_k0pjku.jpg",
+    },
+     {
+      name: "Eiche Halifax Zinn",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Halifax-Zinn-H3176-ST37_rvwxlk.jpg",
+    },
+     {
+      name: "Eiche Hamilton natur",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hamilton-natur-H3303-ST10_h5x3xm.jpg",
+    },
+     {
+      name: "Eiche Hunton dunkel",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Eiche Kaisersberg",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },{
+      name: "Eiche Kendal geölt",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Eiche Kendal cognac",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Eiche Kendal natur",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Eiche Lorenzo beigegrau",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Eiche Nebraska grau",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Eiche Nebraska natur",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Eiche Orleans braun",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Eiche Orleans sandbeige",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Eiche Santa Fe vintage",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Eiche Sherman anthrazit",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Eiche Sherman cognacbraun",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Eiche Vicenza",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Eiche Whiteriver graubraun",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Esche Navarra",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Fichte Astfichte natur",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Hickory natur",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Hard Maple champagne",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Kentucky Chestnut sand",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Kirschbaum Locarno",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Nussbaum Lincoln",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Nussbaum Dijon natur",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Nussbaum Pacific natur",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Nussbaum tabak Pacific",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Pinie Cascina",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Pinie polar Aland",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Pinie weiss Aland",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
+    },
+    {
+      name: "Wildeiche natur",
+      image:
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779621230/Eiche-Hunton-dunkel-H2033-ST10_yw3jhq.jpg",
     }
   ];
 
@@ -92,109 +256,109 @@ export function ProcessDetails() {
         "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574445/Akazie-hell-Lakeland-H1277-ST9_i8w3xo.jpg",
     },
     {
-      name: "Berglärche Anthrazit",
+      name: "Kaschmirgrau",
       image:
         "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574444/Bergla%CC%88rche-anthrazit-H3406-ST38_re0gld.jpg",
     },
     {
-      name: "Coco Bolo Natur",
+      name: "Kieselgrau",
       image:
         "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574442/Coco-Bolo-natur-H3012-ST22_piz0d7.jpg",
     },
     {
-      name: "Berglärche Thermobraun",
+      name: "Steingrau",
       image:
         "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574443/Bergla%CC%88rche-thermobraun-H3408-ST38_ksnhma.jpg",
     },
     {
-      name: "Eiche Bardolino natur",
+      name: "Staubgrau",
       image:
         "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574443/Bergla%CC%88rche-thermobraun-H3408-ST38_ksnhma.jpg",
     },{
-      name: "Eiche Charleston dunkelbraun",
+      name: "Taupe dunkel",
       image:
         "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574440/Eiche-Charleston-dunkelbraun-H3154-ST36_l8gv3t.jpg",
     },{
-      name: "Eiche Corbridge natur",
+      name: "Onyxgrau",
       image:
         "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574440/Eiche-Corbridge-natur-H3395-ST9_ncptx0.jpg",
     },{
-      name: "Eiche Davos natur",
+      name: "Diamantgrau",
       image:
         "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574438/Eiche-Davos-natur-H3131-ST12_lfqonf.jpg",
     },{
-      name: "Eiche Denver trüffelbraun",
+      name: "Lavagrau",
       image:
         "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574438/Eiche-Denver-tru%CC%88ffelbraun-H1399-ST10_lhiblk.jpg",
     },
     {
-      name: "Eiche Gladstone sandbeige",
+      name: "Softschwarz",
       image:
         "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574982/Eiche-Gladstone-sandbeige-H3309-ST28_zahk2b.jpg",
     },
     {
-      name: "Eiche Gladstone tabak",
+      name: "Topweiß",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574981/Eiche-Gladstone-tabak-H3325-ST28_bylano.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622334/Topweiss-AT-0112-FH-1_tz0dho.jpg",
     },
     {
-      name: "Eiche Halifax natur",
+      name: "Schwarz",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574981/Eiche-Halifax-natur-H1180-ST37_wpzmeb.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622334/Schwarz-AT-0080_HG_-2_bdy8lx.jpg",
     }
 ];
 
 const metallicDecors = [
     {
-      name: "Alabasterweiss",
+      name: "Ferro bronze",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574237/Ahorn-Mandal-natur-H3840-ST9_wlqlid.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622336/Ferro-bronze-F302-ST87-2_zwtoon.jpg",
     },
     {
-      name: "Hellgrau",
+      name: "Fineline metallic anthrazit",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574445/Akazie-hell-Lakeland-H1277-ST9_i8w3xo.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622337/Fineline-Metallic-anthrazit-H3190-ST19-2_lf7qyz.jpg",
     },
     {
-      name: "Berglärche Anthrazit",
+      name: "Golden patina",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574444/Bergla%CC%88rche-anthrazit-H3406-ST38_re0gld.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622336/Golden-Patina-F411-ST20-2_krj6as.jpg",
     },
     {
-      name: "Coco Bolo Natur",
+      name: "Inox metallic",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574442/Coco-Bolo-natur-H3012-ST22_piz0d7.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622336/Inox-metallic-F500-ST20-2_kihbov.jpg",
     },
     {
-      name: "Berglärche Thermobraun",
+      name: "Metal Fabric anthrazit",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574443/Bergla%CC%88rche-thermobraun-H3408-ST38_ksnhma.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622338/Metal-Fabric-anthrazit-F461-ST10-2_il4ah7.jpg",
     },
     {
-      name: "Eiche Bardolino natur",
+      name: "Metallic indigoblau",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574443/Bergla%CC%88rche-thermobraun-H3408-ST38_ksnhma.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622336/Metallic-indigoblau-F462-ST20-2_dsiixv.jpg",
     },{
-      name: "Eiche Charleston dunkelbraun",
+      name: "Metallic platingrau",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574440/Eiche-Charleston-dunkelbraun-H3154-ST36_l8gv3t.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622335/Metallic-platingrau-F463-ST20-2_ikcejn.jpg",
     },{
-      name: "Eiche Corbridge natur",
+      name: "Steeelcut titangrau",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574440/Eiche-Corbridge-natur-H3395-ST9_ncptx0.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622335/Steelcut-titangrau-F313-ST10-2_djzpeo.jpg",
     }
 ];
 
 const steinoptikDecors = [
     {
-      name: "Alabasterweiss",
+      name: "Marmor Levanto weiss",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574237/Ahorn-Mandal-natur-H3840-ST9_wlqlid.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622216/Marmor-Levanto-weiss-F812-ST9_euqxfh.jpg",
     },
     {
-      name: "Hellgrau",
+      name: "Pietra Grigia schwarz",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779574445/Akazie-hell-Lakeland-H1277-ST9_i8w3xo.jpg",
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779622217/Pietra-Grigia-schwarz-F206-ST9_f2iw2h.jpg",
     }
 ];
   
