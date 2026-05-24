@@ -1494,5 +1494,636 @@
       ]
     }
   }
+},
+  {
+  "id": 21,
+  "title": "Großes Terrarium für eine Boa Constrictor",
+  "description": "Großes Waldterrarium für eine Boa Constrictor mit Granitfels-Wald-Optik, integriertem Badepart, Wetbox, Beregnungsanlage sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658163/Totale-hochformatig_nn4rni.jpg"],
+  "technicalDetails": {
+    "terrarium": "Halbfeucht/Wald",
+    "reptilien": "Boa Constrictor",
+    "maßeTerrariumBTH": "200x100x210 cm",
+    "lichtkastenHöhe": "25 cm",
+    "unterschrank": [
+      "kein Unterschrank"
+    ],
+    "dekor": [
+      "weiß Miniperloberfläche",
+      "weitere Holzdekore verfügbar"
+    ],
+    "schiebescheiben": "6mm Glas mit polierten Kanten im rollengelagerten Laufschuhsystem",
+    "beleuchtung": [
+      "2 Bright Sun Jungle 70W",
+      "3 Wärme-Licht-Spots",
+      "5 verdeckt eingebaute Reflektoren mit Schutzgittern"
+    ],
+    "lüftung": [
+      "große Gazefläche in der Lichtdecke",
+      "senkrechte Lüftungsrosetten in der Glasbodenblende"
+    ],
+    "besonderheiten": [
+      "unsichtbarer wasserdichter Kunststoffinnenkern",
+      "separate Wetbox mit abnehmbarem Deckel",
+      "felsummantelter Badepart",
+      "Aquarium-Einsatz ca. 40x30x30 cm",
+      "programmierbarer Sonnenauf- und Sonnenuntergang",
+      "Mondlichtfunktion"
+    ],
+    "felslandschaft": [
+      "Granitfels-Wald-Optik",
+      "Felsen",
+      "Wurzeln",
+      "Korkelemente",
+      "Pflanzmulden für echte Pflanzen"
+    ],
+    "technik": [
+      "Humidity Control",
+      "Thermo Control"
+    ],
+    "beregnungsanlage": [
+      "3 Düsen"
+    ],
+    "lüftersystem": [
+      "2 Ventilatoren"
+    ],
+    "pflanzenSet": [
+      "echte Pflanzen",
+      "Kletteräste",
+      "Grünpflanzen",
+      "Hängepflanzen",
+      "Schlingpflanzen",
+      "Wurzelteile",
+      "Korkeich-Kletteräste"
+    ],
+    "bodengrund": "Coconut Bark Chips – 16 Packungen Kokos Einstreu",
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "programmierbarer Sonnenauf- und Sonnenuntergang",
+        "Mondlichtfunktion",
+        "100 cm LED-Leiste",
+        "50 cm LED-Leiste"
+      ]
+    },
+    "anlieferung": {
+      "art": "eigene Anlieferung mit Zusammenbau und Inbetriebnahme",
+      "inklusive": [
+        "Zusammenbau der Einzelteile",
+        "Inbetriebnahme",
+        "Aufbau im 2. OG"
+      ]
+    }
+  }
+},
+  {
+  "id": 22,
+  "title": "Terrarium für ägyptische Landschildkröten – Testudo kleinmanni",
+  "description": "Großes Wüstenterrarium für ägyptische Landschildkröten mit Rustico-Sandsteinoptik, modularer Bauweise sowie individueller Licht- und Belüftungslösung.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658147/Totale-von-rechts-1024x771_uni1xc.jpg"],
+  "technicalDetails": {
+    "terrarium": "Wüste/Steppe",
+    "reptilien": "Ägyptische Landschildkröten – Testudo kleinmanni",
+    "maßeTerrariumBTH": "300x60x100 cm",
+    "lichtkastenHöhe": "18 cm",
+    "unterschrank": [
+      "kein Unterschrank enthalten"
+    ],
+    "dekor": [
+      "Eiche Kendal geölt"
+    ],
+    "schiebescheiben": "6mm Glas mit Laufschuhsystem, polierte Kanten",
+    "beleuchtung": [
+      "5 weiße dreh- und kippbare Einbaustrahler",
+      "2 abgehängte Reflektoren"
+    ],
+    "lüftung": [
+      "Kaminlüftung vorne waagerecht",
+      "Metall-Gaze Frontlüftung"
+    ],
+    "besonderheiten": [
+      "mehrteilig gebaut",
+      "Bodenwanne in 2 Teilen",
+      "Lichtkasten in 2 Teilen",
+      "Landschaft in 4 Teilen",
+      "wasserdichte Innenisolierung",
+      "15 cm hohe Innenisolierung an den Wänden"
+    ],
+    "felslandschaft": [
+      "Rustico Sandsteinoptik",
+      "mehrfarbig besandet",
+      "braun-gräuliche Sandsteinoptik",
+      "Dekorlandschaft ohne Kletterbereiche"
+    ],
+    "bodengrund": "180 l Nature Brown Sand mit kleinen Steinchen und hohem Lehmanteil",
+    "technik": [
+      "kundenseitig eingebaut"
+    ],
+    "anlieferung": {
+      "art": "eigene Anlieferung mit Auf- und Zusammenbau",
+      "inklusive": [
+        "Aufbau im 1. OG",
+        "Lieferung über 600 km Entfernung"
+      ]
+    }
+  }
+},
+  {
+  "id": 23,
+  "title": "Wüstenterrarium als Raumteiler für eine Bartagame",
+  "description": "Modernes Wüstenterrarium als Raumteiler für Bartagamen mit großflächigen Glaselementen, Sandsteinoptik sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658148/Totale-1024x768_yxqsj2.jpg"],
+  "technicalDetails": {
+    "terrarium": "Wüste/Steppe",
+    "reptilien": [
+      "Bartagame – Pogona vitticeps",
+      "geeignet für weitere Wüsten- und Steppenreptilien"
+    ],
+    "maßeTerrariumBTH": "150x80x150 cm",
+    "unterschrankHöhe": "50 cm",
+    "dekor": [
+      "Metal Slate schwarzgold",
+      "Steinoptikoberflächen",
+      "Betonoptik",
+      "Metallic-Optik",
+      "Uni-Farben"
+    ],
+    "schiebescheiben": "6mm Glas mit polierten Kanten im rollengelagerten Laufschuhsystem",
+    "beleuchtung": [
+      "3 Bright Sun Desert",
+      "2 Wärme-Licht-Spots",
+      "5 drehbare weiße Einbaustrahler"
+    ],
+    "lüftung": [
+      "Kaminlüftung unten in der Front",
+      "weiße Lüftungseinsätze in der Lichtdecke"
+    ],
+    "besonderheiten": [
+      "Raumteiler-Konstruktion",
+      "3-seitige Glaselemente",
+      "Festglaselemente an Kopfseite und Rückseite",
+      "millimetergenaue Sonderanfertigung",
+      "programmierbarer Sonnenauf- und Sonnenuntergang",
+      "Mondlichtfunktion"
+    ],
+    "felslandschaft": [
+      "mehrfarbig besandet",
+      "Sandsteinfarben",
+      "Terracottastrukturen",
+      "Felspfeiler mit Übergang zur Rückseite",
+      "lose Höhle mit seitlicher Öffnung"
+    ],
+    "technik": [
+      "Thermo Control"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "programmierbarer Sonnenauf- und Sonnenuntergang",
+        "Mondlichtfunktion"
+      ]
+    },
+    "anlieferung": {
+      "art": "Lieferung per Spedition",
+      "ort": "Schweiz"
+    }
+  }
+},
+  {
+  "id": 24,
+  "title": "Aqua-Terrarium für grüne Wasseragamen",
+  "description": "Großes Aqua-Terrarium für grüne Wasseragamen mit integriertem Schwimmbereich, Granitfels-Jungle-Optik, Wasserfall, Beregnungsanlage sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658149/Totale-von-links_1_fht8n1.jpg"],
+  "technicalDetails": {
+    "terrarium": "Aqua-Terrarium / Regenwald",
+    "reptilien": "Grüne Wasseragamen",
+    "maßeTerrariumBTH": "200x115x160 cm",
+    "lichtkastenHöhe": "25 cm",
+    "aquariumMaße": "125x111x53 cm",
+    "unterschrankHöhe": "55 cm",
+    "unterschrank": [
+      "Push-to-open (Tip-on) System",
+      "10 cm höhenverstellbare Füße",
+      "Holzblende",
+      "integrierte Öffnung für das Aquarium"
+    ],
+    "dekor": [
+      "weiß mit Miniperl-Oberfläche",
+      "weitere Holzdekore verfügbar"
+    ],
+    "schiebescheiben": "6mm Glas mit polierten Kanten im rollengelagerten Laufschuhsystem",
+    "beleuchtung": [
+      "4 Bright Sun Jungle 70W",
+      "4 Wärme-Licht-Spots",
+      "8 verdeckt eingebaute Reflektoren mit Schutzgittern"
+    ],
+    "lüftung": [
+      "große Gazefläche in der Lichtdecke",
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "Lüfterset mit 4 Ventilatoren",
+      "12 cm Ø Ventilatoren",
+      "Trafo und elektronische Zeitschaltuhr"
+    ],
+    "besonderheiten": [
+      "integrierter Schwimmbereich direkt an der Front",
+      "unsichtbarer wasserdichter Kunststoffinnenkern",
+      "2 Bohrungen für Zu- und Ablauf",
+      "Wasserfall",
+      "Eheim-Filter integriert",
+      "programmierbarer Sonnenauf- und Sonnenuntergang",
+      "Mondlichtfunktion"
+    ],
+    "felslandschaft": [
+      "Granitfels-Jungle-Optik",
+      "Felsen",
+      "Wurzeln",
+      "Korkelemente",
+      "Pflanzmulden für echte Pflanzen"
+    ],
+    "technik": [
+      "Humidity Control II",
+      "Thermocontrol Pro II"
+    ],
+    "beregnungsanlage": [
+      "5 Düsen"
+    ],
+    "wassertechnik": [
+      "Wasserfallpumpe",
+      "Eheim-Filter",
+      "Wasserablauf für Wasserwechsel"
+    ],
+    "heizung": [
+      "Darkspot zur Nachtbeheizung"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "programmierbarer Sonnenauf- und Sonnenuntergang",
+        "Mondlichtfunktion",
+        "100 cm LED-Leiste",
+        "50 cm LED-Leiste"
+      ]
+    },
+    "anlieferung": {
+      "art": "eigene Anlieferung mit Auf- und Zusammenbau",
+      "ort": "Schweiz"
+    }
+  }
+},
+  {
+  "id": 25,
+  "title": "280cm langes Wüstenterrarium für Halsbandleguane",
+  "description": "Großes Wüstenterrarium für Halsbandleguane mit Sandsteinoptik, aufwendiger Felslandschaft, mehreren Höhlen sowie integriertem Pflanzen- und Belüftungssystem.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658141/Totale-1024x683_1_hnp9vb.jpg"],
+  "technicalDetails": {
+    "terrarium": "Wüste/Steppe",
+    "reptilien": "Halsbandleguane – Crotaphytus collaris Utah",
+    "maßeTerrariumBTH": "280x65x140 cm",
+    "lichtkastenHöhe": "18 cm",
+    "unterschrankHöhe": "40 cm",
+    "unterschrank": [
+      "10 cm höhenverstellbare Füße",
+      "zurückgesetzte Frontblende",
+      "4 Türen",
+      "2 Schubladen",
+      "1 zusätzlicher Schrank"
+    ],
+    "dekor": [
+      "weiß Miniperl",
+      "Steinoptikoberflächen",
+      "Betonoptik",
+      "Metallic-Optik",
+      "Uni-Farben"
+    ],
+    "schiebescheiben": "6mm Glas mit polierten Kanten im rollengelagerten Laufschuhsystem",
+    "beleuchtung": [
+      "4 Bright Sun Desert",
+      "2 Wärme-Licht-Spots",
+      "7 drehbare weiße Einbaustrahler"
+    ],
+    "lüftung": [
+      "Kaminlüftung unten in der Front",
+      "weiße Lüftungseinsätze in der Lichtdecke",
+      "1 Deckenventilator"
+    ],
+    "besonderheiten": [
+      "mehrteilig gebaut",
+      "Lichtkasten in 2 Teilen",
+      "Bodenwanne in 2 Teilen",
+      "Landschaft in 4 Teilen",
+      "millimetergenaue Sonderanfertigung"
+    ],
+    "felslandschaft": [
+      "mehrfarbig besandet",
+      "Sandsteinfarben",
+      "Terracottastrukturen",
+      "Aufgänge",
+      "viele Höhlen",
+      "4 Schlafplätze",
+      "Felslandschaft am Boden"
+    ],
+    "pflanzenSet": [
+      "8 echte Sukkulenten",
+      "echte Kletteräste",
+      "Wurzelteile",
+      "kleine Wüstenbüsche"
+    ]
+  }
+},
+  {
+  "id": 26,
+  "title": "Terrarium für eine Boa Constrictor",
+  "description": "Großes Waldterrarium für eine Boa Constrictor mit Granitfels-Wald-Optik, integrierter Beregnungsanlage, Nachtbeheizung sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658147/Totale-hf_zyaovj.jpg"],
+  "technicalDetails": {
+    "terrarium": "Halbfeucht/Wald",
+    "reptilien": "Boa Constrictor",
+    "maßeTerrariumBTH": "220x80x170 cm",
+    "lichtkastenHöhe": "25 cm",
+    "unterschrankHöhe": "50 cm",
+    "dekor": [
+      "weiß Miniperloberfläche",
+      "weitere Holzdekore verfügbar"
+    ],
+    "schiebescheiben": "6mm Glas mit polierten Kanten im rollengelagerten Laufschuhsystem",
+    "beleuchtung": [
+      "3 Bright Sun Jungle 70W",
+      "3 Wärme-Licht-Spots",
+      "6 verdeckt eingebaute Reflektoren mit Schutzgittern"
+    ],
+    "lüftung": [
+      "große Gazefläche in der Lichtdecke",
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "Lüfterset mit 2 Ventilatoren"
+    ],
+    "besonderheiten": [
+      "unsichtbarer wasserdichter Kunststoffinnenkern",
+      "Urwaldgott-Skulptur „Haceki“",
+      "lose Höhle mit seitlicher Öffnung",
+      "programmierbarer Sonnenauf- und Sonnenuntergang",
+      "Mondlichtfunktion"
+    ],
+    "felslandschaft": [
+      "Granitfels-Wald-Optik",
+      "Felsen",
+      "Wurzeln",
+      "Korkelemente",
+      "Pflanzmulden für echte Pflanzen"
+    ],
+    "technik": [
+      "Humidity Control",
+      "Thermo Control"
+    ],
+    "beregnungsanlage": [
+      "5 Düsen"
+    ],
+    "heizung": [
+      "Darkspot zur Nachtbeheizung"
+    ],
+    "pflanzenSet": [
+      "echte Pflanzen",
+      "Kletteräste",
+      "Grünpflanzen",
+      "Hängepflanzen",
+      "Schlingpflanzen",
+      "Wurzelteile",
+      "Korkeich-Kletteräste"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "programmierbarer Sonnenauf- und Sonnenuntergang",
+        "Mondlichtfunktion",
+        "100 cm LED-Leiste",
+        "50 cm LED-Leiste"
+      ]
+    }
+  }
+},
+  {
+  "id": 27,
+  "title": "Aquaterrarium für grüne Wasseragamen",
+  "description": "Großes Aquaterrarium für grüne Wasseragamen mit integriertem Schwimmbereich, individuell gestaltbarer Landschaft sowie hochwertiger Belüftungs- und Möbelkonstruktion.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658150/Totale-von-rechts_mzsbhg.jpg"],
+  "technicalDetails": {
+    "terrarium": "Aquaterrarium / Regenwald",
+    "reptilien": "Grüne Wasseragamen – Physignathus cocincinus",
+    "maßeTerrariumBTH": "230x80x170 cm",
+    "lichtkastenHöhe": "25 cm",
+    "aquariumMaße": "130x50x43 cm",
+    "wasserstand": "40 cm",
+    "unterschrankHöhe": "60 cm",
+    "unterschrank": [
+      "höhenverstellbare Füße",
+      "Push-to-open (Tip-on) System"
+    ],
+    "dekor": [
+      "weiß mit Miniperl-Oberfläche",
+      "weitere Holzdekore verfügbar"
+    ],
+    "schiebescheiben": "6mm Glas mit Laufschuhsystem auf Rollen incl. Schloss, polierte Kanten",
+    "beleuchtung": [
+      "7 Ausfräsungen für Reflektoren",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "große Gazefläche in der Lichtdecke",
+      "senkrechte Lüftungsrosetten in der Glasbodenblende"
+    ],
+    "besonderheiten": [
+      "integrierter Schwimmbereich direkt an der Front",
+      "2 Bohrungen für Zu- und Ablauf",
+      "3mm Forexplatten zur Innenversiegelung",
+      "kundenseitig eingebaute Felslandschaft",
+      "kundenseitig eingebaute Technik",
+      "Brutkasten auf der rechten Seite"
+    ],
+    "felslandschaft": [
+      "kundenseitig gestaltet"
+    ],
+    "anlieferung": {
+      "art": "eigene Anlieferung mit Auf- und Zusammenbau",
+      "inklusive": [
+        "Aufbau im 1. OG"
+      ]
+    }
+  }
+},
+  {
+  "id": 28,
+  "title": "Wüsten-/Steppenterrarium auf einer Empore",
+  "description": "Großes Wüsten-/Steppenterrarium für Bartagamen mit Sandsteinoptik, integriertem Pflanzen-Set sowie hochwertiger Beleuchtungs- und Belüftungstechnik.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658139/von-der-unteren-Etage-aus-1024x768_tte1bf.jpg"],
+  "technicalDetails": {
+    "terrarium": "Wüste/Steppe",
+    "reptilien": "Bartagame – Pogona vitticeps",
+    "maßeTerrariumBTH": "200x70x120 cm",
+    "lichtkastenHöhe": "18 cm",
+    "unterschrankHöhe": "70 cm",
+    "dekor": [
+      "weiß mit Miniperl-Oberfläche",
+      "weitere Holzdekore verfügbar"
+    ],
+    "schiebescheiben": "6mm Glas mit Laufschuhsystem auf Rollen incl. Schloss, polierte Kanten",
+    "beleuchtung": [
+      "3 Bright Sun Desert 70W incl. EVG",
+      "umschaltbar 35W / 50W / 70W",
+      "2 Wärme-Licht-Spots",
+      "5 weiße dreh- und kippbare Einbaustrahler",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "weiße Lüftungen in der Lichtdecke",
+      "Lüftungen im Deckel",
+      "Kaminlüftung vorne waagerecht",
+      "Metall-Gaze Frontlüftung"
+    ],
+    "felslandschaft": [
+      "mehrfarbig besandet",
+      "Sandsteinfarben",
+      "Terracottastrukturen",
+      "doppelstöckige Höhle mit seitlichen Öffnungen"
+    ],
+    "pflanzenSet": [
+      "künstliche Wüstenpflanzen",
+      "künstliche Steppenpflanzen",
+      "echte Kletteräste",
+      "Wurzelteile",
+      "verdorrte Gräser"
+    ],
+    "bodengrund": "100 l heller Sand mit kleinen Steinchen und hohem Lehmanteil"
+  }
+},
+  {
+  "id": 29,
+  "title": "Wüsten-Terrarium in Deltaform für eine Bartagame",
+  "description": "Individuell gefertigtes Wüstenterrarium in Deltaform für eine Bartagame mit Sandsteinoptik, großem Pflanzen-Set sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658139/Totale-im-Raum-852x1024_ngvavl.jpg"],
+  "technicalDetails": {
+    "terrarium": "Wüste/Steppe",
+    "reptilien": "Bartagame – Pogona vitticeps",
+    "maßeTerrariumBTH": "120x160x40x90 cm",
+    "lichtkastenHöhe": "18 cm",
+    "unterschrankHöhe": "60 cm",
+    "unterschrank": [
+      "höhenverstellbare Füße",
+      "Push-to-open (Tip-on) System"
+    ],
+    "dekor": [
+      "Angoragrau mit Miniperloberfläche",
+      "Steinoptikoberflächen",
+      "Betonoptik",
+      "Metallic-Optik",
+      "Uni-Farben"
+    ],
+    "schiebescheiben": "6mm Glas mit Laufschuhsystem auf Rollen incl. Schloss, polierte Kanten",
+    "beleuchtung": [
+      "3 Bright Sun Desert 50/70W incl. EVG",
+      "2 Wärme-Licht-Spots",
+      "5 weiße drehbare Einbaustrahler",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "weiße Lüftungen in der Lichtdecke",
+      "senkrechte Lüftungsrosetten in der Glasbodenblende"
+    ],
+    "felslandschaft": [
+      "mehrfarbig besandet",
+      "Sandsteinfarben",
+      "Terracottastrukturen",
+      "freistehender Felsdurchbruch",
+      "lose Höhle mit seitlicher Öffnung"
+    ],
+    "pflanzenSet": [
+      "künstliche Wüstenpflanzen",
+      "künstliche Steppenpflanzen",
+      "echte Kletteräste",
+      "Wurzelteile",
+      "verdorrte Gräser"
+    ],
+    "bodengrund": "Desert Bedding Outback-Rot – 140 l Sand mit Steinchen und hohem Lehmanteil",
+    "technik": [
+      "Thermocontrol Pro II",
+      "Humiditycontrol II"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "Dimmung der Wärmespots",
+        "frei einstellbare Startzeit",
+        "1 Stunde Dimmungsdauer",
+        "rötlicher Sonnenaufgang",
+        "rötlicher Sonnenuntergang",
+        "bläuliches Mondlicht",
+        "frei programmierbar",
+        "Programmiereinheit",
+        "100 cm LED-Leiste"
+      ]
+    }
+  }
+},
+  {
+  "id": 30,
+  "title": "Großes Regenwaldterrarium für Phelsuma grandis",
+  "description": "Großes Regenwaldterrarium für den Großen Madagaskar-Taggecko mit Granitfels-Jungle-Optik, Beregnungsanlage, Luftbefeuchter sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658141/Totale-frontal-1024x683_rpw623.jpg"],
+  "technicalDetails": {
+    "terrarium": "Regenwald",
+    "reptilien": "Großer Madagaskar Taggecko – Phelsuma grandis",
+    "maßeTerrariumBTH": "200x60x160 cm",
+    "lichtkastenHöhe": "25 cm",
+    "unterschrankHöhe": "50 cm",
+    "dekor": [
+      "weiß Miniperloberfläche",
+      "weitere Holzdekore verfügbar"
+    ],
+    "schiebescheiben": "6mm Glas mit polierten Kanten im rollengelagerten Laufschuhsystem",
+    "beleuchtung": [
+      "3 Bright Sun Jungle 70W",
+      "2 Wärme-Licht-Spots",
+      "5 verdeckt eingebaute Reflektoren mit Schutzgittern"
+    ],
+    "lüftung": [
+      "große Gazefläche in der Lichtdecke",
+      "Gazefläche über einer 10 cm hohen Holzblende",
+      "Lüfterset mit 2 Ventilatoren"
+    ],
+    "besonderheiten": [
+      "unsichtbarer wasserdichter Kunststoffinnenkern",
+      "Luftbefeuchter",
+      "programmierbarer Sonnenauf- und Sonnenuntergang",
+      "Mondlichtfunktion"
+    ],
+    "felslandschaft": [
+      "Granitfels-Jungle-Optik",
+      "Felsen",
+      "Wurzeln",
+      "Korkelemente",
+      "Pflanzmulden für echte Pflanzen"
+    ],
+    "technik": [
+      "Humidity Control",
+      "Thermo Control"
+    ],
+    "beregnungsanlage": [
+      "5 Düsen"
+    ],
+    "pflanzenSet": [
+      "echte Pflanzen",
+      "Kletteräste",
+      "epiphytisch aufgebundene Bromelien",
+      "Tillandsien",
+      "Rhipsalisarten",
+      "Hängepflanzen",
+      "Kletterpflanzen",
+      "Farne",
+      "Lianen",
+      "Bambusröhren",
+      "Korkeich-Kletteräste"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "programmierbarer Sonnenauf- und Sonnenuntergang",
+        "Mondlichtfunktion",
+        "100 cm LED-Leiste",
+        "50 cm LED-Leiste"
+      ]
+    }
+  }
 }
 ]
