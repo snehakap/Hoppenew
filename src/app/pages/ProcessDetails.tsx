@@ -110,7 +110,7 @@ export function ProcessDetails() {
     },{
       name: "Eiche Kendal geölt",
       image:
-        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629050/Eiche-Kendal-geo%CC%88lt-H3171-ST9_yvnjmj.jpg,
+        "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779629050/Eiche-Kendal-geo%CC%88lt-H3171-ST9_yvnjmj.jpg",
     },
     {
       name: "Eiche Kendal cognac",
