@@ -2817,5 +2817,590 @@
       "beschreibung": "Schulzoo-Projekt mit Tierpflege durch Lehrkräfte und Schüler"
     }
   }
+},
+  {
+  "id": 41,
+  "title": "Bartagamen-Terrarium – für einen Schulzoo",
+  "description": "Großes Wüsten-/Steppenterrarium für Bartagamen im Schulzoo der Berthold-Brecht-Schule Nürnberg mit Sandsteinlandschaft, LED-Mondlichtsystem und pädagogischem Betreuungskonzept.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779660870/Wuestenterrarium-Totale-1024x683_yy8lrn.jpg"],
+  "technicalDetails": {
+    "terrarium": "Wüste/Steppe",
+    "reptilien": "Bartagame – Pogona vitticeps",
+    "maßeTerrariumBTH": "200x70x135 cm",
+    "lichtkastenHöhe": "18 cm",
+    "unterschrank": [
+      "kundenseitig gestellt"
+    ],
+    "dekor": [
+      "Berglärche thermobraun",
+      "weitere Holzdekore verfügbar"
+    ],
+    "schiebescheiben": "6mm ESG-Glas mit Laufschuhsystem auf Rollen incl. Schloss, polierte Kanten",
+    "beleuchtung": [
+      "3 Bright Sun Desert 70W incl. EVG",
+      "umschaltbar 35W / 50W / 70W",
+      "2 Wärme-Licht-Spots",
+      "5 weiße dreh- und kippbare Einbaustrahler",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "weiße Lüftungen in der Lichtdecke",
+      "Lüftungen im Deckel",
+      "Frontlüftung mit Glasbodenblende"
+    ],
+    "felslandschaft": [
+      "mehrfarbig besandet",
+      "Sandsteinfarben",
+      "Terracottastrukturen",
+      "separate lose Höhle",
+      "Rinderschädel"
+    ],
+    "pflanzenSet": [
+      "künstliche Wüstenpflanzen",
+      "künstliche Steppenpflanzen",
+      "echte Kletteräste",
+      "Wurzelteile",
+      "verdorrte Gräser"
+    ],
+    "bodengrund": "140 l heller Sand mit kleinen Steinchen und hohem Lehmanteil",
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "Dimmung der Wärmespots",
+        "frei einstellbare Startzeit",
+        "1 Stunde Dimmungsdauer",
+        "rötlicher Sonnenaufgang",
+        "rötlicher Sonnenuntergang",
+        "bläuliches Mondlicht",
+        "frei programmierbar per App",
+        "Programmiereinheit",
+        "100 cm LED-Leiste",
+        "50 cm LED-Leiste"
+      ]
+    },
+    "projekt": {
+      "kunde": "Berthold-Brecht-Schule Nürnberg",
+      "beschreibung": "Schulzoo-Projekt mit Tierpflege durch Lehrkräfte und Schüler"
+    }
+  }
+},
+  {
+  "id": 42,
+  "title": "Terrarium für Leopardgeckos in Panoramaform",
+  "description": "Großes Panorama-Wüstenterrarium für Leopardgeckos mit beidseitigen Panoramaecken, detailreicher Felslandschaft und Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779660872/S07-Panorama-Totale_q1lmgx.jpg"],
+  "technicalDetails": {
+    "terrarium": "Wüste/Steppe",
+    "reptilien": "Leopardgeckos – Eublepharis macularius",
+    "maßeTerrariumBTH": "190x100x120 cm",
+    "lichtkastenHöhe": "18 cm",
+    "unterschrankHöhe": "70 cm",
+    "unterschrank": [
+      "höhenverstellbare Füße",
+      "Push-to-open (Tip-on) System"
+    ],
+    "dekor": [
+      "weiß mit Miniperl-Oberfläche",
+      "weitere Holzdekore verfügbar"
+    ],
+    "schiebescheiben": "6mm Glas mit Laufschuhsystem auf Rollen incl. Schloss, polierte Kanten",
+    "beleuchtung": [
+      "2 Bright Sun Desert 70W incl. EVG",
+      "umschaltbar 35W / 50W / 70W",
+      "3 Wärme-Licht-Spots",
+      "5 weiße dreh- und kippbare Einbaustrahler",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "weiße Lüftungen in der Lichtdecke",
+      "Lüftungen im Deckel",
+      "senkrechte Lüftungsrosetten in der Glasbodenblende"
+    ],
+    "besonderheiten": [
+      "beidseitige Panoramaecken",
+      "Wetbox mit abnehmbarem Deckel",
+      "programmierbarer Sonnenauf- und Sonnenuntergang",
+      "Mondlichtfunktion"
+    ],
+    "felslandschaft": [
+      "Wüsten-/Steppenlandschaft",
+      "enge Quetsch-Spalten",
+      "Felsüberstände",
+      "elfenbein-sandsteinfarbig",
+      "Terracottastrukturen"
+    ],
+    "dekoration": [
+      "Kletteräste",
+      "künstliche Pflanzen",
+      "verdorrte Gräser",
+      "Wurzelteile"
+    ],
+    "technik": [
+      "Thermocontrol Pro II"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "Dimmung der Wärmespots",
+        "frei einstellbare Startzeit",
+        "1 Stunde Dimmungsdauer",
+        "rötlicher Sonnenaufgang",
+        "rötlicher Sonnenuntergang",
+        "bläuliches Mondlicht",
+        "frei programmierbar per PC",
+        "Programmiereinheit",
+        "100 cm LED-Leiste",
+        "50 cm LED-Leiste"
+      ]
+    }
+  }
+},
+  {
+  "id": 43,
+  "title": "Paludarium für eine grüne Wasseragame",
+  "description": "Großes Paludarium für grüne Wasseragamen mit integriertem Schwimmbereich, Granitfels-Jungle-Optik sowie umfassender Klima- und Wassertechnik.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779660870/Totale-Paludarium-1024x683_z71xhn.jpg"],
+  "technicalDetails": {
+    "terrarium": "Paludarium / Regenwald",
+    "reptilien": "Grüne Wasseragamen – Physignathus cocincinus",
+    "maßeTerrariumBTH": "190x80x160 cm",
+    "unterschrankHöhe": "60 cm",
+    "unterschrank": [
+      "4 Türen",
+      "Push-to-open (Tip-on) System",
+      "höhenverstellbare Füße"
+    ],
+    "dekor": [
+      "Halifax Eiche Natur"
+    ],
+    "schiebescheiben": "6mm Glas mit polierten Kanten im rollengelagerten Laufschuhsystem",
+    "beleuchtung": [
+      "2 Bright Sun Jungle Flood 70W",
+      "3 Wärme-Licht-Spots",
+      "5 verdeckt eingebaute Reflektoren mit Schutzgittern"
+    ],
+    "lüftung": [
+      "große Gazefläche in der Lichtdecke",
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "Lüfterset mit 2 Ventilatoren"
+    ],
+    "besonderheiten": [
+      "integrierter Schwimmbereich",
+      "von außen mit Felsen ummanteltes Aquarium",
+      "Eheim-Innenfilter",
+      "mehrteilig gebaut",
+      "programmierbarer Sonnenauf- und Sonnenuntergang",
+      "Mondlichtfunktion"
+    ],
+    "felslandschaft": [
+      "Granitfels-Jungle-Optik",
+      "Felsen",
+      "Wurzeln",
+      "Korkelemente",
+      "Pflanzmulden für echte Pflanzen"
+    ],
+    "technik": [
+      "Humidity Control",
+      "Thermo Control"
+    ],
+    "beregnungsanlage": [
+      "5 Düsen"
+    ],
+    "luftbefeuchter": [
+      "über Humidity Control gesteuert"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "Dimmung der Wärmespots",
+        "frei einstellbare Startzeit",
+        "1 Stunde Dimmungsdauer",
+        "rötlicher Sonnenaufgang",
+        "rötlicher Sonnenuntergang",
+        "bläuliches Mondlicht",
+        "frei programmierbar per App",
+        "Programmiereinheit",
+        "100 cm LED-Leiste",
+        "50 cm LED-Leiste"
+      ]
+    }
+  }
+},
+  {
+  "id": 44,
+  "title": "Königspython-Terrarium mit einer Urwaldgott-Skulptur „Haceki“",
+  "description": "Hochwertiges Königspython-Terrarium mit integrierter Urwaldgott-Skulptur „Haceki“, Wetbox, Beregnungsanlage sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779660868/Landschaftstotale-2-1024x683_oydtp9.jpg"],
+  "technicalDetails": {
+    "terrarium": "Halbfeucht/Wald",
+    "reptilien": "Königspython",
+    "maßeTerrariumBTH": "160x65x125 cm",
+    "lichtkastenHöhe": "25 cm",
+    "unterschrankHöhe": "90 cm",
+    "unterschrank": [
+      "Schiebetüren"
+    ],
+    "dekor": [
+      "Wildeiche Natur",
+      "weitere Farben verfügbar"
+    ],
+    "schiebescheiben": "6mm Glas mit polierten Kanten im rollengelagerten Laufschuhsystem",
+    "beleuchtung": [
+      "2 Bright Sun Jungle 70W Flood",
+      "2 Wärme-Licht-Spots",
+      "4 flach eingebaute Reflektoren mit Schutzgittern"
+    ],
+    "lüftung": [
+      "große Gazefläche in der Lichtdecke",
+      "senkrechte Lüftungsrosetten in der Bodenblende",
+      "Lüfterset mit 2 Ventilatoren",
+      "12 cm Ø Ventilatoren",
+      "Trafo"
+    ],
+    "besonderheiten": [
+      "integrierte Urwaldgott-Skulptur „Haceki“",
+      "unsichtbare wasserdichte Innenverkleidung aus Kunststoff",
+      "Festglaselemente auf beiden Seiten",
+      "Wetbox mit abnehmbarem Deckel",
+      "Naturgranulat-beschichtete Liegeflächen",
+      "künstliche Pflanzen",
+      "programmierbarer Sonnenauf- und Sonnenuntergang",
+      "Mondlichtfunktion"
+    ],
+    "felslandschaft": [
+      "Waldlandschaft",
+      "Felsenoptik",
+      "Wurzeln",
+      "Korkelemente"
+    ],
+    "technik": [
+      "Thermocontrol Pro II",
+      "Humiditycontrol II",
+      "digitale Luftfeuchtigkeitsanzeige"
+    ],
+    "beregnungsanlage": [
+      "3 Düsen",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "programmierbarer Sonnenauf- und Sonnenuntergang",
+        "Mondlichtfunktion"
+      ]
+    }
+  }
+},
+  {
+  "id": 45,
+  "title": "Aquaterrarium für Wasserschildkröten",
+  "description": "Großes Aquaterrarium für Wasserschildkröten mit integriertem Landteil, Sonneninsel, professioneller Wasserfiltertechnik sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779660866/Totale-Landschaft1-1024x768_nhgbbp.jpg"],
+  "technicalDetails": {
+    "terrarium": "Aquaterrarium / Regenwald",
+    "reptilien": "Wasserschildkröten",
+    "maßeTerrariumBTH": "180x100x110 cm",
+    "lichtkastenHöhe": "18 cm",
+    "wasserstand": "40 cm",
+    "dekor": [
+      "schwarz Miniperl"
+    ],
+    "unterkonstruktion": [
+      "Alu-Unterkonstruktion",
+      "Holzverkleidung",
+      "Fronttüren"
+    ],
+    "glasbau": [
+      "Glas-Paludarium 176x96x110 cm",
+      "Vor-Ort-Verklebung",
+      "12/15 mm Glas",
+      "Überlaufschacht",
+      "Ablaufbohrung für Wasserwechsel",
+      "Bohrungen für Druckseiten",
+      "Ausfräsung für Fenster"
+    ],
+    "schiebescheiben": "6mm Glas im rollengelagerten Laufschuhsystem",
+    "lüftung": [
+      "Lüftungsrosetten oberhalb des Wasserspiegels"
+    ],
+    "landschaft": [
+      "Sonneninsel mit großer Korkscheibe",
+      "Landteil mit Eiablage",
+      "30-40 cm tiefes Erd-Sand-Gemisch",
+      "Moorkienwurzel",
+      "Korkplatten als Wasserausstieg",
+      "weiß-grauer Bodenbelag"
+    ],
+    "technik": [
+      "Flächenfilter 120x50x40 cm",
+      "2 Eheim Compact 3000 Förderpumpen",
+      "Aqua Medic 300W Titan-Heizer",
+      "T Controller Twin",
+      "UVC Lampe 36W",
+      "Aquarius Control"
+    ],
+    "beleuchtung": [
+      "2 AquaMedic Aquarius Plant 90",
+      "2 Bright Sun Jungle Flood 70W incl. EVG",
+      "2 Wärme-Licht-Spots",
+      "2 Reflektoren über Sonnenplätzen"
+    ],
+    "wassertechnik": [
+      "Überlaufschacht mit Notüberlauf",
+      "PVC Fittinge und Rohre",
+      "Wasserfilterung",
+      "UVC Wasserklärung"
+    ],
+    "temperaturen": {
+      "wasser": "25-27°C",
+      "grundtemperatur": "25°C",
+      "sonnenplätze": "40-45°C"
+    },
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "Sonnenauf- und Sonnenuntergang",
+        "Mondlichtfunktion",
+        "Aquarius Control"
+      ]
+    }
+  }
+},
+  {
+  "id": 46,
+  "title": "Wüstenterrarium auf verdeckt liegenden Rollen",
+  "description": "Modernes Wüstenterrarium für Zwerg-Bartagamen mit verdeckt liegenden Rollen, Sandsteinlandschaft sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779660864/Totale-von-links-1024x683_qh8v7p.jpg"],
+  "technicalDetails": {
+    "terrarium": "Wüste/Steppe",
+    "reptilien": "Zwerg-Bartagame",
+    "terratyp": "S07",
+    "maßeTerrariumBTH": "150x100x110 cm",
+    "lichtkastenHöhe": "18 cm",
+    "unterschrank": [
+      "kein Unterschrank",
+      "verdeckt liegende Rollen hinter Bodenblende"
+    ],
+    "dekor": [
+      "Graphitschwarz mit Seitenglanz (Miniperl)",
+      "Steinoptikoberflächen",
+      "Betonoptik",
+      "Metallic-Optik",
+      "Uni-Farben"
+    ],
+    "schiebescheiben": "6mm Glas mit Laufschuhsystem auf Rollen incl. Schloss, polierte Kanten",
+    "beleuchtung": [
+      "2 Bright Sun Desert 70W incl. EVG",
+      "umschaltbar 35W / 50W / 70W",
+      "2 Wärme-Licht-Spots",
+      "4 weiße dreh- und kippbare Einbaustrahler",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "weiße Lüftungen in der Lichtdecke",
+      "Lüftungen im Deckel",
+      "Kaminlüftung vorne waagerecht",
+      "Metall-Gaze Frontlüftung"
+    ],
+    "besonderheiten": [
+      "verdeckt liegende Rollen",
+      "mehrteilig gebaut",
+      "Festglaselement links vorne",
+      "Alustütze",
+      "programmierbarer Sonnenauf- und Sonnenuntergang",
+      "Mondlichtfunktion"
+    ],
+    "felslandschaft": [
+      "mehrfarbig besandet",
+      "Sandsteinfarben",
+      "Terracottastrukturen",
+      "separate Höhle mit seitlicher Öffnung"
+    ],
+    "technik": [
+      "Thermocontrol Pro II"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "Dimmung der Wärmespots",
+        "frei einstellbare Startzeit",
+        "1 Stunde Dimmungsdauer",
+        "rötlicher Sonnenaufgang",
+        "rötlicher Sonnenuntergang",
+        "bläuliches Mondlicht",
+        "frei programmierbar",
+        "Programmiereinheit",
+        "100 cm LED-Leiste"
+      ]
+    }
+  }
+}
+,
+  {
+  "id": 47,
+  "title": "Steppen-Terrarium für Bartagamen",
+  "description": "Großes Steppen-Terrarium für Bartagamen mit elfenbeinfarbener Sandsteinlandschaft, großzügigem Unterschrank sowie leistungsstarker Wüstenbeleuchtung.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779661055/Totale-im-Zimmer-1024x683_fsmamt.jpg"],
+  "technicalDetails": {
+    "terrarium": "Wüste/Steppe",
+    "reptilien": [
+      "Bartagamen – Pogona vitticeps",
+      "weitere Wüsten- und Steppenreptilien"
+    ],
+    "maßeTerrariumBTH": "220x70x100 cm",
+    "unterschrankHöhe": "100 cm",
+    "dekor": [
+      "weiß mit Miniperloberfläche",
+      "Steinoptikoberflächen",
+      "Betonoptik",
+      "Metallic-Optik",
+      "Uni-Farben"
+    ],
+    "schiebescheiben": "6mm Glas mit polierten Kanten im rollengelagerten Laufschuhsystem",
+    "beleuchtung": [
+      "2 Bright Sun Desert",
+      "3 Wärme-Licht-Spots",
+      "5 drehbare weiße Einbaustrahler"
+    ],
+    "lüftung": [
+      "Kaminlüftung unten in der Front",
+      "weiße Lüftungseinsätze in der Lichtdecke"
+    ],
+    "felslandschaft": [
+      "mehrfarbig besandet",
+      "elfenbein-sandsteinfarbig",
+      "Terracottastrukturen",
+      "Outback-roter Sand",
+      "separate Höhle mit seitlichem Eingang"
+    ],
+    "dekoration": [
+      "künstliche Pflanzen",
+      "echte Wüstenbüsche",
+      "Kletteräste"
+    ]
+  }
+},
+  {
+  "id": 48,
+  "title": "Orchidarium",
+  "description": "Elegantes Orchidarium mit Granitfels-Jungle-Optik, Sanlight EVO Pflanzenbeleuchtung sowie Beregnungs- und Lüftungssystem für tropische Orchideen.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779660982/Landschaftstotale-1024x1024_l8nvwl.jpg"],
+  "technicalDetails": {
+    "terrarium": "Regenwaldterrarium",
+    "verwendung": "Orchideen",
+    "terratyp": "R03",
+    "maßeTerrariumBTH": "160x65x125 cm",
+    "unterschrankHöhe": "70 cm",
+    "unterschrank": [
+      "2 Türen links",
+      "3 Schubladen rechts",
+      "höhenverstellbare Füße",
+      "Zuschlagdämpfersystem",
+      "14 cm lange eckig abgerundete Griffe"
+    ],
+    "dekor": [
+      "weiß Miniperl"
+    ],
+    "schiebescheiben": "6mm Glas mit Laufschuhsystem auf Rollen incl. Schloss, polierte Kanten",
+    "beleuchtung": [
+      "Sanlight EVO 4-120",
+      "4 große Deckenausfräsungen",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "große Gazefläche in der Lichtdecke",
+      "offene Bauweise ohne Deckel",
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "Lüfterset mit 2 Ventilatoren",
+      "12 cm Ø Ventilatoren",
+      "Trafo",
+      "elektronische Zeitschaltuhr"
+    ],
+    "felslandschaft": [
+      "Granitfels-Jungle-Optik",
+      "Felsen",
+      "Wurzeln",
+      "verzweigte Spinnenholzelemente",
+      "Pflanzmulden für echte Pflanzen",
+      "Hartholzelemente zum Aufbinden epiphytischer Pflanzen"
+    ],
+    "beregnungsanlage": [
+      "5 Düsen",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "besonderheiten": [
+      "Orchideen vom Kunden selbst eingesetzt",
+      "epiphytische Pflanzenbefestigung"
+    ]
+  }
+},
+  {
+  "id": 49,
+  "title": "Terrarium for leopard geckos (Eublepharis macularius)",
+  "description": "Large desert/steppe terrarium for leopard geckos with panoramic rock landscape, integrated humid hide, and programmable sunrise, sunset, and moonlight simulation.",
+  "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779660866/Totale-Terra-Leopardgecko-1024x683_rzks04.jpg"],
+  "technicalDetails": {
+    "terrarium": "Desert/Steppe",
+    "reptiles": [
+      "Leopard geckos – Eublepharis macularius"
+    ],
+    "relatedTerrariums": [
+      "Spiny-tailed lizard terrarium",
+      "Squirrel-tailed lizard terrarium"
+    ],
+    "dimensionsWHD": "170x100x90 cm",
+    "lightBoxHeight": "18 cm",
+    "cabinetHeight": "50 cm",
+    "construction": [
+      "built in several parts",
+      "assembled on site"
+    ],
+    "decor": [
+      "black mini-pearl surface",
+      "additional wood decors available"
+    ],
+    "glassSystem": "6mm glass with polished edges in sliding shoe system",
+    "lighting": [
+      "3 Bright Sun Desert 70W",
+      "3 HC heat/light spots",
+      "6 white rotatable recessed spotlights",
+      "white luminous ceiling"
+    ],
+    "ventilation": [
+      "glass floor panel with ventilation rosettes",
+      "10 cm wooden front panel",
+      "optional chimney ventilation",
+      "white ventilation inserts in ceiling"
+    ],
+    "landscape": [
+      "desert/steppe landscape",
+      "narrow crevices",
+      "rock overhangs",
+      "multicolored ivory sandstone finish",
+      "terracotta textures",
+      "cave hide",
+      "humid hide with removable lid"
+    ],
+    "decoration": [
+      "climbing branches",
+      "artificial plants",
+      "withered grasses",
+      "root pieces",
+      "substrate"
+    ],
+    "sunriseSunsetMoonlightSet": {
+      "features": [
+        "dimmable heat spots",
+        "adjustable start time",
+        "1 hour dimming duration",
+        "reddish sunrise and sunset simulation",
+        "bluish moonlight simulation",
+        "programmable control unit",
+        "app-controlled setup",
+        "100 cm LED strip",
+        "50 cm LED strip"
+      ]
+    }
+  }
 }
 ]
