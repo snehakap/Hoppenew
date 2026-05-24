@@ -748,52 +748,57 @@ Neben den hier gezeigten gibt es viele weitere Dekore, die aber nicht als fertig
         </div>
       </section>
 
-      {/* ================= IMAGE MODAL ================= */}
+    
+     {/* ================= IMAGE MODAL ================= */}
 {selectedImage && (
   <div
     className="fixed inset-0 z-50
-    bg-black/75 backdrop-blur-sm
+    bg-black/80 backdrop-blur-sm
     flex items-center justify-center
-    p-6"
+    p-3 md:p-6"
     onClick={() => setSelectedImage(null)}
   >
     <div
-      className="relative flex flex-col items-center"
+      className="relative flex flex-col items-center
+      w-full"
       onClick={(e) => e.stopPropagation()}
     >
       {/* ================= CLOSE BUTTON ================= */}
-<button
-  onClick={() => setSelectedImage(null)}
-  className="
-    absolute top-6 right-4 z-20
-    w-14 h-14
-    rounded-full
-    bg-black/70 backdrop-blur-md
-    flex items-center justify-center
-    text-white
-    transition-all duration-300
-    hover:bg-black hover:scale-110
-  "
->
-  <span className="text-5xl leading-none -mt-1">×</span>
-</button>
+      <button
+        onClick={() => setSelectedImage(null)}
+        className="
+          absolute top-2 right-2 md:top-6 md:right-4 z-20
+          w-12 h-12 md:w-14 md:h-14
+          rounded-full
+          bg-black/70 backdrop-blur-md
+          flex items-center justify-center
+          text-white
+          transition-all duration-300
+          hover:bg-black md:hover:scale-110
+        "
+      >
+        <span className="text-4xl md:text-5xl leading-none -mt-1">
+          ×
+        </span>
+      </button>
 
       {/* ================= IMAGE CONTAINER ================= */}
       <div
         className="
-        bg-white
-        rounded-sm
-        overflow-hidden
-        shadow-[0_35px_120px_rgba(0,0,0,0.45)]
+          bg-white
+          rounded-2xl md:rounded-sm
+          overflow-hidden
+          shadow-[0_35px_120px_rgba(0,0,0,0.45)]
+          max-w-full
         "
       >
         <img
           src={selectedImage.image}
           alt={selectedImage.name}
           className="
-            h-[92vh]
+            h-[70vh] md:h-[92vh]
             w-auto
-            max-w-none
+            max-w-full
             object-contain
             block
           "
@@ -802,15 +807,18 @@ Neben den hier gezeigten gibt es viele weitere Dekore, die aber nicht als fertig
 
       {/* ================= TITLE ================= */}
       <p
-        className="text-white text-lg mt-6
-        tracking-wide
-        [font-family:'Poppins',sans-serif]"
+        className="
+          text-white
+          text-sm md:text-lg
+          mt-4 md:mt-6
+          text-center
+          tracking-wide
+          px-4
+          [font-family:'Poppins',sans-serif]
+        "
       >
         {selectedImage.name}
       </p>
     </div>
   </div>
 )}
-    </div>
-  );
-}
