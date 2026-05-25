@@ -7,9 +7,9 @@
       "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778530128/T07-komplett-683x1024_itxa3o.jpg"
     ],
     "technicalDetails": {
-      "terrarium": "Halbfeucht/Wald",
+      "Terrarium Typ": "Halbfeucht/Wald",
       "reptilien": "Kornnatter – Pantherophis guttatus",
-      "maßeTerrariumBTH": "150x60x120 cm",
+      "Terrarium Maße: Breite × Tiefe × Höhe": "150x60x120 cm",
       "unterschrankHöhe": "50 cm",
       "dekor": "weiß mit Miniperloberfläche",
       "schiebescheiben": "4mm Floatglas mit polierten Kanten in Doppel-U-Profilen",
@@ -71,9 +71,9 @@
       "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1778530129/Totale-im-Zimmer-diagonal_l51uwl.jpg"
     ],
     "technicalDetails": {
-      "terrarium": "Regenwald",
+      "Terrarium Typ": "Regenwald",
       "reptilien": "Panther-Chamäleon – Furcifer pardalis",
-      "maßeTerrariumBTH": "120x60x175 cm",
+      "Terrarium Maße: Breite × Tiefe × Höhe": "120x60x175 cm",
       "lichtkastenHöhe": "25 cm",
       "unterschrankHöhe": "40 cm",
       "unterschrank": [
@@ -169,10 +169,10 @@
   "description": "Großes Regenwaldterrarium über Eck gebaut – ausschließlich für Pflanzen (ohne Reptilien). Ausgestattet mit LED-Beleuchtung, Beregnungsanlage, Luftbefeuchter, Sonnenauf- und Untergangssteuerung, Mondlichtfunktion sowie hochwertiger Belüftung und unsichtbarer Innenverkleidung.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779642403/Totale-diagonal-m.-Scheiben-882x1024_aucxrr.jpg"],
   "technicalDetails": {
-    "terrarium": "Regenwald",
+    "Terrarium Typ": "Regenwald",
     "reptilien": "nur Pflanzen (ohne Reptilien)",
     "terratyp": "R03",
-    "maßeTerrariumBTH": "lt. Skizze, Gesamthöhe 155 cm inkl. 25 cm Lichtkasten",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "lt. Skizze, Gesamthöhe 155 cm inkl. 25 cm Lichtkasten",
     "unterschrankHöhe": "60 cm",
     "unterschrank": [
       "10 cm höhenverstellbare Füße",
@@ -259,9 +259,9 @@
   "description": "Hochwertiges Regenwald-Terrarium für ein Panther-Chamäleon (Furcifer pardalis) mit Granitfels-Jungle-Optik, integrierter Beregnungsanlage, Klima- und Luftsteuerung, Pflanzen-Set sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779642404/Totale-seitlich-1_ltgvgv.jpg"],
   "technicalDetails": {
-    "terrarium": "Regenwald",
+    "Terrarium Typ": "Regenwald",
     "reptilien": "Panther-Chamäleon – Furcifer pardalis",
-    "maßeTerrariumBTH": "110x60x175 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "110x60x175 cm",
     "lichtkastenHöhe": "25 cm",
     "unterschrankHöhe": "50 cm",
     "unterschrank": [
@@ -354,9 +354,9 @@
   "description": "Großes Halbfeucht-/Waldterrarium für eine Boa Imperator mit Granitfels-Wald-Optik, integrierter Beregnungsanlage, hochwertiger Beleuchtung, Pflanzen-Set sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779642404/Totale-im-Zimmer_y5cffk.jpg"],
   "technicalDetails": {
-    "terrarium": "Halbfeucht/Wald",
+    "Terrarium Typ": "Halbfeucht/Wald",
     "reptilien": "Boa Imperator",
-    "maßeTerrariumBTH": "150x60x120 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "150x60x120 cm",
     "unterschrankHöhe": "70 cm",
     "dekor": [
       "Egger Boston Concrete F283 ST22",
@@ -453,13 +453,13 @@
   "description": "Großes doppelstöckiges Wüstenterrarium für Bartagame und Leopardgeckos mit Sandsteinoptik, integrierter Beleuchtung, Festglaselementen sowie hochwertiger Verkabelung.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779642403/Totale-seitlich_c1e0w4.jpg"],
   "technicalDetails": {
-    "terrarium": "Wüste/Steppe",
+    "Terrarium Typ": "Wüste/Steppe",
     "reptilien": [
       "Bartagame",
       "Leopardgeckos"
     ],
     "terratyp": "Doppelstöcker",
-    "maßeTerrariumBTH": "je Terrarium 180x50x95 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "je Terrarium 180x50x95 cm",
     "lichtkastenHöhe": "18 cm",
     "unterschrankHöhe": "30 cm",
     "gesamthöhe": "220 cm",
@@ -495,9 +495,9 @@
   "description": "Großes Wüstenterrarium für einen argentinischen Teju mit Sandsteinoptik, hochwertiger Beleuchtung, integrierter Lüftung sowie professioneller Verkabelung und Lieferung mit Aufbau.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779642402/Totale-1-1024x768_owfsql.jpg"],
   "technicalDetails": {
-    "terrarium": "Wüste/Steppe",
+    "Terrarium Typ": "Wüste/Steppe",
     "reptilien": "Tupinambis merianae – Argentinischer Teju",
-    "maßeTerrariumBTH": "200x100x100 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "200x100x100 cm",
     "lichtkastenHöhe": "18 cm",
     "unterschrank": [
       "kein Unterschrank",
@@ -555,9 +555,9 @@
   "description": "Hochwertiges Paludarium für Phyllobates vittatus (Gestreifter Blattsteiger) mit Wasserfall, Bachlauf, epiphytischen Pflanzen, integrierter Klima- und Luftsteuerung sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779642403/Totale_hxixus.jpg"],
   "technicalDetails": {
-    "terrarium": "Paludarium / Regenwald",
+    "Terrarium Typ": "Paludarium / Regenwald",
     "reptilien": "Phyllobates vittatus – Gestreifter Blattsteiger",
-    "maßeTerrariumBTH": "90x50x100 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "90x50x100 cm",
     "lichtkastenHöhe": "25 cm",
     "unterschrankHöhe": "70 cm",
     "unterschrank": [
@@ -638,13 +638,13 @@
   "description": "Großes Steppenterrarium für Bartagamen mit Sandsteinoptik, hochwertiger Beleuchtung, Wüstenpflanzen-Set sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779642403/Terrarium-Zimmer-hf_vbeyid.jpg"],
   "technicalDetails": {
-    "terrarium": "Wüste/Steppe",
+    "Terrarium Typ": "Wüste/Steppe",
     "reptilien": [
       "Bartagame – Pogona vitticeps",
       "geeignet für Zwergbartagamen",
       "geeignet für Dornschwanzagamen"
     ],
-    "maßeTerrariumBTH": "160x70x100 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "160x70x100 cm",
     "lichtkastenHöhe": "18 cm",
     "unterschrankHöhe": "70 cm",
     "unterschrank": [
@@ -708,9 +708,9 @@
   "description": "Hochwertiges Regenwald-Terrarium für ein Jemen-Chamäleon mit Granitfels-Jungle-Optik, integrierter Beregnungsanlage, Klima- und Luftsteuerung sowie hochwertigen echten Pflanzen.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779642403/Totale-im-Zimmer_1_yqiezg.jpg"],
   "technicalDetails": {
-    "terrarium": "Regenwald",
+    "Terrarium Typ": "Regenwald",
     "reptilien": "Jemen-Chamäleon – Chamaeleo calyptratus",
-    "maßeTerrariumBTH": "110x60x180 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "110x60x180 cm",
     "lichtkastenHöhe": "25 cm",
     "unterschrankHöhe": "55 cm",
     "unterschrank": [
@@ -795,9 +795,9 @@
   "description": "Großes Paludarium für eine grüne Wasseragame mit integriertem Badebereich, Granitfels-Jungle-Optik, Beregnungsanlage, Klima- und Luftsteuerung sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779643288/Totale-von-links_kagwbs.jpg"],
   "technicalDetails": {
-    "terrarium": "Paludarium / Regenwald",
+    "Terrarium Typ": "Paludarium / Regenwald",
     "reptilien": "Grüne Wasseragame – Physignathus cocincinus",
-    "maßeTerrariumBTH": "200x85x170 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "200x85x170 cm",
     "lichtkastenHöhe": "25 cm",
     "wasserbeckenBTH": "60x50x40 cm",
     "unterschrankHöhe": "50 cm",
@@ -904,9 +904,9 @@
   "description": "Hochwertiges Waldterrarium für einen Königspython mit Granitfels-Wald-Optik, Nachtbeheizung, Klima- und Luftsteuerung sowie integriertem Pflanzen-Set.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779643288/Totale-schraeg_zmgbve.jpg"],
   "technicalDetails": {
-    "terrarium": "Halbfeucht/Wald",
+    "Terrarium Typ": "Halbfeucht/Wald",
     "reptilien": "Königspython – Python regius",
-    "maßeTerrariumBTH": "156x44x114 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "156x44x114 cm",
     "lichtkastenHöhe": "18 cm",
     "unterschrank": [
       "kein Unterschrank enthalten"
@@ -966,7 +966,7 @@
   "description": "Kombinierter Raumteiler aus Regenwald- und Schlangenterrarium für Madagaskar Boa und neukaledonischen Flechtengecko mit Granitfels-Jungle-Optik, integrierten Beregnungsanlagen sowie hochwertigen Pflanzen- und Belüftungssystemen.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779643288/Ansicht-diagonal-1024x768_fhep34.jpg"],
   "technicalDetails": {
-    "terrarium": [
+    "Terrarium Typ": [
       "Halbfeucht/Wald",
       "Regenwald"
     ],
@@ -974,7 +974,7 @@
       "Madagaskar Boa – Acrantophis dumerili",
       "Neukaledonischer Flechtengecko – Mniarogekko chahoua"
     ],
-    "maßeTerrariumBTH": "220x80x200 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "220x80x200 cm",
     "lichtkastenHöhe": "25 cm",
     "unterschrankHöhe": "58 cm",
     "dekor": [
@@ -1039,12 +1039,12 @@
   "description": "Großes Wüstenterrarium für Bartagamen und andere Wüstenreptilien mit zwei Festglaselementen, Sandsteinoptik, hochwertiger Beleuchtung sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779643287/Totale-1024x683_kkvsq8.jpg"],
   "technicalDetails": {
-    "terrarium": "Wüste/Steppe",
+    "Terrarium Typ": "Wüste/Steppe",
     "reptilien": [
       "Bartagame – Pogona vitticeps",
       "geeignet für weitere Wüsten- und Steppenreptilien"
     ],
-    "maßeTerrariumBTH": "180x100x120 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "180x100x120 cm",
     "unterschrankHöhe": "70 cm",
     "dekor": [
       "weiß mit Miniperloberfläche",
@@ -1102,9 +1102,9 @@
   "description": "Großes Regenwaldterrarium für ein Panther-Chamäleon mit Granitfels-Jungle-Optik, integrierter Beregnungsanlage, Lüftersystem sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779643287/Terrarium-im-Zimmer-1152x1536_algk5n.jpg"],
   "technicalDetails": {
-    "terrarium": "Regenwald",
+    "Terrarium Typ": "Regenwald",
     "reptilien": "Panther-Chamäleon – Furcifer pardalis",
-    "maßeTerrariumBTH": "140x70x175 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "140x70x175 cm",
     "lichtkastenHöhe": "25 cm",
     "unterschrankHöhe": "50 cm",
     "unterschrank": [
@@ -1174,9 +1174,9 @@
   "description": "Wüsten-/Steppenterrarium für Bartagamen, präsentiert auf der Interzoo 2024 am Stand des ZZF. Ausgestattet mit Rustico-Sandsteinoptik, großem Pflanzen-Set sowie hochwertiger Licht- und Klimatechnik.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779643287/Terrarium-mit-uns-1024x683_hrypkn.jpg"],
   "technicalDetails": {
-    "terrarium": "Wüste/Steppe",
+    "Terrarium Typ": "Wüste/Steppe",
     "reptilien": "Bartagame – Pogona vitticeps",
-    "maßeTerrariumBTH": "150x80x100 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "150x80x100 cm",
     "unterschrankHöhe": "70 cm",
     "unterschrank": [
       "höhenverstellbare Füße",
@@ -1233,10 +1233,10 @@
   "description": "Hochwertiges Paludarium für eine Greifschwanz-Lanzenotter mit Wasserfall, Bachlauf, Granitfels-Jungle-Optik sowie integrierter Beregnungsanlage und echten Regenwaldpflanzen.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779643287/Landschaftstotale-1024x683_gaxdk7.jpg"],
   "technicalDetails": {
-    "terrarium": "Paludarium / Regenwald",
+    "Terrarium Typ": "Paludarium / Regenwald",
     "reptilien": "Greifschwanz-Lanzenotter – Bothriechis schlegeli",
     "terratyp": "P03",
-    "maßeTerrariumBTH": "140x70x120 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "140x70x120 cm",
     "unterschrankHöhe": "50 cm",
     "unterschrank": [
       "höhenverstellbare Füße",
@@ -1302,9 +1302,9 @@
   "description": "Großes Panorama-Terrarium für einen argentinischen Teju mit Granitfels-Jungle-Optik, mehreren Ruheplätzen sowie hochwertiger Beleuchtungs- und Klimatechnik.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779643288/Totale-im-Raum-1_y2dwzv.jpg"],
   "technicalDetails": {
-    "terrarium": "Wüste/Steppe",
+    "Terrarium Typ": "Wüste/Steppe",
     "reptilien": "Argentinischer Teju – Tupinambis merianae",
-    "maßeTerrariumBTH": "250x80x120 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "250x80x120 cm",
     "lichtkastenHöhe": "18 cm",
     "unterschrankHöhe": "100 cm",
     "unterschrank": [
@@ -1360,9 +1360,9 @@
   "description": "Individuell gestaltetes Waldterrarium für eine Kornnatter in Indigo-Blau mit Granitfels-Jungle-Optik, Wetbox, Beregnungsanlage sowie Klima- und Luftsteuerung.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779643288/Totale-1_oarcfp.jpg"],
   "technicalDetails": {
-    "terrarium": "Halbfeucht/Wald",
+    "Terrarium Typ": "Halbfeucht/Wald",
     "reptilien": "Kornnatter – Pantherophis guttatus",
-    "maßeTerrariumBTH": "120x60x135 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "120x60x135 cm",
     "unterschrankHöhe": "70 cm",
     "unterschrank": [
       "Push-to-open (Tip-on) System",
@@ -1433,9 +1433,9 @@
   "description": "Großes Waldterrarium für eine Boa Constrictor mit separatem Technikschrank, Granitfels-Wald-Optik, Beregnungsanlage sowie Klima- und Luftsteuerung.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779643287/Totale-im-Raum-1024x683_gm4iq1.jpg"],
   "technicalDetails": {
-    "terrarium": "Halbfeucht/Wald",
+    "Terrarium Typ": "Halbfeucht/Wald",
     "reptilien": "Boa Constrictor",
-    "maßeTerrariumBTH": "180x80x150 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "180x80x150 cm",
     "lichtkastenHöhe": "25 cm",
     "technikschrankBTH": "40x60x50 cm",
     "dekor": [
@@ -1501,9 +1501,9 @@
   "description": "Großes Waldterrarium für eine Boa Constrictor mit Granitfels-Wald-Optik, integriertem Badepart, Wetbox, Beregnungsanlage sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658163/Totale-hochformatig_nn4rni.jpg"],
   "technicalDetails": {
-    "terrarium": "Halbfeucht/Wald",
+    "Terrarium Typ": "Halbfeucht/Wald",
     "reptilien": "Boa Constrictor",
-    "maßeTerrariumBTH": "200x100x210 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "200x100x210 cm",
     "lichtkastenHöhe": "25 cm",
     "unterschrank": [
       "kein Unterschrank"
@@ -1581,9 +1581,9 @@
   "description": "Großes Wüstenterrarium für ägyptische Landschildkröten mit Rustico-Sandsteinoptik, modularer Bauweise sowie individueller Licht- und Belüftungslösung.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658147/Totale-von-rechts-1024x771_uni1xc.jpg"],
   "technicalDetails": {
-    "terrarium": "Wüste/Steppe",
+    "Terrarium Typ": "Wüste/Steppe",
     "reptilien": "Ägyptische Landschildkröten – Testudo kleinmanni",
-    "maßeTerrariumBTH": "300x60x100 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "300x60x100 cm",
     "lichtkastenHöhe": "18 cm",
     "unterschrank": [
       "kein Unterschrank enthalten"
@@ -1633,12 +1633,12 @@
   "description": "Modernes Wüstenterrarium als Raumteiler für Bartagamen mit großflächigen Glaselementen, Sandsteinoptik sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658148/Totale-1024x768_yxqsj2.jpg"],
   "technicalDetails": {
-    "terrarium": "Wüste/Steppe",
+    "Terrarium Typ": "Wüste/Steppe",
     "reptilien": [
       "Bartagame – Pogona vitticeps",
       "geeignet für weitere Wüsten- und Steppenreptilien"
     ],
-    "maßeTerrariumBTH": "150x80x150 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "150x80x150 cm",
     "unterschrankHöhe": "50 cm",
     "dekor": [
       "Metal Slate schwarzgold",
@@ -1693,9 +1693,9 @@
   "description": "Großes Aqua-Terrarium für grüne Wasseragamen mit integriertem Schwimmbereich, Granitfels-Jungle-Optik, Wasserfall, Beregnungsanlage sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658149/Totale-von-links_1_fht8n1.jpg"],
   "technicalDetails": {
-    "terrarium": "Aqua-Terrarium / Regenwald",
+    "Terrarium Typ": "Aqua-Terrarium / Regenwald",
     "reptilien": "Grüne Wasseragamen",
-    "maßeTerrariumBTH": "200x115x160 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "200x115x160 cm",
     "lichtkastenHöhe": "25 cm",
     "aquariumMaße": "125x111x53 cm",
     "unterschrankHöhe": "55 cm",
@@ -1773,9 +1773,9 @@
   "description": "Großes Wüstenterrarium für Halsbandleguane mit Sandsteinoptik, aufwendiger Felslandschaft, mehreren Höhlen sowie integriertem Pflanzen- und Belüftungssystem.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658141/Totale-1024x683_1_hnp9vb.jpg"],
   "technicalDetails": {
-    "terrarium": "Wüste/Steppe",
+    "Terrarium Typ": "Wüste/Steppe",
     "reptilien": "Halsbandleguane – Crotaphytus collaris Utah",
-    "maßeTerrariumBTH": "280x65x140 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "280x65x140 cm",
     "lichtkastenHöhe": "18 cm",
     "unterschrankHöhe": "40 cm",
     "unterschrank": [
@@ -1833,9 +1833,9 @@
   "description": "Großes Waldterrarium für eine Boa Constrictor mit Granitfels-Wald-Optik, integrierter Beregnungsanlage, Nachtbeheizung sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658147/Totale-hf_zyaovj.jpg"],
   "technicalDetails": {
-    "terrarium": "Halbfeucht/Wald",
+    "Terrarium Typ": "Halbfeucht/Wald",
     "reptilien": "Boa Constrictor",
-    "maßeTerrariumBTH": "220x80x170 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "220x80x170 cm",
     "lichtkastenHöhe": "25 cm",
     "unterschrankHöhe": "50 cm",
     "dekor": [
@@ -1902,9 +1902,9 @@
   "description": "Großes Aquaterrarium für grüne Wasseragamen mit integriertem Schwimmbereich, individuell gestaltbarer Landschaft sowie hochwertiger Belüftungs- und Möbelkonstruktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658150/Totale-von-rechts_mzsbhg.jpg"],
   "technicalDetails": {
-    "terrarium": "Aquaterrarium / Regenwald",
+    "Terrarium Typ": "Aquaterrarium / Regenwald",
     "reptilien": "Grüne Wasseragamen – Physignathus cocincinus",
-    "maßeTerrariumBTH": "230x80x170 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "230x80x170 cm",
     "lichtkastenHöhe": "25 cm",
     "aquariumMaße": "130x50x43 cm",
     "wasserstand": "40 cm",
@@ -1951,9 +1951,9 @@
   "description": "Großes Wüsten-/Steppenterrarium für Bartagamen mit Sandsteinoptik, integriertem Pflanzen-Set sowie hochwertiger Beleuchtungs- und Belüftungstechnik.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658139/von-der-unteren-Etage-aus-1024x768_tte1bf.jpg"],
   "technicalDetails": {
-    "terrarium": "Wüste/Steppe",
+    "Terrarium Typ": "Wüste/Steppe",
     "reptilien": "Bartagame – Pogona vitticeps",
-    "maßeTerrariumBTH": "200x70x120 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "200x70x120 cm",
     "lichtkastenHöhe": "18 cm",
     "unterschrankHöhe": "70 cm",
     "dekor": [
@@ -1996,9 +1996,9 @@
   "description": "Individuell gefertigtes Wüstenterrarium in Deltaform für eine Bartagame mit Sandsteinoptik, großem Pflanzen-Set sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658139/Totale-im-Raum-852x1024_ngvavl.jpg"],
   "technicalDetails": {
-    "terrarium": "Wüste/Steppe",
+    "Terrarium Typ": "Wüste/Steppe",
     "reptilien": "Bartagame – Pogona vitticeps",
-    "maßeTerrariumBTH": "120x160x40x90 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "120x160x40x90 cm",
     "lichtkastenHöhe": "18 cm",
     "unterschrankHöhe": "60 cm",
     "unterschrank": [
@@ -2063,9 +2063,9 @@
   "description": "Großes Regenwaldterrarium für den Großen Madagaskar-Taggecko mit Granitfels-Jungle-Optik, Beregnungsanlage, Luftbefeuchter sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779658141/Totale-frontal-1024x683_rpw623.jpg"],
   "technicalDetails": {
-    "terrarium": "Regenwald",
+    "Terrarium Typ": "Regenwald",
     "reptilien": "Großer Madagaskar Taggecko – Phelsuma grandis",
-    "maßeTerrariumBTH": "200x60x160 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "200x60x160 cm",
     "lichtkastenHöhe": "25 cm",
     "unterschrankHöhe": "50 cm",
     "dekor": [
@@ -2132,9 +2132,9 @@
   "description": "Großes Wüstenterrarium für einen Felsenwaran mit hochwertigem Möbelbau, integrierter Beleuchtung sowie individuell durch den Kunden gestalteter Landschaft und Technik.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779659503/Totale-schraeg-1024x576_wlrhca.jpg"],
   "technicalDetails": {
-    "terrarium": "Wüste/Steppe",
+    "Terrarium Typ": "Wüste/Steppe",
     "reptilien": "Felsenwaran – Varanus glauerti",
-    "maßeTerrariumBTH": "200x80x170 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "200x80x170 cm",
     "unterschrank": [
       "kein Unterschrank"
     ],
@@ -2168,9 +2168,9 @@
   "description": "Individuell geplantes Regenwaldterrarium als Raumteiler für Phelsuma grandis mit echten Pflanzen aus Madagaskar, hochwertiger Lichttechnik sowie integriertem Klima- und Beregnungssystem.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779659337/Totale-von-vorne_qh1jys.jpg"],
   "technicalDetails": {
-    "terrarium": "Regenwald",
+    "Terrarium Typ": "Regenwald",
     "reptilien": "Großer Madagaskar Taggecko – Phelsuma grandis",
-    "maßeTerrariumBTH": "120x75x215 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "120x75x215 cm",
     "lichtkastenHöhe": "25 cm",
     "unterschrank": [
       "kundenseitig vorhanden"
@@ -2229,9 +2229,9 @@
   "description": "Hochwertiges Regenwaldterrarium für ein Panther-Chamäleon mit Granitfels-Jungle-Optik, Beregnungsanlage, Lüftersystem sowie echter Bepflanzung.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779659336/Totale-im-Raum_pqnays.jpg"],
   "technicalDetails": {
-    "terrarium": "Regenwald",
+    "Terrarium Typ": "Regenwald",
     "reptilien": "Panther-Chamäleon – Furcifer pardalis",
-    "maßeTerrariumBTH": "130x60x160 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "130x60x160 cm",
     "unterschrankHöhe": "50 cm",
     "dekor": [
       "weiß mit Miniperloberfläche",
@@ -2277,9 +2277,9 @@
   "description": "Professionelles Paludarium für Korallenfinger-Laubfrösche im PHAENO Erlebniszentrum mit Granitfels-Jungle-Optik, kompletter Glaskern-Konstruktion sowie Klima- und Luftsteuerung.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779659340/Totale-Laubfroschterrarium_blap7z.jpg"],
   "technicalDetails": {
-    "terrarium": "Paludarium / Regenwald",
+    "Terrarium Typ": "Paludarium / Regenwald",
     "reptilien": "Korallenfinger-Laubfrösche – Litoria caerulea",
-    "maßeTerrariumBTH": "80x60x140 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "80x60x140 cm",
     "lichtkastenHöhe": "25 cm",
     "unterschrank": [
       "kundenseitig gestellt"
@@ -2357,12 +2357,12 @@
   "description": "Professionelles Paludarium für Pfeilgiftfrösche im PHAENO Wolfsburg mit Granitfels-Jungle-Optik, kompletter ESG-Glaskern-Konstruktion sowie Klima- und Beregnungstechnik.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779659923/Paludarium-Totale_2_bgyud7.jpg"],
   "technicalDetails": {
-    "terrarium": "Paludarium / Regenwald",
+    "Terrarium Typ": "Paludarium / Regenwald",
     "reptilien": [
       "Dendrobates leucomelas",
       "Dendrobates tinctorius"
     ],
-    "maßeTerrariumBTH": "80x60x140 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "80x60x140 cm",
     "lichtkastenHöhe": "25 cm",
     "unterschrank": [
       "kundenseitig gestellt"
@@ -2442,12 +2442,12 @@
   "description": "Zwei professionelle Regenwaldterrarien für Stabschrecken und Gespenstschrecken im PHAENO Wolfsburg mit ESG-Glaskern, Beregnungsanlage sowie Sonnenauf- und Untergangssteuerung.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779659305/beide-Schreckenterrarien-1024x683_uckhze.jpg"],
   "technicalDetails": {
-    "terrarium": "Regenwald",
+    "Terrarium Typ": "Regenwald",
     "reptilien": [
       "Annam Stabschrecken – Medauroidea extradentata",
       "Gespenstschrecken – Phasmatodea"
     ],
-    "maßeTerrariumBTH": "80x60x140 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "80x60x140 cm",
     "lichtkastenHöhe": "25 cm",
     "anzahlTerrarien": 2,
     "unterschrank": [
@@ -2502,9 +2502,9 @@
   "description": "Großes Aquaterrarium für einen afrikanischen Ochsenfrosch mit Wasserbereich, Wasserfall, echter Bepflanzung sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779659181/Aqua-Terrarium-1024x768_uriqr0.jpg"],
   "technicalDetails": {
-    "terrarium": "Aquaterrarium / Regenwald",
+    "Terrarium Typ": "Aquaterrarium / Regenwald",
     "reptilien": "Afrikanischer Ochsenfrosch – Pyxicephalus adspersus",
-    "maßeTerrariumBTH": "160x90x100 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "160x90x100 cm",
     "lichtkastenHöhe": "25 cm",
     "unterschrankHöhe": "60 cm",
     "unterschrank": [
@@ -2584,9 +2584,9 @@
   "description": "Elegantes Königspython-Terrarium als Raumteiler mit Granitfels-Wald-Optik, Nachtbeheizung sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779659794/Frontal-im-Raum_dbjkqv.jpg"],
   "technicalDetails": {
-    "terrarium": "Halbfeucht/Wald",
+    "Terrarium Typ": "Halbfeucht/Wald",
     "reptilien": "Königspython",
-    "maßeTerrariumBTH": "170x70x125 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "170x70x125 cm",
     "lichtkastenHöhe": "25 cm",
     "unterschrankHöhe": "70 cm",
     "unterschrank": [
@@ -2648,12 +2648,12 @@
   "description": "Individuell angepasstes Aquaterrarium für Dendrobaten und Phelsumen mit Vor-Ort-Glasverklebung, externer Technikinstallation sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779659156/Totale-1-1024x683_eajr2d.jpg"],
   "technicalDetails": {
-    "terrarium": "Aquaterrarium / Regenwald",
+    "Terrarium Typ": "Aquaterrarium / Regenwald",
     "reptilien": [
       "Dendrobaten",
       "Phelsumen"
     ],
-    "maßeTerrariumBTH": "1870x625x1875 mm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "1870x625x1875 mm",
     "wasserstand": "40 cm",
     "dekor": [
       "silber lackierte Frontklappe"
@@ -2722,9 +2722,9 @@
   "description": "Professionelles Paludarium für den Schulzoo der Bertold-Brecht-Schule in Nürnberg mit Wasserfall, Granitfels-Jungle-Optik sowie umfassender Klima- und Wassertechnik.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779659790/Paludarium-Totale_1_ep2xqk.jpg"],
   "technicalDetails": {
-    "terrarium": "Paludarium / Regenwald",
+    "Terrarium Typ": "Paludarium / Regenwald",
     "reptilien": "Chinesische Rotbauchunke",
-    "maßeTerrariumBTH": "75x70x135 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "75x70x135 cm",
     "lichtkastenHöhe": "25 cm",
     "wasserstand": "25-30 cm",
     "dekor": [
@@ -2824,9 +2824,9 @@
   "description": "Großes Wüsten-/Steppenterrarium für Bartagamen im Schulzoo der Berthold-Brecht-Schule Nürnberg mit Sandsteinlandschaft, LED-Mondlichtsystem und pädagogischem Betreuungskonzept.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779660870/Wuestenterrarium-Totale-1024x683_yy8lrn.jpg"],
   "technicalDetails": {
-    "terrarium": "Wüste/Steppe",
+    "Terrarium Typ": "Wüste/Steppe",
     "reptilien": "Bartagame – Pogona vitticeps",
-    "maßeTerrariumBTH": "200x70x135 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "200x70x135 cm",
     "lichtkastenHöhe": "18 cm",
     "unterschrank": [
       "kundenseitig gestellt"
@@ -2889,9 +2889,9 @@
   "description": "Großes Panorama-Wüstenterrarium für Leopardgeckos mit beidseitigen Panoramaecken, detailreicher Felslandschaft und Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779660872/S07-Panorama-Totale_q1lmgx.jpg"],
   "technicalDetails": {
-    "terrarium": "Wüste/Steppe",
+    "Terrarium Typ": "Wüste/Steppe",
     "reptilien": "Leopardgeckos – Eublepharis macularius",
-    "maßeTerrariumBTH": "190x100x120 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "190x100x120 cm",
     "lichtkastenHöhe": "18 cm",
     "unterschrankHöhe": "70 cm",
     "unterschrank": [
@@ -2959,9 +2959,9 @@
   "description": "Großes Paludarium für grüne Wasseragamen mit integriertem Schwimmbereich, Granitfels-Jungle-Optik sowie umfassender Klima- und Wassertechnik.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779660870/Totale-Paludarium-1024x683_z71xhn.jpg"],
   "technicalDetails": {
-    "terrarium": "Paludarium / Regenwald",
+    "Terrarium Typ": "Paludarium / Regenwald",
     "reptilien": "Grüne Wasseragamen – Physignathus cocincinus",
-    "maßeTerrariumBTH": "190x80x160 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "190x80x160 cm",
     "unterschrankHöhe": "60 cm",
     "unterschrank": [
       "4 Türen",
@@ -3029,9 +3029,9 @@
   "description": "Hochwertiges Königspython-Terrarium mit integrierter Urwaldgott-Skulptur „Haceki“, Wetbox, Beregnungsanlage sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779660868/Landschaftstotale-2-1024x683_oydtp9.jpg"],
   "technicalDetails": {
-    "terrarium": "Halbfeucht/Wald",
+    "Terrarium Typ": "Halbfeucht/Wald",
     "reptilien": "Königspython",
-    "maßeTerrariumBTH": "160x65x125 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "160x65x125 cm",
     "lichtkastenHöhe": "25 cm",
     "unterschrankHöhe": "90 cm",
     "unterschrank": [
@@ -3096,9 +3096,9 @@
   "description": "Großes Aquaterrarium für Wasserschildkröten mit integriertem Landteil, Sonneninsel, professioneller Wasserfiltertechnik sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779660866/Totale-Landschaft1-1024x768_nhgbbp.jpg"],
   "technicalDetails": {
-    "terrarium": "Aquaterrarium / Regenwald",
+    "Terrarium Typ": "Aquaterrarium / Regenwald",
     "reptilien": "Wasserschildkröten",
-    "maßeTerrariumBTH": "180x100x110 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "180x100x110 cm",
     "lichtkastenHöhe": "18 cm",
     "wasserstand": "40 cm",
     "dekor": [
@@ -3170,10 +3170,10 @@
   "description": "Modernes Wüstenterrarium für Zwerg-Bartagamen mit verdeckt liegenden Rollen, Sandsteinlandschaft sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779660864/Totale-von-links-1024x683_qh8v7p.jpg"],
   "technicalDetails": {
-    "terrarium": "Wüste/Steppe",
+    "Terrarium Typ": "Wüste/Steppe",
     "reptilien": "Zwerg-Bartagame",
     "terratyp": "S07",
-    "maßeTerrariumBTH": "150x100x110 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "150x100x110 cm",
     "lichtkastenHöhe": "18 cm",
     "unterschrank": [
       "kein Unterschrank",
@@ -3239,12 +3239,12 @@
   "description": "Großes Steppen-Terrarium für Bartagamen mit elfenbeinfarbener Sandsteinlandschaft, großzügigem Unterschrank sowie leistungsstarker Wüstenbeleuchtung.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779661055/Totale-im-Zimmer-1024x683_fsmamt.jpg"],
   "technicalDetails": {
-    "terrarium": "Wüste/Steppe",
+    "Terrarium Typ": "Wüste/Steppe",
     "reptilien": [
       "Bartagamen – Pogona vitticeps",
       "weitere Wüsten- und Steppenreptilien"
     ],
-    "maßeTerrariumBTH": "220x70x100 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "220x70x100 cm",
     "unterschrankHöhe": "100 cm",
     "dekor": [
       "weiß mit Miniperloberfläche",
@@ -3283,10 +3283,10 @@
   "description": "Elegantes Orchidarium mit Granitfels-Jungle-Optik, Sanlight EVO Pflanzenbeleuchtung sowie Beregnungs- und Lüftungssystem für tropische Orchideen.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779660982/Landschaftstotale-1024x1024_l8nvwl.jpg"],
   "technicalDetails": {
-    "terrarium": "Regenwaldterrarium",
+    "Terrarium Typ": "Regenwaldterrarium",
     "verwendung": "Orchideen",
     "terratyp": "R03",
-    "maßeTerrariumBTH": "160x65x125 cm",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "160x65x125 cm",
     "unterschrankHöhe": "70 cm",
     "unterschrank": [
       "2 Türen links",
@@ -3340,7 +3340,7 @@
   "description": "Large desert/steppe terrarium for leopard geckos with panoramic rock landscape, integrated humid hide, and programmable sunrise, sunset, and moonlight simulation.",
   "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779660866/Totale-Terra-Leopardgecko-1024x683_rzks04.jpg"],
   "technicalDetails": {
-    "terrarium": "Desert/Steppe",
+    "Terrarium Typ": "Desert/Steppe",
     "reptiles": [
       "Leopard geckos – Eublepharis macularius"
     ],
