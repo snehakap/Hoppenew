@@ -133,7 +133,7 @@ export function Videos() {
 
             {/* YouTube */}
             <a
-              href="https://youtube.com"
+              href="https://www.youtube.com/channel/UCwuUnRbtF3nZnZz47vyrR2A"
               target="_blank"
               rel="noopener noreferrer"
               className="group relative overflow-hidden rounded-[32px]
@@ -246,7 +246,7 @@ export function Videos() {
               bg-gradient-to-r from-green-400 to-slate-500
               [font-family:'Playfair_Display',serif]"
             >
-              Latest Content
+              Aktuellste Projekte
             </h2>
 
             <div className="text-slate-500">
