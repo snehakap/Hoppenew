@@ -42,7 +42,7 @@ export function Layout() {
       {/* ================= HEADER ================= */}
 <nav className="fixed top-0 left-0 right-0 z-50 bg-[#00A86B] backdrop-blur-xl border-b border-white/10 shadow-[0_4px_20px_rgba(0,0,0,0.3)]">
   
-  <div className="w-full px-0 py-3">
+  <div className="w-full px-0 py-2 md:py-2">
 
     {/* TOP BAR */}
     <div className="relative flex items-center justify-between">
