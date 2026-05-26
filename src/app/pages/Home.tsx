@@ -65,13 +65,7 @@ export function Home() {
                 title: "Premium Handwerkskunst",
                 description:
                   "Exklusives Möbeldesign für ihr Terraium.",
-                icon: (
-                  <>
-                    <circle cx="12" cy="8" r="4" />
-                    <path d="M8 14l4 3 4-3" />
-                    <path d="M10 14v4l2-1 2 1v-4" />
-                  </>
-                ),
+                
               },
               {
                 title: "Individuelles Design",
