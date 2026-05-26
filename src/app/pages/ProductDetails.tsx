@@ -203,14 +203,16 @@ export function ProductDetails() {
               {product.images.map((image, index) => (
                 <div
                   key={index}
-                  className="min-w-full flex-shrink-0"
+                  className="min-w-full flex-shrink-0
+flex items-center justify-center
+bg-slate-50"
                 >
 
                   <img
                     src={image}
                     alt={`${product.title} ${index + 1}`}
                     className="w-full h-[450px] md:h-[700px]
-                    object-cover"
+object-contain bg-slate-100"
                   />
 
                 </div>
