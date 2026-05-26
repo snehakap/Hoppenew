@@ -217,7 +217,7 @@ export function ProductDetails() {
                     src={image}
                     alt={`${product.title} ${index + 1}`}
                     onClick={() => setSelectedImage(image)}
-                    className="w-full h-[450px] md:h-[700px]
+                    className="w-full h-[300px] md:h-[500px]
                     object-contain bg-slate-100
                     cursor-zoom-in"
                   />
