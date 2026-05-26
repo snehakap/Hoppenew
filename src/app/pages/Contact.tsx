@@ -5,7 +5,7 @@ export function Contact() {
   return (
     <>
       {/* ================= HEADING ================= */}
-      <section className="pt-28 pb-16 bg-white">
+      <section className="pt-12 md:pt-24 pb-24 bg-white">
         <div className="max-w-4xl mx-auto px-6 lg:px-8 text-center">
           <h1
             className="text-4xl md:text-5xl font-semibold tracking-tight
