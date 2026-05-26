@@ -294,7 +294,14 @@ export function ProductDetails() {
               <div className="relative pb-[56.25%] h-0">
 
                 <iframe
-                  src={product.youtube}
+                  src={
+  product.youtube.includes("watch?v=")
+    ? product.youtube.replace(
+        "watch?v=",
+        "embed/"
+      )
+    : product.youtube
+}
                   title="YouTube video"
                   className="absolute top-0 left-0
                   w-full h-full"
