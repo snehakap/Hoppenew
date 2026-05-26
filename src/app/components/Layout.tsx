@@ -16,7 +16,7 @@ export function Layout() {
     { name: "Terrarienbewohner", href: "/about" },
     { name: "Soziale Medien", href: "/videos" },
     { name: "Kontakt", href: "/contact" },
-    { name: "Legal", href: "/legal" },
+    { name: "Rechtliches", href: "/legal" },
   ];
 
   const isActive = (href: string) => {
