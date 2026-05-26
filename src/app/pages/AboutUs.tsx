@@ -54,10 +54,8 @@ export function AboutUs() {
   // ================= FILTERED PRODUCTS =================
   const filteredProducts = searchedProducts.filter((product) => {
 
-    // no filter selected
     if (!selectedFilter) return true;
 
-    // filter by ReptilienTyp
     return product.ReptilienTyp === selectedFilter;
   });
 
@@ -190,11 +188,12 @@ export function AboutUs() {
                 <Link
                   key={product.id}
                   to={`/reptiles/${product.id}`}
-                  className="group block"
+                  className="group block h-full"
                 >
 
                   <div
-                    className="overflow-hidden rounded-[30px]
+                    className="h-full flex flex-col
+                    overflow-hidden rounded-[30px]
                     bg-white border border-slate-200
                     shadow-[0_10px_35px_rgba(0,0,0,0.08)]
                     hover:shadow-[0_20px_60px_rgba(0,0,0,0.15)]
@@ -203,26 +202,26 @@ export function AboutUs() {
                   >
 
                     {/* ================= IMAGE ================= */}
-                    <div className="overflow-hidden">
+                    <div className="overflow-hidden h-[420px] md:h-[500px]">
 
                       <img
                         src={product.images?.[0]}
                         alt={product.title}
-                        cclassName="w-full h-[420px] md:h-[500px]
-object-cover transition duration-700 ease-out
-group-hover:scale-105"
+                        className="w-full h-full
+                        object-cover transition duration-700 ease-out
+                        group-hover:scale-105"
                       />
 
                     </div>
 
                     {/* ================= TEXT BELOW IMAGE ================= */}
-                    <div className="p-8">
+                    <div className="p-8 flex-1 flex items-start">
 
                       {/* Title */}
                       <h2
                         className="text-2xl md:text-3xl
                         font-semibold text-slate-900
-                        leading-snug mb-4
+                        leading-snug
                         transition-colors duration-300
                         group-hover:text-[#00A86B]
                         [font-family:'Playfair_Display',serif]"
