@@ -264,6 +264,55 @@ export function ProductDetails() {
         </div>
       </section>
 
+      {/* ================= YOUTUBE VIDEO ================= */}
+      {product.youtube && (
+
+        <section className="pb-28">
+
+          <div className="max-w-5xl mx-auto px-6 lg:px-8">
+
+            {/* SECTION TITLE */}
+            <div className="text-center mb-16">
+
+              <h2
+                className="text-4xl md:text-5xl font-semibold tracking-tight
+                text-transparent bg-clip-text
+                bg-gradient-to-r from-green-400 to-slate-500
+                [font-family:'Playfair_Display',serif]"
+              >
+                Video
+              </h2>
+
+            </div>
+
+            {/* VIDEO */}
+            <div
+              className="overflow-hidden rounded-[32px]
+              shadow-[0_20px_60px_rgba(0,0,0,0.15)]"
+            >
+
+              <div className="relative pb-[56.25%] h-0">
+
+                <iframe
+                  src={product.youtube}
+                  title="YouTube video"
+                  className="absolute top-0 left-0
+                  w-full h-full"
+                  allow="accelerometer; autoplay; clipboard-write;
+                  encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                />
+
+              </div>
+
+            </div>
+
+          </div>
+
+        </section>
+
+      )}
+
       {/* ================= TECHNICAL DETAILS ================= */}
       <section className="pb-28">
 
