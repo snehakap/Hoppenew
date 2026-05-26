@@ -6,7 +6,8 @@ import {
 
 import {
   ChevronLeft,
-  ChevronRight
+  ChevronRight,
+  X
 } from "lucide-react";
 
 import ProductData from "./ProductsData.json";
@@ -24,6 +25,10 @@ export function ProductDetails() {
   const scrollRef = useRef<HTMLDivElement | null>(null);
 
   const [currentIndex, setCurrentIndex] = useState(0);
+
+  // ================= IMAGE MODAL =================
+  const [selectedImage, setSelectedImage] =
+    useState<string | null>(null);
 
   /* ================= AUTO SLIDE ================= */
   useEffect(() => {
@@ -204,15 +209,17 @@ export function ProductDetails() {
                 <div
                   key={index}
                   className="min-w-full flex-shrink-0
-flex items-center justify-center
-bg-slate-50"
+                  flex items-center justify-center
+                  bg-slate-50"
                 >
 
                   <img
                     src={image}
                     alt={`${product.title} ${index + 1}`}
+                    onClick={() => setSelectedImage(image)}
                     className="w-full h-[450px] md:h-[700px]
-object-contain bg-slate-100"
+                    object-contain bg-slate-100
+                    cursor-zoom-in"
                   />
 
                 </div>
@@ -374,6 +381,41 @@ object-contain bg-slate-100"
         </div>
 
       </section>
+
+      {/* ================= FULLSCREEN IMAGE MODAL ================= */}
+      {selectedImage && (
+
+        <div
+          className="fixed inset-0 z-[999]
+          bg-black/90 backdrop-blur-sm
+          flex items-center justify-center
+          p-4"
+        >
+
+          {/* CLOSE BUTTON */}
+          <button
+            onClick={() => setSelectedImage(null)}
+            className="absolute top-6 right-6
+            w-12 h-12 rounded-full
+            bg-white/10 hover:bg-white/20
+            border border-white/20
+            flex items-center justify-center
+            transition-all duration-300"
+          >
+            <X className="w-6 h-6 text-white" />
+          </button>
+
+          {/* IMAGE */}
+          <img
+            src={selectedImage}
+            alt="Fullscreen"
+            className="max-w-full max-h-[90vh]
+            object-contain rounded-2xl"
+          />
+
+        </div>
+
+      )}
 
     </div>
   );
