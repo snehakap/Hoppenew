@@ -164,7 +164,7 @@ export function Products() {
             <div className="text-center py-20">
 
               <h2 className="text-3xl font-semibold text-slate-800 mb-4">
-                Keine Produkte gefunden
+                Kein Terrarium gefunden
               </h2>
 
               <p className="text-slate-500">
