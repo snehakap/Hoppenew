@@ -11,9 +11,9 @@ export function Layout() {
   const navigation = [
     { name: "Home", href: "/" },
     { name: "Ihr Terrarium", href: "/service" },
-    { name: "Terrarium Calculator", href: "/Calculator" },
+    { name: "Terrarium Kalkulator", href: "/Calculator" },
     { name: "Unsere Terrarien", href: "/products" },
-    { name: "Reptilien", href: "/about" },
+    { name: "Terrarienbewohner", href: "/about" },
     { name: "Soziale Medien", href: "/videos" },
     { name: "Kontakt", href: "/contact" },
     { name: "Legal", href: "/legal" },
