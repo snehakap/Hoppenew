@@ -71,17 +71,13 @@ export function Home() {
                 title: "Individuelles Design",
                 description:
                   "Jedes Terrarium wird individuell an Ihre Wünsche, Ihren Raum und die Bedürfnisse Ihrer Tiere angepasst.",
-                icon: (
-                  <path d="M14.7 6.3a4 4 0 0 0-5.4 5.4l-5 5a2 2 0 0 0 2.8 2.8l5-5a4 4 0 0 0 5.4-5.4l-2.2 2.2-3.2-3.2z" />
-                ),
+                
               },
               {
                 title: "Lieferung und Montage",
                 description:
                   "Wir Liferung ihr Terrarium zu Ihnen und leisten die Endmontage Vorort.",
-                icon: (
-                  <path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z" />
-                ),
+                
               },
             ].map((feature, index) => (
 
@@ -103,33 +99,7 @@ export function Home() {
                   opacity-30 pointer-events-none"
                 />
 
-                {/* Icon */}
-                <div
-                  className="w-20 h-20 mx-auto mb-6 flex items-center justify-center
-                  rounded-2xl
-                  bg-gradient-to-br from-slate-300 via-slate-100 to-slate-400
-                  shadow-[0_10px_25px_rgba(0,0,0,0.15),inset_0_2px_6px_rgba(255,255,255,0.6)]
-                  border border-slate-200
-                  group-hover:scale-105
-                  group-hover:shadow-[0_0_25px_rgba(0,255,150,0.25)]
-                  transition-all duration-300"
-                >
-
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    stroke="black"
-                    strokeWidth="1.5"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    className="w-9 h-9 transition-all duration-300
-                    group-hover:drop-shadow-[0_0_8px_rgba(0,255,150,0.6)]"
-                  >
-                    {feature.icon}
-                  </svg>
-
-                </div>
+              
 
                 {/* Title */}
                 <h3
