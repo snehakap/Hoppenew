@@ -68,41 +68,37 @@ return (
             >
 
               {/* ================= IMAGE ================= */}
-              <Link
-                to={`/prozess/${step.id}`}
-                className="group relative block"
-              >
+<div className="group relative block">
 
-                <div
-                  className="overflow-hidden rounded-[36px]
-                  shadow-[0_25px_80px_rgba(0,0,0,0.18)]"
-                >
+  <div
+    className="overflow-hidden rounded-[36px]
+    shadow-[0_25px_80px_rgba(0,0,0,0.18)]"
+  >
 
-                  <img
-                    src={step.cover_image}
-                    alt={step.title}
-                    className="w-full h-[420px] md:h-[520px]
-                    object-cover
-                    transition duration-700
-                    group-hover:scale-105"
-                  />
+    <img
+      src={step.cover_image}
+      alt={step.title}
+      className="w-full h-[420px] md:h-[520px]
+      object-cover
+      transition duration-700
+      group-hover:scale-105"
+    />
 
-                </div>
+  </div>
 
-                {/* ================= STEP NUMBER ================= */}
-                <div
-                  className="absolute -top-6 -left-6
-                  w-20 h-20 rounded-full
-                  bg-[#00A86B]
-                  text-white text-2xl font-semibold
-                  flex items-center justify-center
-                  shadow-2xl"
-                >
-                  {String(index + 1).padStart(2, "0")}
-                </div>
+  {/* ================= STEP NUMBER ================= */}
+  <div
+    className="absolute -top-6 -left-6
+    w-20 h-20 rounded-full
+    bg-[#00A86B]
+    text-white text-2xl font-semibold
+    flex items-center justify-center
+    shadow-2xl"
+  >
+    {String(index + 1).padStart(2, "0")}
+  </div>
 
-              </Link>
-
+</div>
               {/* ================= TEXT ================= */}
               <div>
 
