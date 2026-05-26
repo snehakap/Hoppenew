@@ -40,9 +40,9 @@ export function Layout() {
        <ScrollToTop />
 
       {/* ================= HEADER ================= */}
-<nav className="fixed top-0 left-0 right-0 z-50 bg-[#00A86B] backdrop-blur-xl border-b border-white/10 shadow-[0_4px_20px_rgba(0,0,0,0.3)]">
+<nav className="fixed top-0 left-0 right-0 z-50 bg-[#00A86B] shadow-md">
   
-  <div className="w-full px-0 py-2 md:py-2">
+  <div className="w-full px-4 py-3 md:py-2">
 
     {/* TOP BAR */}
     <div className="relative flex items-center justify-between">
@@ -57,7 +57,7 @@ export function Layout() {
 </Link>
 
 {/* CENTER LOGO */}
-<div className="absolute left-1/2 transform -translate-x-1/2 pointer-events-none">
+<div className="absolute inset-0 flex items-center justify-center pointer-events-none">
   <img
     src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779471607/HOPPE-Terrarienbau-transparent-3D_kls9am_d5ek6h.png"
     alt="Center Logo"
