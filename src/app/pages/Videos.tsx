@@ -15,7 +15,7 @@ export function Videos() {
         "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1777754262/hero2_syfkgq.jpg",
       title: "Custom Rainforest Build",
       subtitle: "Latest Instagram Post",
-      link: "https://instagram.com",
+      link: "https://www.instagram.com/hoppe_terrarienbau/",
     },
     {
       platform: "YouTube",
@@ -24,7 +24,7 @@ export function Videos() {
         "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1777754262/hero3_rpydqf.jpg",
       title: "Full Terrarium Showcase",
       subtitle: "Watch on YouTube",
-      link: "https://youtube.com",
+      link: "https://www.youtube.com/channel/UCwuUnRbtF3nZnZz47vyrR2A",
       video: true,
     },
     {
@@ -34,7 +34,7 @@ export function Videos() {
         "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1777671427/hero_dpygut.jpg",
       title: "Customer Installation",
       subtitle: "Community Update",
-      link: "https://facebook.com",
+      link: "https://www.facebook.com/Hoppe.Terrarienbau.Exclusiv/",
     },
     {
       platform: "Instagram",
@@ -43,7 +43,7 @@ export function Videos() {
         "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1777671427/hero_dpygut.jpg",
       title: "Luxury Jungle Setup",
       subtitle: "Behind The Scenes",
-      link: "https://instagram.com",
+      link: "https://www.instagram.com/hoppe_terrarienbau/",
     },
   ];
 
@@ -85,7 +85,7 @@ export function Videos() {
 
             {/* Instagram */}
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/hoppe_terrarienbau/"
               target="_blank"
               rel="noopener noreferrer"
               className="group relative overflow-hidden rounded-[32px]
@@ -181,7 +181,7 @@ export function Videos() {
 
             {/* Facebook */}
             <a
-              href="https://facebook.com"
+              href="https://www.facebook.com/Hoppe.Terrarienbau.Exclusiv/"
               target="_blank"
               rel="noopener noreferrer"
               className="group relative overflow-hidden rounded-[32px]
@@ -248,10 +248,6 @@ export function Videos() {
             >
               Aktuellste Projekte
             </h2>
-
-            <div className="text-slate-500">
-              @HoppeTerrarienbau
-            </div>
 
           </div>
 
