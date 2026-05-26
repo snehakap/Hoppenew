@@ -41,7 +41,7 @@ export function Legal() {
   return (
     <div className="min-h-screen bg-white">
       {/* ================= HERO SECTION ================= */}
-      <section className="pt-16 md:pt-24 pb-24 bg-white">
+      <section className="pt-8 md:pt-24 pb-24 bg-white">
         <div className="max-w-6xl mx-auto px-6 lg:px-8">
           {/* ================= HEADER ================= */}
           <div className="text-center mb-20">
