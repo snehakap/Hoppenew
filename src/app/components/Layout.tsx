@@ -52,7 +52,7 @@ export function Layout() {
   <img
     src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779093748/Gecko-Hoppe-080425-RZ06-Chrome_3D_ohne-txt-800px_agc69g.png"
     alt="Hoppe Logo"
-    className="w-[180px] h-auto object-contain"
+    className="w-[190px] h-auto object-contain"
   />
 </Link>
 
