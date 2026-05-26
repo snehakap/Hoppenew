@@ -59,6 +59,8 @@ export function Contact() {
                 Gewerbering 11
                 <br />
                 47661 Issum
+                <br />
+                Deutschland
               </p>
             </div>
 
@@ -88,7 +90,7 @@ export function Contact() {
 
               <div className="text-slate-600 text-lg leading-relaxed space-y-4">
                 <div>
-                  <p className="font-semibold">Tech and Support:</p>
+                  <p className="font-semibold">Technik und Support:</p>
                   <p>00 49 178 8585416</p>
                 </div>
 
@@ -163,7 +165,7 @@ export function Contact() {
               <p className="text-slate-600 text-lg leading-relaxed">
                 Montag - Freitag
                 <br />
-                09:00 - 18:00 Uhr
+                09:00 - 17:00 Uhr
               </p>
             </div>
           </div>
