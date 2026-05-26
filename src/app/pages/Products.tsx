@@ -201,8 +201,9 @@ export function Products() {
                         src={product.images[0]}
                         alt={product.title}
                         className="w-full h-[420px] md:h-[500px]
-                        object-cover transition duration-700 ease-out
-                        group-hover:scale-105"
+object-contain bg-slate-100
+transition duration-700 ease-out
+group-hover:scale-105"
                       />
 
                     </div>
