@@ -1,11 +1,35 @@
 import { useState } from "react";
 import { Link } from "react-router";
-import { Search } from "lucide-react";
+import { Search, ChevronDown } from "lucide-react";
 import Fuse from "fuse.js";
 import ProductData from "./ProductsData.json";
 
 export function Products() {
+
   const [searchTerm, setSearchTerm] = useState("");
+  const [selectedFilter, setSelectedFilter] = useState("");
+
+  // ================= FILTER OPTIONS =================
+  const terrariumFilters = [
+    "Wüsten- / Steppenterrarien",
+    "Halbfeucht- / Waldterrarien für Schlangen",
+    "Felswand- / Trockenmauer-Terrarien",
+    "Regenwaldterrarien",
+    "Paludarien",
+    "Aqua-Terrarien",
+    "Orchideen-Vitrine",
+    "Delta-Terrarien",
+    "Panorama-Terrarien",
+    "Raumteiler",
+    "Mehrstöckige Terrarien",
+    "Terrarien als Schrankwände",
+    "Terrarien unter Schrägen",
+    "Smartline",
+    "Terrarien für Zoos und öffentliche Einrichtungen",
+    "Terrarien für Landschildkröten",
+    "Landschaften für den Selbsteinbau",
+    "Landschaften für Vogelkäfige",
+  ];
 
   // ================= FUZZY SEARCH =================
   const fuse = new Fuse(ProductData, {
@@ -14,19 +38,34 @@ export function Products() {
       "technicalDetails.terrarium",
       "technicalDetails.reptilien",
     ],
-    threshold: 0.4, // typo tolerance
+    threshold: 0.4,
   });
 
-  const filteredProducts =
+  // Search Results
+  const searchedProducts =
     searchTerm.trim() === ""
       ? ProductData
       : fuse.search(searchTerm).map((result) => result.item);
+
+  // ================= FILTER PRODUCTS =================
+  const filteredProducts = searchedProducts.filter((product) => {
+
+    // if no dropdown selected
+    if (!selectedFilter) return true;
+
+    // check Terrarientypen inside JSON
+    return (
+      product?.Terrarientypen === selectedFilter ||
+      product?.technicalDetails?.Terrarientypen === selectedFilter
+    );
+  });
 
   return (
     <div className="min-h-screen bg-white">
 
       {/* ================= HEADING ================= */}
       <section className="pt-12 md:pt-24 pb-24 bg-white">
+
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
 
           {/* Heading */}
@@ -47,11 +86,13 @@ export function Products() {
             >
               Entdecken Sie unsere individuell gefertigten Premium-Terrarien.
             </p>
+
           </div>
 
-          {/* ================= SEARCH BAR ================= */}
-          <div className="flex justify-center mt-10">
+          {/* ================= SEARCH + FILTER ================= */}
+          <div className="flex flex-col md:flex-row gap-4 justify-center mt-10">
 
+            {/* SEARCH */}
             <div className="relative w-full md:w-[420px]">
 
               <Search
@@ -75,6 +116,39 @@ export function Products() {
               />
 
             </div>
+
+            {/* FILTER DROPDOWN */}
+            <div className="relative w-full md:w-[320px]">
+
+              <ChevronDown
+                className="absolute right-4 top-1/2
+                -translate-y-1/2 text-slate-400 w-5 h-5 pointer-events-none"
+              />
+
+              <select
+                value={selectedFilter}
+                onChange={(e) => setSelectedFilter(e.target.value)}
+                className="w-full appearance-none px-5 py-4
+                rounded-2xl border border-slate-200
+                bg-white text-slate-700
+                shadow-[0_8px_25px_rgba(0,0,0,0.05)]
+                focus:outline-none
+                focus:ring-2 focus:ring-[#00A86B]
+                focus:border-transparent
+                transition-all duration-300"
+              >
+                <option value="">Terrarientypen</option>
+
+                {terrariumFilters.map((filter) => (
+                  <option key={filter} value={filter}>
+                    {filter}
+                  </option>
+                ))}
+
+              </select>
+
+            </div>
+
           </div>
 
         </div>
@@ -82,6 +156,7 @@ export function Products() {
 
       {/* ================= PRODUCTS GRID ================= */}
       <section className="pb-28">
+
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
 
           {filteredProducts.length === 0 ? (
@@ -93,7 +168,7 @@ export function Products() {
               </h2>
 
               <p className="text-slate-500">
-                Versuchen Sie einen anderen Suchbegriff.
+                Versuchen Sie einen anderen Suchbegriff oder Filter.
               </p>
 
             </div>
@@ -119,7 +194,7 @@ export function Products() {
                     hover:-translate-y-2"
                   >
 
-                    {/* ================= IMAGE ================= */}
+                    {/* IMAGE */}
                     <div className="overflow-hidden">
 
                       <img
@@ -132,10 +207,9 @@ export function Products() {
 
                     </div>
 
-                    {/* ================= TEXT BELOW IMAGE ================= */}
+                    {/* TEXT */}
                     <div className="p-8">
 
-                      {/* Title */}
                       <h2
                         className="text-2xl md:text-3xl
                         font-semibold text-slate-900
@@ -147,7 +221,6 @@ export function Products() {
                         {product.title}
                       </h2>
 
-                      {/* Mini Info */}
                       <div className="space-y-2">
 
                         {product.technicalDetails?.terrarium && (
