@@ -3560,7 +3560,7 @@
     "id": 51,
     "title": "Terrarium für Dornschwanzagamen",
     "description": "Großes Wüsten-/Steppenterrarium für Dornschwanzagamen mit detaillierter Felslandschaft, leistungsstarker Wüstenbeleuchtung sowie programmierbarer Sonnenauf- und Untergangssteuerung.",
-    "images": [],
+    "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779707401/Totale-Terrarium-Dornschwanzagamen-1024x683_zog3yr.jpg"],
     "technicalDetails": {
       "Terrarium Typ": "Wüste/Steppe",
       "reptilien": [
@@ -3631,7 +3631,7 @@
     "id": 52,
     "title": "Terrarium mit abtrennbarer Wand für Stachelschwanzwarane",
     "description": "Großes Wüsten-/Steppenterrarium für Stachelschwanzwarane mit abtrennbarer Mittelwand, detailreicher Felslandschaft und programmierbarer Sonnenauf- und Untergangssteuerung.",
-    "images": [],
+    "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779707401/Totale-Stachelschwanzwaran-1024x683_vno3fb.jpg"],
     "technicalDetails": {
       "Terrarium Typ": "Wüste/Steppe",
       "reptilien": [
@@ -3708,7 +3708,7 @@
     "id": 53,
     "title": "Terrarium für einen Schrankeinbau",
     "description": "Maßgefertigtes Wüsten-/Steppenterrarium für den Einbau in eine vorhandene Schranknische mit spezieller Belüftung, modularer Bauweise und integrierter Sonnenauf- und Untergangssteuerung.",
-    "images": [],
+    "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779707401/eingebauter-Zustand-1024x683_ddsmul.jpg"],
     "technicalDetails": {
       "Terrarium Typ": "Wüste/Steppe",
       "reptilien": [
@@ -3769,7 +3769,7 @@
     "id": 54,
     "title": "Terrarium für eine Kornnatter in Deltaform",
     "description": "Kompaktes Delta-Terrarium für Kornnattern mit Granitfels-Jungle-Optik, echter Bepflanzung sowie programmierbarer Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
-    "images": [],
+    "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779707402/T-Delta-Totale_vvbu1l.jpg"],
     "technicalDetails": {
       "Terrarium Typ": "Halbfeucht/Wald",
       "reptilien": [
@@ -3845,7 +3845,7 @@
     "id": 55,
     "title": "Nagarium für Mäuse – für den Schulzoo der Bertold-Brecht Schule in Nürnberg",
     "description": "Großes Nagarium für Farbmäuse und Vielzitzenmäuse im Schulzoo der Berthold-Brecht-Schule mit modularen Innenbereichen, sicheren Lüftungssystemen und robuster, nagesicherer Konstruktion.",
-    "images": [],
+    "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779707400/Totale-Nagarium-1024x768_uflqjx.jpg"],
     "technicalDetails": {
       "Terrarium Typ": "Nagarium",
       "tiere": [
@@ -3889,7 +3889,7 @@
     "id": 56,
     "title": "Terrarium für eine Dornschwanzagame",
     "description": "Großes Wüsten-/Steppenterrarium für Dornschwanzagamen und Chuckwallas mit Panoramaecke, schmalen Felsquetschspalten und modularer Bauweise für den Transport ins Obergeschoss.",
-    "images": [],
+    "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779707400/Terrarium-im-Zimmer-1024x768_exk9ex.jpg"],
     "technicalDetails": {
       "Terrarium Typ": "Wüste/Steppe",
       "reptilien": [
