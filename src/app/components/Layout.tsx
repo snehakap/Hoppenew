@@ -61,7 +61,7 @@ export function Layout() {
   <img
     src="https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779471607/HOPPE-Terrarienbau-transparent-3D_kls9am_d5ek6h.png"
     alt="Center Logo"
-    className="w-[260px] md:w-[480px] h-auto object-contain"
+    className="w-[260px] md:w-[440px] h-auto object-contain"
   />
 </div>
 
