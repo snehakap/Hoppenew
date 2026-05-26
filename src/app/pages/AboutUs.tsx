@@ -1,11 +1,37 @@
 import { useState } from "react";
 import { Link } from "react-router";
-import { Search } from "lucide-react";
+import { Search, ChevronDown } from "lucide-react";
 import Fuse from "fuse.js";
 import ProductData from "./Reptiles.json";
 
 export function AboutUs() {
+
   const [searchTerm, setSearchTerm] = useState("");
+  const [selectedFilter, setSelectedFilter] = useState("");
+
+  // ================= FILTER OPTIONS =================
+  const reptileFilters = [
+    "Agamen (Agamidae)",
+    "Chamäleons (Chamaeleonidae)",
+    "Eidechsen (Lacertidae)",
+    "Geckos (Gekkonidae)",
+    "Krustenechsen (Helodermatidae)",
+    "Leguane (Iguanidae)",
+    "Lurche (Amphibia)",
+    "Rüsselspringer (Macroscelidea)",
+    "Schildkröten (Chelonia)",
+    "Schlangen",
+    "Nattern (Colubridae)",
+    "Pythons (Pythonoidea)",
+    "Riesenschlangen (Boidae)",
+    "Giftnattern (Elapidae)",
+    "Grubenottern (Crotalinae)",
+    "Vipern (Viperidae)",
+    "Shinisauridae",
+    "Skinke (Scincidae)",
+    "Stabschrecken (Phasmatidae)",
+    "Warane (Varanidae)",
+  ];
 
   // ================= FUZZY SEARCH =================
   const fuse = new Fuse(ProductData, {
@@ -16,19 +42,31 @@ export function AboutUs() {
       "umbrella_term",
       "species_name_latin",
     ],
-    threshold: 0.4, // typo tolerance
+    threshold: 0.4,
   });
 
-  const filteredProducts =
+  // ================= SEARCH RESULTS =================
+  const searchedProducts =
     searchTerm.trim() === ""
       ? ProductData
       : fuse.search(searchTerm).map((result) => result.item);
+
+  // ================= FILTERED PRODUCTS =================
+  const filteredProducts = searchedProducts.filter((product) => {
+
+    // no filter selected
+    if (!selectedFilter) return true;
+
+    // filter by ReptilienTyp
+    return product.ReptilienTyp === selectedFilter;
+  });
 
   return (
     <div className="min-h-screen bg-white">
 
       {/* ================= HEADING ================= */}
       <section className="pt-12 md:pt-24 pb-24 bg-white">
+
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
 
           {/* Heading */}
@@ -40,7 +78,7 @@ export function AboutUs() {
               bg-gradient-to-r from-green-400 to-slate-500
               [font-family:'Playfair_Display',serif]"
             >
-              Unsere Reptilien
+              Terrarienbewohner
             </h1>
 
             <p
@@ -52,9 +90,10 @@ export function AboutUs() {
 
           </div>
 
-          {/* ================= SEARCH BAR ================= */}
-          <div className="flex justify-center mt-10">
+          {/* ================= SEARCH + FILTER ================= */}
+          <div className="flex flex-col md:flex-row gap-4 justify-center mt-10">
 
+            {/* SEARCH BAR */}
             <div className="relative w-full md:w-[420px]">
 
               <Search
@@ -78,6 +117,46 @@ export function AboutUs() {
               />
 
             </div>
+
+            {/* FILTER DROPDOWN */}
+            <div className="relative w-full md:w-[340px]">
+
+              <ChevronDown
+                className="absolute right-4 top-1/2
+                -translate-y-1/2 text-slate-400
+                w-5 h-5 pointer-events-none"
+              />
+
+              <select
+                value={selectedFilter}
+                onChange={(e) => setSelectedFilter(e.target.value)}
+                className="w-full appearance-none px-5 py-4
+                rounded-2xl border border-slate-200
+                bg-white text-slate-700
+                shadow-[0_8px_25px_rgba(0,0,0,0.05)]
+                focus:outline-none
+                focus:ring-2 focus:ring-[#00A86B]
+                focus:border-transparent
+                transition-all duration-300"
+              >
+
+                <option value="">
+                  Reptilien
+                </option>
+
+                {reptileFilters.map((filter) => (
+                  <option
+                    key={filter}
+                    value={filter}
+                  >
+                    {filter}
+                  </option>
+                ))}
+
+              </select>
+
+            </div>
+
           </div>
 
         </div>
@@ -85,6 +164,7 @@ export function AboutUs() {
 
       {/* ================= PRODUCTS GRID ================= */}
       <section className="pb-28">
+
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
 
           {filteredProducts.length === 0 ? (
@@ -96,7 +176,7 @@ export function AboutUs() {
               </h2>
 
               <p className="text-slate-500">
-                Versuchen Sie einen anderen Suchbegriff.
+                Versuchen Sie einen anderen Suchbegriff oder Filter.
               </p>
 
             </div>
@@ -129,7 +209,8 @@ export function AboutUs() {
                         src={product.images?.[0]}
                         alt={product.title}
                         className="w-full h-[420px] md:h-[500px]
-                        object-cover transition duration-700 ease-out
+                        object-contain bg-slate-100
+                        transition duration-700 ease-out
                         group-hover:scale-105"
                       />
 
