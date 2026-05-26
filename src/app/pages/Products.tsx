@@ -26,7 +26,7 @@ export function Products() {
     <div className="min-h-screen bg-white">
 
       {/* ================= HEADING ================= */}
-      <section className="pt-28 pb-16 bg-white">
+      <section className="pt-12 md:pt-24 pb-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
 
           {/* Heading */}
