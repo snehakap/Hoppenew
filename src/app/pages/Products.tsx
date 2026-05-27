@@ -35,7 +35,7 @@ export function Products() {
   const fuse = new Fuse(ProductData, {
     keys: [
       "title",
-      "technicalDetails.terrarium",
+      "technicalDetails.Terrarium Typ",
       "technicalDetails.reptilien",
     ],
     threshold: 0.4,
@@ -59,6 +59,27 @@ export function Products() {
       product?.technicalDetails?.Terrarientypen === selectedFilter
     );
   });
+
+  // ================= SAFE RENDER HELPERS =================
+  const renderValue = (value) => {
+
+    if (!value) return "";
+
+    // Array
+    if (Array.isArray(value)) {
+      return value.join(", ");
+    }
+
+    // Object
+    if (typeof value === "object") {
+      return Object.values(value)
+        .flat()
+        .join(", ");
+    }
+
+    // String / Number
+    return value;
+  };
 
   return (
     <div className="min-h-screen bg-white">
@@ -198,7 +219,7 @@ export function Products() {
                     <div className="overflow-hidden">
 
                       <img
-                        src={product.images[0]}
+                        src={product.images?.[0] || "/placeholder.jpg"}
                         alt={product.title}
                         className="w-full h-[420px] md:h-[500px]
 object-contain bg-slate-100
@@ -224,12 +245,14 @@ group-hover:scale-105"
 
                       <div className="space-y-2">
 
-                        {product.technicalDetails?.terrarium && (
+                        {product.technicalDetails?.["Terrarium Typ"] && (
                           <p className="text-slate-600">
                             <span className="font-medium text-slate-800">
                               Terrarium:
                             </span>{" "}
-                            {product.technicalDetails.terrarium}
+                            {renderValue(
+                              product.technicalDetails["Terrarium Typ"]
+                            )}
                           </p>
                         )}
 
@@ -238,7 +261,9 @@ group-hover:scale-105"
                             <span className="font-medium text-slate-800">
                               Reptilien:
                             </span>{" "}
-                            {product.technicalDetails.reptilien}
+                            {renderValue(
+                              product.technicalDetails.reptilien
+                            )}
                           </p>
                         )}
 
