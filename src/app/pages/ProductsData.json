@@ -3687,8 +3687,13 @@
     "id": 47,
     "title": "Steppen-Terrarium für Bartagamen",
     "description": "Großes Steppen-Terrarium für Bartagamen mit elfenbeinfarbener Sandsteinlandschaft, großzügigem Unterschrank sowie leistungsstarker Wüstenbeleuchtung.",
-    "images": [
-      
+    "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779661055/Totale-im-Zimmer-1024x683_fsmamt.jpg",
+      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779917454/Landschaftstotale-1-1024x683_au6wdp.jpg",
+      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779917462/Landschaft-rechts-1-1024x683_bjwnm2.jpg",
+      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779917468/Landschaft-links-1-1024x683_zspytq.jpg",
+      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779917501/Hoehlen-1024x683_pwcwyb.jpg",
+      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779917509/Kletteraeste-1024x577_oxrauv.jpg",
+      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779917516/Trinknapf-1024x577_icoaes.jpg" 
     ],
     "technicalDetails": {
       "Terrarium Typ": "Wüste/Steppe",
@@ -3736,7 +3741,6 @@
     "description": "Elegantes Orchidarium mit Granitfels-Jungle-Optik, Sanlight EVO Pflanzenbeleuchtung sowie Beregnungs- und Lüftungssystem für tropische Orchideen.",
     "images": [
       "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779660982/Landschaftstotale-1024x1024_l8nvwl.jpg",
-      "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779661055/Totale-im-Zimmer-1024x683_fsmamt.jpg",
       "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779916419/Landschaftstotale-1024x1024_mbxoyo.jpg",
       "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779916426/Landschaft-links-768x1024_m6vdxs.jpg",
       "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779916432/Landschaft-rechts-1024x1024_eitvrl.jpg",
@@ -3882,13 +3886,7 @@
     "id": 51,
     "title": "Terrarium für Dornschwanzagamen",
     "description": "Großes Wüsten-/Steppenterrarium für Dornschwanzagamen mit detaillierter Felslandschaft, leistungsstarker Wüstenbeleuchtung sowie programmierbarer Sonnenauf- und Untergangssteuerung.",
-    "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779707401/Totale-Terrarium-Dornschwanzagamen-1024x683_zog3yr.jpg",
-    "",
-      "",
-      "",
-      "",
-      "",
-      ""],
+    "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779707401/Totale-Terrarium-Dornschwanzagamen-1024x683_zog3yr.jpg"],
     "technicalDetails": {
       "Terrarium Typ": "Wüste/Steppe",
       "reptilien": [
