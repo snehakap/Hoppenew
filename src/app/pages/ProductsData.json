@@ -4501,12 +4501,12 @@
     "title": "Großes Regenwaldterrarium für Baumwarane",
     "description": "4,6 Kubikmeter großes Regenwaldterrarium für blaue Baumwarane mit modularer Bauweise, epiphytischer Bepflanzung sowie umfangreicher Regenwaldtechnik.",
     "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779707400/Totale-frontal2-1024x746_mlaujw.jpg",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""],
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982222/Totale-diagonal-im-Raum-683x1024_jcmjvw.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982234/Landschaftstotale-2-1024x683_rgsjgc.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982228/Totale-von-links-683x1024_ieixxd.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982240/Landschaft-rechte-Ha_CC_88fte-683x1024_gu0omr.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982257/Landschaft-mit-Bromelien-1024x683_x4kjqv.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982305/Landschaft-linke-Ha_CC_88lfte-683x1024_jdib6y.jpg"],
     "youtube": "https://www.youtube.com/watch?v=2xumwiM2g7A",
     "technicalDetails": {
       "Terrarium Typ": "Regenwaldterrarium",
@@ -4576,7 +4576,23 @@
     "id": 60,
     "title": "2 doppelstöckige Terrarien in Deltaform für Königspythons",
     "description": "Zwei doppelstöckige Delta-Terrarien für Königspythons mit Granitfels-Waldlandschaft, Wetboxen, Nachtbeheizung sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
-    "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779707400/Totale-beide-Deltas-1024x683_ulhctd.jpg"],
+    "images": ["https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779707400/Totale-beide-Deltas-1024x683_ulhctd.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982399/Zimmer-komplett-1024x576_o3kihi.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982409/Totale-linker-Doppelsto_CC_88cker-683x1024_wtbo4i.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982415/Terra-links-oben-1024x683_kpmy0k.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982421/Terra-links-unten-1024x683_ukf9du.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982427/Totale-rechter-Doppelsto_CC_88cker-683x1024_beg6se.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982434/Terra-rechts-unten-1024x683_mlaso7.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982441/Terra-rechts-oben-1024x683_fe1eas.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982449/Landschaft-4-1024x683_jsxymk.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982457/Ko_CC_88py-1-1024x768_b66l02.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982463/Wetbox-2-Liegeplateaus-1024x683_ihre1z.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982471/Ko_CC_88py-am-Boden-1024x768_nxd865.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982478/Landschaft-3-1024x683_eunxkt.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982483/Ko_CC_88py-im-Versteck-1024x768_vsyhqy.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982498/Landschaft-1-1024x683_e9xtlg.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982488/Landschaft-2-1024x683_wceokh.jpg",
+    "https://res.cloudinary.com/dyhc4jwuo/image/upload/v1779982503/Wetbox-am-Boden-1024x683_rf98kk.jpg"],
     "youtube": "https://www.youtube.com/watch?v=DjD49FfJWcs",
     "technicalDetails": {
       "Terrarium Typ": "Halbfeucht/Wald",
@@ -5178,160 +5194,6 @@
         "Gerüstaufbau auf der Treppe"
       ]
     }
-  }
-},
-  {
-  "id": 67,
-  "title": "Schlangenterrarium in Einzelteilen nach Mallorca transportiert",
-  "description": "Großes Waldterrarium für Schönnattern, speziell für den Transport nach Mallorca in Einzelteilen gefertigt. Das Terrarium wurde für eine Wandnische konzipiert und mit separater Lichtdecke, vorgefertigter Landschaft sowie umfangreicher Klima- und Lichttechnik ausgestattet.",
-  "images": [],
-    "technicalDetails": {
-    "Terrarium Typ": "Halbfeucht/Wald",
-    "Terrarientypen": "Halbfeucht- / Waldterrarien für Schlangen",
-    "ReptilienTyp": "Nattern (Colubridae)",
-    "reptilien": [
-      "Schönnattern – Orthriophis taeniurus"
-    ],
-    "Terrarium Maße: Breite × Tiefe × Höhe": "199x93x150 cm",
-    "dekor": [
-      "weiß Miniperl"
-    ],
-    "schiebescheiben": [
-      "Schiebescheiben wurden vom Kunden vor Ort beschafft"
-    ],
-    "beleuchtung": [
-      "2 Bright Sun Jungle Flood",
-      "3 Wärme-Licht-Spots",
-      "5 flach eingebaute Reflektoren mit Schutzgittern",
-      "weiße Lichtdecke zur besseren Lichtreflektion"
-    ],
-    "lüftung": [
-      "weiße Lüftungsgitter in der Lichtdecke",
-      "Abluft-Lüfter im Lichtkasten",
-      "zusätzlicher Lüfter kombinierbar mit Klimaanlage"
-    ],
-    "besonderheiten": [
-      "für Wandnische gebaut",
-      "Transport nach Mallorca",
-      "Landschaft in 3 Teilen vorgefertigt",
-      "separate Lichtdecke mit kompletter Technik",
-      "Anschlussleisten für Seitenwände",
-      "unsichtbare wasserdichte Innenverkleidung aus Kunststoff",
-      "Transport in 2 großen Transportkisten",
-      "Kombination mit Klimaanlage möglich",
-      "Wetbox mit abnehmbarem Deckel"
-    ],
-    "felslandschaft": [
-      "Granitfels-Wald-Landschaft",
-      "Felsen",
-      "Wurzeln",
-      "Rinden-Elemente",
-      "Korkelemente",
-      "echte Pflanzen",
-      "Kletteräste"
-    ],
-    "technik": [
-      "2x Thermo Control zur Temperatursteuerung"
-    ],
-    "beregnungsanlage": [
-      "5 Düsen",
-      "Rückschlagventil",
-      "Feinfilter",
-      "Wassertank",
-      "sekundengenau einstellbare Zeitschaltuhr"
-    ],
-    "sonnenaufUntergangMondlichtSet": {
-      "features": [
-        "HC Sonnenauf- und Untergangs-Set",
-        "Mondlichtfunktion"
-      ]
-    },
-    "pflanzenSet": [
-      "echte Pflanzen",
-      "Kletteräste"
-    ],
-    "transportUndMontage": {
-      "art": "Transport in Einzelteilen",
-      "ziel": "Mallorca",
-      "inklusive": [
-        "Landschaft in 3 Segmenten",
-        "Material zum Verbinden der Landschaftsteile",
-        "2 große Transportkisten",
-        "separate Lichtdecke",
-        "Montage durch Kunden vor Ort"
-      ]
-    }
-  }
-},
-  {
-  "id": 68,
-  "title": "Umbau eines Aquariums in ein Aquaterrarium",
-  "description": "Umbau eines bestehenden Meerwasseraquariums in ein großformatiges Süßwasser-Aquaterrarium mit Mangroven-Uferlandschaft für Diskusfische. Die Anlage kombiniert Unterwasserlandschaft, bepflanzte Uferbereiche, Wasserfälle sowie umfangreiche Klima- und Beleuchtungstechnik.",
-  "images": [],
-    "youtube":"https://www.youtube.com/watch?v=8JBWMJjt4yg",
-    "technicalDetails": {
-    "Terrarium Typ": "Aquaterrarium",
-    "Terrarientypen": "Aqua-Terrarien",
-    "ReptilienTyp": "Lurche (Amphibia)",
-    "reptilien": [
-      "Diskusfische"
-    ],
-    "Terrarium Maße: Breite × Tiefe × Höhe": "250x120x100 cm",
-    "dekor": [
-      "bestehendes Aquarium umgebaut"
-    ],
-    "beleuchtung": [
-      "2x 120 cm Aquamedic Aquarius Plant",
-      "2x 90 cm Aquamedic Aquarius Plant",
-      "2 abgehängte Reflektoren mit Keramikstrahlern"
-    ],
-    "lüftung": [
-      "Lüfterset mit 4 Ventilatoren",
-      "12 cm Ø Ventilatoren",
-      "Trafo und elektronische Zeitschaltuhr",
-      "Frontmontage gegen beschlagene Scheiben"
-    ],
-    "besonderheiten": [
-      "Umbau eines bestehenden Meerwasseraquariums",
-      "Süßwasser-Aquaterrarium",
-      "Mangroven-Uferlandschaft",
-      "bepflanzte Wandbereiche oberhalb der Wasserfläche",
-      "Technikraum hinter dem Aquarium",
-      "große externe Filteranlage",
-      "2 integrierte Wasserfälle"
-    ],
-    "felslandschaft": [
-      "Granitfels-Jungle-Optik",
-      "Mangroven-Uferlandschaft",
-      "große Wurzeln",
-      "Unterwasserpflanzen",
-      "epiphytisch aufgebundene Bromelien",
-      "Rankpflanzen"
-    ],
-    "wassertechnik": [
-      "2 eingebaute Wasserfälle",
-      "große externe Filteranlage"
-    ],
-    "technik": [
-      "Thermo-Control zur Nachtbeheizung",
-      "Temperatursteuerung auf z.B. 25°C Lufttemperatur"
-    ],
-    "beregnungsanlage": [
-      "5 Düsen"
-    ],
-    "heizung": [
-      "2x Dark Spot Keramikstrahler 100W",
-      "Nachtbeheizung für kalte Jahreszeiten"
-    ],
-    "pflanzenSet": [
-      "Rankpflanzen",
-      "Unterwasserpflanzen",
-      "epiphytisch aufgebundene Bromelien"
-    ],
-    "technikaraum": [
-      "Technik hinter dem Aquarium in separatem Raum",
-      "große Filteranlage extern installiert"
-    ]
   }
 },
   {
