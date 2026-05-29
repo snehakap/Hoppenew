@@ -4750,7 +4750,7 @@
   "id": 62,
   "title": "Steppen-/Wüsten-Terrarium mit 2 Panorama-Seiten",
   "description": "Großes Steppen-/Wüstenterrarium mit zwei Panorama-Seiten, elfenbein-sandsteinfarbener Wüstenlandschaft, integrierter Licht- und Klimatechnik sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion. Das Terrarium wurde komplett eingerichtet und in zwei Teilen mit vorprogrammierter Technik in die Schweiz geliefert.",
-  "images": [],
+  "images": ["/images/Totale-im-Raum-773x1024.jpg","/images/62.jpg","/images/62.1.jpg","/images/62.3.jpg","/images/Landschaft-rechts-1024x768.jpg","/images/Landschaft-683x1024.jpg","/images/Zwergbartagame-1024x683.jpg"],
     "technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": "Panorama-Terrarien",
@@ -5390,7 +5390,8 @@
   "id": 71,
   "title": "Bartagamen-Terrarium mit Panoramaseite",
   "description": "Großes Wüsten- und Steppenterrarium für Bartagamen mit Panoramaseite, integrierter Höhle, elfenbeinfarbener Sandsteinlandschaft sowie hochwertiger Licht- und Belüftungstechnik. Das Terrarium wurde mehrteilig gefertigt und vor Ort im 2. Obergeschoss montiert.",
-  "images": [],"youtube":"https://www.youtube.com/watch?v=GOPAtLn-wMg",
+  "images": [],
+    "youtube":"https://www.youtube.com/watch?v=GOPAtLn-wMg",
     "technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": "Panorama-Terrarien",
