@@ -4669,7 +4669,7 @@
   "id": 61,
   "title": "Chamäleon-Terrarium in mehreren Teilen gebaut fürs 3. OG",
   "description": "Großes Regenwaldterrarium für ein Chamäleon mit Granitfels-Wald-Optik, integrierter Beregnungsanlage, Lüftersystem sowie echten Pflanzen und Kletterästen. Die Anlage wurde in 5 Teilen gebaut und vor Ort im 3. Obergeschoss in Berlin montiert. Das Pflanzenwachstum nach einem Jahr ist dokumentiert.",
-  "images": [],
+  "images": ["/images/terrarium-1.png","/images/terrarium-1.png","/images/terrarium-1.png","/images/terrarium-1.png","/images/terrarium-1.png","/images/terrarium-1.png","/images/terrarium-1.png"],
     "technicalDetails": {
     "Terrarium Typ": "Regenwald",
     "Terrarientypen": "Regenwaldterrarien",
