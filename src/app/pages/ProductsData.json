@@ -8659,5 +8659,4628 @@
       "höhenverstellbare Füße"
     ]
   }
-} 
+},
+  {
+  "id": 112,
+  "title": "Schlangenterrarium im Stil einer Mayatempel-Optik",
+  "description": "Individuell gestaltetes Schlangenterrarium für einen Königspython mit detailreicher Mayatempel-Optik, Wandreliefs und Drachenkopf-Dekoration. Das Terrarium wurde speziell für die Platzierung unter einem Treppenaufgang sowie zur Integration eines vorhandenen Technikkastens geplant.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Halbfeucht/Wald",
+    "Terrarientypen": "Terrarien unter Schrägen",
+    "ReptilienTyp": "Pythons (Pythonoidea)",
+    "reptilien": [
+      "Königspython"
+    ],
+    "Terrarium Maße: Breite × Tiefe × Höhe": "123x78x132 cm",
+    "unterschrankHöhe": "30 cm",
+    "dekor": [
+      "weiß Miniperloberfläche"
+    ],
+    "bauweise": [
+      "für Aufstellung unter einem Treppenaufgang konzipiert",
+      "integrierte Umbauung eines vorhandenen Technikkastens an der rechten Wandseite"
+    ],
+    "besonderheiten": [
+      "Mayatempel-Optik",
+      "individuelle Themenlandschaft",
+      "freistehender Drachenkopf",
+      "zwei Maya-Wandreliefs",
+      "unsichtbare wasserdichte Innenverkleidung aus Kunststoff"
+    ],
+    "landschaft": [
+      "Mayatempel-Optik",
+      "Steinquader",
+      "Drachenkopf-Skulptur",
+      "Maya-Reliefs",
+      "Tempelruinen-Design"
+    ],
+    "schiebescheiben": [
+      "6mm Glas mit polierten Kanten",
+      "rollengelagertes Laufschuhsystem"
+    ],
+    "beleuchtung": [
+      "1 Bright Sun Jungle 35W",
+      "2 Wärme-Licht-Spots",
+      "3 flach integrierte Reflektoren mit Schutzgittern",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "Kaminlüftung",
+      "weiße Lüftungseinsätze in der Lichtdecke",
+      "alternativ große Gazefläche"
+    ],
+    "technik": [
+      "Thermocontrol",
+      "Humidity Control",
+      "Displayeinbau im Rahmen der Blende"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC Sonnenauf- und Untergangs-Set",
+        "Mondlichtfunktion"
+      ]
+    },
+    "unterschrank": [
+      "integriertes Unterschrankfach mit Klappe"
+    ]
+  }
+},
+ {
+  "id": 113,
+  "title": "Megagroßes Steppenterrarium in Deltaform für Halsbandleguane",
+  "description": "Großes Delta-Terrarium für Goldkopf-Halsbandleguane mit terrassenförmig aufgebauter Steppenlandschaft, zahlreichen Höhlen, echten Wüstenpflanzen sowie professioneller Klima- und Beleuchtungstechnik.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Wüste/Steppe",
+    "Terrarientypen": "Delta-Terrarien",
+    "ReptilienTyp": "Leguane (Iguanidae)",
+    "reptilien": [
+      "Goldkopf-Halsbandleguan – Crotaphytus collaris utah"
+    ],
+    "Terrarium Maße": {
+      "schenkellaengeLinks": "180 cm",
+      "schenkellaengeRechts": "130 cm",
+      "seitenschenkel": "40 cm",
+      "hoehe": "170 cm",
+      "unterschrankHoehe": "40 cm"
+    },
+    "dekor": [
+      "Eiche Anthor natur",
+      "weitere Dekore verfügbar"
+    ],
+    "besonderheiten": [
+      "Deltaform",
+      "Megagröße",
+      "terrassenförmiger Landschaftsaufbau",
+      "viele integrierte Höhlen"
+    ],
+    "landschaft": [
+      "Steppenlandschaft",
+      "mehrfarbig besandet",
+      "elfenbein-sandsteinfarbig",
+      "Terracottastrukturen",
+      "terrassenförmiger Aufbau",
+      "zahlreiche Höhlen"
+    ],
+    "pflanzenSet": [
+      "echte Wüstenbüsche",
+      "echte Sukkulenten",
+      "künstliche Sukkulenten"
+    ],
+    "schiebescheiben": [
+      "6mm Glas mit polierten Kanten im Laufschuhsystem"
+    ],
+    "beleuchtung": [
+      "5 Bright Sun Desert",
+      "3 Wärme-Licht-Spots",
+      "8 drehbare weiße Einbaustrahler",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "senkrecht eingebaute Lüftungsrosetten in der Glasbodenblende",
+      "weiße Lüftungseinsätze in der Lichtdecke"
+    ],
+    "technik": [
+      "Thermo Control",
+      "Humidity Control",
+      "Displays im Alu-Rahmen der Blende eingebaut"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC Sonnenauf- und Untergangs-Set",
+        "Mondlichtfunktion"
+      ]
+    },
+    "unterschrank": [
+      "40 cm Höhe"
+    ]
+  }
+},
+ {
+  "id": 114,
+  "title": "Paludarium für madagassische Goldfrösche (Mantella aurantiaca)",
+  "description": "Großes Paludarium für madagassische Goldfrösche mit naturgetreuem Nachbau ihres ursprünglichen Lebensraums auf Madagaskar. Die Anlage wurde nach Vorgaben des Mantella-Spezialisten Andreas Altenmüller gestaltet und verfügt über saisonal überflutbare Bereiche, Wasserlauf sowie professionelle Klima- und Beleuchtungstechnik.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Paludarium",
+    "Terrarientypen": "Paludarien",
+    "ReptilienTyp": "Lurche (Amphibia)",
+    "reptilien": [
+      "Madagassischer Goldfrosch – Mantella aurantiaca"
+    ],
+    "temperaturbereich": "18–27 °C",
+    "standort": "Physiotherapie-Praxis Mannheim",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "200x100x100 cm",
+    "unterschrankHöhe": "110 cm",
+    "dekor": [
+      "Eiche Halifax Natur",
+      "weitere Holzdekore verfügbar"
+    ],
+    "besonderheiten": [
+      "Nachbildung eines Originalhabitats aus Madagaskar",
+      "Gestaltung nach Vorgaben von Andreas Altenmüller",
+      "saisonal überflutbare Landschaft",
+      "für Regenzeit mit 4–5 cm Überflutung ausgelegt",
+      "Wasserstand saisonal variierbar",
+      "beidseitig nutzbarer Unterschrank",
+      "für öffentliche Präsentation im Praxisfoyer konzipiert"
+    ],
+    "glas": [
+      "unsichtbarer Ganzglaskern aus 12mm Floatglas",
+      "6mm VSG-Schiebescheiben",
+      "rollengelagertes Laufschuhsystem",
+      "Drosophiladichtung zwischen den Scheiben"
+    ],
+    "landschaft": [
+      "Originalhabitat-Nachbildung aus Madagaskar",
+      "Pandanuswurzelstöcke",
+      "kleiner Wasserfall",
+      "Bachlauf",
+      "Wasserkanal",
+      "saisonal überflutbare Bereiche"
+    ],
+    "wasserbereich": [
+      "Wasserkanal",
+      "Wasserstand ca. 6 cm",
+      "saisonal bis 10 cm Wasserstand",
+      "teilweise Überflutung während der Regenzeit"
+    ],
+    "ausstattung": [
+      "2 flach integrierte Reflektoren mit Schutzgittern",
+      "senkrechte Lüftungsrosetten in Glasbodenblende",
+      "2 große Gazeflächen in der Lichtdecke",
+      "Ablauf mit Absperrhahn durch die Bodenplatte"
+    ],
+    "beleuchtung": [
+      "2 Bright Sun Jungle 35W",
+      "2 LED-Leisten 150 cm Tagweiß",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "2 große Gazeflächen in der Lichtdecke",
+      "Lüfterset mit 2 Ventilatoren",
+      "zeitgesteuerte Entlüftung nach außen"
+    ],
+    "technik": [
+      "Humidity Control mit Display im Alu-Rahmen",
+      "HC Sonnenauf- und Untergangs-Set",
+      "Mondlichtfunktion"
+    ],
+    "wassertechnik": [
+      "Wasserfallpumpe mit Vorfilter",
+      "Heizstab"
+    ],
+    "luftbefeuchtung": [
+      "integrierter Luftbefeuchter",
+      "Humidity-Control gesteuert"
+    ],
+    "lüftersystem": [
+      "2 Ventilatoren",
+      "12 cm Ø",
+      "Trafo",
+      "elektronische Zeitschaltuhr"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC Sonnenauf- und Untergangs-Set",
+        "Mondlichtfunktion"
+      ]
+    },
+    "unterschrank": [
+      "beidseitige Türen",
+      "Teleskop-Schubladen",
+      "Stauraum für Praxisunterlagen"
+    ],
+    "referenzen": {
+      "berater": "Andreas Altenmüller",
+      "fachbuch": "Madagaskar-Buntfrösche – Die Gattung Mantella"
+    }
+  }
+},
+  {
+  "id": 115,
+  "title": "Terrarium für ägyptische Landschildkröten (Testudo kleinmanni) in L-Form",
+  "description": "Maßgefertigtes L-förmiges Landschildkröten-Terrarium für ägyptische Landschildkröten mit großzügiger Lauffläche, integrierter Eiablagekiste, Sukkulentenbereichen sowie professioneller UV-, Klima- und Feuchtigkeitssteuerung.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Landschildkröten",
+    "Terrarientypen": "Terrarien für Landschildkröten",
+    "ReptilienTyp": "Schildkröten (Chelonia)",
+    "reptilien": [
+      "Ägyptische Landschildkröte – Testudo kleinmanni"
+    ],
+    "Terrarium Maße": {
+      "langeSeite": "237 cm x 54 cm",
+      "kurzeSeite": "133 cm x 68 cm",
+      "hoehe": "100 cm",
+      "unterschrankHoehe": "90 cm"
+    },
+    "dekor": [
+      "Eiche Sanremo"
+    ],
+    "bauweise": [
+      "L-Form",
+      "großzügige Bewegungsfläche"
+    ],
+    "besonderheiten": [
+      "integrierte Eiablagekiste",
+      "Pflanzeinsätze für echte Sukkulenten",
+      "komplette wasserdichte Innenversiegelung"
+    ],
+    "landschaft": [
+      "mehrfarbig besandet",
+      "elfenbein-sandsteinfarbig",
+      "Terracottastrukturen"
+    ],
+    "pflanzenSet": [
+      "echte Sukkulenten"
+    ],
+    "schiebescheiben": [
+      "6mm Glas mit polierten Kanten",
+      "Laufschuhsystem"
+    ],
+    "lüftung": [
+      "Kaminfrontlüftung",
+      "waagerechte Gaze-Lüftung",
+      "Lüfterset"
+    ],
+    "beleuchtung": [
+      "3 Bright Sun Desert 70W inklusive EVG",
+      "5 LED-Lampen",
+      "LED-Leisten in Tagweiß",
+      "abgehängte Reflektoren",
+      "UV-Versorgung optimiert durch 35 cm Montagehöhe über dem Bodengrund"
+    ],
+    "heizung": [
+      "2 Darklight 60W",
+      "Thermocontrol-gesteuert"
+    ],
+    "beregnungsanlage": [
+      "3 Düsen",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr",
+      "im rechten Winkel integriert"
+    ],
+    "luftbefeuchtung": [
+      "2 eingebaute Luftbefeuchter",
+      "Ausströmer in Bambusrohren integriert"
+    ],
+    "steuerung": [
+      "2 Humidity Control II",
+      "Thermocontrol Pro II"
+    ],
+    "displayEinbau": [
+      "Displays im Alu-Rahmen der Lichtkastenblende integriert"
+    ],
+    "sensorik": [
+      "Temperaturfühler im Leerrohr hinter der Landschaft",
+      "Messpunkt 5 cm über dem Sand"
+    ],
+    "unterschrank": [
+      "90 cm Höhe"
+    ]
+  }
+},
+  {
+  "id": 116,
+  "title": "Paludarium für Rotaugen-Buschkrokodile",
+  "description": "Tropisches Paludarium für Rotaugen-Buschkrokodile mit integriertem Wasserteil, Wasserfall, dichter Jungle-Landschaft und professioneller Klima-, Beregnungs- und Beleuchtungstechnik. Die Anlage bietet sowohl feuchte Rückzugsorte als auch grabbare Landbereiche für eine naturnahe Haltung.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Paludarium",
+    "Terrarientypen": "Paludarien",
+    "ReptilienTyp": "Skinke (Scincidae)",
+    "reptilien": [
+      "Rotaugen-Buschkrokodil – Tribolonotus gracilis"
+    ],
+    "Terrarium Maße: Breite × Tiefe × Höhe": "100x60x90 cm",
+    "unterschrankHöhe": "70 cm",
+    "dekor": [
+      "dunkelgrau",
+      "weitere Holzdekore verfügbar"
+    ],
+    "besonderheiten": [
+      "integrierter Wasserteil",
+      "naturnaher Rückzugsbereich",
+      "grabbarer Landbereich",
+      "für dämmerungs- und nachtaktive Tiere optimiert"
+    ],
+    "glas": [
+      "unsichtbarer Ganzglaskern aus 6mm Floatglas",
+      "4mm Glas im Doppel-U-Profil",
+      "Drosophiladichtung zwischen den Scheiben"
+    ],
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "Rankpflanzen",
+      "epiphytisch aufgebundene Bromelien",
+      "Farne",
+      "Moose",
+      "Verstecke unter Wurzeln",
+      "grabbarer Landbereich"
+    ],
+    "wasserbereich": [
+      "kleiner Wasserfall",
+      "Bachlauf",
+      "Wasserstand ca. 15 cm"
+    ],
+    "ausstattung": [
+      "3 flach integrierte Reflektoren mit Schutzgittern",
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "große Gazefläche in der weißen Lichtdecke"
+    ],
+    "beleuchtung": [
+      "1 Bright Sun Jungle 35W",
+      "2 Wärme-Licht-Spots",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "wassertechnik": [
+      "Eheim-Filter im Unterschrank",
+      "Wasserfilterung",
+      "Betrieb des Wasserfalls"
+    ],
+    "beregnungsanlage": [
+      "3 Düsen",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "luftbefeuchtung": [
+      "eingebauter Luftbefeuchter",
+      "Humidity-Control gesteuert"
+    ],
+    "steuerung": [
+      "Humidity-Control mit Anzeige im Alu-Rahmen",
+      "Thermo-Control mit Anzeige im Alu-Rahmen"
+    ],
+    "lüftersystem": [
+      "2 Ventilatoren",
+      "12 cm Ø",
+      "Trafo",
+      "elektronische Zeitschaltuhr",
+      "zeitweise aktive Entlüftung nach außen"
+    ],
+    "lüftung": [
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "große Gazefläche in der Lichtdecke",
+      "aktive Entlüftung durch Lüfterset"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC-Sonnenaufgangs-Set",
+        "HC-Sonnenuntergangs-Set",
+        "Mondlichtfunktion"
+      ],
+      "empfehlung": "besonders für dämmerungs- und nachtaktive Tiere empfohlen"
+    },
+    "unterschrank": [
+      "70 cm Höhe",
+      "integrierte Wassertechnik"
+    ]
+  }
+},
+ {
+  "id": 117,
+  "title": "Paludarium für Dendrobaten (Pfeilgiftfrösche)",
+  "description": "Kompaktes tropisches Paludarium für Pfeilgiftfrösche mit integriertem Wasserlauf, dichter Jungle-Bepflanzung, Wasserfall sowie professioneller Klima-, Beregnungs- und Beleuchtungstechnik. Die Anlage wurde für einen Kunden in der Schweiz mit entsprechender Elektroausstattung gefertigt.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Paludarium",
+    "Terrarientypen": "Paludarien",
+    "ReptilienTyp": "Lurche (Amphibia)",
+    "reptilien": [
+      "Pfeilgiftfrösche – Dendrobaten"
+    ],
+    "Terrarium Maße: Breite × Tiefe × Höhe": "80x50x135 cm",
+    "dekor": [
+      "weiß mit Miniperloberfläche",
+      "weitere Holzdekore verfügbar"
+    ],
+    "besonderheiten": [
+      "kompakte Hochbauweise",
+      "für tropische Pfeilgiftfrösche optimiert",
+      "Verkabelung mit Schweizer Endstecker"
+    ],
+    "glas": [
+      "unsichtbarer Ganzglaskern aus 6mm Floatglas",
+      "4mm Glas im Doppel-U-Profil",
+      "Drosophiladichtung zwischen den Scheiben"
+    ],
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "epiphytisch aufgebundene Bromelien",
+      "Rankpflanzen",
+      "bemooste Flächen",
+      "Wurzeln",
+      "Lianen",
+      "trockene Landbereiche"
+    ],
+    "wasserbereich": [
+      "kleiner Wasserfall",
+      "Bachlauf",
+      "Wasserkanal",
+      "Wasserstand ca. 6 cm"
+    ],
+    "ausstattung": [
+      "3 flach integrierte Reflektoren mit Schutzgittern",
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "große Gazefläche in der weißen Lichtdecke"
+    ],
+    "beleuchtung": [
+      "2 Bright Sun Jungle 35W",
+      "1 Wärme-Licht-Spot",
+      "Temperaturbereich 23–27 °C",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "wassertechnik": [
+      "Wasserfallpumpe mit Vorfilter"
+    ],
+    "beregnungsanlage": [
+      "3 Düsen",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "luftbefeuchtung": [
+      "eingebauter Luftbefeuchter",
+      "Humidity-Control gesteuert"
+    ],
+    "steuerung": [
+      "Humidity-Control mit Anzeige im Alu-Rahmen",
+      "Thermo-Control mit Anzeige im Alu-Rahmen"
+    ],
+    "lüftersystem": [
+      "2 Ventilatoren",
+      "12 cm Ø",
+      "Trafo",
+      "elektronische Zeitschaltuhr",
+      "zeitweise Entlüftung nach außen"
+    ],
+    "lüftung": [
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "große Gazefläche in der Lichtdecke",
+      "aktive Belüftung durch Lüfterset"
+    ],
+    "elektrik": [
+      "Verkabelung mit Schweizer Endstecker"
+    ]
+  }
+},
+{
+  "id": 118,
+  "title": "Aqua-Terrarium für verschiedene Laubfroscharten und andere Frösche",
+  "description": "Großes tropisches Aqua-Terrarium für verschiedene Laubfroscharten, Pfeilgiftfrösche und weitere Amphibien mit integriertem Wasserteil, Wasserfall, dichter Jungle-Bepflanzung sowie umfangreicher Klima-, Filter- und Beleuchtungstechnik. Die Anlage wurde für einen Kunden in Stockholm gefertigt und bis in die 3. Etage transportiert.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Aqua-Terrarium",
+    "Terrarientypen": "Aqua-Terrarien",
+    "ReptilienTyp": "Lurche (Amphibia)",
+    "reptilien": [
+      "Rotaugenlaubfrosch – Agalychnis callidryas",
+      "Lemur-Laubfrosch – Agalychnis lemur",
+      "Surinam-Clownfrosch – Dendropsophus leucophyllatus",
+      "Bromelien-Laubfrosch – Dendropsophus ebraccatus",
+      "Vietnam-Moosfrosch – Theloderma corticale",
+      "Glasfrosch – Hyalinobatrachium fleischmanni",
+      "Pfeilgiftfrosch – Dendrobates tinctorius azureus",
+      "Indischer Schwimmfrosch – Occidozyga lima",
+      "Tropischer Krallenfrosch – Xenopus tropicalis"
+    ],
+    "Terrarium Maße: Breite × Tiefe × Höhe": "200x70x185 cm",
+    "dekor": [
+      "Echtholz",
+      "ölbasierte Holzlasur",
+      "Hartwachs-Öl Beschichtung",
+      "Lichtkasten optisch an vorhandenen Unterschrank angepasst"
+    ],
+    "besonderheiten": [
+      "für zahlreiche Amphibienarten konzipiert",
+      "Transport und Aufbau in Stockholm (3. Etage)",
+      "individuell an vorhandenen Unterschrank angepasst",
+      "großer Wasserbereich mit Filtertechnik"
+    ],
+    "glas": [
+      "Ganzglaskern aus 12mm Floatglas",
+      "6mm Glasscheiben im Laufschuhsystem",
+      "Drosophiladichtung zwischen den Scheiben"
+    ],
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "epiphytisch aufgebundene Bromelien",
+      "Rankpflanzen",
+      "Wasserfall",
+      "Bachlauf"
+    ],
+    "wasserbereich": [
+      "Wasserstand 30 cm",
+      "integrierter Wasserfall",
+      "Bachlauf"
+    ],
+    "ausstattung": [
+      "5 flach integrierte Reflektoren mit Schutzgittern",
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "große Gazefläche in der weißen Lichtdecke"
+    ],
+    "beleuchtung": [
+      "3 Bright Sun Jungle 70W Flood",
+      "2 Wärme-Licht-Spots",
+      "weiße Lichtdecke zur optimalen Lichtreflektion"
+    ],
+    "wassertechnik": [
+      "Wasserfallpumpe mit Vorfilter",
+      "Eheim-Filter",
+      "Glasdurchführungen und Anschlüsse für Filtertechnik"
+    ],
+    "beregnungsanlage": [
+      "4 Düsen",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "luftbefeuchtung": [
+      "eingebauter Luftbefeuchter",
+      "Humidity-Control gesteuert"
+    ],
+    "steuerung": [
+      "Humidity-Control mit Anzeige im Alu-Rahmen",
+      "Thermo-Control mit Anzeige im Alu-Rahmen"
+    ],
+    "lüftersystem": [
+      "4 Ventilatoren",
+      "12 cm Ø",
+      "Trafo",
+      "elektronische Zeitschaltuhr",
+      "aktive Entlüftung nach außen"
+    ],
+    "lüftung": [
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "große Gazefläche in der Lichtdecke",
+      "aktive Belüftung durch Lüfterset"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC-Sonnenauf- und Untergangs-Set",
+        "Mondlichtfunktion"
+      ]
+    }
+  }
+},
+ {
+  "id": 119,
+  "title": "Terrarium für Königspythons",
+  "description": "Großzügiges Waldterrarium für Königspythons mit naturnaher Granitfels-Landschaft, echter Bepflanzung, dekorativer Buddha-Skulptur sowie umfangreichen Ausstattungs- und Technikoptionen für Temperatur-, Feuchtigkeits- und Lichtsteuerung.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Halbfeucht/Wald",
+    "Terrarientypen": "Halbfeucht- / Waldterrarien für Schlangen",
+    "ReptilienTyp": "Pythons (Pythonoidea)",
+    "reptilien": [
+      "Königspython",
+      "auch für Boas geeignet"
+    ],
+    "Terrarium Maße: Breite × Tiefe × Höhe": "180x70x125 cm",
+    "unterschrankHöhe": "85 cm",
+    "dekor": [
+      "weiß mit Miniperloberfläche",
+      "weitere Holzdekore verfügbar"
+    ],
+    "besonderheiten": [
+      "eingebaute Buddha-Skulptur",
+      "naturnahe Waldlandschaft",
+      "unsichtbare wasserdichte Innenverkleidung aus Kunststoff"
+    ],
+    "landschaft": [
+      "Granitfels-Wald-Landschaft",
+      "Felsen",
+      "Wurzeln",
+      "Rindenelemente",
+      "Korkelemente",
+      "echte Pflanzen",
+      "Kletteräste",
+      "lose Höhle",
+      "Buddha-Skulptur"
+    ],
+    "schiebescheiben": [
+      "6mm Glas mit polierten Kanten",
+      "rollengelagertes Laufschuhsystem",
+      "alternativ 4mm Scheiben im Doppel-U-Profil"
+    ],
+    "beleuchtung": [
+      "4 Wärme-Licht-Spots",
+      "4 flach integrierte Reflektoren mit Schutzgittern",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "senkrechte Lüftungsrosetten in der Bodenblende",
+      "alternativ Metall-Gaze-Lüftung im Aluminium-Profil",
+      "alternativ Kaminfrontlüftung mit feiner Metallgaze",
+      "weiße Lüftungseinsätze in der Lichtdecke",
+      "alternativ große Gazefläche in der Lichtdecke"
+    ],
+    "technik": [
+      "HC-Sonnenauf- und Untergangs-Set",
+      "Mondlichtfunktion"
+    ],
+    "optionaleTechnik": [
+      "Lüfterset mit 2 Ventilatoren",
+      "Digitalanzeigen für Temperatur",
+      "Digitalanzeigen für Luftfeuchtigkeit",
+      "flüsterleise Beregnungsanlage"
+    ],
+    "beregnungsanlage": [
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "lüftersystem": [
+      "2 Ventilatoren",
+      "12 cm Ø",
+      "Trafo"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC-Sonnenauf- und Untergangs-Set",
+        "Mondlichtfunktion"
+      ]
+    },
+    "unterschrank": [
+      "4 Türen",
+      "Zuschlagdämpfersystem oder Push-to-open (Tip-on)",
+      "höhenverstellbare Füße",
+      "wahlweise Regalböden"
+    ]
+  }
+},
+{
+  "id": 119,
+  "title": "Terrarium für Königspythons",
+  "description": "Großzügiges Waldterrarium für Königspythons mit naturnaher Granitfels-Landschaft, echter Bepflanzung, dekorativer Buddha-Skulptur sowie umfangreichen Ausstattungs- und Technikoptionen für Temperatur-, Feuchtigkeits- und Lichtsteuerung.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Halbfeucht/Wald",
+    "Terrarientypen": "Halbfeucht- / Waldterrarien für Schlangen",
+    "ReptilienTyp": "Pythons (Pythonoidea)",
+    "reptilien": [
+      "Königspython",
+      "auch für Boas geeignet"
+    ],
+    "Terrarium Maße: Breite × Tiefe × Höhe": "180x70x125 cm",
+    "unterschrankHöhe": "85 cm",
+    "dekor": [
+      "weiß mit Miniperloberfläche",
+      "weitere Holzdekore verfügbar"
+    ],
+    "besonderheiten": [
+      "eingebaute Buddha-Skulptur",
+      "naturnahe Waldlandschaft",
+      "unsichtbare wasserdichte Innenverkleidung aus Kunststoff"
+    ],
+    "landschaft": [
+      "Granitfels-Wald-Landschaft",
+      "Felsen",
+      "Wurzeln",
+      "Rindenelemente",
+      "Korkelemente",
+      "echte Pflanzen",
+      "Kletteräste",
+      "lose Höhle",
+      "Buddha-Skulptur"
+    ],
+    "schiebescheiben": [
+      "6mm Glas mit polierten Kanten",
+      "rollengelagertes Laufschuhsystem",
+      "alternativ 4mm Scheiben im Doppel-U-Profil"
+    ],
+    "beleuchtung": [
+      "4 Wärme-Licht-Spots",
+      "4 flach integrierte Reflektoren mit Schutzgittern",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "senkrechte Lüftungsrosetten in der Bodenblende",
+      "alternativ Metall-Gaze-Lüftung im Aluminium-Profil",
+      "alternativ Kaminfrontlüftung mit feiner Metallgaze",
+      "weiße Lüftungseinsätze in der Lichtdecke",
+      "alternativ große Gazefläche in der Lichtdecke"
+    ],
+    "technik": [
+      "HC-Sonnenauf- und Untergangs-Set",
+      "Mondlichtfunktion"
+    ],
+    "optionaleTechnik": [
+      "Lüfterset mit 2 Ventilatoren",
+      "Digitalanzeigen für Temperatur",
+      "Digitalanzeigen für Luftfeuchtigkeit",
+      "flüsterleise Beregnungsanlage"
+    ],
+    "beregnungsanlage": [
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "lüftersystem": [
+      "2 Ventilatoren",
+      "12 cm Ø",
+      "Trafo"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC-Sonnenauf- und Untergangs-Set",
+        "Mondlichtfunktion"
+      ]
+    },
+    "unterschrank": [
+      "4 Türen",
+      "Zuschlagdämpfersystem oder Push-to-open (Tip-on)",
+      "höhenverstellbare Füße",
+      "wahlweise Regalböden"
+    ]
+  }
+},
+{
+  "id": 120,
+  "title": "3 m langes Schlangenterrarium für den Vogelpark Schotten",
+  "description": "Großes Halbfeucht- und Tropenterrarium für Kornnattern, gefertigt für die Reptilienabteilung des Vogelparks Schotten. Das komplett eingerichtete Terrarium wurde betriebsbereit geliefert und bietet eine naturnahe Waldlandschaft mit umfangreicher Beleuchtungs-, Beregnungs- und Belüftungstechnik.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Halbfeucht/Tropen",
+    "Terrarientypen": "Halbfeucht- / Waldterrarien für Schlangen",
+    "ReptilienTyp": "Nattern (Colubridae)",
+    "reptilien": [
+      "Kornnattern"
+    ],
+    "Terrarium Maße: Breite × Tiefe × Höhe": "300x70x100 cm",
+    "standort": {
+      "einrichtung": "Vogelpark Schotten – Tier- und Erlebnispark",
+      "betreiber": "Schottener Soziale Dienste gGmbH",
+      "adresse": "Vogelsbergstraße 212, 63679 Schotten"
+    },
+    "besonderheiten": [
+      "für die Reptilienabteilung des Vogelparks Schotten gefertigt",
+      "komplett eingerichtet geliefert",
+      "kundenseitiger Einbau in vorhandenes Terrarienhaus",
+      "öffentliche Ausstellung"
+    ],
+    "landschaft": [
+      "Granitfels-Wald-Optik",
+      "Felsen",
+      "Wurzeln",
+      "Korkelemente",
+      "Pflanztröge",
+      "2 lose Höhlen"
+    ],
+    "glas": [
+      "6mm ESG-Glas",
+      "polierte Kanten",
+      "Laufschuhsystem"
+    ],
+    "ausstattung": [
+      "6 integrierte Reflektoren mit Schutzgittern",
+      "große Gazefläche unten",
+      "große Gazefläche in der Decke",
+      "unsichtbare Innenverkleidung aus Kunststoff zum Schutz des Holzes"
+    ],
+    "beleuchtung": [
+      "6 Bright Sun Jungle",
+      "3 Wärme-Licht-Spots"
+    ],
+    "lüftung": [
+      "große Gazefläche im unteren Bereich",
+      "große Gazefläche in der Decke",
+      "aktive Belüftung durch Lüfterset"
+    ],
+    "beregnungsanlage": [
+      "5 Düsen",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "lüftersystem": [
+      "2 Ventilatoren",
+      "12 cm Ø",
+      "Trafo",
+      "elektronische Zeitschaltuhr"
+    ],
+    "technik": [
+      "flüsterleise Beregnungsanlage",
+      "Lüfterset mit Zeitschaltuhr"
+    ]
+  }
+},
+  {
+  "id": 121,
+  "title": "Wandeinbau-Terrarien für einen Wanddurchbruch",
+  "description": "Zwei maßgefertigte Wandeinbau-Terrarien für ein Pantherchamäleon und eine Gartenboa. Die Terrarien wurden für einen Wanddurchbruch konzipiert, sodass die Korpusse in den dahinterliegenden Raum hineinragen und sich optisch nahtlos in den Wohnraum integrieren.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Wandeinbau-Terrarien",
+    "Terrarientypen": "Raumteiler",
+    "ReptilienTyp": [
+      "Chamäleons (Chamaeleonidae)",
+      "Riesenschlangen (Boidae)"
+    ],
+    "reptilien": {
+      "links": "Pantherchamäleon – Furcifer pardalis",
+      "rechts": "Gartenboa / Hundskopfsboa – Corallus hortulanus"
+    },
+    "Terrarium Maße": {
+      "anzahlTerrarien": 2,
+      "jeTerrarium": "80x60x150 cm",
+      "unterschrankHoehe": "50 cm"
+    },
+    "dekor": [
+      "Eiche Sanremo Tabacco",
+      "weitere Holzdekore verfügbar"
+    ],
+    "bauweise": [
+      "Wandeinbau",
+      "für Wanddurchbruch konzipiert",
+      "Korpus ragt in den dahinterliegenden Raum"
+    ],
+    "besonderheiten": [
+      "zwei separate Terrarien",
+      "individuelle Haltung unterschiedlicher Arten",
+      "unsichtbare Innenverkleidung aus Kunststoff zum Schutz des Holzes"
+    ],
+    "landschaft": [
+      "Granitfels-Wald-Optik",
+      "Pflanzmulden für echte Pflanzen",
+      "echte Pflanzen",
+      "Kletteräste"
+    ],
+    "schiebescheiben": [
+      "6mm Glas mit polierten Kanten",
+      "rollengelagertes Laufschuhsystem",
+      "integriertes Schloss"
+    ],
+    "beleuchtung": [
+      "je 1 Bright Sun Jungle 70W Flood inklusive EVG",
+      "je 1 Wärme-Licht-Spot",
+      "je 2 flach integrierte Reflektoren mit Schutzgittern",
+      "weiße Lichtdecke zur optimalen Lichtreflektion"
+    ],
+    "lüftung": [
+      "große Gazefläche in der Lichtdecke",
+      "Frontlüftung über Gazefläche im Aluminiumrahmen",
+      "10 cm hohe Holzblende im unteren Bereich",
+      "aktive Belüftung durch Lüfterset"
+    ],
+    "lüftersystem": [
+      "2 Ventilatoren",
+      "12 cm Ø",
+      "Trafo",
+      "elektronische Zeitschaltuhr"
+    ],
+    "beregnungsanlage": [
+      "2 × 3 Düsen"
+    ],
+    "technik": [
+      "HC-Sonnenauf- und Untergangs-Set",
+      "Mondlichtfunktion"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC-Sonnenauf- und Untergangs-Set",
+        "Mondlichtfunktion"
+      ]
+    },
+    "unterschrank": [
+      "Push-to-open-System",
+      "griffloses Design"
+    ]
+  }
+},
+ {
+  "id": 122,
+  "title": "Aqua-Terrarium für Sea Life Oberhausen",
+  "description": "Großes Aqua-Terrarium im Stil einer madagassischen Mangroven-Uferlandschaft, entwickelt für Sea Life Oberhausen. Die Anlage kombiniert einen großzügigen Wasserteil mit einem bepflanzten Landbereich für Fische, Garnelen und Madagaskar-Taggeckos. Nach der Installation wurde das Aquaterrarium vollständig in die Ausstellungs- und Raumgestaltung von Sea Life integriert.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Aqua-Terrarium",
+    "Terrarientypen": [
+      "Aquaterrarium",
+      "Zoo- und Ausstellungsterrarium"
+    ],
+    "ReptilienTyp": [
+      "Taggeckos (Phelsuma)",
+      "Fische",
+      "Garnelen"
+    ],
+    "besatz": {
+      "wasser": [
+        "Rotschwanz-Ährenfisch (Bedotia geayi)",
+        "Indischer Glasbarsch (Parambassis ranga)",
+        "Molukkenfächengarnele (Atyopsis moluccensis)"
+      ],
+      "land": [
+        "Großer Madagaskar Taggecko (Phelsuma grandis)"
+      ]
+    },
+    "Terrarium Maße": {
+      "breite": "300 cm",
+      "tiefe": "100 cm",
+      "höhe": "190 cm",
+      "wasserstand": "55 cm"
+    },
+    "konstruktion": [
+      "Aluminium-Unterkonstruktion",
+      "70 cm hoch",
+      "VSG-Glas 15 mm / 19 mm für Seiten- und Bodenscheiben",
+      "abschließbare 6 mm VSG-Glasschiebetüren im Laufschuhsystem"
+    ],
+    "landschaft": [
+      "Madagaskar-Mangrovenufer-Landschaft",
+      "großer Landbereich",
+      "flache Ausstiegsmöglichkeiten",
+      "Granitfels-Jungle-Optik",
+      "Rankpflanzen",
+      "Farne",
+      "Moose",
+      "Moorkienwurzeln",
+      "epiphytisch aufgebundene Bromelien",
+      "Tillandsien",
+      "Bambusäste für Phelsumen",
+      "integrierter Wasserfall"
+    ],
+    "ausstattung": [
+      "8 flach integrierte Reflektoren mit Schutzgittern",
+      "Gazeflächen in der Lichtdecke",
+      "senkrechte Lüftungsrosetten in der Glasbodenblende"
+    ],
+    "beleuchtung": [
+      "5 Bright Sun Jungle Flood",
+      "3 Wärme-Licht-Spots"
+    ],
+    "luftfeuchtigkeit": [
+      "2 Luftbefeuchter",
+      "Humidity Control"
+    ],
+    "belueftung": [
+      "4 Ventilatoren mit Abluft nach oben"
+    ],
+    "beregnungsanlage": [
+      "9 Düsen"
+    ],
+    "wassertechnik": [
+      "integrierter Wasserfall",
+      "Wasserfallpumpe",
+      "Überlaufschacht",
+      "Bohrungen für Außenfilter",
+      "Totalablauf",
+      "Filterbecken im Nebenraum",
+      "2 Filterkammern mit Filtervlies und Filterschwamm",
+      "Kanalanschluss",
+      "automatisches Nachfüllventil",
+      "2 Förderpumpen",
+      "2 Heizstäbe",
+      "UV-C-Klärer"
+    ],
+    "steuerung": [
+      "Thermocontrol",
+      "Humidity Control"
+    ],
+    "einsatzort": {
+      "name": "Sea Life Oberhausen",
+      "typ": "öffentliches Schauaquarium"
+    }
+  }
+},
+ {
+  "id": 123,
+  "title": "Paludarium für Dendrobaten und Rotkehlanolis",
+  "description": "Individuell gefertigtes Paludarium für Pfeilgiftfrösche und Rotkehlanolis mit integriertem Wasserteil, Wasserfall und dichter tropischer Bepflanzung. Die Gestaltung kombiniert eine Granitfels-Jungle-Landschaft mit epiphytisch aufgebundenen Bromelien und Rankpflanzen für ein naturnahes tropisches Habitat.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Paludarium",
+    "Terrarientypen": [
+      "Paludarium",
+      "Regenwaldterrarium"
+    ],
+    "ReptilienTyp": [
+      "Pfeilgiftfrösche",
+      "Anolis"
+    ],
+    "reptilien": [
+      "Pfeilgiftfrösche – Dendrobates tinctorius (Brasilianer)",
+      "Rotkehlanolis – Anolis carolinensis"
+    ],
+    "Terrarium Maße": {
+      "breite": "120 cm",
+      "tiefe": "60 cm",
+      "höhe": "130 cm",
+      "unterschrankHoehe": "70 cm"
+    },
+    "dekor": [
+      "Erle",
+      "weitere Holzdekore verfügbar"
+    ],
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "epiphytisch aufgebundene Bromelien",
+      "Rankpflanzen",
+      "kleiner Wasserfall",
+      "Bachlauf",
+      "Wasserteil mit ca. 6 cm Wasserstand"
+    ],
+    "glaskern": [
+      "unsichtbarer Ganzglaskern aus 6 mm Floatglas"
+    ],
+    "schiebescheiben": [
+      "4 mm Glas im Doppel-U-Profil",
+      "Drosophiladichtung zwischen den Scheiben"
+    ],
+    "beleuchtung": [
+      "2x Bright Sun Jungle 50W",
+      "2 Wärme-Licht-Spots",
+      "4 flach integrierte Reflektoren mit Schutzgittern"
+    ],
+    "lüftung": [
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "große Gazefläche in der weißen Lichtdecke"
+    ],
+    "wassertechnik": [
+      "Wasserfallpumpe mit Vorfilter"
+    ],
+    "beregnungsanlage": [
+      "3 Düsen",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "luftfeuchtigkeit": [
+      "eingebauter Luftbefeuchter",
+      "Humidity Control",
+      "Anzeige im Alu-Rahmen der Lichtkastenblende"
+    ],
+    "temperatursteuerung": [
+      "Thermo-Control",
+      "Anzeige im Alu-Rahmen der Lichtkastenblende"
+    ],
+    "lüftersystem": [
+      "2 Ventilatoren",
+      "12 cm Ø",
+      "Abluftbetrieb zur optimalen Durchlüftung",
+      "Trafo",
+      "elektronische Zeitschaltuhr"
+    ]
+  }
+} ,
+ {
+  "id": 124,
+  "title": "Paludarium für eine Greifschwanz-Lanzenotter",
+  "description": "Tropisches Paludarium für die Greifschwanz-Lanzenotter (Bothriechis schlegelii) mit integrierter Wasserzone, Wasserfall und naturnaher Granitfels-Jungle-Landschaft. Die Gestaltung bietet erhöhte Kletterstrukturen und eine feuchtwarme Umgebung mit dichter Bepflanzung und automatisierter Klima- und Bewässerungstechnik.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Paludarium",
+    "Terrarientypen": [
+      "Paludarium",
+      "Regenwaldterrarium"
+    ],
+    "ReptilienTyp": [
+      "Lanzenottern"
+    ],
+    "reptilien": [
+      "Greifschwanz-Lanzenotter (Bothriechis schlegelii)"
+    ],
+    "Terrarium Maße": {
+      "breite": "140 cm",
+      "tiefe": "70 cm",
+      "höhe": "120 cm",
+      "unterschrankHoehe": "50 cm"
+    },
+    "dekor": [
+      "Weiß Miniperloberfläche"
+    ],
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "Rankpflanzen",
+      "integrierter Wasserfall",
+      "Wasserbereich mit ca. 10 cm Wasserstand"
+    ],
+    "glaskern": [
+      "unsichtbarer Ganzglaskern aus 6 mm Floatglas"
+    ],
+    "schiebescheiben": [
+      "6 mm Glas",
+      "rollengelagertes Laufschuhsystem"
+    ],
+    "beleuchtung": [
+      "2x Bright Sun Jungle 35W",
+      "2 Wärme-Licht-Spots",
+      "4 flach integrierte Reflektoren mit Schutzgittern"
+    ],
+    "lüftung": [
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "große Gazefläche in der weißen Lichtdecke"
+    ],
+    "wassertechnik": [
+      "Wasserfallpumpe mit Vorfilter",
+      "integrierter Wasserfall"
+    ],
+    "beregnungsanlage": [
+      "3 Düsen",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ]
+  }
+},
+  {
+  "id": 125,
+  "title": "Regenwaldterrarium für ein Pantherchamäleon und Taggeckos",
+  "description": "Großes Regenwaldterrarium für ein Pantherchamäleon und Phelsuma grandis (Taggeckos). Die Anlage wurde mit einer naturnahen Granitfels-Wald-Landschaft, echten Pflanzen sowie vielfältigen Kletterstrukturen ausgestattet. Die Vergesellschaftung dieser Arten richtet sich an erfahrene Halter und orientiert sich an erfolgreichen Haltungsbeispielen aus zoologischen Einrichtungen und Privathaltungen.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Regenwaldterrarium",
+    "Terrarientypen": [
+      "Chamäleonterrarium",
+      "Regenwaldterrarium"
+    ],
+    "ReptilienTyp": [
+      "Chamäleons",
+      "Taggeckos"
+    ],
+    "reptilien": [
+      "Pantherchamäleon (Furcifer pardalis)",
+      "Großer Madagaskar-Taggecko (Phelsuma grandis)"
+    ],
+    "Terrarium Maße": {
+      "breite": "155 cm",
+      "tiefe": "70 cm",
+      "höhe": "175 cm",
+      "unterschrankHoehe": "50 cm"
+    },
+    "dekor": [
+      "Olive Espagna",
+      "weitere Holzdekore verfügbar"
+    ],
+    "landschaft": [
+      "Granitfels-Wald-Optik",
+      "Pflanzmulden für echte Pflanzen",
+      "Korkeichäste",
+      "glatte Äste",
+      "Bambusröhren",
+      "echte Pflanzen",
+      "Kletteräste"
+    ],
+    "schiebescheiben": [
+      "6 mm Glas mit polierten Kanten",
+      "rollengelagertes Laufschuhsystem",
+      "integriertes Schloss"
+    ],
+    "beleuchtung": [
+      "2 Bright Sun Jungle 70W Flood inklusive EVG",
+      "2 Wärme-Licht-Spots 70W",
+      "4 flach integrierte Reflektoren mit Schutzgittern",
+      "weiße Lichtdecke zur optimalen Lichtreflektion"
+    ],
+    "lüftung": [
+      "große Gazefläche in der Lichtdecke",
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "10 cm hohe Holzblende im Frontbereich"
+    ],
+    "lüftersystem": [
+      "2 Ventilatoren",
+      "12 cm Ø",
+      "Montage auf der Gazefläche in der Lichtdecke",
+      "Trafo",
+      "elektronische Zeitschaltuhr"
+    ],
+    "innenverkleidung": [
+      "unsichtbare wasserdichte Kunststoff-Innenverkleidung zum Schutz des Holzes"
+    ],
+    "beregnungsanlage": [
+      "5 Düsen"
+    ],
+    "technik": [
+      "HC-Sonnenauf- und Untergangs-Set",
+      "Mondlichtfunktion"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC-Sonnenauf- und Untergangs-Simulation",
+        "Mondlichtfunktion"
+      ]
+    },
+    "unterschrank": [
+      "Push-to-open-System",
+      "griffloses Design"
+    ]
+  }
+},
+ {
+  "id": 126,
+  "title": "Terrarium für Boa Constrictor",
+  "description": "Großzügiges Regenwaldterrarium für eine Boa Constrictor mit naturnaher Granitfels-Wald-Landschaft, integrierten Pflanzmulden und echten Pflanzen. Die Anlage kombiniert eine hochwertige Möbelausführung mit moderner Klima- und Beleuchtungstechnik und bietet optimale Bedingungen für die Haltung großer Boas.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Regenwaldterrarium",
+    "Terrarientypen": [
+      "Schlangenterrarium",
+      "Regenwaldterrarium"
+    ],
+    "ReptilienTyp": [
+      "Boas"
+    ],
+    "reptilien": [
+      "Boa Constrictor"
+    ],
+    "Terrarium Maße": {
+      "breite": "155 cm",
+      "tiefe": "100 cm",
+      "höhe": "150 cm",
+      "unterschrankHoehe": "50 cm"
+    },
+    "dekor": [
+      "Davos Eiche Trüffelbraun",
+      "weitere Holzdekore verfügbar"
+    ],
+    "landschaft": [
+      "Granitfels-Wald-Optik",
+      "Pflanzmulden für echte Pflanzen",
+      "echte Pflanzen",
+      "Kletteräste"
+    ],
+    "schiebescheiben": [
+      "6 mm Glas mit polierten Kanten",
+      "rollengelagertes Laufschuhsystem",
+      "integriertes Schloss"
+    ],
+    "beleuchtung": [
+      "1 Bright Sun Jungle 70W Flood inklusive EVG",
+      "3 Wärme-Licht-Spots 50/70W",
+      "1 Dark Spot zur nächtlichen Temperaturerhaltung",
+      "5 flach integrierte Reflektoren mit Schutzgittern",
+      "weiße Lichtdecke zur optimalen Lichtreflektion"
+    ],
+    "lüftung": [
+      "große Gazefläche in der Lichtdecke",
+      "Frontlüftung über Gazefläche im Aluminiumrahmen",
+      "10 cm hohe Holzblende im Frontbereich"
+    ],
+    "lüftersystem": [
+      "2 Ventilatoren",
+      "12 cm Ø",
+      "Montage auf der Gazefläche in der Lichtdecke",
+      "Trafo",
+      "elektronische Zeitschaltuhr"
+    ],
+    "innenverkleidung": [
+      "unsichtbare wasserdichte Kunststoff-Innenverkleidung zum Schutz des Holzes"
+    ],
+    "temperatursteuerung": [
+      "Thermocontrol zur Steuerung des Dark Spots"
+    ],
+    "beregnungsanlage": [
+      "integrierte Beregnungsanlage"
+    ],
+    "unterschrank": [
+      "Zuschlagdämpfersystem",
+      "Griffe"
+    ],
+    "besonderheiten": [
+      "Nachtbeheizung über Dark Spot",
+      "naturnahe Regenwaldgestaltung",
+      "für große Schlangenarten geeignet"
+    ]
+  }
+},
+  {
+  "id": 127,
+  "title": "Terrarienzimmer für indische Sternschildkröten",
+  "description": "Komplett gestaltetes Terrarienzimmer für indische Sternschildkröten (Geochelone elegans). Die Wände wurden mit großflächigen, vorgefertigten Landschaftsmodulen verkleidet und bieten Pflanzmulden für echte Pflanzen. Mehrere unterschiedlich hoch angeordnete Sonnenplätze sowie eine automatische Klima- und Beregnungstechnik schaffen optimale Bedingungen für die Haltung dieser Schildkrötenart.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Terrarienzimmer",
+    "Terrarientypen": [
+      "Schildkrötenzimmer",
+      "Großraumterrarium"
+    ],
+    "ReptilienTyp": [
+      "Landschildkröten"
+    ],
+    "reptilien": [
+      "Indische Sternschildkröte (Geochelone elegans)"
+    ],
+    "Terrarium Maße": {
+      "breite": "250 cm",
+      "tiefe": "180 cm",
+      "höhe": "260 cm"
+    },
+    "landschaft": [
+      "ca. 14 m² Landschaftsfläche",
+      "vorgefertigte Kunststoff-Landschaftsplatten",
+      "vollständige Wandverkleidung",
+      "Pflanzmulden für echte Pflanzen"
+    ],
+    "beleuchtung": [
+      "5 Bright Sun Jungle",
+      "5 abgehängte Reflektoren",
+      "unterschiedliche Höhen für mehrere Sonnenplätze",
+      "2x LED-Leisten mit 2 m Länge zur Tageslichtbeleuchtung"
+    ],
+    "beregnungsanlage": [
+      "5 Düsen",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "temperatursteuerung": [
+      "Darklight zur nächtlichen Temperaturerhaltung"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC-Sonnenauf- und Untergangs-Simulation",
+        "Mondlichtfunktion",
+        "2 m LED-Leisten"
+      ]
+    },
+    "besonderheiten": [
+      "komplett gestaltetes Schildkrötenzimmer",
+      "mehrere unterschiedlich temperierte Sonnenplätze",
+      "großflächige naturnahe Wandgestaltung",
+      "automatisierte Klima- und Bewässerungstechnik"
+    ]
+  }
+},
+  {
+  "id": 128,
+  "title": "Terrarium in Deltaform für Phelsumen",
+  "description": "Maßgefertigtes Delta-Terrarium für den Großen Madagaskar-Taggecko (Phelsuma grandis). Die ungleichschenkelige Deltaform ermöglicht eine platzsparende Ecklösung mit großzügiger Höhe für kletterfreudige Geckos. Die Regenwaldlandschaft wurde in Granitfels-Jungle-Optik mit echten Pflanzen gestaltet und durch moderne Klima-, Beregnungs- und Beleuchtungstechnik ergänzt.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Delta-Terrarium",
+    "Terrarientypen": [
+      "Regenwaldterrarium",
+      "Eckterrarium",
+      "Deltaform"
+    ],
+    "ReptilienTyp": [
+      "Taggeckos"
+    ],
+    "reptilien": [
+      "Phelsuma grandis (Großer Madagaskar-Taggecko)"
+    ],
+    "Terrarium Maße": {
+      "form": "ungleichschenkelige Deltaform",
+      "schenkelLinks": "80 cm",
+      "schenkelRechts": "70 cm",
+      "seitenschenkelGlasLinks": "30 cm",
+      "seitenschenkelGlasRechts": "20 cm",
+      "höhe": "140 cm",
+      "unterschrankHoehe": "40 cm"
+    },
+    "dekor": [
+      "Kernbuche",
+      "durchgehende Maserung auf Terrarium und Unterschrank",
+      "weitere Holzdekore verfügbar"
+    ],
+    "landschaft": [
+      "Regenwald-Felslandschaft",
+      "Granitfels-Jungle-Optik",
+      "echte Pflanzen"
+    ],
+    "innenverkleidung": [
+      "unsichtbarer wasserdichter Kunststoffinnenkern zum Schutz des Holzes"
+    ],
+    "schiebescheiben": [
+      "6 mm Glas mit polierten Kanten",
+      "Laufschuhsystem",
+      "integriertes Schloss"
+    ],
+    "beleuchtung": [
+      "1x Bright Sun Jungle",
+      "2x Wärme-Licht-Spots",
+      "3 flach integrierte Reflektoren mit Schutzgittern"
+    ],
+    "lüftung": [
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "10 cm hohe Holzblende",
+      "große Gazefläche in der weißen Lichtdecke"
+    ],
+    "beregnungsanlage": [
+      "3 Düsen",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "luftfeuchtigkeit": [
+      "Luftbefeuchter",
+      "Humidity-Control",
+      "Display im Alu-Rahmen der Lichtkastenblende"
+    ],
+    "lüftersystem": [
+      "2 Ventilatoren"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC-Sonnenuntergangs-Simulation",
+        "Mondlichtfunktion",
+        "50 cm LED-Leiste"
+      ]
+    },
+    "unterschrank": [
+      "2 Türen",
+      "Zuschlagdämpfersystem",
+      "Griffe",
+      "höhenverstellbare Füße"
+    ]
+  }
+},
+  {
+  "id": 129,
+  "title": "Wüstenterrarium in Hochglanz Acryl",
+  "description": "Elegantes Wüsten- und Steppenterrarium in Hochglanz-Acryloptik für Bartagamen, Halsbandleguane, Zwergbartagamen, Dornschwanzagamen und andere trockenheitsliebende Reptilien. Die Landschaft wurde in einer mehrfarbigen Sandsteinoptik mit Terracottastrukturen gestaltet und bietet natürliche Rückzugs- und Sonnenplätze.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Wüstenterrarium",
+    "Terrarientypen": [
+      "Wüstenterrarium",
+      "Steppenterrarium"
+    ],
+    "ReptilienTyp": [
+      "Bartagamen",
+      "Halsbandleguane",
+      "Zwergbartagamen",
+      "Dornschwanzagamen"
+    ],
+    "reptilien": [
+      "Bartagamen (Pogona vitticeps)",
+      "Halsbandleguane",
+      "Zwergbartagamen",
+      "Dornschwanzagamen"
+    ],
+    "Terrarium Maße": {
+      "breite": "200 cm",
+      "tiefe": "70 cm",
+      "höhe": "80 cm",
+      "unterschrankHoehe": "40 cm"
+    },
+    "dekor": [
+      "Hochglanz Acryl"
+    ],
+    "landschaft": [
+      "mehrfarbig besandet",
+      "elfenbein-sandsteinfarbige Gestaltung",
+      "Terracottastrukturen",
+      "lose Höhle mit seitlichem Einstieg"
+    ],
+    "schiebescheiben": [
+      "6 mm Glas mit polierten Kanten",
+      "Laufschuhsystem"
+    ],
+    "beleuchtung": [
+      "3 Bright Sun Desert 50W inklusive EVG",
+      "2 Wärme-Licht-Spots",
+      "5 weiße drehbare Einbaustrahler"
+    ],
+    "lüftung": [
+      "Kaminlüftung",
+      "waagerechte Frontlüftung mit Gaze"
+    ],
+    "unterschrank": [
+      "Schubladenauszüge",
+      "nach unten öffnende Klappladen"
+    ]
+  }
+},
+{
+  "id": 130,
+  "title": "Neugestaltung der Terrarienanlage des Tierheims Krefeld",
+  "description": "Umfangreiche Modernisierung der Reptilienanlage des Tierheims Krefeld. Die bestehenden 14 Glas-Terrarien wurden mit neuen, funktionalen Felslandschaften ausgestattet, die den Tieren deutlich mehr Kletter-, Liege- und Sonnenflächen bieten. Zusätzlich wurden die ursprünglichen 3 mm Normalglasscheiben durch sichere 4 mm ESG-Scheiben ersetzt. Die neuen Landschaften wurden in der robusten 'Rustico'-Oberflächenoptik ausgeführt und sowohl für Schlangen als auch für kletternde Reptilien optimiert.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Terrarienanlagen-Sanierung",
+    "Terrarientypen": [
+      "Tierheimanlage",
+      "Mehrfach-Terrarienanlage"
+    ],
+    "projektumfang": {
+      "anzahlTerrarien": 14,
+      "standort": "Tierheim Krefeld"
+    },
+    "zielsetzung": [
+      "Verbesserung der Kletter- und Liegeflächen",
+      "Optimierung der Sonnenplätze",
+      "Erhöhung der Sicherheit durch ESG-Verglasung",
+      "artgerechtere Nutzung der Terrarien"
+    ],
+    "landschaft": [
+      "kompletter Austausch der bisherigen Felselemente",
+      "großzügige Liegeplateaus",
+      "Sonnenplateaus",
+      "Rustico-Oberflächenoptik",
+      "kombinierte Sand- und Granulatoberflächen"
+    ],
+    "oberflächen": [
+      "teilweise besandete Flächen für kletternde Reptilien",
+      "Granulatflächen für Schlangen",
+      "robuste Rustico-Beschichtung"
+    ],
+    "geeignetFür": [
+      "Schlangen",
+      "Bartagamen",
+      "andere kletternde Wüsten- und Steppenreptilien"
+    ],
+    "verglasung": {
+      "alt": "3 mm Normalglas",
+      "neu": "4 mm ESG (Einscheibensicherheitsglas)"
+    },
+    "besonderheiten": [
+      "Modernisierung bestehender Tierheimanlage",
+      "funktionale Aufwertung der Innenausstattung",
+      "verbesserte Erreichbarkeit aller Kletterstrukturen",
+      "höhere Sicherheit durch ESG-Verglasung"
+    ]
+  }
+},  
+  {
+  "id": 131,
+  "title": "Regenwaldterrarium für Fidschi-Leguane",
+  "description": "Großzügiges Regenwaldterrarium für Fidschi-Leguane (Brachylophus fasciatus) mit naturnaher Granitfels-Jungle-Landschaft und echten Pflanzen. Aufgrund der Größe wurde die Anlage in mehreren Modulen gefertigt und vor Ort im 1. Obergeschoss montiert. Das Terrarium kombiniert hochwertige Verarbeitung mit umfangreicher Klima-, Beleuchtungs- und Beregnungstechnik für eine artgerechte Haltung tropischer Leguane.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Regenwaldterrarium",
+    "Terrarientypen": [
+      "Leguanterrarium",
+      "Regenwaldterrarium"
+    ],
+    "ReptilienTyp": [
+      "Leguane"
+    ],
+    "reptilien": [
+      "Fidschi-Leguan (Brachylophus fasciatus)"
+    ],
+    "Terrarium Maße": {
+      "breite": "220 cm",
+      "tiefe": "90 cm",
+      "höhe": "180 cm",
+      "unterschrankHoehe": "50 cm"
+    },
+    "dekor": [
+      "Schwarz Miniperloberfläche",
+      "weitere Holzdekore verfügbar"
+    ],
+    "bauweise": [
+      "mehrteilige Konstruktion",
+      "Vor-Ort-Montage im 1. Obergeschoss"
+    ],
+    "landschaft": [
+      "Regenwald-Felslandschaft",
+      "Granitfels-Jungle-Optik",
+      "echte Pflanzen",
+      "Quarzsand als Bodengrund"
+    ],
+    "innenverkleidung": [
+      "unsichtbarer wasserdichter Kunststoffinnenkern zum Schutz des Holzes"
+    ],
+    "schiebescheiben": [
+      "6 mm Glas mit polierten Kanten",
+      "Laufschuhsystem"
+    ],
+    "beleuchtung": [
+      "3x Bright Sun Jungle",
+      "3x Wärme-Licht-Spots",
+      "6 flach integrierte Reflektoren mit Schutzgittern"
+    ],
+    "lüftung": [
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "10 cm hohe Holzblende",
+      "große Gazefläche in der weißen Lichtdecke"
+    ],
+    "beregnungsanlage": [
+      "5 Düsen",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "luftfeuchtigkeit": [
+      "Luftbefeuchter",
+      "Humidity Control",
+      "Display im Alu-Rahmen der Lichtkastenblende"
+    ],
+    "temperatursteuerung": [
+      "Thermocontrol Pro II",
+      "Display im Alu-Rahmen der Blende"
+    ],
+    "lüftersystem": [
+      "2 Ventilatoren"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC-Sonnenuntergangs-Simulation",
+        "Mondlichtfunktion",
+        "150 cm LED-Leiste"
+      ]
+    },
+    "unterschrank": [
+      "4 Türen",
+      "Zuschlagdämpfersystem",
+      "Griffe",
+      "höhenverstellbare Füße"
+    ]
+  }
+},
+{
+  "id": 132,
+  "title": "Regenwaldterrarium für einen grünen Leguan",
+  "description": "Großzügiges Regenwaldterrarium für einen Grünen Leguan (Iguana iguana) mit naturnaher Granitfels-Jungle-Landschaft und tropischer Gestaltung. Die Anlage wurde aufgrund ihrer Größe in mehreren Modulen gefertigt und vor Ort im 2. Obergeschoss montiert. Das Terrarium verfügt über umfangreiche Klima- und Beleuchtungstechnik und bietet dem Leguan ein strukturiertes Kletter- und Lebensumfeld. Für ausgewachsene Grüne Leguane empfiehlt sich bei entsprechendem Platzangebot eine noch größere Anlage.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Regenwaldterrarium",
+    "Terrarientypen": [
+      "Leguanterrarium",
+      "Regenwaldterrarium"
+    ],
+    "ReptilienTyp": [
+      "Leguane"
+    ],
+    "reptilien": [
+      "Grüner Leguan (Iguana iguana)"
+    ],
+    "Terrarium Maße": {
+      "breite": "220 cm",
+      "tiefe": "100 cm",
+      "höhe": "180 cm",
+      "unterschrankHoehe": "50 cm"
+    },
+    "dekor": [
+      "Weiß Miniperloberfläche",
+      "weitere Holzdekore verfügbar"
+    ],
+    "bauweise": [
+      "mehrteilige Konstruktion",
+      "Vor-Ort-Montage im 2. Obergeschoss"
+    ],
+    "landschaft": [
+      "Regenwald-Felslandschaft",
+      "Granitfels-Jungle-Optik",
+      "künstliche Pflanzen"
+    ],
+    "innenverkleidung": [
+      "unsichtbarer wasserdichter Kunststoffinnenkern zum Schutz des Holzes"
+    ],
+    "schiebescheiben": [
+      "6 mm Glas mit polierten Kanten",
+      "Laufschuhsystem"
+    ],
+    "beleuchtung": [
+      "3x Bright Sun Jungle",
+      "3x Wärme-Licht-Spots",
+      "6 flach integrierte Reflektoren mit Schutzgittern"
+    ],
+    "lüftung": [
+      "senkrechte Frontlüftung mit Metallgaze im Aluminiumrahmen",
+      "große Gazefläche in der weißen Lichtdecke"
+    ],
+    "luftfeuchtigkeit": [
+      "Luftbefeuchter",
+      "Humidity Control"
+    ],
+    "lüftersystem": [
+      "2 Ventilatoren"
+    ],
+    "unterschrank": [
+      "4 Türen",
+      "Tip-On-System (Push-to-open)",
+      "höhenverstellbare Füße"
+    ],
+    "besonderheiten": [
+      "für große baumbewohnende Leguane ausgelegt",
+      "modulare Bauweise für schwierige Transportwege",
+      "artgerechte Regenwaldgestaltung",
+      "bei größerem Platzangebot sind größere Anlagen empfehlenswert"
+    ]
+  }
+},
+{
+  "id": 133,
+  "title": "Aqua-Terrarium als Raumteiler",
+  "description": "Großzügiges Aqua-Terrarium als Raumteiler mit tropischer Granitfels-Jungle-Landschaft für Rotaugenlaubfrösche, Goldstaub-Taggeckos und verschiedene Fischarten. Der Landbereich wurde als optisch schwebende Insel auf zwei großen Mangrovenwurzeln gestaltet und ist vollständig unterschwimmbar. Ein integrierter Wasserfall, üppige Bepflanzung und moderne Klima- sowie Wassertechnik schaffen ein naturnahes Habitat und einen attraktiven Blickfang von beiden Seiten.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Aqua-Terrarium",
+    "Terrarientypen": [
+      "Aqua-Terrarium",
+      "Raumteiler",
+      "Paludarium"
+    ],
+    "ReptilienTyp": [
+      "Laubfrösche",
+      "Taggeckos"
+    ],
+    "reptilien": [
+      "Rotaugenlaubfrosch (Agalychnis callidryas)",
+      "Goldstaub-Taggecko (Phelsuma laticauda)"
+    ],
+    "fische": [
+      "Roter Neon",
+      "Mosaikfadenfisch",
+      "Guppy",
+      "Schmerle",
+      "Wels"
+    ],
+    "Terrarium Maße": {
+      "breite": "160 cm",
+      "tiefe": "70 cm",
+      "höhe": "150 cm",
+      "unterschrankHoehe": "50 cm"
+    },
+    "zusatzmoebel": [
+      "seitlicher Technikschrank für Wasserzu- und Ablauftechnik"
+    ],
+    "dekor": [
+      "passend zur kanadischen Rotzeder"
+    ],
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "Rankpflanzen",
+      "Farne",
+      "Moose",
+      "Wurzeln",
+      "schwebende Insel auf zwei Mangrovenwurzeln",
+      "integrierter Wasserfall"
+    ],
+    "wasserbereich": {
+      "wasserstand": "30 cm",
+      "schwimmbereich": "über die gesamte Grundfläche",
+      "landbereich": "sanft ins Wasser übergehend und komplett unterschwimmbar"
+    },
+    "glaskern": [
+      "unsichtbarer Ganzglaskern aus 12 mm Floatglas"
+    ],
+    "schiebescheiben": [
+      "6 mm Glas",
+      "rollengelagertes Laufschuhsystem"
+    ],
+    "beleuchtung": [
+      "2x Bright Sun Jungle",
+      "2x Wärme-Licht-Spot",
+      "4 flach integrierte Reflektoren mit Schutzgittern"
+    ],
+    "lüftung": [
+      "senkrecht eingebaute Lüftungsrosetten in der Glasbodenblende",
+      "große Gazefläche in der weißen Lichtdecke",
+      "Lüfterset mit 2 Ventilatoren"
+    ],
+    "beregnungsanlage": [
+      "3 Düsen",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "luftfeuchtigkeit": [
+      "eingebauter Luftbefeuchter",
+      "Humidity Control II",
+      "Display in der Lichtkastenblende"
+    ],
+    "temperatursteuerung": [
+      "Thermocontrol",
+      "Display in der Lichtkastenblende"
+    ],
+    "wassertechnik": [
+      "Eheimfilter im Unterschrank",
+      "Filterung des Wasserbereichs",
+      "Betrieb des Wasserfalls"
+    ],
+    "glasdurchfuehrungen": [
+      "2x Eheim-Filter",
+      "Warmwasserzulauf",
+      "Kaltwasserzulauf",
+      "Notaublauf"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC Sonnenauf- und -untergang",
+        "Mondlichtfunktion"
+      ]
+    },
+    "besonderheiten": [
+      "beidseitig als Raumteiler nutzbar",
+      "vollständig unterschwimmbarer Landbereich",
+      "großzügige Schwimmfläche",
+      "kombinierte Haltung von Amphibien, Reptilien und Fischen"
+    ]
+  }
+},
+ {
+  "id": 134,
+  "title": "240 cm langes Terrarium mit Durchbruch in 2 Teilen",
+  "description": "Großzügige Terrarienanlage für Goldkopf-Halsbandleguane und andere steppenbewohnende Reptilien. Die Anlage besteht aus zwei miteinander verbundenen Terrarien, die durch einen landschaftlich integrierten Durchbruch zu einem durchgehenden 240 cm langen Lebensraum verschmelzen. Aufgrund der baulichen Gegebenheiten wurde das Projekt modular gefertigt und vor Ort montiert. Die Wüsten- und Steppenlandschaft wurde mit natürlichen Dekorationselementen und Pflanzmulden für Sukkulenten gestaltet.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Steppenterrarium",
+    "Terrarientypen": [
+      "Wüstenterrarium",
+      "Steppenterrarium",
+      "Mehrteilige Terrarienanlage"
+    ],
+    "ReptilienTyp": [
+      "Halsbandleguane",
+      "Steppenbewohnende Reptilien"
+    ],
+    "reptilien": [
+      "Goldkopf-Halsbandleguan (Crotaphytus collaris)"
+    ],
+    "Terrarium Maße": {
+      "gesamtbreite": "240 cm",
+      "tiefe": "69 cm",
+      "höhe": "90 cm",
+      "aufteilung": "2 Terrarien à 120 cm Länge",
+      "unterschrankHoehe": "100 cm"
+    },
+    "dekor": [
+      "Obirbuche geplankt"
+    ],
+    "bauweise": [
+      "zweiteilige Terrarienanlage",
+      "jedes Terrarium in Lichtkasten, Landschaftsteil und Bodenwanne zerlegbar",
+      "Vor-Ort-Montage aufgrund begrenzter Treppenhausmaße",
+      "landschaftlicher Durchbruch zwischen beiden Terrarien"
+    ],
+    "landschaft": [
+      "Wüsten- und Steppenlandschaft",
+      "elfenbein-sandsteinfarbige Besandung",
+      "Terracottastrukturen",
+      "echte Wüstenbüsche",
+      "Wurzelteile",
+      "verdorrtes Geäst",
+      "getrocknete Gräser",
+      "Pflanzmulden für echte Sukkulenten",
+      "zentraler Durchbruch als Verbindung beider Terrarien"
+    ],
+    "schiebescheiben": [
+      "6 mm Glas mit polierten Kanten",
+      "Laufschuhsystem",
+      "optional 4 mm Glas im Doppel-U-Profil"
+    ],
+    "beleuchtung": [
+      "je 1 Bright Sun Desert",
+      "je 2 Wärme-Licht-Spots",
+      "je 3 weiße drehbare Einbaustrahler"
+    ],
+    "lüftung": [
+      "Kaminfrontlüftung",
+      "waagerechte feine Metallgaze",
+      "weiße Lüftungseinsätze in der Lichtdecke"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "je Terrarium ein HC-Sonnenauf- und -untergangs-Set",
+        "Mondlichtfunktion"
+      ]
+    },
+    "unterschrank": [
+      "je 2 Türen",
+      "wahlweise Zuschlagdämpfersystem",
+      "wahlweise Tip-On-System (Push-to-open)",
+      "höhenverstellbare Füße"
+    ],
+    "besonderheiten": [
+      "zwei Terrarien bilden optisch und funktional eine Einheit",
+      "landschaftlich integrierter Verbindungstunnel",
+      "modulare Bauweise für schwierige Transportwege",
+      "ideal für aktive Steppenreptilien mit hohem Platzbedarf"
+    ]
+  }
+},
+ {
+  "id": 135,
+  "title": "Landschaften für Vogelkäfige und Volieren",
+  "description": "Individuell gefertigte Landschaftsrückwände für Vogelkäfige und Volieren. Die Anlagen können wahlweise in natürlicher Waldoptik oder in einer kombinierten Granitfels-Wald-Optik mit integrierten Pflanzeinsätzen gestaltet werden. Die Rückwände werden exakt auf die Innenmaße der jeweiligen Anlage angepasst und können sowohl im Innen- als auch im Außenbereich eingesetzt werden. Bei größeren Volieren erfolgt die Fertigung modular aus mehreren passgenauen Segmenten.",
+  "images": [],
+  "technicalDetails": {
+    "AnlagenTyp": "Voliere / Vogelkäfig",
+    "Tierarten": [
+      "Sittiche",
+      "Finken",
+      "weitere Vogelarten"
+    ],
+    "Maße": {
+      "groesse": "individuell nach Kundenmaß",
+      "lieferbarIn": "jeder Größe"
+    },
+    "landschaft": [
+      "Waldoptik",
+      "Granitfels-Wald-Optik",
+      "integrierte Felselemente",
+      "Pflanzeinsätze für echte Pflanzen"
+    ],
+    "traegermaterial": {
+      "innenbereich": "Holzplatten",
+      "aussenbereich": "10 mm Kunststoffplatten"
+    },
+    "montage": [
+      "Befestigung von hinten an der Käfig- oder Volierenrückwand",
+      "verschraubbare Konstruktion"
+    ],
+    "bauweise": [
+      "maßgefertigt nach Innenmaßen",
+      "mehrteilige Ausführung bei großen Volieren",
+      "nahtlose Aneinanderreihung mehrerer Segmente"
+    ],
+    "anforderungen": [
+      "exakte Innenmaße der zu verkleidenden Flächen erforderlich"
+    ],
+    "besonderheiten": [
+      "individuelle Anpassung an bestehende Käfige und Volieren",
+      "geeignet für Innen- und Außenanlagen",
+      "naturnahe Gestaltung zur optischen Aufwertung",
+      "Pflanzbereiche können direkt integriert werden"
+    ]
+  }
+},
+  {
+  "id": 136,
+  "title": "Aquaterrarium / Paludarium für Krokodilschwanzechsen",
+  "description": "Naturnah gestaltetes Aquaterrarium für Krokodilschwanzechsen (Shinisaurus crocodilurus) in Sonderfarbe Terragrau. Die Anlage kombiniert einen großzügigen Wasserbereich mit einem sanft ins Wasser übergehenden Landteil und einer üppigen Regenwaldlandschaft. Integrierter Wasserfall, echte Bepflanzung sowie moderne Klima- und Wassertechnik schaffen optimale Bedingungen für diese semiaquatische Reptilienart.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Aquaterrarium",
+    "Terrarientypen": [
+      "Aquaterrarium",
+      "Paludarium",
+      "Regenwaldterrarium"
+    ],
+    "ReptilienTyp": [
+      "Krokodilschwanzechsen"
+    ],
+    "reptilien": [
+      "Krokodilschwanzechse (Shinisaurus crocodilurus)"
+    ],
+    "Terrarium Maße": {
+      "breite": "140 cm",
+      "tiefe": "65 cm",
+      "höhe": "100 cm",
+      "unterschrank": "vorhanden"
+    },
+    "dekor": [
+      "Sonderfarbe Terragrau"
+    ],
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "Rankpflanzen",
+      "Farne",
+      "Moose",
+      "Wurzeln",
+      "Ast über dem Wasser",
+      "integrierter Wasserfall"
+    ],
+    "wasserbereich": {
+      "wasserstand": "20 cm",
+      "schwimmbereich": "über die gesamte Grundfläche",
+      "landbereich": "sanft ins Wasser übergehend und unterschwimmbar"
+    },
+    "glaskern": [
+      "unsichtbarer Ganzglaskern aus 6 mm Floatglas"
+    ],
+    "schiebescheiben": [
+      "6 mm Glas",
+      "rollengelagertes Laufschuhsystem"
+    ],
+    "beleuchtung": [
+      "2x Bright Sun Jungle",
+      "2x Wärme-Licht-Spot",
+      "4 flach integrierte Reflektoren mit Schutzgittern"
+    ],
+    "lüftung": [
+      "senkrecht eingebaute Lüftungsrosetten in der Glasbodenblende",
+      "große Gazefläche in der weißen Lichtdecke",
+      "Lüfterset mit 2 Ventilatoren"
+    ],
+    "beregnungsanlage": [
+      "3 Düsen",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "luftfeuchtigkeit": [
+      "eingebauter Luftbefeuchter",
+      "Humidity Control II",
+      "Display in der Lichtkastenblende"
+    ],
+    "temperatursteuerung": [
+      "Thermocontrol",
+      "Display in der Lichtkastenblende"
+    ],
+    "wassertechnik": [
+      "Eheimfilter im Unterschrank",
+      "Filterung des Wasserbereichs",
+      "Betrieb des Wasserfalls"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC Sonnenauf- und -untergang",
+        "Mondlichtfunktion"
+      ]
+    },
+    "besonderheiten": [
+      "speziell für semiaquatische Reptilien konzipiert",
+      "großflächiger Schwimmbereich",
+      "natürliche Übergänge zwischen Wasser- und Landteil",
+      "integrierter Wasserfall als Gestaltungselement und Wasserbewegung"
+    ]
+  }
+},
+ {
+  "id": 137,
+  "title": "Terrarienwand mit 3 Terrarien für Zwergboas",
+  "description": "Individuell gefertigte Terrarienwand mit drei naturnah gestalteten Regenwaldterrarien für verschiedene Zwergboas und eine Sunglow Boa Constrictor Imperator. Die Anlage kombiniert ein großes Einzelterrarium mit einem doppelstöckigen Terrariensystem. Alle Terrarien wurden mit Granitfels-Wald-Landschaften, echten Pflanzen, Wetboxen und umfangreicher Klima- und Beleuchtungstechnik ausgestattet. Die dunkle Thermo-Eiche-Ausführung integriert die Anlage harmonisch in den Wohnraum.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Terrarienwand",
+    "Terrarientypen": [
+      "Regenwaldterrarium",
+      "Schlangenterrarium",
+      "Doppelstock-Terrarium"
+    ],
+    "ReptilienTyp": [
+      "Zwergboas",
+      "Boas"
+    ],
+    "reptilien": [
+      "Tarahumara Zwergboa",
+      "Corn Island Zwergboa",
+      "Sunglow Boa Constrictor Imperator"
+    ],
+    "Terrarium Maße": {
+      "grossesTerrarium": {
+        "breite": "180 cm",
+        "tiefe": "75 cm",
+        "höhe": "130 cm",
+        "unterschrankHoehe": "60 cm"
+      },
+      "doppelstockTerrarium": {
+        "jeTerrarium": "160 x 75 x 95 cm"
+      }
+    },
+    "dekor": [
+      "Thermo Eiche schwarzbraun"
+    ],
+    "landschaft": [
+      "Granitfels-Wald-Optik",
+      "Pflanzmulden für echte Pflanzen",
+      "echte Pflanzen",
+      "Kletteräste",
+      "Wetboxen als Felsstruktur mit abnehmbarem Deckel und festem Boden"
+    ],
+    "innenverkleidung": [
+      "unsichtbare Innenverkleidung aus Kunststoff zum Schutz des Holzes"
+    ],
+    "schiebescheiben": [
+      "6 mm Glas mit polierten Kanten",
+      "rollengelagertes Laufschuhsystem",
+      "abschließbar"
+    ],
+    "beleuchtung": {
+      "grossesTerrarium": [
+        "2 Bright Sun Jungle 70W Flood inklusive EVG",
+        "2 Wärme-Licht-Spots 70W",
+        "3 integrierte Reflektoren mit Schutzgittern"
+      ],
+      "kleineTerrarien": [
+        "1 Bright Sun Jungle 50W inklusive EVG",
+        "2 Wärme-Licht-Spots 35W",
+        "3 integrierte Reflektoren mit Schutzgittern je Terrarium"
+      ]
+    },
+    "lüftung": [
+      "große Gazefläche in der Lichtdecke",
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "10 cm hohe Holzblende",
+      "Lüfterset mit je 2 Ventilatoren pro Terrarium",
+      "elektronische Zeitschaltuhr"
+    ],
+    "beregnungsanlage": [
+      "integrierte Beregnungsanlage"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC-Sonnenauf- und -untergang",
+        "Mondlichtfunktion"
+      ]
+    },
+    "festglaselemente": [
+      "großes Terrarium mit Festglaselement auf der linken Seite"
+    ],
+    "unterschrank": [
+      "Zuschlagdämpfersystem",
+      "Push-to-open (Tip-On-System)"
+    ],
+    "besonderheiten": [
+      "Terrarienwand mit drei separaten Habitaten",
+      "naturnahe Regenwaldgestaltung",
+      "integrierte Wetboxen für optimale Luftfeuchtigkeit",
+      "hochwertige Wohnraumintegration durch dunkles Holzdekor"
+    ]
+  }
+},
+{
+  "id": 138,
+  "title": "Aufzuchtanlage mit 9 Terrarien aus Forex",
+  "description": "Professionelle Aufzuchtanlage mit insgesamt neun Terrarien, gefertigt aus robustem 19 mm Forex. Die Anlage besteht aus drei übereinander angeordneten Ebenen mit jeweils drei separaten Terrarien und eignet sich ideal für die Aufzucht und Haltung von Jungtieren. Durch die großzügigen Sichtblenden aus Glas lassen sich die Tiere besonders gut beobachten. Der passende Unterschrank bietet zusätzlichen Stauraum und fügt sich mit seiner weißen Perloberfläche harmonisch in die Gesamtanlage ein.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Aufzuchtanlage",
+    "Terrarientypen": [
+      "Aufzuchtterrarium",
+      "Mehrfach-Terrarienanlage",
+      "Forex-Terrarium"
+    ],
+    "gesamtanlage": {
+      "anzahlTerrarien": 9,
+      "anzahlEbenen": 3,
+      "terrariumProEbene": 3
+    },
+    "material": [
+      "19 mm Forex"
+    ],
+    "unterschrank": {
+      "breite": "222 cm",
+      "tiefe": "55 cm",
+      "höhe": "40 cm",
+      "material": "19 mm furnierte Spanplatten",
+      "dekor": "Weiß Perloberfläche",
+      "tueren": 3,
+      "oeffnungssystem": "Tip-On-System"
+    },
+    "terrariumMaße": {
+      "jeEbene": {
+        "breite": "222 cm",
+        "tiefe": "55 cm",
+        "höhe": "56 cm"
+      },
+      "jeTerrarium": {
+        "breite": "71,46 cm"
+      }
+    },
+    "aufbau": [
+      "untere Ebene direkt auf dem Unterschrank",
+      "zweite und dritte Ebene auf jeweils 8 Füßen mit 5 cm Höhe montiert",
+      "Terrarien durch Mitteltrennwände voneinander getrennt"
+    ],
+    "belueftung": [
+      "Gazestreifen vorne oben",
+      "Gazestreifen hinten oben in der Rückwand"
+    ],
+    "ausstattung": [
+      "untere Glasblende zur besseren Tierbeobachtung",
+      "optimierte Sicht auf die Tiere während der Fütterung"
+    ],
+    "besonderheiten": [
+      "platzsparende 3-Ebenen-Konstruktion",
+      "ideal für Aufzucht und Quarantäne",
+      "leichte und feuchtigkeitsresistente Forex-Bauweise",
+      "gute Belüftung durch Gazestreifen",
+      "große Beobachtungsflächen durch Glasblenden"
+    ]
+  }
+},
+ {
+  "id": 139,
+  "title": "Terrarium in Panoramaform für Kragenechsen",
+  "description": "Großzügiges Panorama-Terrarium für Kragenechsen (Chlamydosaurus kingii) mit naturnaher Rustico-Felslandschaft und umfangreicher technischer Ausstattung. Die Anlage bietet viel Kletterraum, optimale Belüftung und zahlreiche Sonnenplätze. Durch die offene Bauweise ohne sichtbaren Deckel wird eine hervorragende Luftzirkulation erreicht, während echte Pflanzen und zahlreiche Kletteräste eine strukturreiche Umgebung schaffen.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Steppen- und Savannenterrarium",
+    "Terrarientypen": [
+      "Kragenechsen-Terrarium",
+      "Panoramaterrarium",
+      "Steppenterrarium"
+    ],
+    "ReptilienTyp": [
+      "Kragenechsen"
+    ],
+    "reptilien": [
+      "Kragenechse (Chlamydosaurus kingii)"
+    ],
+    "Terrarium Maße": {
+      "breite": "210 cm",
+      "tiefe": "90 cm",
+      "höhe": "198,5 cm",
+      "unterschrankHoehe": "71,5 cm"
+    },
+    "dekor": [
+      "Anthrazit Metallic",
+      "Miniperl-Oberfläche"
+    ],
+    "landschaft": [
+      "Rustico-Felslandschaft",
+      "natürlich wirkende Felsstrukturen",
+      "Pflanzmulden für echte Pflanzen",
+      "kundenseitige Sukkulentenbepflanzung",
+      "zahlreiche Kletteräste",
+      "echte Pflanzen"
+    ],
+    "schiebescheiben": [
+      "6 mm Glas mit polierten Kanten",
+      "rollengelagertes Laufschuhsystem",
+      "abschließbar"
+    ],
+    "beleuchtung": [
+      "2 Bright Sun 70W inklusive EVG",
+      "3 Wärme-Licht-Spots 70W",
+      "1 LED-Spot",
+      "6 flach integrierte Reflektoren mit Schutzgittern"
+    ],
+    "lichtdecke": [
+      "weiße Lichtdecke für optimale Lichtreflexion",
+      "große Gazefläche",
+      "Lichtkasten mit klappbarer Frontklappe"
+    ],
+    "lüftung": [
+      "offene Bauweise ohne sichtbaren Deckel",
+      "Frontlüftung mit Metall-Gaze im Aluminiumrahmen",
+      "Holzblende und Glasblende im Frontbereich",
+      "4 Ventilatoren mit Zeitschaltuhr"
+    ],
+    "beregnungsanlage": [
+      "4 Düsen",
+      "6 mm Schlauchsystem",
+      "Rückschlagventil",
+      "Feinfilter",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC-Sonnenauf- und -untergang",
+        "Mondlichtfunktion"
+      ]
+    },
+    "unterschrank": [
+      "Push-to-open (Tip-On-System)",
+      "Zuschlagdämpfersystem",
+      "lose Bodenblende",
+      "höhenverstellbare Füße",
+      "Aussparung für Fliesensockel"
+    ],
+    "zubehoer": [
+      "2 integrierte Futternäpfe"
+    ],
+    "besonderheiten": [
+      "Panorama-Bauweise mit großzügiger Sichtfläche",
+      "optimierte Belüftung durch deckellose Konstruktion",
+      "ideal für aktive und kletterfreudige Kragenechsen",
+      "umfangreiche Klima- und Beregnungstechnik",
+      "hoher Strukturierungsgrad durch Pflanzen und Kletteräste"
+    ]
+  }
+},
+ {
+  "id": 140,
+  "title": "Terrarium für Insekten – Insektarium",
+  "description": "Spezialgefertigtes Insektarium für das Haus Natur und Umwelt in Berlin. Das Terrarium wurde als Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Einzelterrarien realisiert. Die naturnahe Waldrandgestaltung mit Felsen, Wurzeln und Korkelementen bietet optimale Lebensbedingungen für verschiedene Wirbellose wie Vogelspinnen, Achatschnecken und Käfer. Die robuste Bauweise, sichere Verglasung und durchdachte Belüftung machen das Terrarium ideal für zoologische Einrichtungen, Ausstellungen und die professionelle Haltung von Wirbellosen.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Insektarium",
+    "Terrarientypen": [
+      "Insektenterrarium",
+      "Waldrandterrarium",
+      "Ausstellungsterrarium"
+    ],
+    "Terratyp": "S07",
+    "Tierarten": [
+      "Vogelspinnen",
+      "Achatschnecken",
+      "Käfer"
+    ],
+    "Terrarium Maße": {
+      "breite": "60 cm",
+      "tiefe": "70 cm",
+      "höhe": "63,3 cm"
+    },
+    "landschaft": [
+      "Waldrand-Optik",
+      "Felsen",
+      "Wurzeln",
+      "Korkelemente"
+    ],
+    "schiebescheiben": [
+      "6 mm VSG-Sicherheitsglas",
+      "polierte Kanten",
+      "Laufschuhsystem",
+      "abschließbar"
+    ],
+    "belueftung": [
+      "Kaminlüftung vorne mit Metall-Gaze",
+      "2 Gazeflächen in der Lichtdecke"
+    ],
+    "lichtkasten": [
+      "hinten offen ausgeführt"
+    ],
+    "innenverkleidung": [
+      "unsichtbare Kunststoff-Innenverkleidung zum Schutz des Holzes"
+    ],
+    "beleuchtung": [
+      "1 Bright Sun Jungle 35W mit EVG und Porzellanfassung",
+      "1 Wärme-Licht-Spot"
+    ],
+    "einsatzbereich": [
+      "Zoo",
+      "Naturkundeeinrichtungen",
+      "Bildungszentren",
+      "Ausstellungen"
+    ],
+    "projekt": {
+      "standort": "Haus Natur und Umwelt, Berlin",
+      "gesamtanlage": "Teil einer 10 Meter langen Terrarienwand",
+      "anzahlTerrarienGesamt": 11
+    },
+    "besonderheiten": [
+      "professionelle Zoo-Ausführung",
+      "sichere Verglasung mit VSG",
+      "optimierte Belüftung durch Kamineffekt",
+      "naturnahe Waldrandgestaltung",
+      "modulare Integration in größere Terrarienanlagen"
+    ]
+  }
+},
+ {
+  "id": 141,
+  "title": "Großes Terrarium in Deltaform für Kornnattern",
+  "description": "Außergewöhnliches Delta-Terrarium für Kornnattern, gefertigt für das Haus Natur und Umwelt in Berlin. Die markante Grundrissform nutzt den vorhandenen Raum optimal aus und schafft gleichzeitig eine großzügige, strukturreiche Lebensumgebung. Die naturnahe Granitfels-Wald-Landschaft mit echten Pflanzen, Wurzeln und Korkelementen bietet zahlreiche Kletter- und Versteckmöglichkeiten. Das Terrarium wurde speziell an die baulichen Gegebenheiten angepasst und ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Ausstellungsterrarien.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Delta-Terrarium",
+    "Terrarientypen": [
+      "Schlangenterrarium",
+      "Waldterrarium",
+      "Ausstellungsterrarium"
+    ],
+    "ReptilienTyp": [
+      "Nattern"
+    ],
+    "reptilien": [
+      "Kornnatter"
+    ],
+    "Terrarium Maße": {
+      "schenkellaengeLinks": "150 cm",
+      "schenkellaengeRechts": "90 cm",
+      "seitenschenkelLinks": "70 cm",
+      "seitenschenkelRechts": "50 cm",
+      "hoehe": "200 cm"
+    },
+    "standort": {
+      "einrichtung": "Haus Natur und Umwelt",
+      "stadt": "Berlin",
+      "gesamtanlage": "Teil einer 10 Meter langen Terrarienwand",
+      "anzahlTerrarienGesamt": 11
+    },
+    "landschaft": [
+      "Granitfels-Wald-Optik",
+      "Felsen",
+      "Wurzeln",
+      "Korkelemente",
+      "echte Pflanzen"
+    ],
+    "schiebescheiben": [
+      "6 mm VSG-Sicherheitsglas",
+      "polierte Kanten",
+      "rollengelagertes Laufschuhsystem"
+    ],
+    "festglaselemente": [
+      "Festglaselement auf der rechten Seite für zusätzliche Einblicke"
+    ],
+    "beleuchtung": [
+      "3 Bright Sun Jungle Flood 70W inklusive EVG",
+      "3 Wärme-Licht-Spots",
+      "6 integrierte Reflektoren mit Schutzgittern"
+    ],
+    "belueftung": [
+      "senkrechte Lüftungsrosetten in der Glasbodenblende"
+    ],
+    "unterschrank": [
+      "10 cm hohe Bodenblende"
+    ],
+    "unterkonstruktion": [
+      "höhenverstellbare Füße"
+    ],
+    "sonderanfertigungen": [
+      "Aussparung für ein bodennah verlaufendes Heizungsrohr auf der rechten Seite"
+    ],
+    "besonderheiten": [
+      "platzoptimierende Deltaform",
+      "naturnahe Waldlandschaft mit echten Pflanzen",
+      "seitliche Einsicht durch Festglaselement",
+      "professionelle Zoo-Ausführung",
+      "Teil einer groß angelegten Ausstellungsterrarienwand"
+    ]
+  }
+},
+ {
+  "id": 142,
+  "title": "Terrarium für Leopardgeckos",
+  "description": "Naturnah gestaltetes Wüsten- und Steppenterrarium für Leopardgeckos, realisiert für das Haus Natur und Umwelt in Berlin. Als oberes Terrarium eines doppelstöckigen Systems bietet die Anlage zahlreiche Versteckmöglichkeiten in Form von engen Felsspalten und Höhlen. Die mehrfarbig besandete Felslandschaft in Sandsteinoptik mit Terracotta-Strukturen schafft eine authentische Umgebung für dämmerungsaktive Leopardgeckos. Das Terrarium ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Ausstellungsterrarien.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Wüsten- und Steppenterrarium",
+    "Terrarientypen": [
+      "Leopardgecko-Terrarium",
+      "Ausstellungsterrarium",
+      "Doppelstock-Terrarium"
+    ],
+    "ReptilienTyp": [
+      "Geckos"
+    ],
+    "reptilien": [
+      "Leopardgecko (Eublepharis macularius)"
+    ],
+    "Terrarium Maße": {
+      "breite": "150 cm",
+      "tiefe": "70 cm",
+      "höhe": "85 cm"
+    },
+    "position": [
+      "oberes Terrarium eines doppelstöckigen Systems"
+    ],
+    "standort": {
+      "einrichtung": "Haus Natur und Umwelt",
+      "stadt": "Berlin",
+      "gesamtanlage": "Teil einer 10 Meter langen Terrarienwand",
+      "anzahlTerrarienGesamt": 11
+    },
+    "landschaft": [
+      "elfenbein-sandsteinfarbige Besandung",
+      "Terracotta-Strukturen",
+      "enge Felsspalten",
+      "zahlreiche Höhlen",
+      "naturnahe Wüsten- und Steppenlandschaft"
+    ],
+    "schiebescheiben": [
+      "6 mm VSG-Sicherheitsglas",
+      "polierte Kanten",
+      "Laufschuhsystem"
+    ],
+    "beleuchtung": [
+      "2 Bright Sun Desert 35W inklusive EVG",
+      "2 Wärme-Licht-Spots",
+      "4 weiße drehbare Einbaustrahler"
+    ],
+    "belueftung": [
+      "Kaminlüftung mit waagerechter Metallgaze"
+    ],
+    "besonderheiten": [
+      "optimiert für dämmerungsaktive Leopardgeckos",
+      "viele Rückzugs- und Versteckmöglichkeiten",
+      "professionelle Zoo-Ausführung",
+      "Teil einer großflächigen Ausstellungsterrarienanlage",
+      "realistische Wüsten- und Felslandschaft"
+    ]
+  }
+},
+ {
+  "id": 143,
+  "title": "Terrarium für eine Panzerschleiche (Scheltopusik)",
+  "description": "Naturnah gestaltetes Waldterrarium für eine Panzerschleiche (Scheltopusik), gefertigt für das Haus Natur und Umwelt in Berlin. Das Terrarium wurde als oberes Becken über einem Paludarium für Feuersalamander integriert und ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Terrarien. Die detailreiche Sandstein-Wald-Landschaft mit Felsen, Wurzeln, Geröll und Laub schafft eine strukturreiche Umgebung mit zahlreichen Rückzugs- und Erkundungsmöglichkeiten für die Tiere.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Waldterrarium",
+    "Terrarientypen": [
+      "Panzerschleichen-Terrarium",
+      "Ausstellungsterrarium",
+      "Halbfeuchtterrarium"
+    ],
+    "ReptilienTyp": [
+      "Schleichen"
+    ],
+    "reptilien": [
+      "Panzerschleiche (Scheltopusik)"
+    ],
+    "Terrarium Maße": {
+      "breite": "150 cm",
+      "tiefe": "70 cm",
+      "höhe": "85 cm"
+    },
+    "position": [
+      "oberes Terrarium über einem Paludarium für Feuersalamander"
+    ],
+    "standort": {
+      "einrichtung": "Haus Natur und Umwelt",
+      "stadt": "Berlin",
+      "gesamtanlage": "Teil einer 10 Meter langen Terrarienwand",
+      "anzahlTerrarienGesamt": 11
+    },
+    "landschaft": [
+      "Sandstein-Wald-Optik",
+      "Felsen",
+      "Wurzeln",
+      "Geröllbrocken",
+      "Laubstreu"
+    ],
+    "schiebescheiben": [
+      "6 mm VSG-Sicherheitsglas",
+      "polierte Kanten",
+      "Laufschuhsystem"
+    ],
+    "innenverkleidung": [
+      "unsichtbare Kunststoff-Innenverkleidung zum Schutz des Holzes"
+    ],
+    "lichtdecke": [
+      "weiße Lichtdecke zur optimalen Lichtreflexion"
+    ],
+    "beleuchtung": [
+      "2 Bright Sun Jungle 35W inklusive EVG",
+      "2 Wärme-Licht-Spots",
+      "4 flach integrierte Reflektoren mit Schutzgittern"
+    ],
+    "belueftung": [
+      "Kaminlüftung mit waagerechter Metallgaze"
+    ],
+    "besonderheiten": [
+      "naturnahe Waldlandschaft mit vielfältigen Strukturelementen",
+      "professionelle Zoo-Ausführung",
+      "optimierte Lichtreflexion durch weiße Lichtdecke",
+      "Teil einer großflächigen Ausstellungsterrarienanlage",
+      "kombiniert mit darunterliegendem Paludarium für Feuersalamander"
+    ]
+  }
+},
+ {
+  "id": 144,
+  "title": "Paludarium für Wechselkröten",
+  "description": "Speziell für Wechselkröten gestaltetes Paludarium, gefertigt für das Haus Natur und Umwelt in Berlin. Die Anlage kombiniert einen flachen Wasserbereich mit naturnahen Landzonen und einer detailreichen Granitfels-Jungle-Landschaft. Felsen, Wurzeln, Korkelemente und bepflanzbare Bereiche schaffen vielfältige Strukturen für Rückzug, Nahrungssuche und natürliche Verhaltensweisen. Das Paludarium ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Ausstellungsanlagen.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Paludarium",
+    "Terrarientypen": [
+      "Amphibien-Paludarium",
+      "Ausstellungspaludarium",
+      "Feuchtterrarium"
+    ],
+    "Tiergruppe": [
+      "Amphibien"
+    ],
+    "bewohner": [
+      "Wechselkröten"
+    ],
+    "Terrarium Maße": {
+      "breite": "150 cm",
+      "tiefe": "70 cm",
+      "höhe": "75 cm",
+      "unterschrankHoehe": "40 cm"
+    },
+    "standort": {
+      "einrichtung": "Haus Natur und Umwelt",
+      "stadt": "Berlin",
+      "gesamtanlage": "Teil einer 10 Meter langen Terrarienwand",
+      "anzahlTerrarienGesamt": 11
+    },
+    "wasserbereich": {
+      "wasserstand": "7 cm",
+      "gestaltung": [
+        "Bachlauf",
+        "Wasserfall"
+      ]
+    },
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "Felsen",
+      "Wurzeln",
+      "Korkelemente",
+      "Pflanzmulden für echte Pflanzen"
+    ],
+    "glaskern": [
+      "12 mm Ganzglaskern"
+    ],
+    "schiebescheiben": [
+      "6 mm VSG-Sicherheitsglas",
+      "polierte Kanten",
+      "Laufschuhsystem"
+    ],
+    "beleuchtung": [
+      "2 LED-Balken in Weiß à 100 cm"
+    ],
+    "belueftung": [
+      "große Gazefläche in der Lichtdecke",
+      "senkrecht eingebaute Lüftungsrosetten in der Glasbodenblende",
+      "zusätzliche Lüftungen im Lichtkasten nach hinten"
+    ],
+    "technik": [
+      "Bachlauf- und Wasserfallpumpe"
+    ],
+    "besonderheiten": [
+      "optimale Kombination aus Land- und Wasserbereich",
+      "naturnahe Feuchtbiotop-Gestaltung",
+      "professionelle Zoo-Ausführung",
+      "Teil einer großflächigen Ausstellungsterrarienanlage",
+      "strukturreiche Lebensräume mit zahlreichen Versteckmöglichkeiten"
+    ]
+  }
+},
+ {
+  "id": 145,
+  "title": "Paludarium für Feuersalamander",
+  "description": "Naturnah gestaltetes Paludarium für Feuersalamander, gefertigt für das Haus Natur und Umwelt in Berlin. Die Anlage kombiniert einen flachen Wasserbereich mit strukturreichen Landzonen und einer detailreichen Granitfels-Jungle-Landschaft. Felsen, Wurzeln, Korkelemente und bepflanzbare Bereiche schaffen ideale Bedingungen für die Haltung dieser feuchtigkeitsliebenden Amphibien. Das Paludarium bildet die untere Ebene eines doppelstöckigen Terrariensystems, über dem ein Terrarium für eine Panzerschleiche installiert wurde. Die Anlage ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Ausstellungsterrarien.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Paludarium",
+    "Terrarientypen": [
+      "Salamander-Paludarium",
+      "Amphibienanlage",
+      "Ausstellungspaludarium"
+    ],
+    "Tiergruppe": [
+      "Amphibien"
+    ],
+    "bewohner": [
+      "Feuersalamander"
+    ],
+    "Terrarium Maße": {
+      "breite": "150 cm",
+      "tiefe": "70 cm",
+      "höhe": "75 cm",
+      "unterschrankHoehe": "40 cm"
+    },
+    "standort": {
+      "einrichtung": "Haus Natur und Umwelt",
+      "stadt": "Berlin",
+      "gesamtanlage": "Teil einer 10 Meter langen Terrarienwand",
+      "anzahlTerrarienGesamt": 11
+    },
+    "anlagenkonzept": [
+      "untere Ebene eines doppelstöckigen Terrariensystems",
+      "oberhalb befindet sich ein Terrarium für eine Panzerschleiche"
+    ],
+    "wasserbereich": {
+      "wasserstand": "7 cm",
+      "gestaltung": [
+        "Bachlauf",
+        "Wasserfall"
+      ]
+    },
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "Felsen",
+      "Wurzeln",
+      "Korkelemente",
+      "Pflanzmulden für echte Pflanzen"
+    ],
+    "glaskern": [
+      "12 mm Ganzglaskern"
+    ],
+    "schiebescheiben": [
+      "6 mm VSG-Sicherheitsglas",
+      "polierte Kanten",
+      "Laufschuhsystem"
+    ],
+    "beleuchtung": [
+      "2 LED-Balken in Weiß à 100 cm"
+    ],
+    "belueftung": [
+      "große Gazefläche in der Lichtdecke",
+      "senkrecht eingebaute Lüftungsrosetten in der Glasbodenblende",
+      "zusätzliche Lüftungen im Lichtkasten nach hinten"
+    ],
+    "technik": [
+      "Bachlauf- und Wasserfallpumpe"
+    ],
+    "besonderheiten": [
+      "optimale Kombination aus Wasser- und Landbereich",
+      "naturnahe Feuchtbiotop-Gestaltung",
+      "professionelle Zoo-Ausführung",
+      "Teil einer großflächigen Ausstellungsterrarienanlage",
+      "doppelstöckige Bauweise mit darüberliegendem Panzerschleichen-Terrarium"
+    ]
+  }
+},
+ {
+  "id": 146,
+  "title": "Aquaterrarium für Unken, Laubfrösche und Rotkehlanolis",
+  "description": "Großzügiges Aquaterrarium für verschiedene Amphibien- und Reptilienarten, gefertigt für das Haus Natur und Umwelt in Berlin. Die Anlage vereint einen großzügigen Wasserbereich mit einer naturnahen Granitfels-Jungle-Landschaft und bepflanzten Landzonen. Durch sanft ansteigende Uferbereiche, teilweise unterschwimmbare Landflächen sowie zahlreiche Kletter- und Versteckmöglichkeiten bietet das Habitat optimale Bedingungen für Laubfrösche, Rotbauchunken, Rotkehlanolis und begleitende Fischarten. Das Aquaterrarium ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Ausstellungsterrarien.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Aquaterrarium",
+    "Terrarientypen": [
+      "Amphibien-Aquaterrarium",
+      "Regenwald-Aquaterrarium",
+      "Ausstellungsterrarium"
+    ],
+    "Tiergruppe": [
+      "Amphibien",
+      "Reptilien",
+      "Fische"
+    ],
+    "bewohner": [
+      "Amerikanische Laubfrösche",
+      "Chinesische Rotbauchunken",
+      "Rotkehlanolis",
+      "verschiedene Fischarten"
+    ],
+    "Terrarium Maße": {
+      "breite": "140 cm",
+      "tiefe": "70 cm",
+      "höhe": "160 cm",
+      "unterschrankHoehe": "40 cm"
+    },
+    "standort": {
+      "einrichtung": "Haus Natur und Umwelt",
+      "stadt": "Berlin",
+      "gesamtanlage": "Teil einer 10 Meter langen Terrarienwand",
+      "anzahlTerrarienGesamt": 11
+    },
+    "wasserbereich": {
+      "wasserstand": "ca. 30 cm",
+      "gestaltung": [
+        "Bachlauf",
+        "Wasserfall",
+        "teilweise unterschwimmbare Landbereiche",
+        "sanft ansteigende Uferzonen",
+        "natürlicher Ausstiegsbereich"
+      ]
+    },
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "Felsen",
+      "Wurzeln",
+      "Korkelemente",
+      "Pflanzmulden für echte Pflanzen"
+    ],
+    "glaskern": [
+      "12 mm Ganzglaskern"
+    ],
+    "schiebescheiben": [
+      "6 mm ESG-Sicherheitsglas",
+      "polierte Kanten",
+      "Laufschuhsystem"
+    ],
+    "lichtdecke": [
+      "weiße Lichtdecke für optimale Lichtreflexion",
+      "große Gazefläche"
+    ],
+    "beleuchtung": [
+      "2 Bright Sun Jungle Flood 70W inklusive EVG",
+      "2 Wärme-Licht-Spots",
+      "4 flach integrierte Reflektoren mit Schutzgittern"
+    ],
+    "belueftung": [
+      "senkrecht eingebaute Lüftungsrosetten in der Glasbodenblende"
+    ],
+    "wassertechnik": [
+      "Bachlauf- und Wasserfallpumpe",
+      "Heizstab",
+      "Bodenbelag und Kies mit Felsbrocken",
+      "Eheim-Filter im Unterschrank",
+      "Anschlüsse für Wasserfilterung und Wasserwechsel"
+    ],
+    "besonderheiten": [
+      "Kombination aus Wasser- und Landlebensraum",
+      "naturnahe Regenwaldgestaltung",
+      "optimierte Bedingungen für Amphibien und baumbewohnende Reptilien",
+      "professionelle Zoo-Ausführung",
+      "Teil einer großflächigen Ausstellungsterrarienanlage"
+    ]
+  }
+},
+ {
+  "id": 147,
+  "title": "Wüstenterrarium für Stachelleguane",
+  "description": "Großzügiges Wüsten- und Steppenterrarium für Blaue Stachelleguane (Sceloporus cyanogenys), gefertigt für das Haus Natur und Umwelt in Berlin. Die naturnahe Landschaftsgestaltung mit sandsteinfarbenen Felsformationen, Terracotta-Strukturen, Geröllfeldern und Höhlen orientiert sich an trockenen Lebensräumen Nordamerikas. Die Anlage bietet zahlreiche Sonnenplätze, Verstecke und erhöhte Aussichtspunkte. Das Terrarium ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Ausstellungsterrarien.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Wüsten- und Steppenterrarium",
+    "Terrarientypen": [
+      "Leguanterrarium",
+      "Wüstenterrarium",
+      "Ausstellungsterrarium"
+    ],
+    "ReptilienTyp": [
+      "Leguane"
+    ],
+    "reptilien": [
+      "Blauer Stachelleguan (Sceloporus cyanogenys)"
+    ],
+    "Terrarium Maße": {
+      "breite": "200 cm",
+      "tiefe": "70 cm",
+      "höhe": "160 cm",
+      "unterschrankHoehe": "40 cm"
+    },
+    "standort": {
+      "einrichtung": "Haus Natur und Umwelt",
+      "stadt": "Berlin",
+      "gesamtanlage": "Teil einer 10 Meter langen Terrarienwand",
+      "anzahlTerrarienGesamt": 11
+    },
+    "landschaft": [
+      "elfenbein-sandsteinfarbige Besandung",
+      "Terracotta-Strukturen",
+      "Felsformationen",
+      "lose Geröllbrocken",
+      "Höhlen",
+      "naturnahe Wüsten- und Steppenlandschaft"
+    ],
+    "schiebescheiben": [
+      "6 mm ESG-Sicherheitsglas",
+      "polierte Kanten",
+      "Laufschuhsystem"
+    ],
+    "beleuchtung": [
+      "2 Bright Sun Desert 70W inklusive EVG",
+      "3 Wärme-Licht-Spots",
+      "5 weiße drehbare Einbaustrahler"
+    ],
+    "belueftung": [
+      "Kaminlüftung mit waagerechter Metall-Gaze"
+    ],
+    "besonderheiten": [
+      "großzügige Kletter- und Sonnenbereiche",
+      "zahlreiche Versteckmöglichkeiten durch Höhlen und Geröll",
+      "professionelle Zoo-Ausführung",
+      "optimiert für trockenheitsliebende Reptilien",
+      "Teil einer großflächigen Ausstellungsterrarienanlage"
+    ]
+  }
+},
+{
+  "id": 148,
+  "title": "Steppen-Deltaterrarium für Perleidechsen",
+  "description": "Außergewöhnliches Steppen-Deltaterrarium für Perleidechsen, gefertigt für das Haus Natur und Umwelt in Berlin. Die markante Deltaform schafft eine großzügige und zugleich platzsparende Anlage mit terrassenförmig aufgebauter Felslandschaft. Die mehrfarbige Besandung in Sandstein- und Terracottaoptik sowie integrierte Pflanzbereiche für echte Sukkulenten erzeugen ein naturnahes Habitat mit zahlreichen Sonnen-, Kletter- und Rückzugsmöglichkeiten. Das Terrarium ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Ausstellungsterrarien.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Steppen-Deltaterrarium",
+    "Terrarientypen": [
+      "Deltaterrarium",
+      "Steppenterrarium",
+      "Ausstellungsterrarium"
+    ],
+    "ReptilienTyp": [
+      "Eidechsen"
+    ],
+    "reptilien": [
+      "Perleidechsen"
+    ],
+    "Terrarium Maße": {
+      "schenkellaenge": "150 cm",
+      "seitenschenkelLinks": "70 cm",
+      "seitenschenkelRechts": "70 cm",
+      "hoehe": "200 cm"
+    },
+    "standort": {
+      "einrichtung": "Haus Natur und Umwelt",
+      "stadt": "Berlin",
+      "gesamtanlage": "Teil einer 10 Meter langen Terrarienwand",
+      "anzahlTerrarienGesamt": 11
+    },
+    "landschaft": [
+      "elfenbein-sandsteinfarbige Besandung",
+      "Terracotta-Strukturen",
+      "terrassenförmig aufgebaute Felslandschaft",
+      "Pflanzeinsätze für echte Sukkulenten",
+      "naturnahe Steppenlandschaft"
+    ],
+    "schiebescheiben": [
+      "6 mm ESG-Sicherheitsglas",
+      "polierte Kanten",
+      "Laufschuhsystem"
+    ],
+    "beleuchtung": [
+      "4 Bright Sun Desert 70W inklusive EVG",
+      "3 Wärme-Licht-Spots",
+      "7 weiße drehbare Einbaustrahler"
+    ],
+    "belueftung": [
+      "senkrechte Lüftungsrosetten in der Glasbodenblende"
+    ],
+    "besonderheiten": [
+      "platzoptimierende Deltaform",
+      "terrassierte Landschaft für unterschiedliche Temperaturzonen",
+      "integrierte Pflanzbereiche für echte Sukkulenten",
+      "großzügige Sonnen- und Kletterflächen",
+      "professionelle Zoo-Ausführung",
+      "Teil einer großflächigen Ausstellungsterrarienanlage"
+    ]
+  }
+},
+ {
+  "id": 149,
+  "title": "10 m lange Terrarienwand mit 11 Terrarien für das Haus Natur und Umwelt",
+  "description": "Umfangreiche Sonderanfertigung einer rund 10 Meter langen Terrarienwand für das Haus Natur und Umwelt in Berlin. Die Anlage umfasst elf individuell geplante Terrarien und Paludarien für unterschiedlichste Reptilien, Amphibien und Wirbellose. Ziel des Projekts war die komplette Neugestaltung der Reptilienabteilung des kleinen Zoos. Jede Anlage wurde exakt auf die Bedürfnisse der jeweiligen Tierarten abgestimmt und mit passenden Klimazonen, Landschaftsstrukturen, Beleuchtungs- und Belüftungssystemen ausgestattet. Die gesamte Terrarienwand wurde in der Werkstatt vorgefertigt, nach Berlin transportiert und vor Ort innerhalb von zwei Tagen montiert und in Betrieb genommen.",
+  "images": [],
+  "technicalDetails": {
+    "Projekt Typ": "Terrarienwand",
+    "Anlagentyp": [
+      "Zoo-Anlage",
+      "Ausstellungsterrarien",
+      "Paludarien",
+      "Aquaterrarien",
+      "Insektarien"
+    ],
+    "standort": {
+      "einrichtung": "Haus Natur und Umwelt",
+      "betreiber": "Union Sozialer Einrichtungen gGmbH (USE)",
+      "adresse": "An der Wuhlheide 169, 12459 Berlin",
+      "funktion": "Reptilienabteilung eines öffentlich zugänglichen Tier- und Umweltzentrums"
+    },
+    "gesamtanlage": {
+      "gesamtlänge": "ca. 10 m",
+      "anzahlTerrarien": 11,
+      "transport": "komplette Anlage in Einzelmodulen vorgefertigt",
+      "montagezeit": "2 Tage vor Ort",
+      "transportfahrzeug": "7,5 t LKW"
+    },
+    "enthalteneAnlagen": [
+      "Steppen-Deltaterrarium für Perleidechsen",
+      "Wüstenterrarium für Blaue Stachelleguane",
+      "Aquaterrarium für Laubfrösche, Rotbauchunken, Fische und Rotkehlanolis",
+      "Paludarium für Feuersalamander",
+      "Terrarium für Panzerschleichen (Scheltopusik)",
+      "Paludarium für Wechselkröten",
+      "Terrarium für Leopardgeckos",
+      "Dreistöckige Insektarien-Anlage",
+      "Delta-Terrarium für Kornnattern"
+    ],
+    "konstruktion": [
+      "vorgefertigte Einzelmodule",
+      "mehrteilige Delta-Terrarien für den Transport",
+      "Aquaterrarium und Paludarien mit 12 mm Ganzglaskern",
+      "sämtliche Sichtscheiben aus ESG-Sicherheitsglas"
+    ],
+    "landschaftsgestaltung": [
+      "individuell auf die jeweilige Tierart abgestimmte Landschaften",
+      "Steppen- und Wüstenlandschaften",
+      "Wald- und Halbfeuchtlandschaften",
+      "Regenwald- und Paludariumstrukturen",
+      "Aquatische Lebensräume",
+      "artspezifische Sonnenplätze",
+      "Höhlen, Felsspalten und Rückzugsbereiche"
+    ],
+    "planungBesonderheiten": [
+      "Umbau eines vorhandenen Heizungsrohres im Kornnattern-Deltaterrarium",
+      "exakte UV- und Temperaturplanung für hohe Steppenterrarien",
+      "unterschwimmbare Landbereiche im Aquaterrarium",
+      "LED-Beleuchtung für temperaturkritische Amphibienarten",
+      "zentralisierte Technikzugänge bei mehrstöckigen Anlagen"
+    ],
+    "technik": [
+      "Bright Sun Jungle und Bright Sun Desert UV-Systeme",
+      "Wärme-Licht-Spots",
+      "LED-Beleuchtungssysteme",
+      "Aquaterrarien mit Filter- und Pumpentechnik",
+      "Wasserfälle und Bachläufe",
+      "Belüftungssysteme",
+      "artgerechte UV-Versorgung",
+      "mehrere Temperatur- und Klimazonen"
+    ],
+    "tierarten": [
+      "Perleidechsen",
+      "Blaue Stachelleguane",
+      "Kornnattern",
+      "Leopardgeckos",
+      "Panzerschleichen",
+      "Rotkehlanolis",
+      "Amerikanische Laubfrösche",
+      "Rotbauchunken",
+      "Feuersalamander",
+      "Wechselkröten",
+      "Vogelspinnen",
+      "Achatschnecken",
+      "Käfer",
+      "verschiedene Fischarten"
+    ],
+    "besonderheiten": [
+      "komplette Neugestaltung einer Zoo-Reptilienabteilung",
+      "elf individuell geplante Lebensräume",
+      "barrierefreie Wartung und Technikzugänglichkeit",
+      "hoher Bildungs- und Ausstellungswert",
+      "enge Abstimmung auf artspezifische Anforderungen",
+      "professionelle Zoo-Ausführung",
+      "Sonderanfertigung mit komplexer Vorplanung und Logistik"
+    ]
+  }
+} ,
+ {
+  "id": 150,
+  "title": "Schlangenterrarium für den Vogelpark Schotten",
+  "description": "Individuell gefertigtes Halbfeucht- und Tropenterrarium für eine Boa, realisiert für die Reptilienabteilung des Vogelparks Schotten. Das Terrarium wurde für den Einbau in ein kundenseitig gestaltetes Terrarienhaus konzipiert und fügt sich optisch in die vorhandene Architektur ein. Die naturnahe Granitfels-Wald-Landschaft mit Felsen, Wurzeln, Korkelementen und Pflanztrögen bietet zahlreiche Versteck- und Klettermöglichkeiten. Umfangreiche Klima-, Beleuchtungs- und Beregnungstechnik sorgt für optimale Haltungsbedingungen und eine zuverlässige Steuerung von Temperatur und Luftfeuchtigkeit.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Halbfeucht- und Tropenterrarium",
+    "Terrarientypen": [
+      "Schlangenterrarium",
+      "Boa-Terrarium",
+      "Ausstellungsterrarium"
+    ],
+    "ReptilienTyp": [
+      "Boas"
+    ],
+    "reptilien": [
+      "Boa"
+    ],
+    "Terrarium Maße": {
+      "breite": "200 cm",
+      "tiefe": "70 cm",
+      "höhe": "130 cm"
+    },
+    "standort": {
+      "einrichtung": "Vogelpark Schotten – Tier- und Erlebnispark",
+      "betreiber": "Schottener Soziale Dienste gGmbH",
+      "adresse": "Vogelsbergstraße 212, 63679 Schotten"
+    },
+    "landschaft": [
+      "Granitfels-Wald-Optik",
+      "Felsen",
+      "Wurzeln",
+      "Korkelemente",
+      "Pflanztröge"
+    ],
+    "schiebescheiben": [
+      "6 mm ESG-Sicherheitsglas",
+      "polierte Kanten",
+      "Laufschuhsystem",
+      "optional 4 mm Glas im Doppel-U-Profil"
+    ],
+    "innenverkleidung": [
+      "unsichtbare Kunststoff-Innenverkleidung zum Schutz des Holzes"
+    ],
+    "beleuchtung": [
+      "2 Bright Sun Jungle",
+      "3 Wärme-Licht-Spots",
+      "5 integrierte Reflektoren mit Schutzgittern"
+    ],
+    "belueftung": [
+      "große Gazefläche im unteren Bereich",
+      "große Gazefläche in der Decke",
+      "Lüfterset mit 2 Ventilatoren",
+      "elektronische Zeitschaltuhr"
+    ],
+    "beregnungsanlage": [
+      "3 Düsen",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "klimasteuerung": [
+      "Humidity Control mit Display zur Luftfeuchtigkeitsanzeige",
+      "Thermo Control mit Display zur Temperaturanzeige"
+    ],
+    "besonderheiten": [
+      "für den Einbau in ein Terrarienhaus konzipiert",
+      "naturnahe Waldlandschaft mit Pflanzbereichen",
+      "umfangreiche Klima- und Beregnungstechnik",
+      "professionelle Ausführung für zoologische Einrichtungen",
+      "optimale Bedingungen für tropische Schlangenarten"
+    ]
+  }
+},
+  {
+  "id": 151,
+  "title": "Landschaftseinbau für Wickelschwanzskinke",
+  "description": "Individueller Landschaftseinbau in ein bereits seit rund 20 Jahren bestehendes Kundenterrarium für Wickelschwanzskinke. Anstatt eines kompletten Neubaus wurde die vorhandene Anlage durch eine vollständig neue Innenraumgestaltung modernisiert. Die Gestaltung erfolgte nach Kundenwunsch mit großflächigen Echt-Korkplatten, künstlicher Bepflanzung sowie einer halbierten Korkröhre als erhöhtem Sitz- und Ruheplatz. Zusätzlich wurden neue ESG-Glasschiebetüren im rollengelagerten Laufschuhsystem angefertigt und eingebaut. Das Projekt zeigt, dass individuelle Landschaftseinbauten unabhängig von Terrarienform, Größe oder Hersteller realisierbar sind und exakt auf die Bedürfnisse der jeweiligen Tierart abgestimmt werden können.",
+  "images": [],
+  "technicalDetails": {
+    "Projekt Typ": "Landschaftseinbau",
+    "Terrarientypen": [
+      "Bestands-Terrarium",
+      "Regenwaldterrarium",
+      "Kletterterrarium"
+    ],
+    "ReptilienTyp": [
+      "Skinke"
+    ],
+    "reptilien": [
+      "Wickelschwanzskinke"
+    ],
+    "landschaftsMaße": {
+      "breite": "253 cm",
+      "tiefe": "91 cm",
+      "höhe": "202 cm"
+    },
+    "ausgangssituation": [
+      "vorhandenes Kundenterrarium",
+      "Terrarium bestand bereits seit etwa 20 Jahren",
+      "komplette Neugestaltung der Innenlandschaft"
+    ],
+    "landschaft": [
+      "Echt-Korkplatten auf der Rückwand",
+      "künstliche Pflanzen",
+      "halbierte Korkröhre als Sitzplateau",
+      "vertikale Kletterstruktur",
+      "artgerechte Gestaltung für baumbewohnende Reptilien"
+    ],
+    "verglasung": [
+      "4 neu angefertigte ESG-Glasschiebetüren",
+      "Maße je Scheibe: 63 × 200 cm",
+      "rollengelagertes Laufschuhsystem"
+    ],
+    "anpassungsmoeglichkeiten": [
+      "für bestehende Terrarien nachrüstbar",
+      "für nahezu jede Terrariengröße realisierbar",
+      "für unterschiedliche Reptilienarten individuell planbar",
+      "alternativ auch mit Granitfels-Jungle-Landschaften umsetzbar"
+    ],
+    "besonderheiten": [
+      "Modernisierung eines vorhandenen Terrariums",
+      "individuelle Umsetzung nach Kundenwunsch",
+      "natürliche Korkgestaltung für kletternde Reptilien",
+      "Austausch und Modernisierung der Verglasung",
+      "maßgeschneiderte Nachrüstung bestehender Anlagen"
+    ]
+  }
+},
+{
+  "id": 152,
+  "title": "Wüstenterrarium mit natürlichen Trockenpflanzen und seitlichen Sichtfenstern",
+  "description": "Großzügiges Wüsten- und Steppenterrarium mit besonders naturnaher Gestaltung ausschließlich aus echten verdorrten Pflanzen, Wüstenbüschen, Gräsern, Wurzelteilen und Kletterästen. Die Anlage wurde für Bartagamen und andere steppenbewohnende Reptilien konzipiert. Ein markanter Felsen mit rückseitigem Durchgang bildet das Zentrum der Landschaft und schafft zusätzliche Versteck- und Klettermöglichkeiten. Zwei seitliche Festglaselemente ermöglichen zusätzliche Einblicke in die Anlage. Aufgrund der Größe wurde das Terrarium mehrteilig gefertigt und vor Ort montiert.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Wüsten- und Steppenterrarium",
+    "Terrarientypen": [
+      "Bartagamen-Terrarium",
+      "Steppenterrarium",
+      "Wüstenterrarium"
+    ],
+    "ReptilienTyp": [
+      "Bartagamen",
+      "Steppenreptilien"
+    ],
+    "reptilien": [
+      "Bartagame (Pogona vitticeps)",
+      "weitere steppenbewohnende Reptilien"
+    ],
+    "Terrarium Maße": {
+      "breite": "150 cm",
+      "tiefe": "100 cm",
+      "höhe": "150 cm",
+      "unterschrankHoehe": "65 cm"
+    },
+    "konstruktion": [
+      "mehrteilige Fertigung",
+      "Bodenwanne separat",
+      "Lichtkasten separat",
+      "Landschaft separat",
+      "seitliche Glaselemente separat",
+      "Montage vor Ort"
+    ],
+    "landschaft": [
+      "großer Felsen mit rückseitigem Durchgang",
+      "elfenbein-sandsteinfarbige Besandung",
+      "Terracotta-Strukturen",
+      "echte Wüstenbüsche",
+      "echte Wurzelteile",
+      "echte Kletteräste",
+      "verdorrtes Geäst",
+      "getrocknete Gräser",
+      "vollständig natürliche Trockenvegetation"
+    ],
+    "verglasung": [
+      "6 mm Glas mit polierten Kanten",
+      "rollengelagertes Laufschuhsystem",
+      "optional 4 mm Glas im Doppel-U-Profil",
+      "2 seitliche Festglaselemente"
+    ],
+    "beleuchtung": [
+      "3 Bright Sun Desert",
+      "2 Wärme-Licht-Spots",
+      "5 weiße drehbare Einbaustrahler"
+    ],
+    "belueftung": [
+      "Kaminlüftung",
+      "alternativ Lüftungsrosetten in Glasbodenblende",
+      "weiße Lüftungseinsätze in der Lichtdecke"
+    ],
+    "steuerung": [
+      "Humidity Control mit integriertem Display",
+      "Thermo Control mit integriertem Display",
+      "Anzeige von Luftfeuchtigkeit und Temperatur in der Blende"
+    ],
+    "lichtsteuerung": [
+      "HC-Sonnenauf- und -untergangs-Set",
+      "Mondlichtfunktion"
+    ],
+    "unterschrank": [
+      "3 Türen",
+      "von zwei Seiten zugänglich",
+      "Push-to-open (Tip-On-System)",
+      "alternativ Zuschlagdämpfersystem",
+      "höhenverstellbare Füße"
+    ],
+    "besonderheiten": [
+      "Gestaltung ausschließlich mit echten Trockenpflanzen und Naturmaterialien",
+      "zusätzliche Sichtachsen durch zwei seitliche Festglaselemente",
+      "naturnahe Outback- und Steppenoptik",
+      "großzügige Kletter- und Sonnenbereiche",
+      "modulare Bauweise für schwierige Transportwege"
+    ]
+  }
+},
+ {
+  "id": 153,
+  "title": "Wasserschildkröten Aqua-Terrarium",
+  "description": "Großzügiges Aqua-Terrarium für Sumpf- und Wasserschildkröten mit kombiniertem Wasser- und Landbereich. Die Anlage verbindet ein großes Aquarium mit einer naturnah gestalteten Sonnen- und Ruhezone. Schieferplatten ermöglichen einen einfachen Aufstieg auf den Landteil und die Sonneninsel, während große Korkrindenplatten zusätzliche Struktur und Versteckmöglichkeiten bieten. Die Rückwände wurden mit Natursteinriemchen verkleidet und schaffen gemeinsam mit Sand-, Humus- und Quarzsandbereichen eine natürliche Uferlandschaft. Die Unterkonstruktion sowie der Lichtkasten wurden in einer hochwertigen weißen Kassettenoptik ausgeführt und fügen sich harmonisch in den Wohnraum ein.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Aqua-Terrarium",
+    "Terrarientypen": [
+      "Wasserschildkröten-Aquarium",
+      "Aqua-Terrarium",
+      "Aquaterrarium mit Landteil"
+    ],
+    "ReptilienTyp": [
+      "Sumpfschildkröten",
+      "Wasserschildkröten"
+    ],
+    "reptilien": [
+      "Sumpf- und Wasserschildkröten"
+    ],
+    "Aquarium Maße": {
+      "breite": "250 cm",
+      "tiefe": "120 cm",
+      "hoehe": "60 cm",
+      "wasserstand": "40 cm"
+    },
+    "volumen": {
+      "wasserteil": "ca. 1000 Liter",
+      "landteil": "ca. 200 Liter"
+    },
+    "sichtseiten": [
+      "Frontseite",
+      "linke Seite"
+    ],
+    "landschaft": [
+      "Schieferplatten als Aufstieg zum Landbereich",
+      "Schieferplatten für die Sonneninsel",
+      "große Korkrindenplatten",
+      "Natursteinriemchen an den Wänden",
+      "ca. 200 Liter Sand-Humus-Gemisch",
+      "Quarzsand als Bodengrund"
+    ],
+    "konstruktion": [
+      "Unterkonstruktion aus Aluminiumprofilen",
+      "15 mm Weißglas mit polierten Kanten",
+      "Holzverblendung in weißer Kassettenoptik",
+      "2 abnehmbare Türeinsätze",
+      "abgehängter Lichtkasten in Kassettenoptik"
+    ],
+    "beleuchtung": [
+      "2 AquaMedic Aquarius Plant 90",
+      "2 Bright Sun Jungle Flood 70W"
+    ],
+    "wassertechnik": [
+      "Flächenfilteranlage",
+      "Förderpumpen",
+      "300W Heizer",
+      "26W UVC-Lampe zur Wasserklärung"
+    ],
+    "besonderheiten": [
+      "großzügiger kombinierter Wasser- und Landbereich",
+      "naturnahe Uferlandschaft",
+      "seitlich einsehbare Anlage",
+      "hochwertige Möbelintegration in Kassettenoptik",
+      "optimierte Sonnen- und Ruheplätze für Wasserschildkröten",
+      "robuste Konstruktion für hohe Wasserlasten"
+    ]
+  }
+},
+ {
+  "id": 154,
+  "title": "Regenwaldterrarium für Orchideenmantis",
+  "description": "Kompaktes Regenwaldterrarium für Orchideenmantiden (Blütenmantis), ausgeführt als Glasterrarium für den passgenauen Einbau in einen bestehenden Wohnzimmerschrank. Die naturnahe Granitfels-Jungle-Landschaft mit Felsen, Wurzeln, Korkelementen und echten Pflanzen schafft ideale Bedingungen für die Haltung tropischer Fangschrecken. Bromelien, Farne, Rankpflanzen sowie feine Kletteräste sorgen für eine strukturreiche Umgebung mit zahlreichen Sitz- und Häutungsplätzen. Das Konzept kann sowohl als reiner Glaseinsatz als auch als vollständiges Terrarium mit Lichtkasten und Holzumbau realisiert werden.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Regenwaldterrarium",
+    "Terrarientypen": [
+      "Insektenterrarium",
+      "Mantiden-Terrarium",
+      "Einbau-Terrarium",
+      "Glasterrarium"
+    ],
+    "ReptilienTyp": [
+      "Insekten"
+    ],
+    "reptilien": [
+      "Blütenmantis (Creobroter gemmatus)"
+    ],
+    "Terrarium Maße": {
+      "breite": "50 cm",
+      "tiefe": "37 cm",
+      "höhe": "32 cm"
+    },
+    "konstruktion": [
+      "Glasterrarium",
+      "geeignet für den Einbau in bestehende Möbel",
+      "optional als Komplettterrarium mit Lichtkasten erhältlich"
+    ],
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "Felsen",
+      "Wurzeln",
+      "Korkelemente",
+      "Pflanzmulden für echte Pflanzen",
+      "Bromelien",
+      "Rankpflanzen",
+      "Farne",
+      "dünne Kletteräste"
+    ],
+    "verglasung": [
+      "4 mm Glas",
+      "polierte Kanten",
+      "Doppel-U-Profil"
+    ],
+    "belueftung": [
+      "Glasbodenblende mit Lüftungsrosetten",
+      "komplette Gazefläche als Decke"
+    ],
+    "beleuchtung": [
+      "1 Bright Sun Jungle 35W"
+    ],
+    "besonderheiten": [
+      "ideal für Orchideenmantiden und andere tropische Mantidenarten",
+      "platzsparende Einbaulösung für Wohnräume",
+      "strukturreiche Bepflanzung für natürliche Tarnung",
+      "großzügige Belüftung durch vollständige Gazedecke",
+      "individuell in jeder Größe realisierbar"
+    ]
+  }
+},
+{
+  "id": 155,
+  "title": "Terrarium für einen Königspython mit Urwaldgott-Skulptur",
+  "description": "Individuell gestaltetes Waldterrarium für einen Königspython mit integrierter Urwaldgott-Skulptur „Haceki“. Die außergewöhnliche Landschaft kombiniert naturnahe Fels- und Waldelemente mit einer kunstvoll gestalteten Skulptur als zentrales Gestaltungselement. Sämtliche Liege- und Kletterflächen wurden mit Naturgranulaten beschichtet, um die Schuppen des Königspythons zu schonen und gleichzeitig eine natürliche Optik zu schaffen. Das Terrarium verfügt über moderne Klima-, Beleuchtungs- und Beregnungstechnik sowie eine separate Wetbox in Felsoptik als geschützten Rückzugsort.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Waldterrarium",
+    "Terrarientypen": [
+      "Königspython-Terrarium",
+      "Schlangenterrarium",
+      "Tropenterrarium"
+    ],
+    "ReptilienTyp": [
+      "Pythons"
+    ],
+    "reptilien": [
+      "Königspython (Python regius)"
+    ],
+    "Modell": "Typ T07F",
+    "Terrarium Maße": {
+      "breite": "180 cm",
+      "tiefe": "70 cm",
+      "höhe": "110 cm"
+    },
+    "dekor": "Weinrot",
+    "landschaft": [
+      "Waldlandschaft",
+      "integrierte Urwaldgott-Skulptur 'Haceki'",
+      "Naturgranulatbeschichtung auf Liegeflächen",
+      "schuppenfreundliche Oberflächen",
+      "separate Wetbox in Felsoptik mit abnehmbarem Deckel"
+    ],
+    "verglasung": [
+      "6 mm Glas mit polierten Kanten",
+      "rollengelagertes Laufschuhsystem",
+      "optional 4 mm Glas im Doppel-U-Profil",
+      "Festglaselement auf der linken Seite"
+    ],
+    "innenverkleidung": [
+      "unsichtbare wasserdichte Kunststoff-Innenverkleidung"
+    ],
+    "beleuchtung": [
+      "1 Bright Sun Jungle Flood 70W",
+      "2 Wärme-Licht-Spots",
+      "3 flach integrierte Reflektoren mit Schutzgittern"
+    ],
+    "belueftung": [
+      "senkrechte Lüftungsrosetten in der Bodenblende",
+      "große Gazefläche in der Lichtdecke",
+      "Lüfterset mit 2 Ventilatoren und Trafo",
+      "alternative Frontlüftung mit Metallgaze oder Kaminlüftung möglich"
+    ],
+    "klimasteuerung": [
+      "Digitalanzeige für Luftfeuchtigkeit in der Lichtblende",
+      "Heatpanel zur zusätzlichen Beheizung"
+    ],
+    "beregnungsanlage": [
+      "flüsterleise Beregnungsanlage",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "lichtsteuerung": [
+      "HC-Sonnenauf- und -untergangs-Set",
+      "Mondlichtfunktion"
+    ],
+    "besonderheiten": [
+      "integrierte Urwaldgott-Skulptur als zentrales Gestaltungselement",
+      "schuppenfreundliche Naturgranulat-Oberflächen",
+      "separate Wetbox für erhöhte Luftfeuchtigkeit",
+      "seitliches Festglaselement für zusätzliche Einblicke",
+      "umfangreiche Klima-, Beleuchtungs- und Beregnungstechnik",
+      "individuell in jeder Größe und Farbgestaltung realisierbar"
+    ]
+  }
+},
+{
+  "id": 156,
+  "title": "Wüstenterrarium für einen Schrankwandeinbau",
+  "description": "Maßgefertigtes Wüsten- und Steppenterrarium als reines Glasterrarium für den passgenauen Einbau in eine vorhandene Schrankwand. Die Anlage wurde speziell für Zwergbartagamen und andere steppenbewohnende Reptilien konzipiert und verbindet eine naturnahe Wüstenlandschaft mit moderner Beleuchtungs- und Klimatechnik. Die mehrfarbig besandete Landschaft mit Sandstein- und Terracottaoptik wird durch echte Wüstenbüsche, Wurzelteile, Kletteräste, getrocknete Gräser und hochwertige künstliche Pflanzen ergänzt. Durch die Integration in die vorhandene Möbelanlage entsteht eine harmonische Verbindung von Wohnraum und Terraristik.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Wüsten- und Steppenterrarium",
+    "Terrarientypen": [
+      "Einbau-Terrarium",
+      "Glasterrarium",
+      "Bartagamen-Terrarium",
+      "Steppenterrarium"
+    ],
+    "ReptilienTyp": [
+      "Bartagamen",
+      "Steppenreptilien"
+    ],
+    "reptilien": [
+      "Zwergbartagame (Pogona henrylawsoni)",
+      "weitere steppenbewohnende Reptilien"
+    ],
+    "Terrarium Maße": {
+      "breite": "140 cm",
+      "tiefe": "62 cm",
+      "höhe": "75 cm",
+      "lichtkasten": "separat integriert"
+    },
+    "konstruktion": [
+      "reines Glasterrarium",
+      "für Schrankwand-Einbau konzipiert",
+      "individuelle Maßanfertigung"
+    ],
+    "landschaft": [
+      "Wüsten- und Steppenlandschaft",
+      "elfenbein-sandsteinfarbige Besandung",
+      "Terracotta-Strukturen",
+      "echte Wüstenbüsche",
+      "Wurzelteile",
+      "Kletteräste",
+      "verdorrtes Geäst",
+      "getrocknete Gräser",
+      "realistisch wirkende künstliche Pflanzen"
+    ],
+    "verglasung": [
+      "6 mm Glas mit polierten Kanten",
+      "Laufschuhsystem",
+      "optional 4 mm Glas im Doppel-U-Profil"
+    ],
+    "beleuchtung": [
+      "2 Bright Sun Desert",
+      "2 Wärme-Licht-Spots",
+      "4 weiße drehbare Einbaustrahler"
+    ],
+    "belueftung": [
+      "Lüftungsrosetten in der Glasbodenblende",
+      "weiße Lüftungseinsätze in der Lichtdecke"
+    ],
+    "lichtsteuerung": [
+      "HC-Sonnenauf- und -untergangs-Set",
+      "Mondlichtfunktion"
+    ],
+    "besonderheiten": [
+      "nahtlose Integration in bestehende Schrankwände",
+      "naturnahe Wüstenlandschaft mit echten Naturmaterialien",
+      "platzsparende Wohnraumlösung",
+      "optimierte Beleuchtung für UV- und Wärmezonen",
+      "individuell an Möbel und Raumgegebenheiten anpassbar"
+    ]
+  }
+},
+  {
+  "id": 157,
+  "title": "Terrarium für Pfeilgiftfrösche Typ P03 mit Panoramaecke",
+  "description": "Hochwertiges Paludarium des Typs P03 mit Panoramaecke für Pfeilgiftfrösche. Die naturnahe Regenwaldlandschaft kombiniert einen großzügigen Landbereich mit dicht bepflanzten Zonen aus Farnen, Moosen, Rankpflanzen und Wurzeln. Ein integrierter Bachlauf mit Wasserfall, kleinen Tümpeln und einem vorderen Wasserkanal sorgt für eine authentische tropische Atmosphäre. Durch die Panoramaecke entstehen zusätzliche Sichtachsen auf die detailreiche Landschaft. Umfangreiche Klima-, Beregnungs- und Beleuchtungstechnik gewährleistet optimale Bedingungen für die Haltung feuchtigkeitsliebender Pfeilgiftfrösche.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Paludarium",
+    "Terrarientypen": [
+      "Pfeilgiftfrosch-Paludarium",
+      "Regenwaldterrarium",
+      "Paludarium mit Panoramaecke"
+    ],
+    "ReptilienTyp": [
+      "Amphibien"
+    ],
+    "reptilien": [
+      "Pfeilgiftfrösche (Dendrobatidae)"
+    ],
+    "Modell": "Typ P03",
+    "Terrarium Maße": {
+      "breite": "120 cm",
+      "tiefe": "50 cm",
+      "höhe": "100 cm",
+      "unterschrankHoehe": "60 cm"
+    },
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "dichte Bodenbepflanzung",
+      "Farne",
+      "Moose",
+      "Rankpflanzen",
+      "Wurzeln",
+      "integrierter Bachlauf",
+      "kleine Tümpel",
+      "vorderer Wasserkanal",
+      "Wasserfall mit Pumpe"
+    ],
+    "wasserbereich": [
+      "großer Landbereich",
+      "Bachlauf",
+      "mehrere kleine Wasserstellen",
+      "integrierter Wasserkanal"
+    ],
+    "konstruktion": [
+      "unsichtbarer Ganzglaskern aus 6 mm Floatglas",
+      "Panoramaecke",
+      "für hohe Luftfeuchtigkeit ausgelegt"
+    ],
+    "verglasung": [
+      "4 mm Schiebetüren",
+      "polierte Kanten",
+      "Drosophiladichtung"
+    ],
+    "beleuchtung": [
+      "2 Bright Sun Jungle",
+      "1 Wärme-Licht-Spot",
+      "3 flach integrierte Reflektoren mit Schutzgittern"
+    ],
+    "belueftung": [
+      "Frontlüftung mit Gazefläche",
+      "große Gazefläche in der Lichtdecke",
+      "Lüfterset mit 2 Ventilatoren"
+    ],
+    "klimasteuerung": [
+      "Luftbefeuchter",
+      "Messung und Regelung der Luftfeuchtigkeit",
+      "Digitalanzeige in der Lichtblende"
+    ],
+    "beregnungsanlage": [
+      "integrierte Beregnungsanlage"
+    ],
+    "wassertechnik": [
+      "Pumpe für den Wasserfall"
+    ],
+    "lichtsteuerung": [
+      "HC-Sonnenauf- und -untergangs-Set",
+      "Mondlichtfunktion"
+    ],
+    "unterschrank": [
+      "2 Türen",
+      "Zuschlagdämpfersystem",
+      "höhenverstellbare Füße"
+    ],
+    "besonderheiten": [
+      "Panoramaecke für verbesserte Einsicht",
+      "naturnaher tropischer Bachlauf",
+      "optimierte Luftfeuchtigkeitssteuerung",
+      "Drosophiladichtung für die Haltung kleiner Amphibien",
+      "umfangreiche Klima- und Wassertechnik",
+      "individuell in anderen Größen realisierbar"
+    ]
+  }
+},
+ {
+  "id": 158,
+  "title": "Terrarienwand für den Tierpark Recklinghausen",
+  "description": "Individuell gefertigte Terrarienwand für den Tierpark Recklinghausen mit insgesamt sechs artgerecht gestalteten Terrarien für verschiedene Wirbellose. Die Anlage wurde für die Vogel-Freiflughalle konzipiert und ist für Besucher frei zugänglich. Besonderes Merkmal ist die durchgängige Gestaltung der Außenverkleidung in derselben Granitfels-Jungle-Optik wie die Innenlandschaften, wodurch die gesamte Terrarienwand als harmonische Ausstellungseinheit wirkt. Die naturnahen Lebensräume mit Felsen, Wurzeln, Korkelementen und echten Pflanzen bieten optimale Bedingungen für Vogelspinnen, Rosenkäfer, Riesenhundertfüßer, Achatschnecken, Blütenmantiden sowie Gespenster- und Stabschrecken.",
+  "images": [],
+  "technicalDetails": {
+    "Projekt Typ": "Terrarienwand",
+    "Terrarientypen": [
+      "Insektarien",
+      "Wirbellosen-Terrarien",
+      "Zoo-Ausstellungsanlage"
+    ],
+    "Bewohner": [
+      "Vogelspinne",
+      "Rosenkäfer",
+      "Riesenhundertfüßer",
+      "Achatschnecken",
+      "Blütenmantiden",
+      "Gespenstschrecken",
+      "Stabschrecken"
+    ],
+    "Gesamtanlage": {
+      "breite": "300 cm",
+      "tiefe": "60 cm",
+      "höhe": "200 cm",
+      "anzahlTerrarien": 6
+    },
+    "TerrarienGroessen": [
+      {
+        "anzahl": 4,
+        "breite": "65 cm",
+        "tiefe": "56 cm",
+        "höhe": "50 cm"
+      },
+      {
+        "anzahl": 2,
+        "breite": "65 cm",
+        "tiefe": "56 cm",
+        "höhe": "100 cm"
+      }
+    ],
+    "standort": {
+      "einrichtung": "Tierpark Recklinghausen",
+      "bereich": "Vogel-Freiflughalle",
+      "zugang": "frei zugänglich für Besucher"
+    },
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "Felsen",
+      "Wurzeln",
+      "Korkelemente",
+      "Pflanzmulden für echte Pflanzen"
+    ],
+    "aussengestaltung": [
+      "Außenverkleidung in identischer Optik zur Innenlandschaft",
+      "durchgängiges Ausstellungskonzept",
+      "harmonische Integration in die Freiflughalle"
+    ],
+    "beleuchtung": [
+      "je Terrarium 1 Bright Sun Jungle 35W oder 50W",
+      "je Terrarium 1 Wärme-Spot 35W oder 50W"
+    ],
+    "besonderheiten": [
+      "sechs individuell gestaltete Lebensräume",
+      "speziell für Wirbellose konzipiert",
+      "naturnahe Regenwaldgestaltung",
+      "einheitliche Gestaltung von Innen- und Außenflächen",
+      "öffentliche Zoo-Ausstellung",
+      "für Bildungs- und Informationszwecke konzipiert"
+    ]
+  }
+},
+ {
+  "id": 159,
+  "title": "5 qm großes Aqua-Terrarium mit Regenwaldlandschaft",
+  "description": "Außergewöhnliches Aqua-Terrarium in L-Form mit einer Gesamtgrundfläche von rund 5 Quadratmetern. Die Anlage kombiniert einen großflächigen Aquarienbereich mit einer beeindruckenden tropischen Regenwaldlandschaft und einem mehrstufigen Wasserfall. Der überwiegende Teil der Grundfläche dient als Schwimmbereich für verschiedene Fischarten, während ein kleiner, teilweise unterschwimmbarer Landbereich mit Farnen, Moosen, Bromelien, Tillandsien und Orchideen gestaltet wurde. Durch die offene Bauweise des Paludariumaufsatzes und die umfangreiche Licht-, Klima- und Wassertechnik entsteht ein eindrucksvolles tropisches Ökosystem, das sich nach etwa einem Jahr zu einer üppig bewachsenen Regenwaldlandschaft entwickelt hat.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Aqua-Terrarium",
+    "Terrarientypen": [
+      "Aquaterrarium",
+      "Paludarium",
+      "Regenwald-Aquarium",
+      "Großanlage"
+    ],
+    "Besatz": [
+      "verschiedene Fischarten"
+    ],
+    "Aquarium Form": "L-Form",
+    "Aquarium Maße": {
+      "hauptteil": "380 x 100 cm",
+      "seitenfluegel": "200 x 100 cm",
+      "aquarienHoehe": "70 cm",
+      "wasserstand": "ca. 60 cm",
+      "paludariumHoehe": "120 cm"
+    },
+    "verglasung": {
+      "aquarium": [
+        "15 mm und 19 mm Glas",
+        "umlaufender Glassteg",
+        "3 Zugstreben"
+      ],
+      "paludarium": [
+        "12 mm Glas",
+        "offene Bauweise",
+        "abschließbare Glasschiebetüren",
+        "Glasstützen im Türbereich"
+      ]
+    },
+    "konstruktion": [
+      "integrierter Technikbereich in der Ecke",
+      "Innenfilter mit Ein- und Ausläufen",
+      "Bodenablass",
+      "Aluminium-Unterkonstruktion mit Verblendung",
+      "Lichtkasten bis zur Decke verkleidet"
+    ],
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "Rankpflanzen",
+      "Farne",
+      "Moose",
+      "Wurzeln",
+      "mehrstufiger Wasserfall",
+      "unterschwimmbarer Landbereich",
+      "epiphytisch aufgebundene Bromelien",
+      "Tillandsien",
+      "Orchideen"
+    ],
+    "wasserbereich": [
+      "großflächiger Schwimmbereich",
+      "kleiner Landbereich",
+      "integrierter Wasserfall",
+      "Schwimmbereich über nahezu gesamte Grundfläche"
+    ],
+    "beleuchtung": [
+      "8 Bright Sun Jungle",
+      "5 LED Floods",
+      "LED-Beleuchtung für den Aquarienbereich",
+      "Scaping Lights mit Wetter-Simulation",
+      "13 integrierte Reflektoren mit Schutzgittern"
+    ],
+    "belueftung": [
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "Abluftventilator mit Außenabführung"
+    ],
+    "beregnungsanlage": [
+      "10 Düsen"
+    ],
+    "wassertechnik": [
+      "Pumpe für Wasserfall",
+      "2 Filterpumpen mit Ausströmern",
+      "2 Strömungspumpen",
+      "UV-C Klärer",
+      "integrierte Filterkammer"
+    ],
+    "elektronik": [
+      "3 Stück 4-Kanal-Verstärker",
+      "automatisierte Licht- und Wettersimulation"
+    ],
+    "besonderheiten": [
+      "ca. 5 Quadratmeter große Gesamtanlage",
+      "L-förmige Sonderkonstruktion",
+      "offener Paludariumaufsatz",
+      "mehrstöckiger Wasserfall als Blickfang",
+      "üppige epiphytische Bepflanzung",
+      "umfangreiche Wasser- und Filtertechnik",
+      "professionelle Regenwald- und Aquascaping-Anlage",
+      "nach einem Jahr vollständig eingewachsene Tropenlandschaft"
+    ]
+  }
+},
+ {
+  "id": 160,
+  "title": "Doppelstöckiges Terrarium in Deltaform für Schlangen",
+  "description": "Außergewöhnliches doppelstöckiges Deltaterrarium für Königsnattern und Kornnattern in hochwertiger Echtholzfurnier-Ausführung aus Kernbuche. Die markante Deltaform nutzt Raumecken optimal aus und schafft gleichzeitig großzügige Lebensräume. Die obere Ebene ist zusätzlich mittig unterteilt, wodurch insgesamt drei separat nutzbare Terrarienbereiche entstehen. Die naturnahe Granitfels-Jungle-Landschaft mit Felsen, Wurzeln, Korkelementen, künstlichen Pflanzen und Kletterästen bietet zahlreiche Rückzugs-, Kletter- und Ruheplätze. Jedes Terrarium verfügt über eine eigene Beleuchtung und Sonnenauf- sowie Sonnenuntergangssimulation mit Mondlicht.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Doppelstöckiges Deltaterrarium",
+    "Terrarientypen": [
+      "Schlangenterrarium",
+      "Deltaterrarium",
+      "Mehrfachanlage"
+    ],
+    "ReptilienTyp": [
+      "Nattern"
+    ],
+    "reptilien": [
+      "Königsnattern",
+      "Kornnattern"
+    ],
+    "Terrarium Maße": {
+      "schenkellaenge": "155 cm",
+      "seitenschenkel": "60 cm",
+      "hoeheProTerrarium": "100 cm"
+    },
+    "ausfuehrung": {
+      "dekor": "Echtholzfurnier Kernbuche",
+      "aufbau": "doppelstöckig",
+      "obereEtage": "mittig geteilt",
+      "unterschrank": "nicht vorhanden"
+    },
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "Felsen",
+      "Wurzeln",
+      "Korkelemente",
+      "künstliche Pflanzen",
+      "Kletteräste",
+      "je eine lose Höhle pro Terrarium"
+    ],
+    "verglasung": [
+      "6 mm Glas",
+      "polierte Kanten",
+      "Laufschuhsystem"
+    ],
+    "beleuchtung": [
+      "unteres Terrarium: 5 integrierte Reflektoren mit Schutzgittern",
+      "obere Terrarien: jeweils 3 integrierte Reflektoren mit Schutzgittern",
+      "je Terrarium Wärme-Licht-Spots"
+    ],
+    "belueftung": [
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "weiße Lüftungseinsätze in der Lichtdecke"
+    ],
+    "innenverkleidung": [
+      "unsichtbare Kunststoff-Innenverkleidung zum Schutz des Holzes"
+    ],
+    "unterbau": [
+      "höhenverstellbare Füße"
+    ],
+    "technik": [
+      "unteres Terrarium: 5 Wärme-Licht-Spots",
+      "obere Terrarien: jeweils 3 Wärme-Licht-Spots",
+      "Sonnenauf- und Sonnenuntergangssimulation",
+      "Mondlichtfunktion"
+    ],
+    "besonderheiten": [
+      "platzsparende Deltaform",
+      "doppelstöckige Ausführung mit drei separaten Haltungsbereichen",
+      "hochwertiges Echtholzfurnier",
+      "optimale Eckraumnutzung",
+      "naturnahe Kletter- und Rückzugsstrukturen",
+      "individuell in Größe und Ausführung anpassbar"
+    ]
+  }
+}, 
+  {
+  "id": 161,
+  "title": "In eine Schrankwand integriertes Wüstenterrarium für Stachelschwanzwarane",
+  "description": "Großzügiges Wüstenterrarium für Stachelschwanzwarane, vollständig in eine maßgefertigte Wohnzimmerschrankwand integriert. Die Anlage kombiniert funktionalen Möbelbau mit artgerechter Terraristik und bildet eine harmonische Wohnraumeinrichtung. Das 250 cm lange Terrarium ruht auf zwei seitlichen Highboards und wird durch einen mittig angeordneten Technik- und Medienbereich ergänzt. Die naturnahe Wüstenlandschaft mit mehrfarbiger Sandstein- und Terracottaoptik bietet den Waranen strukturierte Sonnenplätze und Rückzugsmöglichkeiten. Aufgrund der außergewöhnlichen Größe musste die Anlage über ein Fenster in das Obergeschoss eingebracht werden.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Wüstenterrarium",
+    "Terrarientypen": [
+      "Waranterrarium",
+      "Einbau-Terrarium",
+      "Wohnraumintegration",
+      "Schrankwand-Terrarium"
+    ],
+    "ReptilienTyp": [
+      "Waranartige"
+    ],
+    "reptilien": [
+      "Stachelschwanzwaran (Varanus acanthurus)"
+    ],
+    "Terrarium Maße": {
+      "breite": "250 cm",
+      "tiefe": "70 cm",
+      "höhe": "80 cm"
+    },
+    "Gesamtanlage": {
+      "breite": "250 cm",
+      "tiefe": "70 cm",
+      "höhe": "200 cm",
+      "highboardsHoehe": "120 cm",
+      "mittelschrank": "100 x 70 x 46 cm"
+    },
+    "dekor": {
+      "terrarium": "Eiche Sawcut Hell",
+      "sideboards": "weiß glänzend"
+    },
+    "landschaft": [
+      "Wüstenlandschaft",
+      "elfenbein-sandsteinfarbige Besandung",
+      "Terracotta-Strukturen",
+      "separate lose Höhle",
+      "seitlicher Höhleneingang"
+    ],
+    "verglasung": [
+      "6 mm Glas",
+      "polierte Kanten",
+      "rollengelagertes Laufschuhsystem",
+      "abschließbar"
+    ],
+    "beleuchtung": [
+      "4 Bright Sun Desert",
+      "2 Wärme-Licht-Spots",
+      "6 weiße drehbare Einbaustrahler"
+    ],
+    "belueftung": [
+      "senkrechte Lüftungsrosetten in der Bodenblende",
+      "weiße Lüftungseinsätze in der Lichtdecke"
+    ],
+    "moebelintegration": [
+      "zwei seitliche Highboards als Träger",
+      "zentraler Technik- und Mediaschrank",
+      "Aussparung für Receiver",
+      "integrierter Schubkasten"
+    ],
+    "besonderheiten": [
+      "vollständig in Wohnzimmerschrankwand integriert",
+      "kombiniert Terrarium und Möbelanlage",
+      "250 cm lange Sonderanfertigung",
+      "für Stachelschwanzwarane optimierte Wüstenlandschaft",
+      "abschließbare Glasschiebetüren",
+      "Anlieferung über Fenster aufgrund der Größe",
+      "individuell in anderen Dekoren und Größen realisierbar"
+    ]
+  }
+},
+ {
+  "id": 162,
+  "title": "Schlangenterrarium im Aztekenstil",
+  "description": "Außergewöhnliches Schlangenterrarium im Stil einer aztekischen Tempelanlage mit integrierten echten Pflanzen und halber Raumteilerfunktion. Die detailreiche Aztekenlandschaft mit Steinquadern, freistehendem Drachenkopf und tropischer Bepflanzung schafft eine eindrucksvolle Kulisse und verbindet Wohnraumgestaltung mit artgerechter Schlangenhaltung. Das Terrarium verfügt über eine integrierte Badeschale, großzügige Ruhe- und Liegeflächen sowie spezielle Naturgranulatbeschichtungen, die die Schuppen der Tiere schonen. Durch seitliche und rückseitige Festglaselemente kann die Anlage von mehreren Seiten betrachtet werden und wirkt als dekorativer Raumteiler.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Schlangenterrarium",
+    "Terrarientypen": [
+      "Thementerrarium",
+      "Azteken-Terrarium",
+      "Raumteiler-Terrarium",
+      "Tropenterrarium"
+    ],
+    "ReptilienTyp": [
+      "Nattern",
+      "Pythons",
+      "Boas"
+    ],
+    "reptilien": [
+      "Kornnattern",
+      "Boa-Arten",
+      "Teppichpythons",
+      "Königspythons"
+    ],
+    "Terrarium Maße": {
+      "breite": "150 cm",
+      "tiefe": "60 cm",
+      "höhe": "105 cm",
+      "unterschrankHoehe": "50 cm"
+    },
+    "dekor": "Havanna Pinie Schwarz",
+    "landschaft": [
+      "Azteken-Tempel-Optik",
+      "Steinquader",
+      "freistehender Drachenkopf",
+      "Pflanzmulden für echte Pflanzen",
+      "integrierte Badeschale im Fels",
+      "Naturgranulatbeschichtung auf Liegeflächen"
+    ],
+    "verglasung": [
+      "4 mm Glasscheiben im Doppel-U-Profil",
+      "optional 6 mm Glas mit polierten Kanten",
+      "rollengelagertes Laufschuhsystem",
+      "Festglaselement auf der rechten Seite",
+      "Festglaselement auf einem Drittel der Rückseite"
+    ],
+    "beleuchtung": [
+      "4 Wärme-Licht-Spots",
+      "4 flach integrierte Reflektoren mit Schutzgittern"
+    ],
+    "belueftung": [
+      "senkrechte Lüftungsrosetten in der Bodenblende",
+      "weiße Lüftungseinsätze in der Lichtdecke",
+      "optional große Gazefläche",
+      "alternative Metallgaze- oder Kaminlüftung möglich"
+    ],
+    "innenverkleidung": [
+      "unsichtbare wasserdichte Kunststoff-Innenverkleidung"
+    ],
+    "raumteiler": [
+      "halbe Raumteilerfunktion",
+      "mehrseitige Einsehbarkeit",
+      "seitliche und rückseitige Festverglasung"
+    ],
+    "technik": [
+      "4 Wärme-Licht-Spots"
+    ],
+    "besonderheiten": [
+      "einzigartige Azteken-Tempelgestaltung",
+      "freistehender Drachenkopf als Blickfang",
+      "integrierte Badeschale",
+      "echte Pflanzen in Pflanzmulden",
+      "schonende Naturgranulat-Oberflächen für Schlangen",
+      "halber Raumteiler mit zusätzlicher Einsicht von mehreren Seiten",
+      "individuell in Größe und Ausstattung anpassbar"
+    ]
+  }
+},
+ {
+  "id": 163,
+  "title": "Doppelstöckiges Wüstenterrarium für Bartagamen",
+  "description": "Großzügige doppelstöckige Terrarienanlage mit zwei vollwertigen Wüsten- und Steppenterrarien für Bartagamen. Die Anlage bietet auf zwei Ebenen jeweils großzügige Lebensräume mit naturnah gestalteten Wüstenlandschaften, zahlreichen Sonnenplätzen und mehreren Rückzugsmöglichkeiten. Die detailreiche Landschaftsgestaltung kombiniert sandsteinfarbene Felsstrukturen mit Terracotta-Akzenten, echten Wüstenbüschen, Kletterästen, Wurzelteilen und getrockneten Gräsern. Dank der flexiblen Bauweise kann die Anlage neben Wüstenreptilien auch als Halbfeucht- oder Waldterrarium für verschiedene Schlangenarten oder andere Reptilien umgesetzt werden. Umfangreiche Klima-, Licht- und Steuerungstechnik sorgt für optimale Haltungsbedingungen auf beiden Ebenen.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Doppelstöckige Terrarienanlage",
+    "Terrarientypen": [
+      "Wüstenterrarium",
+      "Steppenterrarium",
+      "Bartagamen-Terrarium",
+      "Mehrfachanlage"
+    ],
+    "ReptilienTyp": [
+      "Bartagamen",
+      "Steppenreptilien",
+      "Schlangen"
+    ],
+    "reptilien": [
+      "Bartagame (Pogona vitticeps)",
+      "weitere Wüsten- und Steppenreptilien",
+      "optional verschiedene Schlangenarten"
+    ],
+    "Terrarium Maße": {
+      "anzahlTerrarien": 2,
+      "breiteProTerrarium": "220 cm",
+      "tiefeProTerrarium": "75 cm",
+      "hoeheProTerrarium": "90 cm",
+      "unterschrankHoehe": "40 cm",
+      "gesamtHoehe": "220 cm"
+    },
+    "landschaft": [
+      "Wüsten- und Steppenlandschaft",
+      "elfenbein-sandsteinfarbige Besandung",
+      "Terracotta-Strukturen",
+      "echte Wüstenbüsche",
+      "Wurzelteile",
+      "Kletteräste",
+      "verdorrtes Geäst",
+      "getrocknete Gräser",
+      "realistisch wirkende künstliche Pflanzen",
+      "3 separate lose Höhlen pro Terrarium"
+    ],
+    "verglasung": [
+      "6 mm Glas mit polierten Kanten",
+      "Laufschuhsystem",
+      "optional 4 mm Glas im Doppel-U-Profil"
+    ],
+    "beleuchtung": [
+      "je 5 weiße Einbaustrahler (Thermo Socket Expert)",
+      "je 3 Bright Sun Desert",
+      "je 2 Wärme-Licht-Spots"
+    ],
+    "belueftung": [
+      "Kaminlüftung",
+      "weiße Lüftungseinsätze in der Lichtdecke"
+    ],
+    "steuerung": [
+      "Thermocontrol Pro II mit integriertem Display",
+      "Humidity Control II mit integriertem Display"
+    ],
+    "lichtsteuerung": [
+      "Sonnenauf- und Sonnenuntergangssimulation",
+      "Mondlichtfunktion"
+    ],
+    "unterschrank": [
+      "Push-to-open Türen (Tip-On-System)",
+      "höhenverstellbare Füße"
+    ],
+    "besonderheiten": [
+      "zwei vollständig ausgestattete Terrarien auf zwei Ebenen",
+      "großzügige Gesamtanlage mit 440 cm Terrarienlänge",
+      "umfangreiche Klima- und Lichtsteuerung",
+      "mehrere separate Rückzugs- und Versteckmöglichkeiten",
+      "auch als Halbfeucht- oder Waldterrarium realisierbar",
+      "individuell in Größe und Ausführung anpassbar"
+    ]
+  }
+},
+  {
+  "id": 164,
+  "title": "Wüsten-Steppenterrarium mit 2 Festglaselementen",
+  "description": "Großzügiges Wüsten- und Steppenterrarium mit zwei seitlichen Festglaselementen für eine besonders offene und hochwertige Präsentation der Landschaft. Die Anlage wurde aufgrund ihrer Größe in mehreren Modulen gefertigt und vor Ort im Obergeschoss montiert. Die naturnahe Wüstenlandschaft besteht aus zwei markanten Felsmassiven mit Durchgang, die zusammen mit echten Wüstenbüschen, Kletterästen, Wurzelteilen, getrockneten Gräsern und hochwertigen Kunstpflanzen eine authentische Steppenlandschaft schaffen. Die mehrfarbige Besandung in Sandstein- und Terracottaoptik sorgt für eine besonders natürliche Wirkung. Dank der von zwei Seiten zugänglichen Unterschrankkonstruktion wird der Stauraum optimal genutzt.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Wüsten- und Steppenterrarium",
+    "Terrarientypen": [
+      "Bartagamen-Terrarium",
+      "Steppenterrarium",
+      "Panorama-Terrarium"
+    ],
+    "ReptilienTyp": [
+      "Bartagamen",
+      "Steppenreptilien"
+    ],
+    "reptilien": [
+      "Bartagame (Pogona vitticeps)",
+      "weitere steppenbewohnende Reptilien"
+    ],
+    "Terrarium Maße": {
+      "breite": "151 cm",
+      "tiefe": "100 cm",
+      "höhe": "150 cm",
+      "unterschrankHoehe": "60 cm"
+    },
+    "dekor": "Weiß",
+    "montage": [
+      "mehrteilige Konstruktion",
+      "Lieferung ins 1. Obergeschoss",
+      "Vor-Ort-Montage",
+      "Bodenwanne, Lichtkasten, Landschaft und Glaselemente separat gefertigt"
+    ],
+    "landschaft": [
+      "Wüsten- und Steppenlandschaft",
+      "2 große Felsmassive im Vordergrund",
+      "Durchgang zwischen den Felsformationen",
+      "elfenbein-sandsteinfarbige Besandung",
+      "Terracotta-Strukturen",
+      "echte Wüstenbüsche",
+      "Wurzelteile",
+      "Kletteräste",
+      "verdorrtes Geäst",
+      "getrocknete Gräser",
+      "realistisch wirkende künstliche Pflanzen"
+    ],
+    "verglasung": [
+      "6 mm Glas mit polierten Kanten",
+      "rollengelagertes Laufschuhsystem",
+      "alternativ 4 mm Glas im Doppel-U-Profil",
+      "2 seitliche Festglaselemente"
+    ],
+    "beleuchtung": [
+      "3 Bright Sun Desert",
+      "2 Wärme-Licht-Spots",
+      "5 weiße drehbare Einbaustrahler"
+    ],
+    "belueftung": [
+      "Lüftungsrosetten in der Glasbodenblende",
+      "weiße Lüftungseinsätze in der Lichtdecke"
+    ],
+    "unterschrank": [
+      "Zugang von zwei Seiten",
+      "2 Türen links der Säule",
+      "2 Türen auf der rechten Seite",
+      "Tip-On-System (Push-to-open)",
+      "alternativ Zuschlagdämpfersystem",
+      "höhenverstellbare Füße"
+    ],
+    "lichtsteuerung": [
+      "HC-Sonnenauf- und -untergangs-Set",
+      "Mondlichtfunktion"
+    ],
+    "besonderheiten": [
+      "zwei große Festglaselemente für zusätzliche Einblicke",
+      "beeindruckende Felslandschaft mit Durchgang",
+      "optimale Raumausnutzung durch beidseitig zugänglichen Unterschrank",
+      "mehrteilige Konstruktion für schwierige Transportwege",
+      "naturnahe Gestaltung mit echten Naturmaterialien",
+      "individuell in Größe und Dekor anpassbar"
+    ]
+  }
+},
+ {
+  "id": 165,
+  "title": "Terrarium für einen Blauzungenskink (T07)",
+  "description": "Großzügiges Waldterrarium des Typs T07 für einen Blauzungenskink. Die naturnahe Granitfels-Waldlandschaft kombiniert Felsen, Wurzeln, Rinden- und Korkelemente mit einer pflegeleichten Bepflanzung aus künstlichen Pflanzen. Durch die weitläufige Bodenfläche bietet das Terrarium optimale Bewegungs- und Erkundungsmöglichkeiten für Blauzungenskinke. Die robuste Konstruktion mit wasserdichter Innenverkleidung sowie die flexible Belüftungs- und Verglasungsausführung machen das Terrarium zu einer langlebigen und artgerechten Lösung für bodenbewohnende Reptilien.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Waldterrarium",
+    "Terrarientypen": [
+      "Blauzungenskink-Terrarium",
+      "Waldterrarium",
+      "Halbtrockenterrarium"
+    ],
+    "ReptilienTyp": [
+      "Skinke"
+    ],
+    "reptilien": [
+      "Blauzungenskink (Tiliqua scincoides)"
+    ],
+    "Modell": "T07",
+    "Terrarium Maße": {
+      "breite": "200 cm",
+      "tiefe": "80 cm",
+      "höhe": "100 cm",
+      "bodenblende": "10 cm"
+    },
+    "dekor": "Dijon Nussbaum Natur",
+    "unterschrank": "kein Unterschrank, nur Bodenblende",
+    "landschaft": [
+      "Granitfels-Wald-Landschaft",
+      "Felsen",
+      "Wurzeln",
+      "Rindenelemente",
+      "Korkelemente",
+      "Bepflanzung mit künstlichen Pflanzen"
+    ],
+    "verglasung": [
+      "4 mm Glasscheiben im Doppel-U-Profil",
+      "optional 6 mm Glas mit polierten Kanten",
+      "optional rollengelagertes Laufschuhsystem"
+    ],
+    "beleuchtung": [
+      "2 Bright Sun Jungle",
+      "3 Wärme-Licht-Spots",
+      "5 flach integrierte Reflektoren mit Schutzgittern"
+    ],
+    "belueftung": [
+      "Kaminfrontlüftung mit feiner Metallgaze",
+      "alternativ Lüftungsrosetten in der Bodenblende",
+      "alternativ senkrechte Metall-Gaze-Lüftung im Aluminiumprofil",
+      "weiße Lüftungseinsätze oder große Gazefläche in der Lichtdecke"
+    ],
+    "innenverkleidung": [
+      "unsichtbare wasserdichte Kunststoff-Innenverkleidung zum Schutz des Holzes"
+    ],
+    "besonderheiten": [
+      "großzügige Bodenfläche für bodenbewohnende Reptilien",
+      "naturnahe Waldlandschaft mit Kork- und Wurzelelementen",
+      "mehrere Belüftungsvarianten möglich",
+      "pflegeleichte Gestaltung mit künstlichen Pflanzen",
+      "robuste und feuchtigkeitsgeschützte Konstruktion",
+      "individuell in Größe und Ausstattung anpassbar"
+    ]
+  }
+},
+{
+  "id": 166,
+  "title": "2m langes Wüsten-Steppenterrarium in Panoramaform",
+  "description": "Elegantes Wüsten- und Steppenterrarium in Panoramaform mit einer Länge von zwei Metern und einem besonders hohen Unterschrank. Die großzügige Frontansicht ermöglicht einen beeindruckenden Blick auf die naturnah gestaltete Wüstenlandschaft mit Sandstein- und Terracottaoptik. Die Einrichtung kombiniert echte Wüstenbüsche, Wurzelteile, Kletteräste, getrocknete Gräser und hochwertige Kunstpflanzen zu einem authentischen Lebensraum für Bartagamen und andere Steppenreptilien. Dank der flexiblen Bauweise kann das Grundkonzept auch als Halbfeucht-, Wald- oder Regenwaldterrarium umgesetzt werden.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Wüsten- und Steppenterrarium",
+    "Terrarientypen": [
+      "Panoramaterrarium",
+      "Bartagamen-Terrarium",
+      "Steppenterrarium"
+    ],
+    "ReptilienTyp": [
+      "Bartagamen",
+      "Steppenreptilien"
+    ],
+    "reptilien": [
+      "Bartagame (Pogona vitticeps)",
+      "weitere steppenbewohnende Reptilien"
+    ],
+    "Terrarium Maße": {
+      "breite": "200 cm",
+      "tiefe": "50 cm",
+      "höhe": "100 cm",
+      "unterschrankHoehe": "100 cm"
+    },
+    "dekor": "Arizona Eiche Grau",
+    "landschaft": [
+      "Wüsten- und Steppenlandschaft",
+      "elfenbein-sandsteinfarbige Besandung",
+      "Terracotta-Strukturen",
+      "echte Wüstenbüsche",
+      "Wurzelteile",
+      "Kletteräste",
+      "verdorrtes Geäst",
+      "getrocknete Gräser",
+      "realistisch wirkende künstliche Pflanzen"
+    ],
+    "verglasung": [
+      "6 mm Glas mit polierten Kanten",
+      "Laufschuhsystem",
+      "alternativ 4 mm Glas im Doppel-U-Profil"
+    ],
+    "beleuchtung": [
+      "2 Bright Sun Desert",
+      "3 Wärme-Licht-Spots",
+      "5 weiße drehbare Einbaustrahler"
+    ],
+    "belueftung": [
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "Holzblende im unteren Bereich",
+      "weiße Lüftungseinsätze in der Lichtdecke"
+    ],
+    "unterbau": [
+      "100 cm hoher Unterschrank"
+    ],
+    "varianten": [
+      "auch als Halbfeuchtterrarium realisierbar",
+      "auch als Waldterrarium realisierbar",
+      "auch als Regenwaldterrarium realisierbar"
+    ],
+    "besonderheiten": [
+      "2 Meter lange Panoramaansicht",
+      "großzügige Präsentationsfläche für Landschaftsgestaltung",
+      "hochwertiges Möbeldekor in Arizona Eiche Grau",
+      "naturnahe Wüstenlandschaft mit echten Naturmaterialien",
+      "flexibles Grundkonzept für verschiedene Terrarientypen",
+      "individuell in Größe und Ausstattung anpassbar"
+    ]
+  }
+},
+{
+  "id": 167,
+  "title": "Terrarium als halber Raumteiler",
+  "description": "Großzügiges Wüsten- und Steppenterrarium mit halber Raumteilerfunktion in moderner Betonoptik. Durch die seitlichen und rückseitigen Festglaselemente ist die Anlage von drei Seiten einsehbar und wird zum zentralen Gestaltungselement im Wohnraum. Die naturnahe Wüstenlandschaft kombiniert mehrfarbige Sandstein- und Terracotta-Strukturen mit echten Wüstenbüschen, Wurzelteilen, Kletterästen, getrockneten Gräsern und hochwertigen Kunstpflanzen. Die offene Raumwirkung und die großzügigen Sichtachsen schaffen ein außergewöhnliches Wohnerlebnis, während die technische Ausstattung optimale Bedingungen für Bartagamen und andere Steppenreptilien gewährleistet.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Wüsten- und Steppenterrarium",
+    "Terrarientypen": [
+      "Raumteiler-Terrarium",
+      "Bartagamen-Terrarium",
+      "Steppenterrarium",
+      "Panorama-Terrarium"
+    ],
+    "ReptilienTyp": [
+      "Bartagamen",
+      "Steppenreptilien"
+    ],
+    "reptilien": [
+      "Bartagame (Pogona vitticeps)",
+      "weitere Wüsten- und Steppenreptilien"
+    ],
+    "Terrarium Maße": {
+      "breite": "200 cm",
+      "tiefe": "80 cm",
+      "höhe": "100 cm",
+      "unterschrankHoehe": "100 cm"
+    },
+    "dekor": "Beton-Optik",
+    "landschaft": [
+      "Wüsten- und Steppenlandschaft",
+      "elfenbein-sandsteinfarbige Besandung",
+      "Terracotta-Strukturen",
+      "echte Wüstenbüsche",
+      "Wurzelteile",
+      "Kletteräste",
+      "verdorrtes Geäst",
+      "getrocknete Gräser",
+      "realistisch wirkende künstliche Pflanzen"
+    ],
+    "verglasung": [
+      "6 mm Glas mit polierten Kanten",
+      "Laufschuhsystem",
+      "alternativ 4 mm Glas im Doppel-U-Profil",
+      "seitliches Festglaselement",
+      "rückseitiges Festglaselement über ein Drittel der Länge"
+    ],
+    "raumteiler": [
+      "halber Raumteiler",
+      "von drei Seiten einsehbar",
+      "offene Wohnraumintegration"
+    ],
+    "beleuchtung": [
+      "3 Bright Sun Desert",
+      "2 Wärme-Licht-Spots",
+      "5 weiße drehbare Einbaustrahler"
+    ],
+    "belueftung": [
+      "Kaminfrontlüftung mit feiner Metallgaze",
+      "weiße Lüftungseinsätze in der Lichtdecke"
+    ],
+    "lichtsteuerung": [
+      "HC-Sonnenauf- und -untergangs-Set",
+      "Mondlichtfunktion"
+    ],
+    "unterschrank": [
+      "100 cm hoher Unterschrank"
+    ],
+    "besonderheiten": [
+      "halbe Raumteilerfunktion",
+      "dreiseitige Einsehbarkeit",
+      "moderne Betonoptik",
+      "sichere Kaminlüftung mit feiner Metallgaze",
+      "naturnahe Wüstengestaltung mit echten Naturmaterialien",
+      "ideal als zentrales Gestaltungselement im Wohnraum",
+      "individuell in Größe, Dekor und Ausstattung anpassbar"
+    ]
+  }
+},
+ {
+  "id": 168,
+  "title": "250 cm langes Panoramaterrarium aus 2 Teilen mit Durchgang",
+  "description": "Großzügiges Panoramaterrarium für Bartagamen und andere Steppenreptilien mit einer Gesamtlänge von 250 cm. Die Anlage wurde in zwei separate Terrariensegmente von jeweils 125 cm Länge gefertigt, die durch einen integrierten Durchgang innerhalb der Felslandschaft miteinander verbunden sind. Diese Bauweise erleichtert Transport und Aufbau, während die Tiere dennoch den gesamten Lebensraum nutzen können. Die naturnahe Wüsten- und Steppenlandschaft mit Sandstein- und Terracottaoptik wird durch echte Wüstenbüsche, Wurzelteile, Kletteräste, getrocknete Gräser und hochwertige Kunstpflanzen ergänzt. Das Konzept eignet sich neben Steppenreptilien auch für Halbfeucht- und Waldterrarien in entsprechender Ausführung.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Wüsten- und Steppenterrarium",
+    "Terrarientypen": [
+      "Panoramaterrarium",
+      "Bartagamen-Terrarium",
+      "Modulares Terrarium"
+    ],
+    "ReptilienTyp": [
+      "Bartagamen",
+      "Steppenreptilien"
+    ],
+    "reptilien": [
+      "Bartagame (Pogona vitticeps)",
+      "weitere steppenbewohnende Reptilien"
+    ],
+    "Terrarium Maße": {
+      "gesamtbreite": "250 cm",
+      "tiefe": "70 cm",
+      "höhe": "95 cm",
+      "unterschrankHoehe": "45 cm"
+    },
+    "modulbauweise": {
+      "anzahlModule": 2,
+      "breiteProModul": "125 cm",
+      "verbindung": "Durchgang in der Felslandschaft"
+    },
+    "dekor": "Weiß",
+    "landschaft": [
+      "Wüsten- und Steppenlandschaft",
+      "elfenbein-sandsteinfarbige Besandung",
+      "Terracotta-Strukturen",
+      "echte Wüstenbüsche",
+      "Wurzelteile",
+      "Kletteräste",
+      "verdorrtes Geäst",
+      "getrocknete Gräser",
+      "realistisch wirkende künstliche Pflanzen",
+      "verbundene Felslandschaft mit Durchgang"
+    ],
+    "verglasung": [
+      "4 mm Glasscheiben im Doppel-U-Profil",
+      "alternativ 6 mm Glas mit polierten Kanten",
+      "Laufschuhsystem"
+    ],
+    "beleuchtung": [
+      "2 × 3 weiße drehbare Einbaustrahler",
+      "je Terrariumhälfte 1 Bright Sun Desert",
+      "je Terrariumhälfte 2 Wärme-Licht-Spots"
+    ],
+    "belueftung": [
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "untere Holzblende",
+      "weiße Lüftungseinsätze in der Lichtdecke"
+    ],
+    "lichtsteuerung": [
+      "je Terrariumhälfte HC-Sonnenauf- und -untergangs-Set",
+      "Mondlichtfunktion"
+    ],
+    "unterbau": [
+      "45 cm hoher Unterschrank"
+    ],
+    "varianten": [
+      "auch als Halbfeuchtterrarium realisierbar",
+      "auch als Waldterrarium realisierbar"
+    ],
+    "besonderheiten": [
+      "250 cm Gesamtlänge",
+      "zweiteilige Konstruktion für einfacheren Transport",
+      "integrierter Landschaftsdurchgang zwischen beiden Modulen",
+      "großzügige Panoramaansicht",
+      "naturnahe Wüstenlandschaft mit echten Naturmaterialien",
+      "modularer Aufbau bei voller Nutzbarkeit als Gesamtterrarium",
+      "individuell in Größe und Ausstattung anpassbar"
+    ]
+  }
+},
+{
+  "id": 169,
+  "title": "Terrarium in Deltaform für Kornnattern",
+  "description": "Kompaktes Delta-Terrarium in Halbfeucht- und Waldterrarium-Ausführung für Kornnattern und andere kleinere Schlangenarten. Die platzsparende Deltaform eignet sich besonders für die Nutzung von Raumecken und schafft dennoch einen großzügigen Lebensraum. Die Sandstein-Waldlandschaft mit naturnaher Felsstruktur und dekorativen Kunstpflanzen bietet zahlreiche Versteck- und Klettermöglichkeiten. Durch die Kombination aus Beregnungsanlage, leistungsstarker Beleuchtung und Sonnenauf- sowie Sonnenuntergangssimulation entstehen optimale Bedingungen für die Haltung von Kornnattern in einem dekorativen Wohnraumterrarium.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Halbfeucht- und Waldterrarium",
+    "Terrarientypen": [
+      "Kornnattern-Terrarium",
+      "Deltaterrarium",
+      "Schlangenterrarium"
+    ],
+    "ReptilienTyp": [
+      "Nattern",
+      "Schlangen"
+    ],
+    "reptilien": [
+      "Kornnattern",
+      "weitere Schlangenarten in entsprechender Größe"
+    ],
+    "Terrarium Maße": {
+      "schenkellaenge": "100 cm",
+      "seitenschenkel": "20 cm",
+      "hoehe": "120 cm",
+      "unterschrankHoehe": "50 cm"
+    },
+    "dekor": "Wenge",
+    "landschaft": [
+      "Sandstein-Wald-Optik",
+      "naturnahe Felslandschaft",
+      "künstliche Pflanzen"
+    ],
+    "verglasung": [
+      "4 mm Glas mit polierten Kanten",
+      "alternativ 6 mm Glas im Laufschuhsystem"
+    ],
+    "beleuchtung": [
+      "2 Bright Sun Jungle",
+      "2 Wärme-Licht-Spots",
+      "4 flach integrierte Reflektoren mit Schutzgittern"
+    ],
+    "belueftung": [
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "weiße Lüftungseinsätze in der Lichtdecke"
+    ],
+    "beregnungsanlage": [
+      "Beregnungsanlage mit 3 Düsen"
+    ],
+    "lichtsteuerung": [
+      "HC-Sonnenauf- und -untergangs-Set",
+      "Mondlichtfunktion"
+    ],
+    "unterschrank": [
+      "2 Türen",
+      "Zuschlagdämpfersystem"
+    ],
+    "besonderheiten": [
+      "platzsparende Deltaform für Raumecken",
+      "ideal für Kornnattern und andere kleinere Schlangenarten",
+      "naturnahe Waldlandschaft mit Felsoptik",
+      "integrierte Beregnungsanlage",
+      "automatisierte Tageslicht- und Mondlichtsimulation",
+      "in verschiedenen Größen und Dekoren erhältlich"
+    ]
+  }
+},
+{
+  "id": 170,
+  "title": "Regenwaldterrarium für Oophaga pumilio",
+  "description": "Hochwertiges Regenwaldterrarium mit integriertem Glasinnenkern für die Haltung von Oophaga pumilio (Erdbeerfröschchen). Die naturnahe Granitfels-Jungle-Landschaft mit echten Pflanzen schafft optimale Bedingungen für diese farbenprächtigen Pfeilgiftfrösche. Ein kleiner Wasserkanal im Frontbereich sorgt für zusätzliche Struktur und Luftfeuchtigkeit, während optional ein Bachlauf mit Wasserfall integriert werden kann. Durch den vollständig eingebauten Glasinnenkern ist das Holzmöbel dauerhaft vor Feuchtigkeit geschützt. Umfangreiche Klima-, Beregnungs- und Belüftungstechnik gewährleistet ein stabiles tropisches Mikroklima.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Regenwaldterrarium",
+    "Terrarientypen": [
+      "Dendrobaten-Terrarium",
+      "Pfeilgiftfrosch-Terrarium",
+      "Regenwald-Paludarium"
+    ],
+    "ReptilienTyp": [
+      "Amphibien"
+    ],
+    "reptilien": [
+      "Oophaga pumilio (Erdbeerfröschchen)",
+      "Dendrobaten"
+    ],
+    "Terrarium Maße": {
+      "breite": "100 cm",
+      "tiefe": "60 cm",
+      "höhe": "105 cm"
+    },
+    "dekor": "Weiß",
+    "unterbau": [
+      "Unterschrank",
+      "Technik vollständig im Unterschrank integriert"
+    ],
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "echte Pflanzen",
+      "kleiner Wasserkanal im Frontbereich",
+      "optional Bachlauf",
+      "optional Wasserfall"
+    ],
+    "konstruktion": [
+      "integrierter Glasinnenkern",
+      "dauerhafter Feuchtigkeitsschutz für das Holzmöbel"
+    ],
+    "verglasung": [
+      "4 mm Glas mit polierten Kanten"
+    ],
+    "beleuchtung": [
+      "2 Bright Sun Jungle",
+      "1 Wärmespot",
+      "3 flach integrierte Reflektoren mit Schutzgittern"
+    ],
+    "belueftung": [
+      "große senkrechte Gazefläche im Aluminiumrahmen",
+      "große Gazefläche in der Decke",
+      "Lüfterset mit 2 Ventilatoren"
+    ],
+    "beregnungsanlage": [
+      "automatische Beregnungsanlage"
+    ],
+    "klimasteuerung": [
+      "Luftbefeuchter"
+    ],
+    "wassertechnik": [
+      "optional Wasserfallpumpe",
+      "optional Heizstab für Wasserlauf"
+    ],
+    "besonderheiten": [
+      "integrierter Glasinnenkern für maximale Feuchtigkeitsbeständigkeit",
+      "speziell für Oophaga pumilio entwickelt",
+      "naturnahe tropische Regenwaldlandschaft",
+      "echte Bepflanzung",
+      "optionaler Wasserfall mit Bachlauf",
+      "komplette Technik im Unterschrank untergebracht",
+      "individuell in jeder Größe und jedem Holzdekor realisierbar"
+    ]
+  }
+}  
 ]
