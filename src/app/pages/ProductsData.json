@@ -7766,5 +7766,898 @@
       "alternativ Push-to-open (Tip-on) System"
     ]
   }
-}
+},
+ {
+  "id": 101,
+  "title": "Steppenterrarium für Megazoo in Hamburg",
+  "description": "Showterrarium für die Terraristikabteilung von Megazoo Hamburg mit australisch inspirierter Outback-Landschaft, Felsdurchbrüchen, Felsbrücke sowie umfangreicher Klima- und Beleuchtungstechnik zur Demonstration moderner Terrarienausstattung.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Wüste/Steppe",
+    "Terrarientypen": "Terrarien für Zoos und öffentliche Einrichtungen",
+    "ReptilienTyp": "Agamen (Agamidae)",
+    "reptilien": [
+      "Bartagamen",
+      "Zwergbartagamen",
+      "Halsbandleguane",
+      "geeignet für weitere steppenbewohnende Reptilien"
+    ],
+    "standort": "Megazoo Hamburg",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "160x100x120 cm",
+    "unterschrankMaße": "160x90x53 cm",
+    "dekor": [
+      "weiß Miniperl"
+    ],
+    "besonderheiten": [
+      "Showterrarium für die Terraristikabteilung",
+      "Terrarium steht vorne 10 cm über den Unterschrank hinaus",
+      "Felsdurchbruch",
+      "Felsbrücke",
+      "Demonstration technischer Ausstattungsmöglichkeiten",
+      "digitale Temperaturmessung",
+      "Sonnenuntergangssimulation"
+    ],
+    "schiebescheiben": [
+      "6mm ESG (Einscheibensicherheitsglas)",
+      "polierte Kanten",
+      "Laufschuhsystem",
+      "Bürstendichtung zwischen den Scheiben"
+    ],
+    "beleuchtung": [
+      "3 Bright Sun Desert 70W",
+      "2 Wärme-Licht-Spots",
+      "5 weiße drehbare Einbaustrahler",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "Kaminlüftung",
+      "weiße Lüftungseinsätze in der Lichtdecke"
+    ],
+    "felslandschaft": [
+      "Wüsten-/Steppenlandschaft",
+      "große Felsformationen",
+      "Felsdurchbrüche",
+      "Höhlen",
+      "Sonnenplateaus",
+      "mehrfarbig sandsteinfarbig besandet",
+      "starke Terracotta-Anteile",
+      "australische Outback-Optik"
+    ],
+    "technik": [
+      "Thermocontrol Pro",
+      "Display im Alu-Rahmen der Blende",
+      "Plexiglas-Schutzabdeckung vor dem Display"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC Sonnenauf- und Untergangs-Set",
+        "Mondlichtfunktion"
+      ]
+    },
+    "unterschrank": [
+      "3 Türen",
+      "Tip-On-System (Push-to-open)",
+      "höhenverstellbare Füße"
+    ],
+    "referenz": {
+      "megazooWebsite": "https://www.megazoo-nord.de/"
+    }
+  }
+},
+{
+  "id": 102,
+  "title": "Paludarium als Raumteiler für Dendrobaten",
+  "description": "Paludarium in Raumteiler-Bauweise für Pfeilgiftfrösche mit beidseitig nutzbarem Unterschrank, integriertem Wasserfall, tropischer Bepflanzung sowie umfangreicher Klima-, Beregnungs- und Belüftungstechnik.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Paludarium",
+    "Terrarientypen": "Raumteiler",
+    "ReptilienTyp": "Lurche (Amphibia)",
+    "reptilien": [
+      "Pfeilgiftfrosch – Dendrobates tinctorius"
+    ],
+    "Terrarium Maße: Breite × Tiefe × Höhe": "120x60x110 cm",
+    "unterschrankHöhe": "70 cm",
+    "dekor": [
+      "Halifax Zinn"
+    ],
+    "zusatzschrank": {
+      "maße": "60x60x180 cm",
+      "eigenschaften": [
+        "beidseitige Türen",
+        "höhenverstellbare Füße"
+      ]
+    },
+    "besonderheiten": [
+      "Raumteiler-Bauweise",
+      "beidseitig nutzbarer Unterschrank",
+      "mittig getrennter Unterschrank",
+      "verdeckter 4 cm Technikschacht hinter dem Glaskern",
+      "Kabel-, Beregnungs- und Foggerleitungen unsichtbar geführt",
+      "höhenverstellbare Füße an Unter- und Hochschrank"
+    ],
+    "glas": [
+      "integrierter Ganzglaskern aus 6mm Floatglas",
+      "4mm Glas im Doppel-U-Profil",
+      "Drosophiladichtung zwischen den Scheiben"
+    ],
+    "beleuchtung": [
+      "2 Bright Sun Jungle 35W",
+      "1 Wärme-Licht-Spot",
+      "3 flach integrierte Reflektoren mit Schutzgittern",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "senkrecht eingebaute Lüftungsrosetten in der Glasbodenblende",
+      "große Gazefläche in der Lichtdecke",
+      "Lüfterset mit 2 Ventilatoren",
+      "zeitgesteuerte Entlüftung nach außen"
+    ],
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "epiphytisch aufgebundene Bromelien",
+      "Rankpflanzen",
+      "kleiner Wasserfall",
+      "Bachlauf",
+      "Wasserkanal",
+      "bemooste Flächen",
+      "Wurzeln mit Versteckmöglichkeiten",
+      "trockene Landbereiche"
+    ],
+    "wasserbereich": [
+      "Wasserstand ca. 6 cm",
+      "integrierter Wasserkanal",
+      "Wasserfall mit Bachlauf"
+    ],
+    "technik": [
+      "Thermo-Control mit Anzeige im Alu-Rahmen",
+      "Humidity-Control mit Anzeige im Alu-Rahmen",
+      "Temperaturbereich 23–27 °C"
+    ],
+    "wassertechnik": [
+      "Wasserfallpumpe mit Vorfilter"
+    ],
+    "beregnungsanlage": [
+      "3 Düsen",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "luftbefeuchtung": [
+      "integrierter Luftbefeuchter",
+      "Humidity-Control gesteuert"
+    ],
+    "lüftersystem": [
+      "2 Ventilatoren",
+      "12 cm Ø",
+      "Trafo",
+      "elektronische Zeitschaltuhr"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC Sonnenauf- und Untergangs-Set",
+        "Mondlichtfunktion",
+        "100 cm LED-System"
+      ]
+    },
+    "pflanzenSet": [
+      "epiphytische Bromelien",
+      "Rankpflanzen",
+      "Moose"
+    ]
+  }
+},
+{
+  "id": 103,
+  "title": "4 qbm großes Paludarium für Wasseragamen",
+  "description": "Großes Paludarium für Grüne Wasseragamen mit integriertem Schwimmbereich, Granitfels-Jungle-Landschaft, echter Bepflanzung sowie umfangreicher Klima-, Beregnungs- und Beleuchtungstechnik.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Paludarium",
+    "Terrarientypen": "Paludarien",
+    "ReptilienTyp": "Agamen (Agamidae)",
+    "reptilien": [
+      "Grüne Wasseragame – Physignathus cocincinus"
+    ],
+    "Terrarium Maße: Breite × Tiefe × Höhe": "200x120x190 cm",
+    "unterschrankHöhe": "40 cm",
+    "volumen": "ca. 4 m³",
+    "dekor": [
+      "weiß Miniperloberfläche"
+    ],
+    "bauweise": [
+      "mehrteilig gefertigt für Transport durch enges Treppenhaus",
+      "Aquarienbereich separat integriert",
+      "Schwimmbereich durch externes Aquarium realisiert",
+      "Aquarium von außen mit Felslandschaft verkleidet"
+    ],
+    "schiebescheiben": [
+      "6mm Glas mit polierten Kanten",
+      "rollengelagertes Laufschuhsystem"
+    ],
+    "beleuchtung": [
+      "2 Bright Sun Jungle Flood 70W",
+      "1 Bright Sun Jungle 150W",
+      "3 Wärme-Licht-Spots",
+      "6 verdeckt integrierte Reflektoren mit Schutzgittern"
+    ],
+    "lüftung": [
+      "senkrechte Lüftungsrosetten in Glasbodenblende",
+      "10 cm hohe Holzblende",
+      "große Gazefläche in der Lichtdecke",
+      "Lüfterset mit 2 Ventilatoren"
+    ],
+    "besonderheiten": [
+      "integrierter Schwimmbereich",
+      "eingebautes Aquarium mit Felsverkleidung",
+      "unsichtbarer wasserdichter Kunststoffinnenkern",
+      "Push-to-open (Tip-on) Türen",
+      "höhenverstellbare Füße"
+    ],
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "Pflanzmulden für echte Pflanzen"
+    ],
+    "wasserbereich": [
+      "eingebautes Aquarium",
+      "Schwimmbereich für Wasseragamen"
+    ],
+    "technik": [
+      "Humidity Control zur Messung und Regelung der Luftfeuchtigkeit",
+      "Thermo Control"
+    ],
+    "beregnungsanlage": [
+      "5 Düsen"
+    ],
+    "luftbefeuchtung": [
+      "integrierter Luftbefeuchter"
+    ],
+    "lüftersystem": [
+      "2 Ventilatoren"
+    ],
+    "pflanzenSet": [
+      "echte Pflanzen"
+    ],
+    "unterschrank": [
+      "4 Türen",
+      "Push-to-open (Tip-on) System",
+      "höhenverstellbare Füße"
+    ]
+  }
+},
+ {
+  "id": 104,
+  "title": "Florarium zum Einbau in eine Schrankwand",
+  "description": "Offenes Florarium für Sukkulenten zum millimetergenauen Einbau in eine Schrankwand mit individuell gestalteter Sandstein- und Granitfelslandschaft sowie integrierter LED-Beleuchtung mit Sonnenauf- und Untergangssimulation.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Florarium",
+    "Terrarientypen": "Orchideen-Vitrine",
+    "ReptilienTyp": null,
+    "pflanzen": [
+      "verschiedene Sukkulenten"
+    ],
+    "Terrarium Maße: Breite × Tiefe × Höhe": "86x57.5x93 cm",
+    "dekor": [
+      "an vorhandene Schrankwand angepasst"
+    ],
+    "bauweise": [
+      "offenes Ganzglas-Terrarium",
+      "millimetergenauer Einbau in Schrankwandöffnung"
+    ],
+    "besonderheiten": [
+      "ohne Reptilienbesatz",
+      "individuelle Gestaltung nach Kundenwunsch",
+      "integrierter Zimmerbrunnen"
+    ],
+    "landschaft": [
+      "Sandsteinoptik",
+      "Granitfelsoptik",
+      "künstliche Bemoosung"
+    ],
+    "beleuchtung": [
+      "2 tagweiße LED-Leisten à 50 cm",
+      "1 LED-Leiste für Sonnenauf- und Untergangssimulation",
+      "weiße Holzplatte passend zum Schrankdekor"
+    ],
+    "technik": [
+      "3 LED-Leisten à 50 cm"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC Sonnenauf- und Untergangs-Set",
+        "Mondlichtfunktion"
+      ]
+    },
+    "pflanzenSet": [
+      "verschiedene Sukkulenten"
+    ],
+    "dekoration": [
+      "gelieferter Zimmerbrunnen",
+      "künstliche Bemoosung"
+    ]
+  }
+},
+ {
+  "id": 105,
+  "title": "Aqua-Terrarium mit Abtrennung im Wasser",
+  "description": "Großes Aqua-Terrarium mit getrennten Bereichen für Schmuckschildkröte und Fischbesatz. Die wasserdurchlässige Glasabtrennung schützt die Unterwasserpflanzen und ermöglicht den Fischen die Nutzung des gesamten Wasserkörpers. Die Anlage kombiniert Aquaterrarium, Wasserfall, Landbereich und professionelle Wasseraufbereitung.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Aqua-Terrarium",
+    "Terrarientypen": "Aqua-Terrarien",
+    "ReptilienTyp": "Schildkröten (Chelonia)",
+    "reptilien": [
+      "Schmuckschildkröte (männlich)"
+    ],
+    "fische": [
+      "Diskus Pigeon",
+      "Neons",
+      "Panzerwelse",
+      "kleine Saugwelse",
+      "L-Welse",
+      "Schmetterlingsbuntbarsche",
+      "Apistogrammas"
+    ],
+    "Terrarium Maße: Breite × Tiefe × Höhe": "300x60x170 cm",
+    "wasserstand": "55 cm",
+    "glas": [
+      "15mm Glas für Seiten- und Bodenscheiben",
+      "6mm VSG-Glasschiebetüren",
+      "abschließbar",
+      "Laufschuhsystem"
+    ],
+    "unterbau": [
+      "Aluminium-Unterkonstruktion",
+      "60 cm Höhe"
+    ],
+    "schränke": [
+      {
+        "typ": "Hochschrank",
+        "maße": "30x62x230 cm",
+        "türen": 3
+      },
+      {
+        "typ": "Seitenschrank",
+        "maße": "30x62x60 cm",
+        "regalböden": 2,
+        "abgerundeteSeite": true
+      }
+    ],
+    "besonderheiten": [
+      "wasserdurchlässige Glasabtrennung im Wasserbereich",
+      "Schutz der Unterwasserpflanzen",
+      "Fische können beide Wasserbereiche nutzen",
+      "kleiner Landbereich für Schildkröte",
+      "flacher Ausstieg zum Landbereich",
+      "integrierter Wasserfall",
+      "umfangreiche Wasseraufbereitung"
+    ],
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "Rankpflanzen",
+      "Farne",
+      "Moose",
+      "Moorkienwurzeln",
+      "epiphytisch aufgebundene Bromelien",
+      "Landbereich",
+      "integrierter Wasserfall"
+    ],
+    "beleuchtung": [
+      "1 Bright Sun Jungle Flood 70W",
+      "2 Aquarius Plant 120 cm",
+      "Stahlseilaufhängung",
+      "250 cm LED-Beleuchtung tagweiß für den Landbereich",
+      "abgehängter Reflektor für UV-Wärmeplatz"
+    ],
+    "lüftung": [
+      "Gazeflächen in der Lichtdecke",
+      "senkrechte Lüftungsrosetten in der Glasbodenblende",
+      "4 Ventilatoren mit Luftabzug nach oben"
+    ],
+    "technik": [
+      "Humidity Control",
+      "Thermocontrol",
+      "Aquarius Control",
+      "umfangreiche Wasserwertekontrolle"
+    ],
+    "wassertechnik": [
+      "Pumpe für Wasserfall",
+      "Überlaufschacht",
+      "Bohrungen für Außenfilter",
+      "Totalablauf",
+      "Filterbecken 1200x500x400 mm",
+      "2 Filterkammern mit Filtervlies und Filterschwamm",
+      "PVC-Deckel",
+      "Kanalanschluss",
+      "Nachfüllbecken mit automatischer Nachfülleinrichtung",
+      "Osmose-Anlage",
+      "2 Förderpumpen",
+      "Heizstab",
+      "UV-C Klärer"
+    ],
+    "beregnungsanlage": [
+      "7 Düsen"
+    ],
+    "luftbefeuchtung": [
+      "Luftbefeuchter mit Humidity Control"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "Aquarius Control Sonnenauf- und Untergang",
+        "Mondlichtfunktion",
+        "HC Sonnenauf- und Untergang für Landbereich",
+        "250 cm LED-Beleuchtung"
+      ]
+    },
+    "pflanzenSet": [
+      "Unterwasserpflanzen",
+      "Rankpflanzen",
+      "Farne",
+      "Moose",
+      "epiphytische Bromelien"
+    ]
+  }
+},
+{
+  "id": 106,
+  "title": "Bartagamen-Terrarium für Megazoo in Hannover",
+  "description": "Großes Showterrarium für die Terraristikabteilung von Megazoo Hannover mit australisch inspirierter Outback-Landschaft, umfangreicher Beleuchtungs- und Klimasteuerung sowie professioneller Präsentationstechnik für Besucher.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Wüste/Steppe",
+    "Terrarientypen": "Terrarien für Zoos und öffentliche Einrichtungen",
+    "ReptilienTyp": "Agamen (Agamidae)",
+    "reptilien": [
+      "Bartagame – Pogona vitticeps",
+      "geeignet für weitere steppenbewohnende Reptilien"
+    ],
+    "standort": "Megazoo Hannover",
+    "Terrarium Maße: Breite × Tiefe × Höhe": "250x100x120 cm",
+    "unterschrankMaße": "250x90x53 cm",
+    "dekor": [
+      "weiß Miniperl"
+    ],
+    "besonderheiten": [
+      "Showterrarium in der Terraristikabteilung",
+      "Demonstration moderner Terrarientechnik",
+      "Terrarium steht vorne 10 cm über den Unterschrank hinaus",
+      "australische Outback-Optik"
+    ],
+    "schiebescheiben": [
+      "6mm ESG-Glas",
+      "polierte Kanten",
+      "Laufschuhsystem"
+    ],
+    "beleuchtung": [
+      "4 Bright Sun Desert",
+      "3 Wärme-Licht-Spots",
+      "7 weiße drehbare Einbaustrahler",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "Kaminlüftung",
+      "weiße Lüftungseinsätze in der Lichtdecke"
+    ],
+    "felslandschaft": [
+      "Wüsten-/Steppenlandschaft",
+      "große Felsformationen",
+      "Felsdurchbrüche",
+      "Höhlen",
+      "Sonnenplateaus",
+      "mehrfarbig sandsteinfarbig besandet",
+      "starke Terracotta-Anteile",
+      "Outback-Landschaftsoptik"
+    ],
+    "technik": [
+      "Thermocontrol Pro",
+      "Display im Alu-Rahmen der Blende",
+      "Plexiglas-Schutzabdeckung vor dem Display"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC Sonnenauf- und Untergangs-Set",
+        "Mondlichtfunktion"
+      ]
+    },
+    "unterschrank": [
+      "4 Türen",
+      "Tip-On-System",
+      "höhenverstellbare Füße"
+    ],
+    "referenz": {
+      "megazooWebsite": "https://www.megazoo-nord.de/"
+    }
+  }
+},
+{
+  "id": 107,
+  "title": "Aquarium für eine Wasserschildkröte",
+  "description": "Aquarium mit integriertem Landteil für Sumpf- und Wasserschildkröten, gestaltet als wohnraumtaugliches Möbelstück mit verkleideten Seiten, professioneller Filtertechnik und kombinierter UV- sowie Pflanzenbeleuchtung.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Aquarium",
+    "Terrarientypen": "Aqua-Terrarien",
+    "ReptilienTyp": "Schildkröten (Chelonia)",
+    "reptilien": [
+      "Sumpf- und Wasserschildkröten"
+    ],
+    "Terrarium Maße: Breite × Tiefe × Höhe": "160x60x70 cm",
+    "wasserstand": "40 cm",
+    "wasserVolumen": "ca. 300 Liter",
+    "landteilVolumen": "ca. 80 Liter",
+    "dekor": [
+      "Wildeiche Natur",
+      "weitere Möbeldekore verfügbar"
+    ],
+    "bauweise": [
+      "Frontseite einsehbar",
+      "Seiten als Möbelstück verkleidet"
+    ],
+    "landschaft": [
+      "Landbereich mit Sand-Humus-Gemisch",
+      "Quarzsand als Bodengrund",
+      "Fotomotiv-Rückwand"
+    ],
+    "ausstattung": [
+      "Schwerlast-Unterschrank"
+    ],
+    "beleuchtung": [
+      "3 AquaMedic Aquarius Plant 60",
+      "Standfüße zur Aufstellung über dem Aquarium",
+      "1 Bright Sun Jungle Flood 70W"
+    ],
+    "wassertechnik": [
+      "Eheimfilter im Unterschrank"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "Sonnenaufgangssimulation",
+        "Sonnenuntergangssimulation",
+        "Mondlichtfunktion"
+      ]
+    },
+    "pflanzenSet": [
+      "Landbereich mit Sand und Humus"
+    ],
+    "unterschrank": [
+      "Schwerlast-Ausführung"
+    ]
+  }
+},
+{
+  "id": 108,
+  "title": "Unterfahrbares Terrarium für einen Rollstuhlfahrer",
+  "description": "Speziell für einen Rollstuhlfahrer entwickeltes Wüsten- und Steppenterrarium mit vollständig unterfahrbarer Front, verdeckter Stahlrohrkonstruktion und individueller Anpassung an die Körpermaße des Nutzers für optimale Erreichbarkeit und Bedienbarkeit.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Wüste/Steppe",
+    "Terrarientypen": "Wüsten- / Steppenterrarien",
+    "ReptilienTyp": "Agamen (Agamidae)",
+    "reptilien": [
+      "Bartagame – Pogona vitticeps",
+      "geeignet für weitere steppenbewohnende Reptilien"
+    ],
+    "Terrarium Maße: Breite × Tiefe × Höhe": "200x70x90 cm",
+    "unterschrankHöhe": "72 cm",
+    "dekor": [
+      "weiß",
+      "weitere Farbdekore verfügbar"
+    ],
+    "besonderheiten": [
+      "speziell für Rollstuhlfahrer entwickelt",
+      "vollständig unterfahrbare Front",
+      "individuell auf Rollstuhl und Nutzer angepasst",
+      "optimierte Erreichbarkeit der Rückwand",
+      "verdeckte tragende Stahlrohrkonstruktion",
+      "Möbeloptik trotz tragender Stahlkonstruktion",
+      "keine Mittelstütze im Unterbau"
+    ],
+    "landschaft": [
+      "Wüsten-/Steppenlandschaft",
+      "elfenbein-sandsteinfarbige Besandung",
+      "Terracottastrukturen",
+      "graue Felselemente"
+    ],
+    "schiebescheiben": [
+      "6mm Glas mit polierten Kanten im Laufschuhsystem",
+      "alternativ 4mm Scheiben im Doppel-U-Profil"
+    ],
+    "beleuchtung": [
+      "2 Bright Sun Desert",
+      "2 Wärme-Licht-Spots",
+      "4 weiße drehbare Einbaustrahler",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "Kaminlüftung",
+      "weiße Lüftungseinsätze in der Lichtdecke"
+    ],
+    "unterkonstruktion": [
+      "innenliegender Stahlrohrrahmen",
+      "komplett verkleidet",
+      "tragende Konstruktion für hohe Lasten",
+      "unsichtbar integriert"
+    ],
+    "technik": [
+      "HC-Sonnenauf- und Untergangs-Set",
+      "Mondlichtfunktion"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC Sonnenauf- und Untergangs-Set",
+        "Mondlichtfunktion"
+      ]
+    }
+  }
+},
+ {
+  "id": 109,
+  "title": "Paludarien für Dendrobaten in jeder Größe",
+  "description": "Individuell gefertigte Paludarien für Pfeilgiftfrösche in beliebigen Größen, Formen und Dekoren mit tropischer Granitfels-Jungle-Landschaft, Wasserfall, Wasserkanal sowie professioneller Klima-, Beregnungs- und Belüftungstechnik.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Paludarium",
+    "Terrarientypen": "Paludarien",
+    "ReptilienTyp": "Lurche (Amphibia)",
+    "reptilien": [
+      "Pfeilgiftfrösche – Dendrobaten"
+    ],
+    "Terrarium Maße": "individuell nach Kundenwunsch",
+    "dekor": [
+      "in unzähligen Holzdekoren lieferbar"
+    ],
+    "besonderheiten": [
+      "frei konfigurierbare Größe",
+      "frei konfigurierbare Form",
+      "individuelle Ausstattung",
+      "für tropische Pfeilgiftfrösche optimiert"
+    ],
+    "glas": [
+      "unsichtbarer Ganzglaskern aus 6mm Floatglas",
+      "4mm Glas im Doppel-U-Profil",
+      "Drosophiladichtung zwischen den Scheiben"
+    ],
+    "landschaft": [
+      "Granitfels-Jungle-Optik",
+      "epiphytisch aufgebundene Bromelien",
+      "Rankpflanzen",
+      "kleiner Wasserfall",
+      "Bachlauf",
+      "Wasserkanal",
+      "bemooste Flächen",
+      "Wurzeln",
+      "Lianen",
+      "trockene Landbereiche"
+    ],
+    "wasserbereich": [
+      "Wasserkanal",
+      "Wasserstand ca. 6 cm",
+      "integrierter Wasserfall",
+      "Bachlauf"
+    ],
+    "beleuchtung": [
+      "1–2 Bright Sun Jungle 35W",
+      "1–2 Wärme-Licht-Spots",
+      "optional LED-Leuchtmittel",
+      "2–4 integrierte Reflektoren mit Schutzgittern",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "große senkrechte Gazefläche mit Aluminiumrahmen",
+      "alternativ senkrechte Lüftungsrosetten in Glasbodenblende",
+      "große Gazefläche in der Lichtdecke",
+      "Lüfterset mit 2 Ventilatoren"
+    ],
+    "technik": [
+      "Humidity-Control mit Display im Alu-Rahmen",
+      "optional Thermo-Control mit Display im Alu-Rahmen",
+      "Temperaturbereich 23–27 °C"
+    ],
+    "wassertechnik": [
+      "Wasserfallpumpe mit Vorfilter"
+    ],
+    "beregnungsanlage": [
+      "3–5 Düsen",
+      "Rückschlagventil",
+      "Feinfilter",
+      "Wassertank",
+      "sekundengenau einstellbare Zeitschaltuhr"
+    ],
+    "luftbefeuchtung": [
+      "eingebauter Luftbefeuchter",
+      "Humidity-Control gesteuert"
+    ],
+    "lüftersystem": [
+      "2 Ventilatoren",
+      "12 cm Ø",
+      "Trafo",
+      "elektronische Zeitschaltuhr",
+      "zeitgesteuerte Entlüftung nach außen"
+    ],
+    "pflanzenSet": [
+      "epiphytische Bromelien",
+      "Rankpflanzen",
+      "Moose",
+      "Lianen"
+    ]
+  }
+},
+ {
+  "id": 110,
+  "title": "Das perfekte Terrarium für ein Panther-Chamäleon",
+  "description": "Individuell konfigurierbares Regenwaldterrarium für Pantherchamäleons mit optimierter Belüftung, tropischer Granitfels-Wald-Landschaft, echter Bepflanzung sowie professioneller Licht-, Klima- und Beregnungstechnik.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Regenwaldterrarium",
+    "Terrarientypen": "Regenwaldterrarien",
+    "ReptilienTyp": "Chamäleons (Chamaeleonidae)",
+    "reptilien": [
+      "Pantherchamäleon – Furcifer pardalis"
+    ],
+    "Terrarium Maße": {
+      "standardgroessen": [
+        "60x60x160 cm",
+        "160x80x160 cm"
+      ],
+      "sondergroessen": "jede andere Größe lieferbar",
+      "unterschrankHoehe": "50 cm"
+    },
+    "dekor": [
+      "alle Holzdekore",
+      "Steinoptikoberflächen",
+      "Betonoptik",
+      "Metallic-Optik",
+      "alle Uni-Farben"
+    ],
+    "besonderheiten": [
+      "speziell für Pantherchamäleons konzipiert",
+      "optimierte Belüftung",
+      "optionales Festglaselement",
+      "unsichtbare wasserdichte Innenverkleidung aus Kunststoff"
+    ],
+    "schiebescheiben": [
+      "6mm Glas mit polierten Kanten",
+      "rollengelagertes Laufschuhsystem",
+      "integriertes Schloss",
+      "alternativ 4mm Scheiben im Doppel-U-Profil"
+    ],
+    "beleuchtung": [
+      "1–2 Bright Sun Jungle 70W Flood inklusive EVG",
+      "1–2 Wärme-Licht-Spots 70W",
+      "2–5 flach integrierte Reflektoren mit Schutzgittern",
+      "weiße Lichtdecke zur optimalen Lichtreflektion"
+    ],
+    "lüftung": [
+      "große Gazefläche in der Lichtdecke",
+      "große senkrechte Gazefläche im Aluminiumrahmen",
+      "alternativ senkrechte Lüftungsrosetten in Glasbodenblende",
+      "Lüfterset mit 2 Ventilatoren",
+      "12 cm Ø Ventilatoren",
+      "Trafo",
+      "elektronische Zeitschaltuhr"
+    ],
+    "felslandschaft": [
+      "Granitfels-Wald-Optik",
+      "Pflanzmulden für echte Pflanzen",
+      "optionale epiphytisch aufgebundene Bromelien"
+    ],
+    "pflanzenSet": [
+      "echte Pflanzen",
+      "epiphytische Bromelien",
+      "Korkeichäste",
+      "dünne glatte Äste",
+      "dünne Lianen"
+    ],
+    "dekoration": [
+      "echte Pflanzen",
+      "Kletteräste"
+    ],
+    "beregnungsanlage": [
+      "3 Düsen oder 5 Düsen"
+    ],
+    "lüftersystem": [
+      "2 Ventilatoren",
+      "12 cm Ø",
+      "Trafo",
+      "elektronische Zeitschaltuhr"
+    ],
+    "unterschrank": [
+      "Zuschlagdämpfersystem",
+      "14 cm lange Griffe",
+      "eckige Griffe",
+      "eckig abgerundete Griffe",
+      "gebogene Griffe",
+      "alternativ Push-to-open (Tip-on) System"
+    ],
+    "optionen": [
+      "Festglaselement auf einer Seite",
+      "HC-Sonnenauf- und Untergangs-Set",
+      "Mondlichtfunktion"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "optional": true,
+      "features": [
+        "HC Sonnenauf- und Untergangs-Set",
+        "Mondlichtfunktion"
+      ]
+    }
+  }
+},
+ {
+  "id": 111,
+  "title": "Bartagamen-Terrarium als Raumteiler 250 cm lang",
+  "description": "Großes Raumteiler-Terrarium für Bartagamen mit beidseitig einsehbarer Wüstenlandschaft, großzügigen Felsformationen, integriertem Stauraum sowie professioneller Beleuchtungs- und Steuerungstechnik.",
+  "images": [],
+  "technicalDetails": {
+    "Terrarium Typ": "Wüste/Steppe",
+    "Terrarientypen": "Raumteiler",
+    "ReptilienTyp": "Agamen (Agamidae)",
+    "reptilien": [
+      "Bartagame – Pogona vitticeps",
+      "geeignet für weitere steppenbewohnende Reptilien"
+    ],
+    "Terrarium Maße: Breite × Tiefe × Höhe": "250x80x110 cm",
+    "unterschrankHöhe": "80 cm",
+    "dekor": [
+      "Wildeiche",
+      "weitere Farbdekore verfügbar"
+    ],
+    "bauweise": [
+      "Raumteiler",
+      "beidseitig einsehbar",
+      "mehrteilig gefertigt",
+      "vor Ort montiert"
+    ],
+    "besonderheiten": [
+      "250 cm Länge",
+      "von beiden Seiten sichtbare Landschaft",
+      "zusätzliches Festglaselement auf der Stirnseite",
+      "großer Stauraumbereich im Unterschrank"
+    ],
+    "landschaft": [
+      "Wüsten-/Steppenlandschaft",
+      "großer Felsen mit Durchbrüchen",
+      "Höhlen",
+      "Sonnenplateaus",
+      "elfenbein-sandsteinfarbige Besandung",
+      "Terracottastrukturen"
+    ],
+    "schiebescheiben": [
+      "6mm Glas mit polierten Kanten im Laufschuhsystem",
+      "alternativ 4mm Scheiben im Doppel-U-Profil"
+    ],
+    "festglaselemente": [
+      "Festglaselement auf der Stirnseite"
+    ],
+    "beleuchtung": [
+      "4 Bright Sun Desert",
+      "3 Wärme-Licht-Spots",
+      "7 weiße drehbare Einbaustrahler",
+      "weiße Lichtdecke zur besseren Lichtreflektion"
+    ],
+    "lüftung": [
+      "beidseitige Lüftungsrosetten in Glasbodenblenden",
+      "Holzblende zur optischen Abdeckung des Bodengrundes",
+      "weiße Lüftungseinsätze in der Lichtdecke"
+    ],
+    "technik": [
+      "HC-Sonnenauf- und Untergangs-Set",
+      "Mondlichtfunktion"
+    ],
+    "sonnenaufUntergangMondlichtSet": {
+      "features": [
+        "HC Sonnenauf- und Untergangs-Set",
+        "Mondlichtfunktion"
+      ]
+    },
+    "unterschrank": [
+      "3 Türen",
+      "4 Teleskop-Schubladen",
+      "Zuschlagdämpfersystem",
+      "höhenverstellbare Füße"
+    ]
+  }
+} 
 ]
