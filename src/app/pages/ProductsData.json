@@ -2380,7 +2380,7 @@
   "id": 71,
   "title": "Bartagamen-Terrarium mit Panoramaseite",
   "description": "Großes Wüsten- und Steppenterrarium für Bartagamen mit Panoramaseite, integrierter Höhle, elfenbeinfarbener Sandsteinlandschaft sowie hochwertiger Licht- und Belüftungstechnik. Das Terrarium wurde mehrteilig gefertigt und vor Ort im 2. Obergeschoss montiert.",
-  "images": [],
+  "images": ["/images/Totale-seitlich-hf-727x1024.jpg","/images/Totale-frontal-1024x683.jpg","/images/Landschaft-mit-Bartagame-1024x683.jpg","/images/Panoramaecke-683x1024.jpg","/images/Bartagame-auf-Sonnenplatz-1024x683.jpg","/images/Landschaftstotale-seitlich-1024x683.jpg","/images/Bodenbereich-links-1024x683.jpg","/images/Landschaft-linke-Seite-1024x683.jpg","/images/Landschaft-rechte-Häflte-1024x683.jpg"],
     "youtube":"https://www.youtube.com/watch?v=GOPAtLn-wMg",
     "technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
@@ -2456,7 +2456,7 @@
   "id": 72,
   "title": "Terrarium für eine Kornnatter mit seitlichen Regalen",
   "description": "Großes Waldterrarium für Kornnattern mit integrierten seitlichen Regalen, Granitfels-Waldlandschaft, Wetbox, separater Höhle sowie umfangreicher Klima-, Beregnungs- und Lichttechnik inklusive Sonnenauf- und Untergangssteuerung mit Mondlicht.",
-  "images": [],"technicalDetails": {
+  "images": ["/images/Totale-mit-Seitenregalen-1024x922.jpg","/images/Kornnatter-am-Boden-768x1024.jpg","/images/Landschaftstotale-1024x789.jpg","/images/Kornnatter-auf-Ast-1024x767.jpg","/images/Kornnatter-auf-Ruheplatz-768x1024.jpg","/images/Totale-im-Zimmer-1024x768.jpg","/images/Kornnatter-1024x768.jpg",],"technicalDetails": {
     "Terrarium Typ": "Halbfeucht/Wald",
     "Terrarientypen": "Halbfeucht- / Waldterrarien für Schlangen",
     "ReptilienTyp": "Nattern (Colubridae)",
@@ -2549,7 +2549,9 @@
   "id": 73,
   "title": "Große Terrarienwand für die Modeschöpferin Lola Paltinger",
   "description": "Exklusive Terrarienwand bestehend aus einem großformatigen Regenwaldterrarium für einen Grünen Leguan und einem Wüstenterrarium für einen Stachelschwanzwaran. Die Anlage wurde individuell gefertigt, mehrteilig aufgebaut und mit umfangreicher Klima-, Licht- und Beregnungstechnik ausgestattet.",
-  "images": [],"youtube":"https://www.youtube.com/watch?v=9omD6SVv8aA",
+  "images": ["/images/Reiner-Paltinger-2-773x1024.jpg","/images/Totale-von-rechts-1024x683.jpg","/images/Planung-3D-1024x770.jpg","/images/Totale-von-links-1024x733.jpg","/images/Regenwaldterrarium-Landschaft-rechter-Winkel-683x1024.jpg","/images/Regenwaldterrarium-linke-Hälfte-683x1024.jpg","/images/Regenwaldterrarium-Geäst-1024x679.jpg","/images/Regenwaldterrarium-Geäst2-1024x683.jpg","/images/Regenwaldterrarium-grosser-Ganitfels--1024x683.jpg","/images/Regenwaldterrarium-Boden-1024x683.jpg",
+  "/images/Regenwaldterrarium-Landschafsttotale-links-1024x683.jpg","/images/Regenwaldterrarium-Landschaft-Ecke-683x1024.jpg","/images/Regenwadlterraium-Boden-1024x683.jpg","/images/Regenwaldterrarium-Landschaft-links-683x1024.jpg","/images/Regenwaldterrarium-rechte-Wand-1024x683.jpg","/images/Regenwaldterrarium-Sonnenplateau-1024x683.jpg","/images/Regenwaldterrrarium-Geäst-1024x683.jpg","/images/Regenwldterrarium-Landschaft-unterer-Bereich-1024x683.jpg","/images/Totale-rechter-Winkel-683x1024.jpg","/images/Wüstenterrrarium-Totale-683x1024.jpg",
+  "/images/Wüstenterrarium-Total-v.-r-683x1024.jpg","/images/Unterschrank-mit-Tank-1024x683.jpg","/images/Wüstenterrarium-Bodenbereich-1024x683.jpg","/images/Wüstenterrarium-Höhle-1024x683.jpg","/images/Wüstenterrarium-Landschaft-oben-1024x683.jpg"],"youtube":"https://www.youtube.com/watch?v=9omD6SVv8aA",
     "technicalDetails": {
     "Terrarium Typ": "Kombinierte Regenwald- und Wüstenanlage",
     "Terrarientypen": "Terrarien als Schrankwände",
@@ -2664,7 +2666,7 @@
   "id": 74,
   "title": "Regenwaldterrarium für einen Smaragdwaran in Deltaform",
   "description": "Großes Regenwaldterrarium in Deltaform für einen Smaragdwaran mit Granitfels-Jungle-Optik, umfangreicher Klima- und Beregnungstechnik sowie integriertem Luftbefeuchter. Das Terrarium wurde mehrteilig gefertigt und vor Ort aufgebaut.",
-  "images": [],"youtube":"https://www.youtube.com/watch?v=RMNuzOFlI9E",
+  "images": ["/images/Totale-im-Wohnzimmer-1024x771.jpg","/images/Totale-mit-Waran-1024x771.jpg","/images/Dicke-Äste-mit-Hängepflanzen-1024x683.jpg","/images/Waran-unter-Ast-1024x771.jpg","/images/Sonnenplateaus-1024x683.jpg","/images/Landschaft-links-683x1024.jpg","/images/Landschaft-rechts-683x1024 (1).jpg"],"youtube":"https://www.youtube.com/watch?v=RMNuzOFlI9E",
     "technicalDetails": {
     "Terrarium Typ": "Regenwaldterrarium",
     "Terrarientypen": "Delta-Terrarien",
@@ -2753,7 +2755,8 @@
   "id": 75,
   "title": "Terrarienanlage für den Schulzoo der Friedensschule in Münster",
   "description": "Komplette Terrarienanlage für den Schulzoo der Friedensschule in Münster mit fünf spezialisierten Terrarien und einem Aquarium. Die Anlage wurde für unterschiedliche Tierarten konzipiert und mit vollständiger Technik ausgestattet. Die Landschaftsgestaltung erfolgte gemeinsam mit Schülern unter Leitung der Biologielehrerin.",
-  "images": [],"youtube":"https://www.youtube.com/watch?v=J-jM8cHZzDs",
+  "images": ["/images/Wandtotale-1024x683.jpg","/images/Bartagamen-Terrarium-halbfertig-1024x683.jpg","/images/Phelsumen-Terrarium-683x1024.jpg","/images/Dendrobaten-Paludarium-683x1024.jpg","/images/Aquarium-2-1024x683.jpg","/images/Aquarium-1024x683.jpg","/images/Kornnatter-Terrairum-1024x683.jpg","/images/Kornnatter-Terra-linke-Seite-683x1024.jpg","/images/Kornnatter-Terrarium-rechte-Seite-683x1024.jpg","/images/Leopardgecko-Terrarium-3-1024x683.jpg",
+  "/images/Leopardgecko-1024x683.jpg","/images/Leopardgecko-in-Hoehle-1024x683.jpg","/images/Leopardgecko-2-1024x683.jpg","/images/Totale-v.r-1024x683.jpg","/images/Totale-rechte-Hälfte-1024x683.jpg","/images/Totale-rechte-Hälfte-1024x683.jpg","/images/Freistehendes-Tera-Totale-1024x683.jpg"],"youtube":"https://www.youtube.com/watch?v=J-jM8cHZzDs",
     "technicalDetails": {
     "Terrarium Typ": "Terrarienanlage",
     "Terrarientypen": "Terrarien für Zoos und öffentliche Einrichtungen",
@@ -2841,7 +2844,7 @@
   "id": 76,
   "title": "Terrarium für eine tunesische Landschildkröte",
   "description": "Steppen- und Wüstenterrarium für eine tunesische Landschildkröte mit mehrstufiger Sandsteinlandschaft, Aufstiegsrampe, Sonnenplatz sowie integrierter Klima- und UV-Technik.",
-  "images": [],
+  "images": ["/images/Terra-im-Zimmer3-768x1024.jpg","/images/Landschaft-von-oben-1024x768.jpg","/images/Landschaft-linke-Hälfte-1024x768.jpg","/images/Schildkröte-am-Aufstieg-768x1024.jpg","/images/Brücke-1024x768.jpg","/images/Landschaft--768x1024.jpg","/images/Landschaft-schräg-v.r-768x1024.jpg"],
     "technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": "Terrarien für Landschildkröten",
@@ -2897,7 +2900,7 @@
   "id": 77,
   "title": "4 qbm großes Terrarium für einen Teppichpython",
   "description": "Großformatiges Waldterrarium für einen Teppichpython mit Granitfels-Wald-Landschaft, integrierter Nachtbeheizung sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion. Das Terrarium wurde mehrteilig gefertigt und vor Ort montiert.",
-  "images": [],"technicalDetails": {
+  "images": ["/images/Totale-von-vorne-807x1024.jpg","/images/Totale-seitlich-683x1024.jpg","/images/Festglaselement-683x1024.jpg","/images/Totale-schräg-683x1024.jpg","/images/Landschaft-oben-1024x683.jpg","/images/Landschaft-rechte-Seite-683x1024.jpg","/images/Landschaft-linke-Seite-683x1024.jpg"],"technicalDetails": {
     "Terrarium Typ": "Halbfeucht/Wald",
     "Terrarientypen": "Halbfeucht- / Waldterrarien für Schlangen",
     "ReptilienTyp": "Pythons (Pythonoidea)",
@@ -2974,7 +2977,8 @@
   "id": 78,
   "title": "Terrarienschrankwand mit Regenwaldterrarium und Wüstenterrarium",
   "description": "Individuelle Terrarienschrankwand bestehend aus einem Regenwaldterrarium für ein Jemen-Chamäleon und einem Wüsten-/Steppenterrarium für Leopardgeckos. Die Anlage kombiniert hochwertige Landschaftsgestaltung mit umfangreicher Klima-, Licht- und Beregnungstechnik.",
-  "images": [],"youtube":"https://www.youtube.com/watch?v=RvrdxUVUorE",
+  "images": ["Totale-Terrarienwand-1024x683/images/.jpg","/images/R03-Totale-863x1024.jpg","/images/S07-Total-mU-683x1024.jpg","/images/S07-Totale-1-1024x683.jpg","/images/R03-Landschaft-links-683x1024.jpg","/images/R03-Landschaft-mit-dünnen-Ästen-683x1024.jpg","/images/R03-Landschaft-Mitte-683x1024.jpg","/images/R03-Landschaft-rechts-683x1024.jpg","/images/R03-Landschaftstotale-1024x683.jpg","/images/S07-Bodendekoration-1024x683.jpg",
+  "/images/S07-Felslandschaft-Rustico-2-1024x683.jpg","/images/S07-Felslandschaft-Rustico-1024x683.jpg","/images/S07-grabfähiger-Sand-1024x683.jpg","/images/S07-Höhle-am-Boden-1024x683.jpg","/images/S07-Höhle-on-der-Landschaft-1024x683.jpg","/images/S07-Leopardgecko-1024x768.jpg"],"youtube":"https://www.youtube.com/watch?v=RvrdxUVUorE",
     "technicalDetails": {
     "Terrarium Typ": "Kombinierte Regenwald- und Wüstenanlage",
     "Terrarientypen": "Terrarien als Schrankwände",
@@ -3096,7 +3100,7 @@
   "id": 79,
   "title": "250cm langes Terrarium für Dornschwanzagamen",
   "description": "Großes Wüsten- und Steppenterrarium für Dornschwanzagamen mit weitläufiger Sandsteinlandschaft, vielen engen Spalten und Höhlen sowie leistungsstarker Wüstenbeleuchtung.",
-  "images": [],"technicalDetails": {
+  "images": ["/images/S07-Totale-1024x609.jpg","/images/Totale-schräg-von-rechts-1024x768.jpg","/images/Dornschwanzagamen-auf-Kletterast-768x1024.jpg","/images/Landschaft-links-1024x768.jpg","/images/Landschaft-Mitte-1024x768.jpg","/images/Uromastyx-ornata-1024x768.jpg","/images/Landschaft-rechts-1024x768.jpg"],"technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": "Wüsten- / Steppenterrarien",
     "ReptilienTyp": "Agamen (Agamidae)",
@@ -3152,7 +3156,8 @@
   "id": 80,
   "title": "Terrarium per Kranwagen in das 3. Obergeschoss gehoben – hier für einen Königspython",
   "description": "Großes Waldterrarium für einen Königspython mit Granitfels-Wald-Landschaft, Wetbox, integrierter Klima- und Beregnungstechnik sowie Nachtbeheizung. Das Terrarium wurde per Kranwagen in das 3. Obergeschoss transportiert.",
-  "images": [],"technicalDetails": {
+  "images": ["/images/im-Zimmer2-1024x768.jpg","/images/im-Zimmer1-1024x768.jpg","/images/Terra-auf-Laderampe-1024x768.jpg","/images/Terra-schwebend-1024x768.jpg","/images/Terra-Höhe-3.0G-1024x768.jpg","/images/im-Zimmer3-1024x768.jpg","/images/Köpy-in-der-Landschaft-2-1024x768.jpg","/images/Bepflanzung-1024x768.jpg","/images/Landschaft-mit-Köpy-1024x768.jpg","/images/Köpy-hinter-den-Pflanzen-768x1024.jpg",
+  "/images/Köpy-in-der-Landschaft-1024x768.jpg","/images/Lieblingsplatz1-768x1024.jpg","/images/Versteck-Ruheplatz-1024x768.jpg","/images/Dämmerung-1024x768.jpg"],"technicalDetails": {
     "Terrarium Typ": "Halbfeucht/Wald",
     "Terrarientypen": "Halbfeucht- / Waldterrarien für Schlangen",
     "ReptilienTyp": "Pythons (Pythonoidea)",
@@ -3234,7 +3239,7 @@
   {
   "id": 81,
   "title": "Regenwaldterrarium für das Gymnasium Oldenburg",
-  "images": [],"description": "Regenwaldterrarium für ein Pantherchamäleon im Gymnasium Oldenburg mit Granitfels-Wald-Optik, echter Bepflanzung sowie integrierter Klima-, Lüftungs- und Beregnungstechnik.",
+  "images": ["/images/Terrraium-Totale-768x1024.jpg","/images/Landschaftstotale-768x1024.jpg","/images/Geäst-768x1024.jpg"],"description": "Regenwaldterrarium für ein Pantherchamäleon im Gymnasium Oldenburg mit Granitfels-Wald-Optik, echter Bepflanzung sowie integrierter Klima-, Lüftungs- und Beregnungstechnik.",
   "technicalDetails": {
     "Terrarium Typ": "Regenwaldterrarium",
     "Terrarientypen": "Terrarien für Zoos und öffentliche Einrichtungen",
@@ -3311,7 +3316,7 @@
   "id": 82,
   "title": "Doppelstöckiges Terrarium, oben für Bartagamen, unten für Leopardgeckos",
   "description": "Doppelstöckige Terrarienanlage in Hochglanzoptik mit zwei separaten Wüsten- und Steppenterrarien für Bartagamen und Leopardgeckos. Die Anlage kombiniert strukturierte Sandsteinlandschaften mit umfangreicher Licht- und Klimaausstattung.",
-  "images": [],"technicalDetails": {
+  "images": ["/images/S-Doppestöcker-Totale-880x1024.jpg","/images/Doppelstöcker-seitlich-768x1024.jpg","/images/Bartagamen-auf-Sonnenplatz-1024x768.jpg","/images/Landschaftsdetail-1024x768.jpg","/images/Leopardgecko-1024x768.jpg","/images/Sonnenuntergang-1024x768.jpg"],"technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": "Mehrstöckige Terrarien",
     "ReptilienTyp": [
@@ -3390,7 +3395,7 @@
   "id": 83,
   "title": "Aquaterrarium für eine Moschusschildkröte",
   "description": "Aquaterrarium für eine Moschusschildkröte mit Granitfels-Jungle-Optik, integriertem Wasserfall, unterschwimmbarem Landbereich sowie Eiablageplatz und umfangreicher Wasser- und Lichttechnik.",
-  "images": [],"technicalDetails": {
+  "images": ["/images/Aquaterrarium-Totale-768x1024.jpg","/images/Muschusschildkröte-2-768x1024.jpg","/images/Bepflanzung-1024x768 (1).jpg","/images/Wurzel-zum-Sonnen-im-Wasser-768x1024.jpg","/images/Landausstieg-Sonnenplatz-768x1024.jpg","/images/Moschussschildkröte-1024x768.jpg","/images/Wasserfall-Bachlauf-1024x768.jpg"],"technicalDetails": {
     "Terrarium Typ": "Aquaterrarium",
     "Terrarientypen": "Aqua-Terrarien",
     "ReptilienTyp": "Schildkröten (Chelonia)",
