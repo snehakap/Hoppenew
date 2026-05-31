@@ -1998,8 +1998,7 @@
   "id": 65,
   "title": "Paludarium für Pfeilgiftfrösche",
   "description": "Hochwertiges Paludarium für Pfeilgiftfrösche – Dendrobaten mit Granitfels-Jungle-Optik, Wasserfall, Bachlauf, epiphytischen Pflanzen sowie integrierter Klima-, Beregnungs- und Lüftungstechnik inklusive Sonnenuntergangs-Simulation mit Mondlicht.",
-  "images": ["/images/R06-Dendrobaten-Totale-641x1024.jpg","/images/65.jpg","/images/Landschaftstotale-1024x938.jpg","/images/Bodenfläche-1024x683.jpg","/images/Landschaft-links-1024x683.jpg","/images/Landschaft-rechts-1024x683.jpg","/images/Wandbepflanzung-1024x683.jpg","/images/Totale-frontal-mit-Treppe-1024x683.jpg","/images/Landschaftstotale-1-1024x683 (1).jpg","/images/von-vorne-links-hf-683x1024.jpg","/images/Totale-von-vorne-1024x683.jpg","/images/rechte-Auflagefläche-1024x683.jpg",
-    "/images/linke-Auflagefläche-1024x683.jpg","/images/Landschaftstotale-links-1024x683.jpg","/images/Landschaftstotale-rechts-1024x683.jpg","/images/Boden-im-Terrarium-1024x683.jpg","/images/Totale-im-Zimmer-1024x683.jpg","/images/Totale-rechte-Seite-1024x683.jpg","/images/Unterseite-des-schwebendes-Teils-683x1024.jpg","/images/Leguan-auf-Ästen-683x1024.jpg","/images/Leguan-auf-Ast-683x1024.jpg","/images/Leguan-im-Terrarium-1024x683.jpg"],
+  "images": ["/images/R06-Dendrobaten-Totale-641x1024.jpg","/images/65.jpg","/images/Landschaftstotale-1024x938.jpg","/images/Bodenfläche-1024x683.jpg","/images/Landschaft-links-1024x683.jpg","/images/Landschaft-rechts-1024x683.jpg","/images/Wandbepflanzung-1024x683.jpg"],
     "youtube":"https://www.youtube.com/watch?v=fqAl5G23a6Y",
     "technicalDetails": {
     "Terrarium Typ": "Paludarium / Regenwald",
@@ -2087,7 +2086,8 @@
   "id": 66,
   "title": "Terrarium über einem Treppenaufgang schwebend",
   "description": "Individuell geplantes Großterrarium für einen Grünen Leguan, freischwebend über einem Treppenaufgang montiert. Das Terrarium wurde aus vielen Einzelteilen gefertigt und vor Ort in einem modernisierten Bauernhaus aufgebaut. Besonderheiten sind die freischwebende Konstruktion, die statische Stahlverstärkung, die Integration in bestehende Fachwerkstrukturen sowie umfangreiche Klima-, Licht- und Beregnungstechnik.",
-  "images": [],
+  "images": ["/images/Totale-von-vorne-hf-683x1024.jpg","/images/Totale-frontal-mit-Treppe-1024x683.jpg","/images/Landschaftstotale-1-1024x683 (1).jpg","/images/von-vorne-links-hf-683x1024.jpg","/images/Totale-von-vorne-1024x683.jpg","/images/rechte-Auflagefläche-1024x683.jpg",
+    "/images/linke-Auflagefläche-1024x683.jpg","/images/Landschaftstotale-links-1024x683.jpg","/images/Landschaftstotale-rechts-1024x683.jpg","/images/Boden-im-Terrarium-1024x683.jpg","/images/Totale-im-Zimmer-1024x683.jpg","/images/Totale-rechte-Seite-1024x683.jpg","/images/Unterseite-des-schwebendes-Teils-683x1024.jpg","/images/Leguan-auf-Ästen-683x1024.jpg","/images/Leguan-auf-Ast-683x1024.jpg","/images/Leguan-im-Terrarium-1024x683.jpg"],
     "youtube":"https://www.youtube.com/watch?v=OsBH-0Q2ZIA",
     "technicalDetails": {
     "Terrarium Typ": "Waldterrarium",
@@ -2189,7 +2189,8 @@
   "id": 69,
   "title": "Aquaterrarium als Raumteiler für Fische und Anolis Roquet Summus",
   "description": "Großes Aquaterrarium als Raumteiler mit integriertem Wasser- und Landbereich für tropische Fische und Martinique Anolis. Die Anlage kombiniert eine unterschwimmbare Felslandschaft, epiphytische Bepflanzung, umfangreiche Klima- und Beregnungstechnik sowie einen separaten Technikschrank.",
-  "images": [],
+  "images": ["/images/Totale-im-Raum-Rückseite-683x1024.jpg","/images/Totale-im-Raum-von-vorne-683x1024.jpg","/images/Landschaft-hinten-1024x683.jpg","/images/Landschaftstotale-hinten-1024x683.jpg","/images/Felsdurchbruch-zur-Wand--1024x683.jpg","/images/Totale-vorne-rechts-1024x683.jpg","/images/Unterwasserwelt-vorne--1024x860.jpg","/images/Stirnseite-mit-Wasser-1024x1024.jpg","/images/Totale-Rückseite-1024x1024.jpg","/images/Felsschlucht-im-Wasser-1024x683.jpg",
+  "/images/Sonnenuntergang--1024x768.jpg","/images/Landschaft-links-1024x683.jpg","/images/Landschaft-rechts-vorne-1024x683.jpg","/images/Landschaftstotale-zur-Wand-1024x683.jpg","/images/Stirnseite-683x1024.jpg","/images/Totale-Frontseite-1024x1024.jpg","/images/Wels-und-Schmetterlingsbuntbarsch-1024x1024.jpg"],
     "technicalDetails": {
     "Terrarium Typ": "Aquaterrarium / Raumteiler",
     "Terrarientypen": "Raumteiler",
@@ -2291,7 +2292,7 @@
   "id": 70,
   "title": "Bartagamen-Terrarium mit Festglaselement",
   "description": "Großes Wüsten- und Steppenterrarium für Bartagamen mit integriertem Festglaselement, elfenbeinfarbener Sandsteinlandschaft, separater Höhle sowie programmierbarer Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
-  "images": [],
+  "images": ["/images/Totale-im-Zimmer-1-683x1024.jpg","/images/Landschaftstotale-1-1024x683.jpg","/images/seitliches-Festglaselement-683x1024.jpg","/images/Landschaft-linke-Seite-1-683x1024.jpg","/images/Landschaft-rechts-683x1024.jpg","/images/Bodenfläche-1024x683.jpg","/images/Bodengestaltung-1024x683.jpg"],
     "technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": "Wüsten- / Steppenterrarien",
