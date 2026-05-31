@@ -4847,8 +4847,12 @@
   "id": 63,
   "title": "Terrarienwand mit 2 Terrarien für Teppichpythons",
   "description": "Große Terrarienwand aus zwei Waldterrarien für Teppichpythons mit Granitfels-Wald-Landschaft, integrierter Beregnungsanlage, Klima- und Luftsteuerung sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion. Die Terrarien wurden in mehreren Teilen gebaut und im 3. Obergeschoss vor Ort montiert.",
-  "images": [],
-    "images": [],
+  "images": ["/images/Collet-Totale-beide-768x576",
+  "/images/63",
+  "/images/Seitenansicht-683x1024.jpg",
+  "/images/Höhle-1024x683.jpg",
+  "/images/Liegeplateau-683x1024.jpg",
+    "/images/Pfanzen-rechte-Seite-683x1024", "/images/Pflanzen-links-683x1024"],
     "technicalDetails": {
     "Terrarium Typ": "Halbfeucht/Wald",
     "Terrarientypen": "Terrarien als Schrankwände",
@@ -4938,7 +4942,7 @@
   "id": 64,
   "title": "Steppenterrarium für einen Stachelschwanzwaran",
   "description": "Großes Steppenterrarium für einen Stachelschwanzwaran mit Rustico-Sandsteinoptik, integrierter Beregnungsanlage, großem Festglaselement sowie hochwertiger Lichttechnik. Das Terrarium wurde einteilig gebaut und vor Ort über Rollen an seinen endgültigen Standort bewegt.",
-  "images": [],
+  "images": ["/images/S08-Totale-Im-Zimmer-768x512","/images/64","/images/Felslandschaft-links-1024x683","/images/Felslandschafts-rechts-1024x683","/images/Ritze-zum-Rausschauen-in-der-Korkröhe-1024x683","/images/Kletteräste-am-Boden-1024x683","/images/Öffnung-in-der-Korkröhre-1024x683","/images/Kletteräste-bis-zur-Decke-683x1024","/images/Kletteräste-1024x683","/images/Loch-in-der-Korkröhre-1024x683"],
   "youtube":"https://www.youtube.com/watch?v=nOqDQ2OSd20",
   "technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
@@ -5010,7 +5014,8 @@
   "id": 65,
   "title": "Paludarium für Pfeilgiftfrösche",
   "description": "Hochwertiges Paludarium für Pfeilgiftfrösche – Dendrobaten mit Granitfels-Jungle-Optik, Wasserfall, Bachlauf, epiphytischen Pflanzen sowie integrierter Klima-, Beregnungs- und Lüftungstechnik inklusive Sonnenuntergangs-Simulation mit Mondlicht.",
-  "images": [],
+  "images": ["/images/R06-Dendrobaten-Totale-641x1024","/images/65","/images/Landschaftstotale-1024x938","/images/Bodenfläche-1024x683","/images/Landschaft-links-1024x683","/images/Landschaft-rechts-1024x683","/images/Wandbepflanzung-1024x683","/images/Totale-frontal-mit-Treppe-1024x683","/images/Landschaftstotale-1-1024x683 (1)","/images/von-vorne-links-hf-683x1024","/images/Totale-von-vorne-1024x683","/images/rechte-Auflagefläche-1024x683",
+    "/images/linke-Auflagefläche-1024x683","/images/Landschaftstotale-links-1024x683","/images/Landschaftstotale-rechts-1024x683","/images/Boden-im-Terrarium-1024x683","/images/Totale-im-Zimmer-1024x683","/images/Totale-rechte-Seite-1024x683","/images/Unterseite-des-schwebendes-Teils-683x1024","/images/Leguan-auf-Ästen-683x1024","/images/Leguan-auf-Ast-683x1024","/images/Leguan-im-Terrarium-1024x683"],
     "youtube":"https://www.youtube.com/watch?v=fqAl5G23a6Y",
     "technicalDetails": {
     "Terrarium Typ": "Paludarium / Regenwald",
