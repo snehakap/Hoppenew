@@ -23,7 +23,7 @@
     "species_name_latin": "Theraphosidae",
     "umbrella_term": "Spinne",
     "description": "Die Vogelspinne gehört zur Familie der Theraphosidae innerhalb der Unterordnung der Vogelspinnenartigen (Mygalomorphae) und der Ordnung der Webspinnen (Araneae). Vogelspinnen kommen in tropischen und subtropischen Regionen auf der ganzen Welt vor. Die Familie umfasst 146 Gattungen und etwa 979 bekannte Arten, die sich auf 12 Unterfamilien verteilen. Vogelspinnen existieren bereits seit dem Karbon vor ungefähr 350 Millionen Jahren. Der deutsche Name „Vogelspinne“ stammt vermutlich von einer Illustration der Naturforscherin Maria Sibylla Merian aus dem Jahr 1705, auf der eine große Spinne einen Kolibri frisst. Dies inspirierte Carl von Linné später zur Beschreibung der Art Aranea avicularia, die heute als Avicularia avicularia bekannt ist. Der Körper einer Vogelspinne ist in zwei Hauptabschnitte unterteilt: den Vorderkörper (Prosoma) und den Hinterleib (Opisthosoma). Der Vorderkörper enthält vier Beinpaare, Pedipalpen, Cheliceren, die Mundöffnung und den Carapax. Im Hinterleib befinden sich wichtige Organe wie Herz, Fortpflanzungsorgane, Verdauungssystem und zwei Buchlungenpaare. Die größte bekannte Vogelspinnenart ist Theraphosa blondi, die eine Körperlänge von bis zu 12 Zentimetern und eine Beinspannweite von bis zu 28 Zentimetern erreichen kann. Viele amerikanische Vogelspinnenarten besitzen Brennhaare am Hinterleib, die bei Gefahr abgestreift werden können. Diese Haare besitzen kleine Widerhaken und können starke Hautreizungen verursachen. Vogelspinnen verwenden ihre Spinnseide zum Schutz, zur Fortpflanzung und zum Beutefang. Der Hinterleib ist besonders empfindlich, da er nicht durch ein hartes Außenskelett geschützt ist, weshalb selbst kleinere Stürze tödlich enden können.",
-    "ReptilienTyp": "Schlangen"
+    "ReptilienTyp": "Spinnen (Theraphosidae)"
   },
   {
     "id": "aegyptische-landschildkroete",
@@ -530,7 +530,7 @@
     "species_name_latin": "Chamaeleo calyptratus",
     "umbrella_term": "Chamäleon",
     "description": "Das Jemenchamäleon (Chamaeleo calyptratus) gehört zur Familie der Chamäleons (Chamaeleonidae) und ist auf der südlichen Arabischen Halbinsel verbreitet. Die Art besiedelt sowohl trockene Hochebenen als auch feuchte Bergregionen im Jemen und in Saudi-Arabien. Jemenchamäleons zählen zu den größeren Chamäleonarten und erreichen Gesamtlängen von über 60 Zentimetern. Charakteristisch ist der hohe helmartige Kopfkamm, der bei Männchen besonders ausgeprägt ist. Die Färbung variiert stark und reicht von Grün über Braun bis Gelb, Blau und Orange. Männchen zeigen häufig auffällige vertikale Streifen auf den Flanken. Wie alle Chamäleons besitzt die Art unabhängig bewegliche Augen, einen Greifschwanz und eine lange Schleuderzunge zum Fang von Beutetieren. Jemenchamäleons leben überwiegend einzelgängerisch und verteidigen ihre Reviere aggressiv gegenüber anderen Männchen. Die Nahrung besteht hauptsächlich aus Insekten, gelegentlich werden auch kleine Wirbeltiere sowie pflanzliche Nahrung aufgenommen. Weibchen legen Eier in selbst gegrabene Erdhöhlen ab. Aufgrund ihrer vergleichsweise einfachen Haltung zählt die Art zu den beliebtesten Chamäleons in der Terraristik. :contentReference[oaicite:0]{index=0}",
-    "ReptilienTyp": "Schlangen"
+    "ReptilienTyp": "Chamäleons (Chamaeleonidae)"
   },
   {
     "id": "koenigspython",
@@ -634,7 +634,7 @@
     "species_name_latin": "Furcifer pardalis",
     "umbrella_term": "Chamäleon",
     "description": "Das Panther-Chamäleon (Furcifer pardalis) gehört zur Familie der Chamäleons (Chamaeleonidae) und ist auf Madagaskar sowie auf Mauritius und Réunion verbreitet. Die Art lebt überwiegend in feuchtwarmen Küstenregionen, in Büschen, Bäumen, Gärten und an Feldrändern. Männchen erreichen Körperlängen von bis zu 55 Zentimetern, Weibchen bleiben deutlich kleiner. Charakteristisch sind der Rückenkamm aus stacheligen Schuppen sowie die auffälligen Lateralstreifen entlang der Körperseiten. Die Farbgebung variiert stark je nach Herkunftsgebiet. Besonders die Männchen zeigen intensive Farben wie Grün, Blau, Rot oder Türkis, während Weibchen meist schlichter gefärbt sind. Panther-Chamäleons besitzen wie alle Chamäleons unabhängig bewegliche Augen, Greiffüße und eine lange Schleuderzunge zum Beutefang. Die Tiere ernähren sich hauptsächlich von Insekten und anderen kleinen Wirbellosen.",
-    "ReptilienTyp": "Schlangen"
+    "ReptilienTyp": "Chamäleons (Chamaeleonidae)"
   },
   {
     "id": "fidschi-leguan",
@@ -673,6 +673,6 @@
     "species_name_latin": "Tupinambis merianae",
     "umbrella_term": "Teju",
     "description": "Der Argentinische Teju (Tupinambis merianae), auch Schwarzweißer Teju genannt, ist eine große Echsenart aus Südamerika. Sein natürliches Verbreitungsgebiet umfasst insbesondere Argentinien, Paraguay, Uruguay und Brasilien, wo er Savannen, Graslandschaften und buschreiche Gebiete bewohnt. Als invasive Art kommt er mittlerweile auch in einigen Regionen der USA, insbesondere in Florida, vor. Der Argentinische Teju erreicht Körperlängen von bis zu 1,5 Metern und ein Gewicht von bis zu zehn Kilogramm. Charakteristisch ist die schwarz-weiße Musterung mit hellen Punkten und Querbändern entlang des Körpers. Jungtiere besitzen häufig eine olivgrüne Kopfoberseite, die der Tarnung dient. Die Tiere verfügen über kräftige Gliedmaßen mit scharfen Krallen zum Graben und Klettern sowie über einen starken Schwanz, den sie zur Verteidigung einsetzen können. Argentinische Tejus graben Wohnhöhlen und legen auf der Nahrungssuche weite Strecken zurück. Sie ernähren sich opportunistisch von kleinen Wirbeltieren, Insekten, Früchten, Eiern und Aas. Trotz äußerlicher Ähnlichkeiten mit Waranen besteht keine nähere Verwandtschaft; die Gemeinsamkeiten beruhen auf konvergenter Evolution.",
-    "ReptilienTyp": "Schlangen"
+    "ReptilienTyp": "Eidechsen (Lacertidae)"
   }
 ]
