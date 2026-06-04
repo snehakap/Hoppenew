@@ -7,7 +7,8 @@ import ProductData from "./ProductsData.json";
 export function Products() {
 
   const [searchTerm, setSearchTerm] = useState("");
-  const [selectedFilter, setSelectedFilter] = useState("");
+const [selectedFilters, setSelectedFilters] = useState<string[]>([]);
+const [isFilterOpen, setIsFilterOpen] = useState(false);
 
   // ================= FILTER OPTIONS =================
   const terrariumFilters = [
@@ -49,16 +50,14 @@ export function Products() {
 
   // ================= FILTER PRODUCTS =================
   const filteredProducts = searchedProducts.filter((product) => {
+  if (selectedFilters.length === 0) return true;
 
-    // if no dropdown selected
-    if (!selectedFilter) return true;
+  const terrariumType =
+    product?.Terrarientypen ||
+    product?.technicalDetails?.Terrarientypen;
 
-    // check Terrarientypen inside JSON
-    return (
-      product?.Terrarientypen === selectedFilter ||
-      product?.technicalDetails?.Terrarientypen === selectedFilter
-    );
-  });
+  return selectedFilters.includes(terrariumType);
+});
 
   // ================= SAFE RENDER HELPERS =================
   const renderValue = (value) => {
@@ -85,7 +84,7 @@ export function Products() {
     <div className="min-h-screen bg-white">
 
       {/* ================= HEADING ================= */}
-      <section className="pt-12 md:pt-24 pb-24 bg-white">
+      <section className="pt-12 md:pt-24 pb-48 bg-white">
 
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
 
@@ -139,38 +138,81 @@ export function Products() {
             </div>
 
             {/* FILTER DROPDOWN */}
-            <div className="relative w-full md:w-[320px]">
+<div className="relative w-full md:w-[320px]">
+  <button
+    type="button"
+    onClick={() => setIsFilterOpen(!isFilterOpen)}
+    className="w-full px-5 py-4
+    rounded-2xl border border-slate-200
+    bg-white text-slate-700
+    shadow-[0_8px_25px_rgba(0,0,0,0.05)]
+    focus:outline-none
+    focus:ring-2 focus:ring-[#00A86B]
+    focus:border-transparent
+    transition-all duration-300
+    flex items-center justify-between"
+  >
+    <span>
+      {selectedFilters.length > 0
+        ? `${selectedFilters.length} ausgewählt`
+        : "Terrarientypen"}
+    </span>
 
-              <ChevronDown
-                className="absolute right-4 top-1/2
-                -translate-y-1/2 text-slate-400 w-5 h-5 pointer-events-none"
-              />
+    <ChevronDown
+      className={`w-5 h-5 transition-transform duration-300 ${
+        isFilterOpen ? "rotate-180" : ""
+      }`}
+    />
+  </button>
 
-              <select
-                value={selectedFilter}
-                onChange={(e) => setSelectedFilter(e.target.value)}
-                className="w-full appearance-none px-5 py-4
-                rounded-2xl border border-slate-200
-                bg-white text-slate-700
-                shadow-[0_8px_25px_rgba(0,0,0,0.05)]
-                focus:outline-none
-                focus:ring-2 focus:ring-[#00A86B]
-                focus:border-transparent
-                transition-all duration-300"
-              >
-                <option value="">Terrarientypen</option>
+  {isFilterOpen && (
+    <div
+      className="absolute top-full left-0 mt-2 w-full z-50
+      rounded-2xl border border-slate-200 bg-white
+      shadow-[0_12px_40px_rgba(0,0,0,0.12)]
+      max-h-80 overflow-y-auto"
+    >
+      {terrariumFilters.map((filter) => (
+        <label
+          key={filter}
+          className="flex items-center gap-3 px-4 py-3
+          hover:bg-slate-50 cursor-pointer"
+        >
+          <input
+            type="checkbox"
+            checked={selectedFilters.includes(filter)}
+            onChange={(e) => {
+              if (e.target.checked) {
+                setSelectedFilters((prev) => [...prev, filter]);
+              } else {
+                setSelectedFilters((prev) =>
+                  prev.filter((item) => item !== filter)
+                );
+              }
+            }}
+            className="h-4 w-4 accent-[#00A86B]"
+          />
 
-                {terrariumFilters.map((filter) => (
-                  <option key={filter} value={filter}>
-                    {filter}
-                  </option>
-                ))}
+          <span className="text-sm text-slate-700">
+            {filter}
+          </span>
+        </label>
+      ))}
 
-              </select>
-
-            </div>
-
-          </div>
+      {selectedFilters.length > 0 && (
+        <button
+          type="button"
+          onClick={() => setSelectedFilters([])}
+          className="w-full border-t border-slate-100 py-3
+          text-sm font-medium text-[#00A86B]
+          hover:bg-slate-50"
+        >
+          Alle Filter entfernen
+        </button>
+      )}
+    </div>
+  )}
+</div>
 
         </div>
       </section>
