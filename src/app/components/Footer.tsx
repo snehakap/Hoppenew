@@ -27,15 +27,6 @@ export function Footer() {
           </div>
         </div>
 
-        {/* Bottom */}
-        <div className="border-t border-white/20 mt-10 pt-6 text-right text-sm text-white/80">
-          <p>
-            © {new Date().getFullYear()} Hoppe Terrarienbau. All rights
-            reserved.
-          </p>
-        </div>
-
-      </div>
     </footer>
   );
 }
