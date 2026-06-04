@@ -49,7 +49,7 @@
     "species_name_latin": "Achatina fulica",
     "umbrella_term": "Schnecke",
     "description": "Die Große Achatschnecke (Achatina fulica), auch Ostafrikanische Riesenschnecke genannt, gehört zur Familie der Afrikanischen Riesenschnecken (Achatinidae). Mit einer Gehäuselänge von bis zu 20 Zentimetern und einer Körperlänge von bis zu 30 Zentimetern zählt sie zu den größten Landschnecken der Welt. Ursprünglich stammt die Art aus Afrika, hat sich jedoch inzwischen auch in Teilen Asiens und Nordamerikas verbreitet. Das Gehäuse der Achatschnecke ist meist braun bis hornfarben und zeigt deutliche Zuwachsstreifen. Die Färbung kann jedoch stark variieren und reicht von gestreiften und gefleckten Mustern bis hin zu dunkelbraunen oder nahezu schwarzen Gehäusen. Die Gehäuseform ist konisch, rechtsgewunden und spitz zulaufend. Der Weichkörper ist hell- bis dunkelbraun gefärbt und besitzt häufig einen dunkleren Rückenstreifen. Die Große Achatschnecke ernährt sich mit ihrer Raspelzunge, der sogenannten Radula, die mit tausenden kleinen Zähnen besetzt ist. Mit ihr raspelt die Schnecke kleine Nahrungspartikel ab und zerkleinert sie. Die Art ist ein Allesfresser, ernährt sich überwiegend pflanzlich, nimmt aber auch tierische Proteine in Form von Aas auf. Besonders wichtig ist die Aufnahme von Kalk, da dieser für den Aufbau und die Stabilität des Gehäuses sowie für die Eibildung benötigt wird. Achatina fulica ist ein Hermaphrodit und besitzt sowohl männliche als auch weibliche Geschlechtsorgane. Die Tiere können sich mit jeder geschlechtsreifen Schnecke ihrer Art fortpflanzen. Nach der Paarung legt das Tier in einer selbst gegrabenen Erdhöhle zwischen 100 und 500 Eier ab. Nach etwa zwei bis vier Wochen schlüpfen die Jungschnecken, deren Gehäuse zunächst nur wenige Millimeter groß ist.",
-    "ReptilienTyp": "Schlangen"
+    "ReptilienTyp": "Schnecken"
   },
   {
     "id": "panzerschleiche",
@@ -478,7 +478,7 @@
     "species_name_latin": "Sauromalus",
     "umbrella_term": "Leguan",
     "description": "Der Chuckwalla (Sauromalus) gehört zur Familie der Leguane (Iguanidae) und ist in den trockenen Regionen der südwestlichen USA und Nordmexikos verbreitet. Die Tiere erreichen eine Gesamtlänge von etwa 32 bis 45 Zentimetern, wobei ein großer Teil auf den Schwanz entfällt. Chuckwallas leben bevorzugt in felsigen Wüstenlandschaften und halten sich häufig auf sonnengewärmten Felsen auf. Offene Sandflächen werden dagegen meist gemieden. Bei Gefahr flüchten die scheuen Tiere in Felsspalten und blähen ihren Körper stark auf, sodass sie kaum noch aus dem Versteck gezogen werden können. Chuckwallas sind überwiegend Pflanzenfresser und ernähren sich hauptsächlich von Blättern, Blüten und anderen Pflanzenteilen, gelegentlich werden auch Insekten gefressen. Während der kühleren Jahreszeit halten sie Winterruhe. Weibchen legen im Sommer mehrere Eier ab, aus denen im Herbst die Jungtiere schlüpfen.",
-    "ReptilienTyp": "Schlangen"
+    "ReptilienTyp": "Leguane (Iguanidae)"
   },
   {
     "id": "dornschwanzagame",
