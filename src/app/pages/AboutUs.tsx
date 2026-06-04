@@ -167,7 +167,6 @@ export function AboutUs() {
   </button>
 
   {isFilterOpen && (
-
     <div
       className="absolute top-full mt-2 left-0 w-full
       bg-white border border-slate-200 rounded-2xl
@@ -200,6 +199,8 @@ export function AboutUs() {
     </div>
 
   )}
+
+</div> {/* MULTISELECT FILTER */}
 
 </div> {/* SEARCH + FILTER */}
 
