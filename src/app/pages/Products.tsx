@@ -50,11 +50,19 @@ const [isFilterOpen, setIsFilterOpen] = useState(false);
 
   // ================= FILTER PRODUCTS =================
   const filteredProducts = searchedProducts.filter((product) => {
-  if (selectedFilters.length === 0) return true;
-
   const terrariumType =
-    product?.Terrarientypen ||
-    product?.technicalDetails?.Terrarientypen;
+    product?.Terrarientypen ??
+    product?.technicalDetails?.Terrarientypen ??
+    "";
+
+  console.log(
+    product.id,
+    product.title,
+    terrariumType,
+    selectedFilters
+  );
+
+  if (selectedFilters.length === 0) return true;
 
   return selectedFilters.includes(terrariumType);
 });
