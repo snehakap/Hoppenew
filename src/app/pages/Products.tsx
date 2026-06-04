@@ -213,6 +213,7 @@ const [isFilterOpen, setIsFilterOpen] = useState(false);
     </div>
   )}
 </div>
+            </div> 
 
         </div>
       </section>
