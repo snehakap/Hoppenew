@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useRef, useEffect } from "react";
 import { Link } from "react-router";
 import { Search, ChevronDown } from "lucide-react";
 import Fuse from "fuse.js";
@@ -9,6 +9,27 @@ export function Products() {
   const [searchTerm, setSearchTerm] = useState("");
 const [selectedFilters, setSelectedFilters] = useState<string[]>([]);
 const [isFilterOpen, setIsFilterOpen] = useState(false);
+  const filterRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+  const handleClickOutside = (event: MouseEvent) => {
+    if (
+      filterRef.current &&
+      !filterRef.current.contains(event.target as Node)
+    ) {
+      setIsFilterOpen(false);
+    }
+  };
+
+  document.addEventListener("mousedown", handleClickOutside);
+
+  return () => {
+    document.removeEventListener(
+      "mousedown",
+      handleClickOutside
+    );
+  };
+}, []);
 
   // ================= FILTER OPTIONS =================
   const terrariumFilters = [
@@ -92,7 +113,7 @@ const [isFilterOpen, setIsFilterOpen] = useState(false);
     <div className="min-h-screen bg-white">
 
       {/* ================= HEADING ================= */}
-      <section className="pt-12 md:pt-24 pb-48 bg-white">
+      <section className="pt-12 md:pt-24 pb-12 bg-white">
 
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
 
@@ -146,7 +167,10 @@ const [isFilterOpen, setIsFilterOpen] = useState(false);
             </div>
 
             {/* FILTER DROPDOWN */}
-<div className="relative w-full md:w-[320px]">
+<div
+  ref={filterRef}
+  className="relative w-full md:w-[320px]"
+>
   <button
     type="button"
     onClick={() => setIsFilterOpen(!isFilterOpen)}
