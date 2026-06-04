@@ -1,15 +1,28 @@
-import { useState } from "react";
+import { useState, useRef, useEffect } from "react";
 import { Link } from "react-router";
 import { Search, ChevronDown } from "lucide-react";
 import Fuse from "fuse.js";
 import ProductData from "./Reptiles.json";
 
 export function AboutUs() {
-
   const [searchTerm, setSearchTerm] = useState("");
-  const [selectedFilter, setSelectedFilter] = useState("");
+  const [selectedFilters, setSelectedFilters] = useState([]);
+  const [isFilterOpen, setIsFilterOpen] = useState(false);
 
-  // ================= FILTER OPTIONS =================
+  const filterRef = useRef(null);
+
+  useEffect(() => {
+    const handleClickOutside = (event) => {
+      if (filterRef.current && !filterRef.current.contains(event.target)) {
+        setIsFilterOpen(false);
+      }
+    };
+
+    document.addEventListener("mousedown", handleClickOutside);
+    return () =>
+      document.removeEventListener("mousedown", handleClickOutside);
+  }, []);
+
   const reptileFilters = [
     "Agamen (Agamidae)",
     "Chamäleons (Chamaeleonidae)",
@@ -33,7 +46,6 @@ export function AboutUs() {
     "Warane (Varanidae)",
   ];
 
-  // ================= FUZZY SEARCH =================
   const fuse = new Fuse(ProductData, {
     keys: [
       "title",
@@ -45,25 +57,30 @@ export function AboutUs() {
     threshold: 0.4,
   });
 
-  // ================= SEARCH RESULTS =================
   const searchedProducts =
     searchTerm.trim() === ""
       ? ProductData
       : fuse.search(searchTerm).map((result) => result.item);
 
-  // ================= FILTERED PRODUCTS =================
   const filteredProducts = searchedProducts.filter((product) => {
-
-    if (!selectedFilter) return true;
-
-    return product.ReptilienTyp === selectedFilter;
+    if (selectedFilters.length === 0) return true;
+    return selectedFilters.includes(product.ReptilienTyp);
   });
+
+  const toggleFilter = (filter) => {
+    setSelectedFilters((prev) =>
+      prev.includes(filter)
+        ? prev.filter((item) => item !== filter)
+        : [...prev, filter]
+    );
+  };
+
 
   return (
     <div className="min-h-screen bg-white">
 
       {/* ================= HEADING ================= */}
-      <section className="pt-12 md:pt-24 pb-24 bg-white">
+      <section className="pt-12 md:pt-24 pb-24 bg-white overflow-visible">
 
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
 
@@ -116,49 +133,79 @@ export function AboutUs() {
 
             </div>
 
-            {/* FILTER DROPDOWN */}
-            <div className="relative w-full md:w-[340px]">
+            {/* MULTISELECT FILTER */}
+<div
+  ref={filterRef}
+  className="relative w-full md:w-[340px] z-[999]"
+>
 
-              <ChevronDown
-                className="absolute right-4 top-1/2
-                -translate-y-1/2 text-slate-400
-                w-5 h-5 pointer-events-none"
-              />
+  <button
+    type="button"
+    onClick={() => setIsFilterOpen(!isFilterOpen)}
+    className="w-full flex items-center justify-between
+    px-5 py-4 rounded-2xl border border-slate-200
+    bg-white text-slate-700
+    shadow-[0_8px_25px_rgba(0,0,0,0.05)]
+    focus:outline-none"
+  >
+    <span className="truncate text-left">
 
-              <select
-                value={selectedFilter}
-                onChange={(e) => setSelectedFilter(e.target.value)}
-                className="w-full appearance-none px-5 py-4
-                rounded-2xl border border-slate-200
-                bg-white text-slate-700
-                shadow-[0_8px_25px_rgba(0,0,0,0.05)]
-                focus:outline-none
-                focus:ring-2 focus:ring-[#00A86B]
-                focus:border-transparent
-                transition-all duration-300"
-              >
+      {selectedFilters.length === 0
+  ? "Reptilien"
+  : selectedFilters.length <= 2
+    ? selectedFilters.join(", ")
+    : `${selectedFilters.slice(0, 2).join(", ")} +${selectedFilters.length - 2}`}
 
-                <option value="">
-                  Reptilien
-                </option>
+    </span>
 
-                {reptileFilters.map((filter) => (
-                  <option
-                    key={filter}
-                    value={filter}
-                  >
-                    {filter}
-                  </option>
-                ))}
+    <ChevronDown
+      className={`w-5 h-5 transition-transform duration-300 ${
+        isFilterOpen ? "rotate-180" : ""
+      }`}
+    />
 
-              </select>
+  </button>
 
-            </div>
+  {isFilterOpen && (
 
-          </div>
+    <div
+      className="absolute top-full mt-2 left-0 w-full
+      bg-white border border-slate-200 rounded-2xl
+      shadow-xl max-h-80 overflow-y-auto"
+    >
 
-        </div>
-      </section>
+      {reptileFilters.map((filter) => (
+
+        <label
+          key={filter}
+          className="flex items-center gap-3 px-4 py-3
+          cursor-pointer hover:bg-slate-50"
+        >
+
+          <input
+            type="checkbox"
+            checked={selectedFilters.includes(filter)}
+            onChange={() => toggleFilter(filter)}
+            className="w-4 h-4 accent-[#00A86B]"
+          />
+
+          <span className="text-sm text-slate-700">
+            {filter}
+          </span>
+
+        </label>
+
+      ))}
+
+    </div>
+
+  )}
+
+</div> {/* SEARCH + FILTER */}
+
+</div> {/* max-w-7xl */}
+
+</section>
 
       {/* ================= PRODUCTS GRID ================= */}
       <section className="pb-28">
