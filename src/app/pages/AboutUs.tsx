@@ -136,7 +136,7 @@ export function AboutUs() {
             {/* MULTISELECT FILTER */}
 <div
   ref={filterRef}
-  className="relative w-full md:w-[340px] z-[999]"
+  className="relative w-full md:w-[340px] z-20"
 >
 
   <button
@@ -168,10 +168,11 @@ export function AboutUs() {
 
   {isFilterOpen && (
     <div
-      className="absolute top-full mt-2 left-0 w-full
-      bg-white border border-slate-200 rounded-2xl
-      shadow-xl max-h-80 overflow-y-auto"
-    >
+  className="absolute top-full mt-2 left-0 w-full
+  z-20
+  bg-white border border-slate-200 rounded-2xl
+  shadow-xl max-h-80 overflow-y-auto"
+>
 
       {reptileFilters.map((filter) => (
 
