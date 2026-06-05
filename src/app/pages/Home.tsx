@@ -52,7 +52,7 @@ export function Home() {
               [font-family:'Poppins',sans-serif]"
             >
               Jedes Terrarium vereint präzise Handwerkskunst mit natürlicher
-              Schönheit und langlebiger Qualität.
+              Schönheit.
             </p>
 
           </div>
