@@ -46,11 +46,8 @@ const [isFilterOpen, setIsFilterOpen] = useState(false);
     "Mehrstöckige Terrarien",
     "Terrarien als Schrankwände",
     "Terrarien unter Schrägen",
-    "Smartline",
     "Terrarien für Zoos und öffentliche Einrichtungen",
-    "Terrarien für Landschildkröten",
-    "Landschaften für den Selbsteinbau",
-    "Landschaften für Vogelkäfige",
+    "Terrarien für Landschildkröten"
   ];
 
   // ================= FUZZY SEARCH =================
