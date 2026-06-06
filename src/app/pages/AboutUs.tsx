@@ -35,7 +35,6 @@ export function AboutUs() {
     "Nattern (Colubridae)",
     "Pythons (Pythonoidea)",
     "Riesenschlangen (Boidae)",
-    "Giftnattern (Elapidae)",
     "Grubenottern (Crotalinae)",
     "Vipern (Viperidae)",
     "Shinisauridae",
