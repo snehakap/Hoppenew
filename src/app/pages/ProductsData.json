@@ -6477,7 +6477,10 @@
   "id": 84,
   "title": "220x90x190cm großes Regenwaldterrarium für ein Panther-Chamäleon",
   "description": "Großes Regenwaldterrarium für ein Pantherchamäleon mit Granitfels-Wald-Optik, echter Bepflanzung, integrierter Klima- und Beregnungstechnik sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
-  "images": [],"technicalDetails": {
+  "images": ["/images/Totale-frontal-150x150.jpg","/images/Aquaterrarium-Totale-768x1024.jpg",
+  "/images/Aquaterrarium-Totale-768x1024.jpg","/images/Aquaterrarium-Totale-768x1024.jpg",
+    "/images/Aquaterrarium-Totale-768x1024.jpg","/images/Aquaterrarium-Totale-768x1024.jpg"
+  ],"technicalDetails": {
     "Terrarium Typ": "Regenwaldterrarium",
     "Terrarientypen": "Regenwaldterrarien",
     "ReptilienTyp": "Chamäleons (Chamaeleonidae)",
@@ -6564,7 +6567,7 @@
   "id": 85,
   "title": "Terrarium für einen Teppichpython",
   "description": "Großes Waldterrarium für einen Teppichpython mit Granitfels-Wald-Landschaft, integrierter Nachtbeheizung, Beregnungsanlage sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
-  "images": [],"technicalDetails": {
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"technicalDetails": {
     "Terrarium Typ": "Halbfeucht/Wald",
     "Terrarientypen": "Halbfeucht- / Waldterrarien für Schlangen",
     "ReptilienTyp": "Pythons (Pythonoidea)",
@@ -6650,7 +6653,7 @@
   "id": 86,
   "title": "Sehr großes Terrarium für Kragenechsen und Stachelschwanzwarane",
   "description": "Sehr großes Wüsten- und Steppenterrarium für Kragenechsen und Stachelschwanzwarane mit individueller Sonderform, Sandstein-Rustico-Landschaft, umfangreicher Klima- und Beleuchtungstechnik sowie integrierter Luftbefeuchtung.",
-  "images": [],"youtube":"https://www.youtube.com/watch?v=s1ZQrGEQP_Y",
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"youtube":"https://www.youtube.com/watch?v=s1ZQrGEQP_Y",
     "technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": "Wüsten- / Steppenterrarien",
@@ -6743,7 +6746,7 @@
   "id": 87,
   "title": "Terrarium für das Foyer im Zoo Neuwied",
   "description": "Großes Zoo-Terrarium in Trapezform für das Foyer des Zoo Neuwied mit integrierter Landschaft, kompletter Technik sowie spezieller Sonderform mit seitlichen Festglaselementen.",
-  "images": [],"technicalDetails": {
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"technicalDetails": {
     "Terrarium Typ": "Waldterrarium",
     "Terrarientypen": "Terrarien für Zoos und öffentliche Einrichtungen",
     "ReptilienTyp": [
@@ -6799,7 +6802,7 @@
   {
   "id": 88,
   "title": "Terrarium unter einer Treppe",
-  "images": [],"description": "Großes Waldterrarium für Kornnattern, speziell für die Platzierung unter einem Treppenaufgang konzipiert. Das Terrarium verfügt über eine schräge Sonderform, integrierte Rollen für Wartungszugang sowie umfangreiche Klima- und Lichttechnik.",
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"description": "Großes Waldterrarium für Kornnattern, speziell für die Platzierung unter einem Treppenaufgang konzipiert. Das Terrarium verfügt über eine schräge Sonderform, integrierte Rollen für Wartungszugang sowie umfangreiche Klima- und Lichttechnik.",
   "technicalDetails": {
     "Terrarium Typ": "Halbfeucht/Wald",
     "Terrarientypen": "Terrarien unter Schrägen",
@@ -6880,7 +6883,7 @@
   "id": 89,
   "title": "Terrarium für einen Königspython in Mayatempel-Optik",
   "description": "Individuelles Waldterrarium für einen Königspython in außergewöhnlicher Maya-Tempel-Optik mit Ruinenelementen, Drachenskulptur sowie umfangreicher Klima-, Licht- und Nachtbeheizungstechnik.",
-  "images": [],"technicalDetails": {
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"technicalDetails": {
     "Terrarium Typ": "Halbfeucht/Wald",
     "Terrarientypen": "Halbfeucht- / Waldterrarien für Schlangen",
     "ReptilienTyp": "Pythons (Pythonoidea)",
@@ -6958,7 +6961,7 @@
   "id": 90,
   "title": "Terrarium für Stachelschwanzwarane",
   "description": "Wüsten- und Steppenterrarium für Stachelschwanzwarane mit großem Stauraum-Unterschrank, strukturierter Sandsteinlandschaft sowie integrierter Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
-  "images": [],"technicalDetails": {
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": "Wüsten- / Steppenterrarien",
     "ReptilienTyp": "Warane (Varanidae)",
@@ -7023,7 +7026,7 @@
   "id": 91,
   "title": "Doppelstöckiges Terrarium für steppenbewohnende Reptilien",
   "description": "Doppelstöckige Terrarienanlage für Bartagamen und andere steppenbewohnende Reptilien mit strukturierter Sandsteinlandschaft, großzügigen Höhlenbereichen sowie integrierter Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
-  "images": [],"technicalDetails": {
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": "Mehrstöckige Terrarien",
     "ReptilienTyp": "Agamen (Agamidae)",
@@ -7083,7 +7086,7 @@
   "id": 92,
   "title": "Aquarium für Weichschildkröten, Fische und grüne Wasseragamen",
   "description": "Großes dreiseitig einsehbares Aquaterrarium für Weichschildkröten, tropische Fische und frei lebende grüne Wasseragamen mit überfluteter Mangrovenlandschaft, Felsbrücken, professioneller Filtertechnik sowie kontrollierter Klima- und Raumtechnik.",
-  "images": [],"youtube":"https://www.youtube.com/watch?v=ewR_Pj-tkrk",
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"youtube":"https://www.youtube.com/watch?v=ewR_Pj-tkrk",
     "technicalDetails": {
     "Terrarium Typ": "Aquaterrarium",
     "Terrarientypen": "Aqua-Terrarien",
@@ -7184,7 +7187,7 @@
   "id": 93,
   "title": "Regenwaldterrarium für einen grünen Baumpython",
   "description": "Regenwaldterrarium für einen grünen Baumpython mit Granitfels-Jungle-Optik, individuell abgestimmter Aststruktur, echter Bepflanzung sowie umfangreicher Klima-, Licht- und Beregnungstechnik.",
-  "images": [],"youtube":"https://www.youtube.com/watch?v=e1aT0dQUNr4",
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"youtube":"https://www.youtube.com/watch?v=e1aT0dQUNr4",
   "technicalDetails": {
     "Terrarium Typ": "Regenwaldterrarium",
     "Terrarientypen": "Halbfeucht- / Waldterrarien für Schlangen",
@@ -7351,7 +7354,7 @@
   "id": 95,
   "title": "Steppenterrarium in Deltaform für Bartagamen",
   "description": "Steppenterrarium in platzsparender Deltaform für Bartagamen mit mehrfarbiger Sandsteinlandschaft, separater Höhle sowie integrierter Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
-  "images": [],"technicalDetails": {
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": "Delta-Terrarien",
     "ReptilienTyp": "Agamen (Agamidae)",
@@ -7424,7 +7427,7 @@
   "id": 96,
   "title": "Steppen-Wüstenterrarium für Megazoo Hannover",
   "description": "Großes Showterrarium für die Terraristikabteilung von Megazoo Hannover mit heller Schichtgestein-Optik, umfangreicher Lichttechnik sowie integrierter Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
-  "images": [],"technicalDetails": {
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": "Terrarien für Zoos und öffentliche Einrichtungen",
     "ReptilienTyp": "Agamen (Agamidae)",
@@ -7492,7 +7495,7 @@
   "id": 97,
   "title": "Großes Steppen-Terrarium in einer reinen Dreiecksform",
   "description": "Großes Steppen-Terrarium in reiner Dreiecksform für Bartagamen mit strukturierter Sandsteinlandschaft, integrierter Firmenlogo-Gestaltung sowie umfangreicher Klima- und Lichttechnik.",
-  "images": [],"technicalDetails": {
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": "Delta-Terrarien",
     "ReptilienTyp": "Agamen (Agamidae)",
@@ -7552,7 +7555,7 @@
   "id": 98,
   "title": "Terrarium als Raumteiler in einem Wanddurchbruch",
   "description": "Terrarium als Raumteiler zwischen zwei Zimmern mit beidseitiger Einsicht, millimetergenauem Einbau in einen Wanddurchbruch sowie Granitfels-Jungle-Landschaft für Kornnattern.",
-  "images": [],"technicalDetails": {
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"technicalDetails": {
     "Terrarium Typ": "Halbfeucht/Wald",
     "Terrarientypen": "Raumteiler",
     "ReptilienTyp": "Nattern (Colubridae)",
@@ -7617,7 +7620,7 @@
   "id": 99,
   "title": "Doppelstöckiges Wüsten-Steppenterrarium in Panoramaform",
   "description": "Doppelstöckige Panorama-Terrarienanlage für Leopardgeckos und Zwergbartagamen mit strukturierter Wüstenlandschaft, zahlreichen Rückzugsmöglichkeiten sowie integrierter Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
-  "images": [],"technicalDetails": {
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": [
       "Mehrstöckige Terrarien",
@@ -7703,7 +7706,7 @@
   "id": 100,
   "title": "Regenwald-Terrarium für Kannenpflanzen – Nepenthes",
   "description": "Großes Regenwald-Terrarium für Lowland-Nepenthes mit Granitfels-Wald-Optik, integrierter Klima- und Beregnungstechnik sowie optimierter Luftfeuchtigkeits- und Temperatursteuerung für tropische Pflanzen.",
-  "images": [],"technicalDetails": {
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"technicalDetails": {
     "Terrarium Typ": "Regenwaldterrarium",
     "Terrarientypen": "Orchideen-Vitrine",
     "ReptilienTyp": "Lurche (Amphibia)",
