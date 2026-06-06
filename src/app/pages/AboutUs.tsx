@@ -36,7 +36,6 @@ export function AboutUs() {
     "Pythons (Pythonoidea)",
     "Riesenschlangen (Boidae)",
     "Grubenottern (Crotalinae)",
-    "Vipern (Viperidae)",
     "Shinisauridae",
     "Skinke (Scincidae)",
     "Stabschrecken (Phasmatidae)",
