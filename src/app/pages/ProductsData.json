@@ -6477,9 +6477,9 @@
   "id": 84,
   "title": "220x90x190cm großes Regenwaldterrarium für ein Panther-Chamäleon",
   "description": "Großes Regenwaldterrarium für ein Pantherchamäleon mit Granitfels-Wald-Optik, echter Bepflanzung, integrierter Klima- und Beregnungstechnik sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
-  "images": ["/images/Totale-frontal-150x150.jpg","/images/Aquaterrarium-Totale-768x1024.jpg",
-  "/images/Aquaterrarium-Totale-768x1024.jpg","/images/Aquaterrarium-Totale-768x1024.jpg",
-    "/images/Aquaterrarium-Totale-768x1024.jpg","/images/Aquaterrarium-Totale-768x1024.jpg"
+  "images": ["/images/Totale-frontal-150x150.jpg","/images/Landschaftstotale-1-1024x683.jpg",
+  "/images/Panther-Chamäleon-576x1024.jpg","/images/Bodenbepflanzung-und-Kletteräste-1024x683.jpg",
+    "/images/Chamäleon-im-Geäst-768x1024.jpg","/images/dünne-Kletteräste-1024x683.jpg","/images/Landschaft-links-683x1024.jpg"
   ],"technicalDetails": {
     "Terrarium Typ": "Regenwaldterrarium",
     "Terrarientypen": "Regenwaldterrarien",
@@ -6567,7 +6567,7 @@
   "id": 85,
   "title": "Terrarium für einen Teppichpython",
   "description": "Großes Waldterrarium für einen Teppichpython mit Granitfels-Wald-Landschaft, integrierter Nachtbeheizung, Beregnungsanlage sowie Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
-  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"technicalDetails": {
+  "images": ["/images/T07-Totale-Teppichpython-683x1024.jpg","/images/Landschaftstotale-1024x683.jpg","/images/linke-Landschaftsseite-683x1024.jpg","/images/rechte-Landschaftsseite-683x1024.jpg","/images/Wetbox-1024x683.jpg","/images/Liegeplateaus-1024x683.jpg"],"technicalDetails": {
     "Terrarium Typ": "Halbfeucht/Wald",
     "Terrarientypen": "Halbfeucht- / Waldterrarien für Schlangen",
     "ReptilienTyp": "Pythons (Pythonoidea)",
@@ -6653,7 +6653,8 @@
   "id": 86,
   "title": "Sehr großes Terrarium für Kragenechsen und Stachelschwanzwarane",
   "description": "Sehr großes Wüsten- und Steppenterrarium für Kragenechsen und Stachelschwanzwarane mit individueller Sonderform, Sandstein-Rustico-Landschaft, umfangreicher Klima- und Beleuchtungstechnik sowie integrierter Luftbefeuchtung.",
-  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"youtube":"https://www.youtube.com/watch?v=s1ZQrGEQP_Y",
+  "images": ["/images/Totale-von-rechts-1024x683.jpg","/images/linke-Seite-Totale-1024x683.jpg","/images/Rechte-Seite-Totale-1024x683.jpg","/images/beide-Echsenarten-1024x768.jpg","/images/Äste-und-Pflanzen-683x1024.jpg","/images/beide-Echsen-an-der-Felswand-1024x768.jpg",
+  "/images/beide-Tierarten-im-Geäst-1024x769.jpg","/images/Bepflanzung-1-1024x683.jpg","/images/Wetbox-2-1024x683.jpg","/images/Blick-zum-Flurfenster-683x1024.jpg","/images/Einblick-durch-das-Fenster-1024x683.jpg","/images/grosser-Bodenfelsen-683x1024.jpg","/images/Wetbox-am-Boden-1024x683.jpg","/images/Kragenechse-am-Baumstamm-768x1024.jpg","/images/Kragenechsen-am-Ast-1024x768.jpg","/images/Stachelschwanzwaran-am-Boden-1024x768.jpg","/images/Stachelschwanzwaran-und-Echse-am-Ast-1024x768.jpg","/images/Stachelschwanzwaran3--1024x768.jpg","/images/Stachelwanzwaran-auf-Felsplateau-1024x793.jpg","/images/Totale-rechte-Häfte-hf-683x1024.jpg","/images/viele-senkrechte-Äste-683x1024.jpg"],"youtube":"https://www.youtube.com/watch?v=s1ZQrGEQP_Y",
     "technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": "Wüsten- / Steppenterrarien",
@@ -6746,7 +6747,7 @@
   "id": 87,
   "title": "Terrarium für das Foyer im Zoo Neuwied",
   "description": "Großes Zoo-Terrarium in Trapezform für das Foyer des Zoo Neuwied mit integrierter Landschaft, kompletter Technik sowie spezieller Sonderform mit seitlichen Festglaselementen.",
-  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"technicalDetails": {
+  "images": ["/images/Totale-im-Raum-1024x684.jpg","/images/Totale-768x1024.jpg","/images/Totale-seitlich-684x1024.jpg","/images/grüne-Baumeidechse-2-816x1024.jpg","/images/grüne-Baumeidechse-3-1024x697.jpg","/images/Grüne-Baumeidechse-1024x768.jpg","/images/Zebraskinke-1024x768.jpg"],"technicalDetails": {
     "Terrarium Typ": "Waldterrarium",
     "Terrarientypen": "Terrarien für Zoos und öffentliche Einrichtungen",
     "ReptilienTyp": [
@@ -6802,7 +6803,7 @@
   {
   "id": 88,
   "title": "Terrarium unter einer Treppe",
-  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"description": "Großes Waldterrarium für Kornnattern, speziell für die Platzierung unter einem Treppenaufgang konzipiert. Das Terrarium verfügt über eine schräge Sonderform, integrierte Rollen für Wartungszugang sowie umfangreiche Klima- und Lichttechnik.",
+  "images": ["/images/Totale-unter-Treppe-1024x789.jpg","/images/Totale-unter-Treppe-v.r-1024x683.jpg","/images/Totale-hf-v.r-683x1024.jpg","/images/Totale-unter-Treppe-v.-l-1024x683.jpg","/images/Fensteraufteilung-1024x683.jpg","/images/Schiebescheiben-rechts-683x1024.jpg","/images/Bodenfläche-links-1024x683.jpg","/images/Landschaft-Mitte-1024x683.jpg","/images/Landschaft-rechts-683x1024.jpg"],"description": "Großes Waldterrarium für Kornnattern, speziell für die Platzierung unter einem Treppenaufgang konzipiert. Das Terrarium verfügt über eine schräge Sonderform, integrierte Rollen für Wartungszugang sowie umfangreiche Klima- und Lichttechnik.",
   "technicalDetails": {
     "Terrarium Typ": "Halbfeucht/Wald",
     "Terrarientypen": "Terrarien unter Schrägen",
@@ -6883,7 +6884,7 @@
   "id": 89,
   "title": "Terrarium für einen Königspython in Mayatempel-Optik",
   "description": "Individuelles Waldterrarium für einen Königspython in außergewöhnlicher Maya-Tempel-Optik mit Ruinenelementen, Drachenskulptur sowie umfangreicher Klima-, Licht- und Nachtbeheizungstechnik.",
-  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"technicalDetails": {
+  "images": ["/images/Totale-T07F-im-Zimmer-683x1024.jpg","/images/Landschaftstotale-1024x683 (1).jpg","/images/Landschaft-Mitte-1024x683 (1).jpg","/images/Höhle-hinter-Drachenkopf-683x1024.jpg","/images/Landschaft-rechts-683x1024 (1).jpg","/images/Drachenkopf1-683x1024.jpg","/images/Drachenkopf2-683x1024.jpg"],"technicalDetails": {
     "Terrarium Typ": "Halbfeucht/Wald",
     "Terrarientypen": "Halbfeucht- / Waldterrarien für Schlangen",
     "ReptilienTyp": "Pythons (Pythonoidea)",
@@ -6961,7 +6962,7 @@
   "id": 90,
   "title": "Terrarium für Stachelschwanzwarane",
   "description": "Wüsten- und Steppenterrarium für Stachelschwanzwarane mit großem Stauraum-Unterschrank, strukturierter Sandsteinlandschaft sowie integrierter Sonnenauf- und Untergangssteuerung mit Mondlichtfunktion.",
-  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"technicalDetails": {
+  "images": ["/images/Terrarium-Im-Zimmer-1024x461.jpg","/images/S07-Totale-von-vorne-683x1024.jpg","/images/Varanus-acanthurus-auf-Sonnenplatz-1024x461.jpg","/images/Stachelschwanzwaran-1024x461.jpg","/images/Höhle-mit-2-Einstiegsmöglichkeiten-1024x683.jpg","/images/Stachelschwanzwaran-im-Versteck-1024x461.jpg","/images/Fensterseite-mit-Landschaft-683x1024.jpg"],"technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": "Wüsten- / Steppenterrarien",
     "ReptilienTyp": "Warane (Varanidae)",
