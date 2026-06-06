@@ -37,6 +37,7 @@ const [isFilterOpen, setIsFilterOpen] = useState(false);
     "Halbfeucht- / Waldterrarien für Schlangen",
     "Felswand- / Trockenmauer-Terrarien",
     "Regenwaldterrarien",
+    "Pflanzen",
     "Paludarien",
     "Aqua-Terrarien",
     "Orchideen-Vitrine",
