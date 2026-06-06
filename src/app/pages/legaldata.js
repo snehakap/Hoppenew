@@ -57,7 +57,7 @@ Debit- oder Kreditkarte: Wir akzeptieren Zahlungen über gängige Anbieter (z. B
  
 (3) Sofern der Käufer es wünscht, werden wir die Lieferung durch eine Transportversicherung absichern. Die dabei anfallenden Kosten trägt der Käufer. 
  
-Labelmonster GmbH & Co. KG/ Drucker-Monster.de – Im Erlengrund 4 – 46149 Oberhausen 
+Labelmonster GmbH & Co. KG/ Drucker-Monster.de – Im Erlengrund 4 – 4149 Oberhausen 
  
 Telefonnummer: +49 (0) 208 - 620 59 757 /  E-Mail: info@Drucker-Monster.de 
  
@@ -219,35 +219,13 @@ Der für die Verarbeitung Verantwortliche erteilt jeder betroffenen Person jeder
 
  
 
-6. Abonnement unseres Newsletters 
-
-Auf der Internetseite der Hoppe Terrarienbau GmbH & Co. KG wird den Benutzern die Möglichkeit eingeräumt, den Newsletter unseres Unternehmens zu abonnieren. Welche personenbezogenen Daten bei der Bestellung des Newsletters an den für die Verarbeitung Verantwortlichen übermittelt werden, ergibt sich aus der hierzu verwendeten Eingabemaske. 
-
-Die Hoppe Terrarienbau GmbH & Co. KG informiert ihre Kunden und Geschäftspartner in regelmäßigen Abständen im Wege eines Newsletters über Angebote des Unternehmens. Der Newsletter unseres Unternehmens kann von der betroffenen Person grundsätzlich nur dann empfangen werden, wenn (1) die betroffene Person über eine gültige E-Mail-Adresse verfügt und (2) die betroffene Person sich für den Newsletterversand registriert. An die von einer betroffenen Person erstmalig für den Newsletterversand eingetragene E-Mail-Adresse wird aus rechtlichen Gründen eine Bestätigungsmail im Double-Opt-In-Verfahren versendet. Diese Bestätigungsmail dient der Überprüfung, ob der Inhaber der E-Mail-Adresse als betroffene Person den Empfang des Newsletters autorisiert hat. 
-
-Bei der Anmeldung zum Newsletter speichern wir ferner die vom Internet-Service-Provider (ISP) vergebene IP-Adresse des von der betroffenen Person zum Zeitpunkt der Anmeldung verwendeten Computersystems sowie das Datum und die Uhrzeit der Anmeldung. Die Erhebung dieser Daten ist erforderlich, um den(möglichen) Missbrauch der E-Mail-Adresse einer betroffenen Person zu einem späteren Zeitpunkt nachvollziehen zu können und dient deshalb der rechtlichen Absicherung des für die Verarbeitung Verantwortlichen. 
-
- 
-
-Die im Rahmen einer Anmeldung zum Newsletter erhobenen personenbezogenen Daten werden ausschließlich zum Versand unseres Newsletters verwendet. Ferner könnten Abonnenten des Newsletters per E-Mail informiert werden, sofern dies für den Betrieb des Newsletter-Dienstes oder eine diesbezügliche Registrierung erforderlich ist, wie dies im Falle von Änderungen am Newsletterangebot oder bei der Veränderung der technischen Gegebenheiten der Fall sein könnte. Es erfolgt keine Weitergabe der im Rahmen des Newsletter-Dienstes erhobenen personenbezogenen Daten an Dritte. Das Abonnement unseres Newsletters kann durch die betroffene Person jederzeit gekündigt werden. Die Einwilligung in die Speicherung personenbezogener Daten, die die betroffene Person uns für den Newsletterversand erteilt hat, kann jederzeit widerrufen werden. Zum Zwecke des Widerrufs der Einwilligung findet sich in jedem Newsletter ein entsprechender Link. Ferner besteht die Möglichkeit, sich jederzeit auch direkt auf der Internetseite des für die Verarbeitung Verantwortlichen vom Newsletterversand abzumelden oder dies dem für die Verarbeitung Verantwortlichen auf andere Weise mitzuteilen. 
-
- 
-
-7. Newsletter-Tracking 
-
-Die Newsletter der Hoppe Terrarienbau GmbH & Co. KG enthalten sogenannte Zählpixel. Ein Zählpixel ist eine Miniaturgrafik, die in solche E-Mails eingebettet wird, welche im HTML-Format versendet werden, um eine Logdatei-Aufzeichnung und eine Logdatei-Analyse zu ermöglichen. Dadurch kann eine statistische Auswertung des Erfolges oder Misserfolges von Online-Marketing-Kampagnen durchgeführt werden. Anhand des eingebetteten Zählpixels kann die Hoppe Terrarienbau GmbH & Co. KG erkennen, ob und wann eine E-Mail von einer betroffenen Person geöffnet wurde und welche in der E-Mail befindlichen Links von der betroffenen Person aufgerufen wurden. 
-
-Solche über die in den Newslettern enthaltenen Zählpixel erhobenen personenbezogenen Daten, werden von dem für die Verarbeitung Verantwortlichen gespeichert und ausgewertet, um den Newsletterversand zu optimieren und den Inhalt zukünftiger Newsletter noch besser den Interessen der betroffenen Person anzupassen. Diese personenbezogenen Daten werden nicht an Dritte weitergegeben. Betroffene Personen sind jederzeit berechtigt, die diesbezügliche gesonderte, über das Double-Opt-In-Verfahren abgegebene Einwilligungserklärung zu widerrufen. Nach einem Widerruf werden diese personenbezogenen Daten von dem für die Verarbeitung Verantwortlichen gelöscht. Eine Abmeldung vom Erhalt des Newsletters deutet die Hoppe Terrarienbau GmbH & Co. KG automatisch als Widerruf. 
-
- 
-
-8. Kontaktmöglichkeit über die Internetseite 
+6. Kontaktmöglichkeit über die Internetseite 
 
 Die Internetseite der Hoppe Terrarienbau GmbH & Co. KG enthält aufgrund von gesetzlichen Vorschriften Angaben, die eine schnelle elektronische Kontaktaufnahme zu unserem Unternehmen sowie eine unmittelbare Kommunikation mit uns ermöglichen, was ebenfalls eine allgemeine Adresse der sogenannten elektronischen Post (E-Mail-Adresse) umfasst. Sofern eine betroffene Person per E-Mail oder über ein Kontaktformular den Kontakt mit dem für die Verarbeitung Verantwortlichen aufnimmt, werden die von der betroffenen Person übermittelten personenbezogenen Daten automatisch gespeichert. Solche auf freiwilliger Basis von einer betroffenen Person an den für die Verarbeitung Verantwortlichen übermittelten personenbezogenen Daten werden für Zwecke der Bearbeitung oder der Kontaktaufnahme zur betroffenen Person gespeichert. Es erfolgt keine Weitergabe dieser personenbezogenen Daten an Dritte. 
 
  
 
-9. Routinemäßige Löschung und Sperrung von personenbezogenen Daten 
+7. Routinemäßige Löschung und Sperrung von personenbezogenen Daten 
 
 Der für die Verarbeitung Verantwortliche verarbeitet und speichert personenbezogene Daten der betroffenen Person nur für den Zeitraum, der zur Erreichung des Speicherungszwecks erforderlich ist oder sofern dies durch den Europäischen Richtlinien- und Verordnungsgeber oder einen anderen Gesetzgeber in Gesetzen oder Vorschriften, welchen der für die Verarbeitung Verantwortliche unterliegt, vorgesehen wurde. 
 
@@ -257,7 +235,7 @@ Entfällt der Speicherungszweck oder läuft eine vom Europäischen Richtlinien- 
 
  
 
-10. Rechte der betroffenen Person 
+8. Rechte der betroffenen Person 
 
 a)    Recht auf Bestätigung 
 
@@ -395,14 +373,14 @@ Möchte die betroffene Person ihr Recht auf Widerruf einer Einwilligung geltend 
 
  
 
-11. Datenschutz bei Bewerbungen und im Bewerbungsverfahren 
+9. Datenschutz bei Bewerbungen und im Bewerbungsverfahren 
 
 Der für die Verarbeitung Verantwortliche erhebt und verarbeitet die personenbezogenen Daten von Bewerbern zum Zwecke der Abwicklung des Bewerbungsverfahrens. Die Verarbeitung kann auch auf elektronischem Wege erfolgen. Dies ist insbesondere dann der Fall, wenn ein Bewerber entsprechende Bewerbungsunterlagen auf dem elektronischen Wege, beispielsweise per E-Mail oder über ein auf der Internetseite befindliches Webformular, an den für die Verarbeitung Verantwortlichen übermittelt. Schließt der für die Verarbeitung Verantwortliche einen Anstellungsvertrag mit einem Bewerber, werden die übermittelten Daten zum Zwecke der Abwicklung des Beschäftigungsverhältnisses unter Beachtung der gesetzlichen Vorschriften gespeichert. Wird von dem für die Verarbeitung Verantwortlichen kein Anstellungsvertrag mit dem Bewerber geschlossen, so werden die Bewerbungsunterlagen zwei Monate nach Bekanntgabe der Absageentscheidung automatisch gelöscht, sofern einer Löschung keine sonstigen berechtigten Interessen des für die Verarbeitung Verantwortlichen entgegenstehen. Sonstiges berechtigtes Interesse in diesem Sinne ist beispielsweise eine Beweispflicht in einem Verfahren nach dem Allgemeinen Gleichbehandlungsgesetz (AGG). 
 
  
  
 
-12. Datenschutzbestimmungen zu Einsatz und Verwendung von Matomo 
+10. Datenschutzbestimmungen zu Einsatz und Verwendung von Matomo 
 
 Der für die Verarbeitung Verantwortliche hat auf dieser Internetseite die Komponente Matomo integriert. Matomo ist ein Open-Source-Softwaretool zur Web-Analyse. Web-Analyse ist die Erhebung, Sammlung und Auswertung von Daten über das Verhalten von Besuchern von Internetseiten. Ein Web-Analyse-Tool erfasst unter anderem Daten darüber, von welcher Internetseite eine betroffene Person auf eine Internetseite gekommen ist (sogenannter Referrer), auf welche Unterseiten der Internetseite zugegriffen oder wie oft und für welche Verweildauer eine Unterseite betrachtet wurde. Eine Web-Analyse wird überwiegend zur Optimierung einer Internetseite und zur Kosten-Nutzen-Analyse von Internetwerbung eingesetzt. 
 
@@ -424,43 +402,43 @@ Weitere Informationen und die geltenden Datenschutzbestimmungen von Matomo könn
 
  
 
- 13. Rechtsgrundlage der Verarbeitung 
+ 11. Rechtsgrundlage der Verarbeitung 
 
 Art. 6 I lit. a DS-GVO dient unserem Unternehmen als Rechtsgrundlage für Verarbeitungsvorgänge, bei denen wir eine Einwilligung für einen bestimmten Verarbeitungszweck einholen. Ist die Verarbeitung personenbezogener Daten zur Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, erforderlich, wie dies beispielsweise bei Verarbeitungsvorgängen der Fall ist, die für eine Lieferung von Waren oder die Erbringung einer sonstigen Leistung oder Gegenleistung notwendig sind, so beruht die Verarbeitung auf Art. 6 I lit. b DS-GVO. Gleiches gilt für solche Verarbeitungsvorgänge die zur Durchführung vorvertraglicher Maßnahmen erforderlich sind, etwa in Fällen von Anfragen zur unseren Produkten oder Leistungen. Unterliegt unser Unternehmen einer rechtlichen Verpflichtung durch welche eine Verarbeitung von personenbezogenen Daten erforderlich wird, wie beispielsweise zur Erfüllung steuerlicher Pflichten, so basiert die Verarbeitung auf Art. 6 I lit. c DS-GVO. In seltenen Fällen könnte die Verarbeitung von personenbezogenen Daten erforderlich werden, um lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person zu schützen. Dies wäre beispielsweise der Fall, wenn ein Besucher in unserem Betrieb verletzt werden würde und daraufhin sein Name, sein Alter, seine Krankenkassendaten oder sonstige lebenswichtige Informationen an einen Arzt, ein Krankenhaus oder sonstige Dritte weitergegeben werden müssten. Dann würde die Verarbeitung auf Art. 6 I lit. d DS-GVO beruhen. Letztlich könnten Verarbeitungsvorgänge auf Art. 6 I lit. f DS-GVO beruhen. Auf dieser Rechtsgrundlage basieren Verarbeitungsvorgänge, die von keiner der vorgenannten Rechtsgrundlagen erfasst werden, wenn die Verarbeitung zur Wahrung eines berechtigten Interesses unseres Unternehmens oder eines Dritten erforderlich ist, sofern die Interessen, Grundrechte und Grundfreiheiten des Betroffenen nicht überwiegen. Solche Verarbeitungsvorgänge sind uns insbesondere deshalb gestattet, weil sie durch den Europäischen Gesetzgeber besonders erwähnt wurden. Er vertrat insoweit die Auffassung, dass ein berechtigtes Interesse anzunehmen sein könnte, wenn die betroffene Person ein Kunde des Verantwortlichen ist (Erwägungsgrund 47 Satz 2 DS-GVO). 
 
  
 
-14. Berechtigte Interessen an der Verarbeitung, die von dem Verantwortlichen oder einem Dritten verfolgt werden 
+12. Berechtigte Interessen an der Verarbeitung, die von dem Verantwortlichen oder einem Dritten verfolgt werden 
 
 Basiert die Verarbeitung personenbezogener Daten auf Artikel 6 I lit. f DS-GVO ist unser berechtigtes Interesse die Durchführung unserer Geschäftstätigkeit zugunsten des Wohlergehens all unserer Mitarbeiter und unserer Anteilseigner. 
 
  
 
-15. Dauer, für die die personenbezogenen Daten gespeichert werden 
+13. Dauer, für die die personenbezogenen Daten gespeichert werden 
 
 Das Kriterium für die Dauer der Speicherung von personenbezogenen Daten ist die jeweilige gesetzliche Aufbewahrungsfrist. Nach Ablauf der Frist werden die entsprechenden Daten routinemäßig gelöscht, sofern sie nicht mehr zur Vertragserfüllung oder Vertragsanbahnung erforderlich sind. 
 
  
 
-16. Gesetzliche oder vertragliche Vorschriften zur Bereitstellung der personenbezogenen Daten; Erforderlichkeit für den Vertragsabschluss; Verpflichtung der betroffenen Person, die personenbezogenen Daten bereitzustellen; mögliche Folgen der Nichtbereitstellung 
+14. Gesetzliche oder vertragliche Vorschriften zur Bereitstellung der personenbezogenen Daten; Erforderlichkeit für den Vertragsabschluss; Verpflichtung der betroffenen Person, die personenbezogenen Daten bereitzustellen; mögliche Folgen der Nichtbereitstellung 
 
 Wir klären Sie darüber auf, dass die Bereitstellung personenbezogener Daten zum Teil gesetzlich vorgeschrieben ist (z.B. Steuervorschriften) oder sich auch aus vertraglichen Regelungen (z.B. Angaben zum Vertragspartner) ergeben kann. Mitunter kann es zu einem Vertragsschluss erforderlich sein, dass eine betroffene Person uns personenbezogene Daten zur Verfügung stellt, die in der Folge durch uns verarbeitet werden müssen. Die betroffene Person ist beispielsweise verpflichtet uns personenbezogene Daten bereitzustellen, wenn unser Unternehmen mit ihr einen Vertrag abschließt. Eine Nichtbereitstellung der personenbezogenen Daten hätte zur Folge, dass der Vertrag mit dem Betroffenen nicht geschlossen werden könnte. Vor einer Bereitstellung personenbezogener Daten durch den Betroffenen muss sich der Betroffene an einen unserer Mitarbeiter wenden. Unser Mitarbeiter klärt den Betroffenen einzelfallbezogen darüber auf, ob die Bereitstellung der personenbezogenen Daten gesetzlich oder vertraglich vorgeschrieben oder für den Vertragsabschluss erforderlich ist, ob eine Verpflichtung besteht, die personenbezogenen Daten bereitzustellen, und welche Folgen die Nichtbereitstellung der personenbezogenen Daten hätte. 
 
  
 
-17. Bestehen einer automatisierten Entscheidungsfindung 
+15. Bestehen einer automatisierten Entscheidungsfindung 
 
 Als verantwortungsbewusstes Unternehmen verzichten wir auf eine automatische Entscheidungsfindung oder ein Profiling. 
 
  
 
-18. Webfonts von fonts.com 
+17. Webfonts von fonts.com 
 
 Diese Website nutzt zur Darstellung von Schriftarten so genannte Web Fonts, die von der Monotype GmbH (fonts.com bzw. fast.fonts.net) bereitgestellt werden. Beim Aufruf einer Seite lädt Ihr Browser die benötigten Web Fonts in ihren Browsercache, um Texte und Schriftarten korrekt anzuzeigen. Zu diesem Zweck muss der von Ihnen verwendete Browser Verbindung zu den Servern von fonts.com aufnehmen. Hierdurch erlangt fonts.com Kenntnis darüber, dass über Ihre IP-Adresse unsere Website aufgerufen wurde. Die Nutzung von Fonts.com Web Fonts erfolgt im Interesse einer einheitlichen und ansprechenden Darstellung unserer Online-Angebote. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar. Wenn Ihr Browser Web Fonts nicht unterstützt, wird eine Standardschrift von Ihrem Computer genutzt. Weitere Informationen zu diesen Web Fonts finden Sie unter https://www.fonts.com/info/legal und in der Datenschutzerklärung von Fonts.com: https://www.fonts.com/info/legal/privacy/ und in der Datenschutzerklärung von Monotype GmbH: https://www.monotype.com/legal/privacy-policy/ 
 
  
 
-19. Ihre Beschwerdemöglichkeit 
+18. Ihre Beschwerdemöglichkeit 
 
 Sind Sie der Auffassung, dass die Verarbeitung Ihrer personenbezogenen Daten durch uns rechtswidrig ist oder gegebenenfalls aus anderen Gründen gegen das Datenschutzrecht verstoßen, so können Sie sich bei der für uns zuständigen Aufsichtsbehörde beschweren: 
 
