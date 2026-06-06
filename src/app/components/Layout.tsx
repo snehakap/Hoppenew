@@ -10,7 +10,7 @@ export function Layout() {
 
   const navigation = [
     { name: "Home", href: "/" },
-    { name: "Ihr Terrarium", href: "/service" },
+    { name: "Terrarienbau", href: "/service" },
     { name: "Terrarium Kalkulator", href: "/Calculator" },
     { name: "Unsere Terrarien", href: "/products" },
     { name: "Terrarienbewohner", href: "/about" },
