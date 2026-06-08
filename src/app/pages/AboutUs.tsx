@@ -11,16 +11,15 @@ export function AboutUs() {
 
   const filterRef = useRef(null);
 
-  useEffect(() => {
-    const handleClickOutside = (event) => {
-      if (filterRef.current && !filterRef.current.contains(event.target)) {
-        setIsFilterOpen(false);
-      }
-    };
+ useEffect(() => {
+    const savedScroll = sessionStorage.getItem("aboutus-scroll");
 
-    document.addEventListener("mousedown", handleClickOutside);
-    return () =>
-      document.removeEventListener("mousedown", handleClickOutside);
+    if (savedScroll) {
+      window.scrollTo(0, Number(savedScroll));
+      sessionStorage.removeItem("aboutus-scroll");
+    } else {
+      window.scrollTo(0, 0);
+    }
   }, []);
 
   const reptileFilters = [
@@ -231,10 +230,16 @@ export function AboutUs() {
               {filteredProducts.map((product) => (
 
                 <Link
-                  key={product.id}
-                  to={`/reptiles/${product.id}`}
-                  className="group block h-full"
-                >
+  key={product.id}
+  to={`/reptiles/${product.id}`}
+  onClick={() =>
+    sessionStorage.setItem(
+      "aboutus-scroll",
+      window.scrollY.toString()
+    )
+  }
+  className="group block h-full"
+>
 
                   <div
                     className="h-full flex flex-col
