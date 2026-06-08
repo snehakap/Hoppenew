@@ -7792,7 +7792,7 @@
   "id": 101,
   "title": "Steppenterrarium für Megazoo in Hamburg",
   "description": "Showterrarium für die Terraristikabteilung von Megazoo Hamburg mit australisch inspirierter Outback-Landschaft, Felsdurchbrüchen, Felsbrücke sowie umfangreicher Klima- und Beleuchtungstechnik zur Demonstration moderner Terrarienausstattung.",
-  "images": [],
+  "images": ["/images/Terrarium-Totale-715x1024.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": "Terrarien für Zoos und öffentliche Einrichtungen",
@@ -7870,6 +7870,7 @@
   "title": "Paludarium als Raumteiler für Dendrobaten",
   "description": "Paludarium in Raumteiler-Bauweise für Pfeilgiftfrösche mit beidseitig nutzbarem Unterschrank, integriertem Wasserfall, tropischer Bepflanzung sowie umfangreicher Klima-, Beregnungs- und Belüftungstechnik.",
   "images": [],
+  "youtube":"https://www.youtube.com/watch?v=fqAl5G23a6Y",
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Terrarientypen": "Raumteiler",
@@ -7973,7 +7974,8 @@
   "id": 103,
   "title": "4 qbm großes Paludarium für Wasseragamen",
   "description": "Großes Paludarium für Grüne Wasseragamen mit integriertem Schwimmbereich, Granitfels-Jungle-Landschaft, echter Bepflanzung sowie umfangreicher Klima-, Beregnungs- und Beleuchtungstechnik.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Terrarientypen": "Paludarien",
@@ -8051,7 +8053,8 @@
   "id": 104,
   "title": "Florarium zum Einbau in eine Schrankwand",
   "description": "Offenes Florarium für Sukkulenten zum millimetergenauen Einbau in eine Schrankwand mit individuell gestalteter Sandstein- und Granitfelslandschaft sowie integrierter LED-Beleuchtung mit Sonnenauf- und Untergangssimulation.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Florarium",
     "Terrarientypen": "Orchideen-Vitrine",
@@ -8104,7 +8107,9 @@
   "id": 105,
   "title": "Aqua-Terrarium mit Abtrennung im Wasser",
   "description": "Großes Aqua-Terrarium mit getrennten Bereichen für Schmuckschildkröte und Fischbesatz. Die wasserdurchlässige Glasabtrennung schützt die Unterwasserpflanzen und ermöglicht den Fischen die Nutzung des gesamten Wasserkörpers. Die Anlage kombiniert Aquaterrarium, Wasserfall, Landbereich und professionelle Wasseraufbereitung.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
+   "youtube":"https://www.youtube.com/watch?v=ZmH_lOFAk2o",
   "technicalDetails": {
     "Terrarium Typ": "Aqua-Terrarium",
     "Terrarientypen": "Aqua-Terrarien",
@@ -8225,7 +8230,8 @@
   "id": 106,
   "title": "Bartagamen-Terrarium für Megazoo in Hannover",
   "description": "Großes Showterrarium für die Terraristikabteilung von Megazoo Hannover mit australisch inspirierter Outback-Landschaft, umfangreicher Beleuchtungs- und Klimasteuerung sowie professioneller Präsentationstechnik für Besucher.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": "Terrarien für Zoos und öffentliche Einrichtungen",
@@ -8296,7 +8302,8 @@
   "id": 107,
   "title": "Aquarium für eine Wasserschildkröte",
   "description": "Aquarium mit integriertem Landteil für Sumpf- und Wasserschildkröten, gestaltet als wohnraumtaugliches Möbelstück mit verkleideten Seiten, professioneller Filtertechnik und kombinierter UV- sowie Pflanzenbeleuchtung.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Aquarium",
     "Terrarientypen": "Aqua-Terrarien",
@@ -8351,7 +8358,9 @@
   "id": 108,
   "title": "Unterfahrbares Terrarium für einen Rollstuhlfahrer",
   "description": "Speziell für einen Rollstuhlfahrer entwickeltes Wüsten- und Steppenterrarium mit vollständig unterfahrbarer Front, verdeckter Stahlrohrkonstruktion und individueller Anpassung an die Körpermaße des Nutzers für optimale Erreichbarkeit und Bedienbarkeit.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
+  "youtube":"https://www.youtube.com/watch?v=6v4MLvAfTtE",
   "technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": "Wüsten- / Steppenterrarien",
@@ -8417,7 +8426,9 @@
   "id": 109,
   "title": "Paludarien für Dendrobaten in jeder Größe",
   "description": "Individuell gefertigte Paludarien für Pfeilgiftfrösche in beliebigen Größen, Formen und Dekoren mit tropischer Granitfels-Jungle-Landschaft, Wasserfall, Wasserkanal sowie professioneller Klima-, Beregnungs- und Belüftungstechnik.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
+  "youtube":"https://www.youtube.com/watch?v=16k8KvEzehk",
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Terrarientypen": "Paludarien",
@@ -8509,7 +8520,9 @@
   "id": 110,
   "title": "Das perfekte Terrarium für ein Panther-Chamäleon",
   "description": "Individuell konfigurierbares Regenwaldterrarium für Pantherchamäleons mit optimierter Belüftung, tropischer Granitfels-Wald-Landschaft, echter Bepflanzung sowie professioneller Licht-, Klima- und Beregnungstechnik.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
+  "youtube":"https://www.youtube.com/watch?v=YhQxHDkrBJc",
   "technicalDetails": {
     "Terrarium Typ": "Regenwaldterrarium",
     "Terrarientypen": "Regenwaldterrarien",
@@ -8610,7 +8623,9 @@
   "id": 111,
   "title": "Bartagamen-Terrarium als Raumteiler 250 cm lang",
   "description": "Großes Raumteiler-Terrarium für Bartagamen mit beidseitig einsehbarer Wüstenlandschaft, großzügigen Felsformationen, integriertem Stauraum sowie professioneller Beleuchtungs- und Steuerungstechnik.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
+  "youtube":"https://www.youtube.com/watch?v=53fa1f5tpTo",
   "technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": "Raumteiler",
@@ -8685,7 +8700,9 @@
   "id": 112,
   "title": "Schlangenterrarium im Stil einer Mayatempel-Optik",
   "description": "Individuell gestaltetes Schlangenterrarium für einen Königspython mit detailreicher Mayatempel-Optik, Wandreliefs und Drachenkopf-Dekoration. Das Terrarium wurde speziell für die Platzierung unter einem Treppenaufgang sowie zur Integration eines vorhandenen Technikkastens geplant.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
+  "youtube":"https://www.youtube.com/watch?v=nusaUuWwC3o",
   "technicalDetails": {
     "Terrarium Typ": "Halbfeucht/Wald",
     "Terrarientypen": "Terrarien unter Schrägen",
@@ -8751,7 +8768,8 @@
   "id": 113,
   "title": "Megagroßes Steppenterrarium in Deltaform für Halsbandleguane",
   "description": "Großes Delta-Terrarium für Goldkopf-Halsbandleguane mit terrassenförmig aufgebauter Steppenlandschaft, zahlreichen Höhlen, echten Wüstenpflanzen sowie professioneller Klima- und Beleuchtungstechnik.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"youtube":"https://www.youtube.com/watch?v=SzczYNtvVh0",
   "technicalDetails": {
     "Terrarium Typ": "Wüste/Steppe",
     "Terrarientypen": "Delta-Terrarien",
@@ -8822,7 +8840,8 @@
   "id": 114,
   "title": "Paludarium für madagassische Goldfrösche (Mantella aurantiaca)",
   "description": "Großes Paludarium für madagassische Goldfrösche mit naturgetreuem Nachbau ihres ursprünglichen Lebensraums auf Madagaskar. Die Anlage wurde nach Vorgaben des Mantella-Spezialisten Andreas Altenmüller gestaltet und verfügt über saisonal überflutbare Bereiche, Wasserlauf sowie professionelle Klima- und Beleuchtungstechnik.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"youtube":"https://www.youtube.com/watch?v=h-USEkauK_Q",
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Terrarientypen": "Paludarien",
@@ -8923,7 +8942,8 @@
   "id": 115,
   "title": "Terrarium für ägyptische Landschildkröten (Testudo kleinmanni) in L-Form",
   "description": "Maßgefertigtes L-förmiges Landschildkröten-Terrarium für ägyptische Landschildkröten mit großzügiger Lauffläche, integrierter Eiablagekiste, Sukkulentenbereichen sowie professioneller UV-, Klima- und Feuchtigkeitssteuerung.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"youtube":"https://www.youtube.com/watch?v=F5q4ZmiRoUQ",
   "technicalDetails": {
     "Terrarium Typ": "Landschildkröten",
     "Terrarientypen": "Terrarien für Landschildkröten",
@@ -9009,7 +9029,8 @@
   "id": 116,
   "title": "Paludarium für Rotaugen-Buschkrokodile",
   "description": "Tropisches Paludarium für Rotaugen-Buschkrokodile mit integriertem Wasserteil, Wasserfall, dichter Jungle-Landschaft und professioneller Klima-, Beregnungs- und Beleuchtungstechnik. Die Anlage bietet sowohl feuchte Rückzugsorte als auch grabbare Landbereiche für eine naturnahe Haltung.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"youtube":"https://www.youtube.com/watch?v=vdwmoQA0mAI",
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Terrarientypen": "Paludarien",
@@ -9108,7 +9129,8 @@
   "id": 117,
   "title": "Paludarium für Dendrobaten (Pfeilgiftfrösche)",
   "description": "Kompaktes tropisches Paludarium für Pfeilgiftfrösche mit integriertem Wasserlauf, dichter Jungle-Bepflanzung, Wasserfall sowie professioneller Klima-, Beregnungs- und Beleuchtungstechnik. Die Anlage wurde für einen Kunden in der Schweiz mit entsprechender Elektroausstattung gefertigt.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"youtube":"https://www.youtube.com/watch?v=fqAl5G23a6Y",
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Terrarientypen": "Paludarien",
@@ -9196,7 +9218,8 @@
   "id": 118,
   "title": "Aqua-Terrarium für verschiedene Laubfroscharten und andere Frösche",
   "description": "Großes tropisches Aqua-Terrarium für verschiedene Laubfroscharten, Pfeilgiftfrösche und weitere Amphibien mit integriertem Wasserteil, Wasserfall, dichter Jungle-Bepflanzung sowie umfangreicher Klima-, Filter- und Beleuchtungstechnik. Die Anlage wurde für einen Kunden in Stockholm gefertigt und bis in die 3. Etage transportiert.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],"youtube":"https://www.youtube.com/watch?v=9mrc1iHMffo",
   "technicalDetails": {
     "Terrarium Typ": "Aqua-Terrarium",
     "Terrarientypen": "Aqua-Terrarien",
@@ -9296,7 +9319,8 @@
   "id": 119,
   "title": "Terrarium für Königspythons",
   "description": "Großzügiges Waldterrarium für Königspythons mit naturnaher Granitfels-Landschaft, echter Bepflanzung, dekorativer Buddha-Skulptur sowie umfangreichen Ausstattungs- und Technikoptionen für Temperatur-, Feuchtigkeits- und Lichtsteuerung.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Halbfeucht/Wald",
     "Terrarientypen": "Halbfeucht- / Waldterrarien für Schlangen",
@@ -9383,7 +9407,8 @@
   "id": 120,
   "title": "3 m langes Schlangenterrarium für den Vogelpark Schotten",
   "description": "Großes Halbfeucht- und Tropenterrarium für Kornnattern, gefertigt für die Reptilienabteilung des Vogelparks Schotten. Das komplett eingerichtete Terrarium wurde betriebsbereit geliefert und bietet eine naturnahe Waldlandschaft mit umfangreicher Beleuchtungs-, Beregnungs- und Belüftungstechnik.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Halbfeucht/Tropen",
     "Terrarientypen": "Halbfeucht- / Waldterrarien für Schlangen",
@@ -9454,7 +9479,8 @@
   "id": 121,
   "title": "Wandeinbau-Terrarien für einen Wanddurchbruch",
   "description": "Zwei maßgefertigte Wandeinbau-Terrarien für ein Pantherchamäleon und eine Gartenboa. Die Terrarien wurden für einen Wanddurchbruch konzipiert, sodass die Korpusse in den dahinterliegenden Raum hineinragen und sich optisch nahtlos in den Wohnraum integrieren.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wandeinbau-Terrarien",
     "Terrarientypen": "Raumteiler",
@@ -9537,7 +9563,8 @@
   "id": 122,
   "title": "Aqua-Terrarium für Sea Life Oberhausen",
   "description": "Großes Aqua-Terrarium im Stil einer madagassischen Mangroven-Uferlandschaft, entwickelt für Sea Life Oberhausen. Die Anlage kombiniert einen großzügigen Wasserteil mit einem bepflanzten Landbereich für Fische, Garnelen und Madagaskar-Taggeckos. Nach der Installation wurde das Aquaterrarium vollständig in die Ausstellungs- und Raumgestaltung von Sea Life integriert.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Aqua-Terrarium",
     "Terrarientypen": [
@@ -9632,7 +9659,8 @@
   "id": 123,
   "title": "Paludarium für Dendrobaten und Rotkehlanolis",
   "description": "Individuell gefertigtes Paludarium für Pfeilgiftfrösche und Rotkehlanolis mit integriertem Wasserteil, Wasserfall und dichter tropischer Bepflanzung. Die Gestaltung kombiniert eine Granitfels-Jungle-Landschaft mit epiphytisch aufgebundenen Bromelien und Rankpflanzen für ein naturnahes tropisches Habitat.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Terrarientypen": [
@@ -9713,7 +9741,8 @@
   "id": 124,
   "title": "Paludarium für eine Greifschwanz-Lanzenotter",
   "description": "Tropisches Paludarium für die Greifschwanz-Lanzenotter (Bothriechis schlegelii) mit integrierter Wasserzone, Wasserfall und naturnaher Granitfels-Jungle-Landschaft. Die Gestaltung bietet erhöhte Kletterstrukturen und eine feuchtwarme Umgebung mit dichter Bepflanzung und automatisierter Klima- und Bewässerungstechnik.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Terrarientypen": [
@@ -9774,7 +9803,8 @@
   "id": 125,
   "title": "Regenwaldterrarium für ein Pantherchamäleon und Taggeckos",
   "description": "Großes Regenwaldterrarium für ein Pantherchamäleon und Phelsuma grandis (Taggeckos). Die Anlage wurde mit einer naturnahen Granitfels-Wald-Landschaft, echten Pflanzen sowie vielfältigen Kletterstrukturen ausgestattet. Die Vergesellschaftung dieser Arten richtet sich an erfahrene Halter und orientiert sich an erfolgreichen Haltungsbeispielen aus zoologischen Einrichtungen und Privathaltungen.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Regenwaldterrarium",
     "Terrarientypen": [
@@ -9857,7 +9887,8 @@
   "id": 126,
   "title": "Terrarium für Boa Constrictor",
   "description": "Großzügiges Regenwaldterrarium für eine Boa Constrictor mit naturnaher Granitfels-Wald-Landschaft, integrierten Pflanzmulden und echten Pflanzen. Die Anlage kombiniert eine hochwertige Möbelausführung mit moderner Klima- und Beleuchtungstechnik und bietet optimale Bedingungen für die Haltung großer Boas.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Regenwaldterrarium",
     "Terrarientypen": [
@@ -9934,7 +9965,8 @@
   "id": 127,
   "title": "Terrarienzimmer für indische Sternschildkröten",
   "description": "Komplett gestaltetes Terrarienzimmer für indische Sternschildkröten (Geochelone elegans). Die Wände wurden mit großflächigen, vorgefertigten Landschaftsmodulen verkleidet und bieten Pflanzmulden für echte Pflanzen. Mehrere unterschiedlich hoch angeordnete Sonnenplätze sowie eine automatische Klima- und Beregnungstechnik schaffen optimale Bedingungen für die Haltung dieser Schildkrötenart.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Terrarienzimmer",
     "Terrarientypen": [
@@ -9993,7 +10025,8 @@
   "id": 128,
   "title": "Terrarium in Deltaform für Phelsumen",
   "description": "Maßgefertigtes Delta-Terrarium für den Großen Madagaskar-Taggecko (Phelsuma grandis). Die ungleichschenkelige Deltaform ermöglicht eine platzsparende Ecklösung mit großzügiger Höhe für kletterfreudige Geckos. Die Regenwaldlandschaft wurde in Granitfels-Jungle-Optik mit echten Pflanzen gestaltet und durch moderne Klima-, Beregnungs- und Beleuchtungstechnik ergänzt.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Delta-Terrarium",
     "Terrarientypen": [
@@ -10078,7 +10111,8 @@
   "id": 129,
   "title": "Wüstenterrarium in Hochglanz Acryl",
   "description": "Elegantes Wüsten- und Steppenterrarium in Hochglanz-Acryloptik für Bartagamen, Halsbandleguane, Zwergbartagamen, Dornschwanzagamen und andere trockenheitsliebende Reptilien. Die Landschaft wurde in einer mehrfarbigen Sandsteinoptik mit Terracottastrukturen gestaltet und bietet natürliche Rückzugs- und Sonnenplätze.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüstenterrarium",
     "Terrarientypen": [
@@ -10135,7 +10169,8 @@
   "id": 130,
   "title": "Neugestaltung der Terrarienanlage des Tierheims Krefeld",
   "description": "Umfangreiche Modernisierung der Reptilienanlage des Tierheims Krefeld. Die bestehenden 14 Glas-Terrarien wurden mit neuen, funktionalen Felslandschaften ausgestattet, die den Tieren deutlich mehr Kletter-, Liege- und Sonnenflächen bieten. Zusätzlich wurden die ursprünglichen 3 mm Normalglasscheiben durch sichere 4 mm ESG-Scheiben ersetzt. Die neuen Landschaften wurden in der robusten 'Rustico'-Oberflächenoptik ausgeführt und sowohl für Schlangen als auch für kletternde Reptilien optimiert.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Terrarienanlagen-Sanierung",
     "Terrarientypen": [
@@ -10185,7 +10220,8 @@
   "id": 131,
   "title": "Regenwaldterrarium für Fidschi-Leguane",
   "description": "Großzügiges Regenwaldterrarium für Fidschi-Leguane (Brachylophus fasciatus) mit naturnaher Granitfels-Jungle-Landschaft und echten Pflanzen. Aufgrund der Größe wurde die Anlage in mehreren Modulen gefertigt und vor Ort im 1. Obergeschoss montiert. Das Terrarium kombiniert hochwertige Verarbeitung mit umfangreicher Klima-, Beleuchtungs- und Beregnungstechnik für eine artgerechte Haltung tropischer Leguane.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Regenwaldterrarium",
     "Terrarientypen": [
@@ -10273,7 +10309,8 @@
   "id": 132,
   "title": "Regenwaldterrarium für einen grünen Leguan",
   "description": "Großzügiges Regenwaldterrarium für einen Grünen Leguan (Iguana iguana) mit naturnaher Granitfels-Jungle-Landschaft und tropischer Gestaltung. Die Anlage wurde aufgrund ihrer Größe in mehreren Modulen gefertigt und vor Ort im 2. Obergeschoss montiert. Das Terrarium verfügt über umfangreiche Klima- und Beleuchtungstechnik und bietet dem Leguan ein strukturiertes Kletter- und Lebensumfeld. Für ausgewachsene Grüne Leguane empfiehlt sich bei entsprechendem Platzangebot eine noch größere Anlage.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Regenwaldterrarium",
     "Terrarientypen": [
@@ -10345,7 +10382,8 @@
   "id": 133,
   "title": "Aqua-Terrarium als Raumteiler",
   "description": "Großzügiges Aqua-Terrarium als Raumteiler mit tropischer Granitfels-Jungle-Landschaft für Rotaugenlaubfrösche, Goldstaub-Taggeckos und verschiedene Fischarten. Der Landbereich wurde als optisch schwebende Insel auf zwei großen Mangrovenwurzeln gestaltet und ist vollständig unterschwimmbar. Ein integrierter Wasserfall, üppige Bepflanzung und moderne Klima- sowie Wassertechnik schaffen ein naturnahes Habitat und einen attraktiven Blickfang von beiden Seiten.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Aqua-Terrarium",
     "Terrarientypen": [
@@ -10456,7 +10494,8 @@
   "id": 134,
   "title": "240 cm langes Terrarium mit Durchbruch in 2 Teilen",
   "description": "Großzügige Terrarienanlage für Goldkopf-Halsbandleguane und andere steppenbewohnende Reptilien. Die Anlage besteht aus zwei miteinander verbundenen Terrarien, die durch einen landschaftlich integrierten Durchbruch zu einem durchgehenden 240 cm langen Lebensraum verschmelzen. Aufgrund der baulichen Gegebenheiten wurde das Projekt modular gefertigt und vor Ort montiert. Die Wüsten- und Steppenlandschaft wurde mit natürlichen Dekorationselementen und Pflanzmulden für Sukkulenten gestaltet.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Steppenterrarium",
     "Terrarientypen": [
@@ -10537,7 +10576,8 @@
   "id": 135,
   "title": "Landschaften für Vogelkäfige und Volieren",
   "description": "Individuell gefertigte Landschaftsrückwände für Vogelkäfige und Volieren. Die Anlagen können wahlweise in natürlicher Waldoptik oder in einer kombinierten Granitfels-Wald-Optik mit integrierten Pflanzeinsätzen gestaltet werden. Die Rückwände werden exakt auf die Innenmaße der jeweiligen Anlage angepasst und können sowohl im Innen- als auch im Außenbereich eingesetzt werden. Bei größeren Volieren erfolgt die Fertigung modular aus mehreren passgenauen Segmenten.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "AnlagenTyp": "Voliere / Vogelkäfig",
     "Tierarten": [
@@ -10583,7 +10623,8 @@
   "id": 136,
   "title": "Aquaterrarium / Paludarium für Krokodilschwanzechsen",
   "description": "Naturnah gestaltetes Aquaterrarium für Krokodilschwanzechsen (Shinisaurus crocodilurus) in Sonderfarbe Terragrau. Die Anlage kombiniert einen großzügigen Wasserbereich mit einem sanft ins Wasser übergehenden Landteil und einer üppigen Regenwaldlandschaft. Integrierter Wasserfall, echte Bepflanzung sowie moderne Klima- und Wassertechnik schaffen optimale Bedingungen für diese semiaquatische Reptilienart.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Aquaterrarium",
     "Terrarientypen": [
@@ -10676,7 +10717,8 @@
   "id": 137,
   "title": "Terrarienwand mit 3 Terrarien für Zwergboas",
   "description": "Individuell gefertigte Terrarienwand mit drei naturnah gestalteten Regenwaldterrarien für verschiedene Zwergboas und eine Sunglow Boa Constrictor Imperator. Die Anlage kombiniert ein großes Einzelterrarium mit einem doppelstöckigen Terrariensystem. Alle Terrarien wurden mit Granitfels-Wald-Landschaften, echten Pflanzen, Wetboxen und umfangreicher Klima- und Beleuchtungstechnik ausgestattet. Die dunkle Thermo-Eiche-Ausführung integriert die Anlage harmonisch in den Wohnraum.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Terrarienwand",
     "Terrarientypen": [
@@ -10769,7 +10811,8 @@
   "id": 138,
   "title": "Aufzuchtanlage mit 9 Terrarien aus Forex",
   "description": "Professionelle Aufzuchtanlage mit insgesamt neun Terrarien, gefertigt aus robustem 19 mm Forex. Die Anlage besteht aus drei übereinander angeordneten Ebenen mit jeweils drei separaten Terrarien und eignet sich ideal für die Aufzucht und Haltung von Jungtieren. Durch die großzügigen Sichtblenden aus Glas lassen sich die Tiere besonders gut beobachten. Der passende Unterschrank bietet zusätzlichen Stauraum und fügt sich mit seiner weißen Perloberfläche harmonisch in die Gesamtanlage ein.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Aufzuchtanlage",
     "Terrarientypen": [
@@ -10830,7 +10873,8 @@
   "id": 139,
   "title": "Terrarium in Panoramaform für Kragenechsen",
   "description": "Großzügiges Panorama-Terrarium für Kragenechsen (Chlamydosaurus kingii) mit naturnaher Rustico-Felslandschaft und umfangreicher technischer Ausstattung. Die Anlage bietet viel Kletterraum, optimale Belüftung und zahlreiche Sonnenplätze. Durch die offene Bauweise ohne sichtbaren Deckel wird eine hervorragende Luftzirkulation erreicht, während echte Pflanzen und zahlreiche Kletteräste eine strukturreiche Umgebung schaffen.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Steppen- und Savannenterrarium",
     "Terrarientypen": [
@@ -10920,7 +10964,8 @@
   "id": 140,
   "title": "Terrarium für Insekten – Insektarium",
   "description": "Spezialgefertigtes Insektarium für das Haus Natur und Umwelt in Berlin. Das Terrarium wurde als Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Einzelterrarien realisiert. Die naturnahe Waldrandgestaltung mit Felsen, Wurzeln und Korkelementen bietet optimale Lebensbedingungen für verschiedene Wirbellose wie Vogelspinnen, Achatschnecken und Käfer. Die robuste Bauweise, sichere Verglasung und durchdachte Belüftung machen das Terrarium ideal für zoologische Einrichtungen, Ausstellungen und die professionelle Haltung von Wirbellosen.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Insektarium",
     "Terrarientypen": [
@@ -10989,7 +11034,8 @@
   "id": 141,
   "title": "Großes Terrarium in Deltaform für Kornnattern",
   "description": "Außergewöhnliches Delta-Terrarium für Kornnattern, gefertigt für das Haus Natur und Umwelt in Berlin. Die markante Grundrissform nutzt den vorhandenen Raum optimal aus und schafft gleichzeitig eine großzügige, strukturreiche Lebensumgebung. Die naturnahe Granitfels-Wald-Landschaft mit echten Pflanzen, Wurzeln und Korkelementen bietet zahlreiche Kletter- und Versteckmöglichkeiten. Das Terrarium wurde speziell an die baulichen Gegebenheiten angepasst und ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Ausstellungsterrarien.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Delta-Terrarium",
     "Terrarientypen": [
@@ -11061,7 +11107,8 @@
   "id": 142,
   "title": "Terrarium für Leopardgeckos",
   "description": "Naturnah gestaltetes Wüsten- und Steppenterrarium für Leopardgeckos, realisiert für das Haus Natur und Umwelt in Berlin. Als oberes Terrarium eines doppelstöckigen Systems bietet die Anlage zahlreiche Versteckmöglichkeiten in Form von engen Felsspalten und Höhlen. Die mehrfarbig besandete Felslandschaft in Sandsteinoptik mit Terracotta-Strukturen schafft eine authentische Umgebung für dämmerungsaktive Leopardgeckos. Das Terrarium ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Ausstellungsterrarien.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
     "Terrarientypen": [
@@ -11122,7 +11169,8 @@
   "id": 143,
   "title": "Terrarium für eine Panzerschleiche (Scheltopusik)",
   "description": "Naturnah gestaltetes Waldterrarium für eine Panzerschleiche (Scheltopusik), gefertigt für das Haus Natur und Umwelt in Berlin. Das Terrarium wurde als oberes Becken über einem Paludarium für Feuersalamander integriert und ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Terrarien. Die detailreiche Sandstein-Wald-Landschaft mit Felsen, Wurzeln, Geröll und Laub schafft eine strukturreiche Umgebung mit zahlreichen Rückzugs- und Erkundungsmöglichkeiten für die Tiere.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Waldterrarium",
     "Terrarientypen": [
@@ -11189,7 +11237,8 @@
   "id": 144,
   "title": "Paludarium für Wechselkröten",
   "description": "Speziell für Wechselkröten gestaltetes Paludarium, gefertigt für das Haus Natur und Umwelt in Berlin. Die Anlage kombiniert einen flachen Wasserbereich mit naturnahen Landzonen und einer detailreichen Granitfels-Jungle-Landschaft. Felsen, Wurzeln, Korkelemente und bepflanzbare Bereiche schaffen vielfältige Strukturen für Rückzug, Nahrungssuche und natürliche Verhaltensweisen. Das Paludarium ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Ausstellungsanlagen.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Terrarientypen": [
@@ -11261,7 +11310,8 @@
   "id": 145,
   "title": "Paludarium für Feuersalamander",
   "description": "Naturnah gestaltetes Paludarium für Feuersalamander, gefertigt für das Haus Natur und Umwelt in Berlin. Die Anlage kombiniert einen flachen Wasserbereich mit strukturreichen Landzonen und einer detailreichen Granitfels-Jungle-Landschaft. Felsen, Wurzeln, Korkelemente und bepflanzbare Bereiche schaffen ideale Bedingungen für die Haltung dieser feuchtigkeitsliebenden Amphibien. Das Paludarium bildet die untere Ebene eines doppelstöckigen Terrariensystems, über dem ein Terrarium für eine Panzerschleiche installiert wurde. Die Anlage ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Ausstellungsterrarien.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Terrarientypen": [
@@ -11337,7 +11387,8 @@
   "id": 146,
   "title": "Aquaterrarium für Unken, Laubfrösche und Rotkehlanolis",
   "description": "Großzügiges Aquaterrarium für verschiedene Amphibien- und Reptilienarten, gefertigt für das Haus Natur und Umwelt in Berlin. Die Anlage vereint einen großzügigen Wasserbereich mit einer naturnahen Granitfels-Jungle-Landschaft und bepflanzten Landzonen. Durch sanft ansteigende Uferbereiche, teilweise unterschwimmbare Landflächen sowie zahlreiche Kletter- und Versteckmöglichkeiten bietet das Habitat optimale Bedingungen für Laubfrösche, Rotbauchunken, Rotkehlanolis und begleitende Fischarten. Das Aquaterrarium ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Ausstellungsterrarien.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Aquaterrarium",
     "Terrarientypen": [
@@ -11425,7 +11476,8 @@
   "id": 147,
   "title": "Wüstenterrarium für Stachelleguane",
   "description": "Großzügiges Wüsten- und Steppenterrarium für Blaue Stachelleguane (Sceloporus cyanogenys), gefertigt für das Haus Natur und Umwelt in Berlin. Die naturnahe Landschaftsgestaltung mit sandsteinfarbenen Felsformationen, Terracotta-Strukturen, Geröllfeldern und Höhlen orientiert sich an trockenen Lebensräumen Nordamerikas. Die Anlage bietet zahlreiche Sonnenplätze, Verstecke und erhöhte Aussichtspunkte. Das Terrarium ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Ausstellungsterrarien.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
     "Terrarientypen": [
@@ -11485,7 +11537,8 @@
   "id": 148,
   "title": "Steppen-Deltaterrarium für Perleidechsen",
   "description": "Außergewöhnliches Steppen-Deltaterrarium für Perleidechsen, gefertigt für das Haus Natur und Umwelt in Berlin. Die markante Deltaform schafft eine großzügige und zugleich platzsparende Anlage mit terrassenförmig aufgebauter Felslandschaft. Die mehrfarbige Besandung in Sandstein- und Terracottaoptik sowie integrierte Pflanzbereiche für echte Sukkulenten erzeugen ein naturnahes Habitat mit zahlreichen Sonnen-, Kletter- und Rückzugsmöglichkeiten. Das Terrarium ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Ausstellungsterrarien.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Steppen-Deltaterrarium",
     "Terrarientypen": [
@@ -11545,7 +11598,8 @@
   "id": 149,
   "title": "10 m lange Terrarienwand mit 11 Terrarien für das Haus Natur und Umwelt",
   "description": "Umfangreiche Sonderanfertigung einer rund 10 Meter langen Terrarienwand für das Haus Natur und Umwelt in Berlin. Die Anlage umfasst elf individuell geplante Terrarien und Paludarien für unterschiedlichste Reptilien, Amphibien und Wirbellose. Ziel des Projekts war die komplette Neugestaltung der Reptilienabteilung des kleinen Zoos. Jede Anlage wurde exakt auf die Bedürfnisse der jeweiligen Tierarten abgestimmt und mit passenden Klimazonen, Landschaftsstrukturen, Beleuchtungs- und Belüftungssystemen ausgestattet. Die gesamte Terrarienwand wurde in der Werkstatt vorgefertigt, nach Berlin transportiert und vor Ort innerhalb von zwei Tagen montiert und in Betrieb genommen.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Projekt Typ": "Terrarienwand",
     "Anlagentyp": [
@@ -11642,7 +11696,8 @@
   "id": 150,
   "title": "Schlangenterrarium für den Vogelpark Schotten",
   "description": "Individuell gefertigtes Halbfeucht- und Tropenterrarium für eine Boa, realisiert für die Reptilienabteilung des Vogelparks Schotten. Das Terrarium wurde für den Einbau in ein kundenseitig gestaltetes Terrarienhaus konzipiert und fügt sich optisch in die vorhandene Architektur ein. Die naturnahe Granitfels-Wald-Landschaft mit Felsen, Wurzeln, Korkelementen und Pflanztrögen bietet zahlreiche Versteck- und Klettermöglichkeiten. Umfangreiche Klima-, Beleuchtungs- und Beregnungstechnik sorgt für optimale Haltungsbedingungen und eine zuverlässige Steuerung von Temperatur und Luftfeuchtigkeit.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Halbfeucht- und Tropenterrarium",
     "Terrarientypen": [
@@ -11717,7 +11772,8 @@
   "id": 151,
   "title": "Landschaftseinbau für Wickelschwanzskinke",
   "description": "Individueller Landschaftseinbau in ein bereits seit rund 20 Jahren bestehendes Kundenterrarium für Wickelschwanzskinke. Anstatt eines kompletten Neubaus wurde die vorhandene Anlage durch eine vollständig neue Innenraumgestaltung modernisiert. Die Gestaltung erfolgte nach Kundenwunsch mit großflächigen Echt-Korkplatten, künstlicher Bepflanzung sowie einer halbierten Korkröhre als erhöhtem Sitz- und Ruheplatz. Zusätzlich wurden neue ESG-Glasschiebetüren im rollengelagerten Laufschuhsystem angefertigt und eingebaut. Das Projekt zeigt, dass individuelle Landschaftseinbauten unabhängig von Terrarienform, Größe oder Hersteller realisierbar sind und exakt auf die Bedürfnisse der jeweiligen Tierart abgestimmt werden können.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Projekt Typ": "Landschaftseinbau",
     "Terrarientypen": [
@@ -11772,7 +11828,8 @@
   "id": 152,
   "title": "Wüstenterrarium mit natürlichen Trockenpflanzen und seitlichen Sichtfenstern",
   "description": "Großzügiges Wüsten- und Steppenterrarium mit besonders naturnaher Gestaltung ausschließlich aus echten verdorrten Pflanzen, Wüstenbüschen, Gräsern, Wurzelteilen und Kletterästen. Die Anlage wurde für Bartagamen und andere steppenbewohnende Reptilien konzipiert. Ein markanter Felsen mit rückseitigem Durchgang bildet das Zentrum der Landschaft und schafft zusätzliche Versteck- und Klettermöglichkeiten. Zwei seitliche Festglaselemente ermöglichen zusätzliche Einblicke in die Anlage. Aufgrund der Größe wurde das Terrarium mehrteilig gefertigt und vor Ort montiert.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
     "Terrarientypen": [
@@ -11858,7 +11915,8 @@
   "id": 153,
   "title": "Wasserschildkröten Aqua-Terrarium",
   "description": "Großzügiges Aqua-Terrarium für Sumpf- und Wasserschildkröten mit kombiniertem Wasser- und Landbereich. Die Anlage verbindet ein großes Aquarium mit einer naturnah gestalteten Sonnen- und Ruhezone. Schieferplatten ermöglichen einen einfachen Aufstieg auf den Landteil und die Sonneninsel, während große Korkrindenplatten zusätzliche Struktur und Versteckmöglichkeiten bieten. Die Rückwände wurden mit Natursteinriemchen verkleidet und schaffen gemeinsam mit Sand-, Humus- und Quarzsandbereichen eine natürliche Uferlandschaft. Die Unterkonstruktion sowie der Lichtkasten wurden in einer hochwertigen weißen Kassettenoptik ausgeführt und fügen sich harmonisch in den Wohnraum ein.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Aqua-Terrarium",
     "Terrarientypen": [
@@ -11926,7 +11984,8 @@
   "id": 154,
   "title": "Regenwaldterrarium für Orchideenmantis",
   "description": "Kompaktes Regenwaldterrarium für Orchideenmantiden (Blütenmantis), ausgeführt als Glasterrarium für den passgenauen Einbau in einen bestehenden Wohnzimmerschrank. Die naturnahe Granitfels-Jungle-Landschaft mit Felsen, Wurzeln, Korkelementen und echten Pflanzen schafft ideale Bedingungen für die Haltung tropischer Fangschrecken. Bromelien, Farne, Rankpflanzen sowie feine Kletteräste sorgen für eine strukturreiche Umgebung mit zahlreichen Sitz- und Häutungsplätzen. Das Konzept kann sowohl als reiner Glaseinsatz als auch als vollständiges Terrarium mit Lichtkasten und Holzumbau realisiert werden.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Regenwaldterrarium",
     "Terrarientypen": [
@@ -11987,7 +12046,8 @@
   "id": 155,
   "title": "Terrarium für einen Königspython mit Urwaldgott-Skulptur",
   "description": "Individuell gestaltetes Waldterrarium für einen Königspython mit integrierter Urwaldgott-Skulptur „Haceki“. Die außergewöhnliche Landschaft kombiniert naturnahe Fels- und Waldelemente mit einer kunstvoll gestalteten Skulptur als zentrales Gestaltungselement. Sämtliche Liege- und Kletterflächen wurden mit Naturgranulaten beschichtet, um die Schuppen des Königspythons zu schonen und gleichzeitig eine natürliche Optik zu schaffen. Das Terrarium verfügt über moderne Klima-, Beleuchtungs- und Beregnungstechnik sowie eine separate Wetbox in Felsoptik als geschützten Rückzugsort.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Waldterrarium",
     "Terrarientypen": [
@@ -12064,7 +12124,8 @@
   "id": 156,
   "title": "Wüstenterrarium für einen Schrankwandeinbau",
   "description": "Maßgefertigtes Wüsten- und Steppenterrarium als reines Glasterrarium für den passgenauen Einbau in eine vorhandene Schrankwand. Die Anlage wurde speziell für Zwergbartagamen und andere steppenbewohnende Reptilien konzipiert und verbindet eine naturnahe Wüstenlandschaft mit moderner Beleuchtungs- und Klimatechnik. Die mehrfarbig besandete Landschaft mit Sandstein- und Terracottaoptik wird durch echte Wüstenbüsche, Wurzelteile, Kletteräste, getrocknete Gräser und hochwertige künstliche Pflanzen ergänzt. Durch die Integration in die vorhandene Möbelanlage entsteht eine harmonische Verbindung von Wohnraum und Terraristik.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
     "Terrarientypen": [
@@ -12134,7 +12195,8 @@
   "id": 157,
   "title": "Terrarium für Pfeilgiftfrösche Typ P03 mit Panoramaecke",
   "description": "Hochwertiges Paludarium des Typs P03 mit Panoramaecke für Pfeilgiftfrösche. Die naturnahe Regenwaldlandschaft kombiniert einen großzügigen Landbereich mit dicht bepflanzten Zonen aus Farnen, Moosen, Rankpflanzen und Wurzeln. Ein integrierter Bachlauf mit Wasserfall, kleinen Tümpeln und einem vorderen Wasserkanal sorgt für eine authentische tropische Atmosphäre. Durch die Panoramaecke entstehen zusätzliche Sichtachsen auf die detailreiche Landschaft. Umfangreiche Klima-, Beregnungs- und Beleuchtungstechnik gewährleistet optimale Bedingungen für die Haltung feuchtigkeitsliebender Pfeilgiftfrösche.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Terrarientypen": [
@@ -12227,7 +12289,8 @@
   "id": 158,
   "title": "Terrarienwand für den Tierpark Recklinghausen",
   "description": "Individuell gefertigte Terrarienwand für den Tierpark Recklinghausen mit insgesamt sechs artgerecht gestalteten Terrarien für verschiedene Wirbellose. Die Anlage wurde für die Vogel-Freiflughalle konzipiert und ist für Besucher frei zugänglich. Besonderes Merkmal ist die durchgängige Gestaltung der Außenverkleidung in derselben Granitfels-Jungle-Optik wie die Innenlandschaften, wodurch die gesamte Terrarienwand als harmonische Ausstellungseinheit wirkt. Die naturnahen Lebensräume mit Felsen, Wurzeln, Korkelementen und echten Pflanzen bieten optimale Bedingungen für Vogelspinnen, Rosenkäfer, Riesenhundertfüßer, Achatschnecken, Blütenmantiden sowie Gespenster- und Stabschrecken.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Projekt Typ": "Terrarienwand",
     "Terrarientypen": [
@@ -12299,7 +12362,8 @@
   "id": 159,
   "title": "5 qm großes Aqua-Terrarium mit Regenwaldlandschaft",
   "description": "Außergewöhnliches Aqua-Terrarium in L-Form mit einer Gesamtgrundfläche von rund 5 Quadratmetern. Die Anlage kombiniert einen großflächigen Aquarienbereich mit einer beeindruckenden tropischen Regenwaldlandschaft und einem mehrstufigen Wasserfall. Der überwiegende Teil der Grundfläche dient als Schwimmbereich für verschiedene Fischarten, während ein kleiner, teilweise unterschwimmbarer Landbereich mit Farnen, Moosen, Bromelien, Tillandsien und Orchideen gestaltet wurde. Durch die offene Bauweise des Paludariumaufsatzes und die umfangreiche Licht-, Klima- und Wassertechnik entsteht ein eindrucksvolles tropisches Ökosystem, das sich nach etwa einem Jahr zu einer üppig bewachsenen Regenwaldlandschaft entwickelt hat.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Aqua-Terrarium",
     "Terrarientypen": [
@@ -12398,7 +12462,8 @@
   "id": 160,
   "title": "Doppelstöckiges Terrarium in Deltaform für Schlangen",
   "description": "Außergewöhnliches doppelstöckiges Deltaterrarium für Königsnattern und Kornnattern in hochwertiger Echtholzfurnier-Ausführung aus Kernbuche. Die markante Deltaform nutzt Raumecken optimal aus und schafft gleichzeitig großzügige Lebensräume. Die obere Ebene ist zusätzlich mittig unterteilt, wodurch insgesamt drei separat nutzbare Terrarienbereiche entstehen. Die naturnahe Granitfels-Jungle-Landschaft mit Felsen, Wurzeln, Korkelementen, künstlichen Pflanzen und Kletterästen bietet zahlreiche Rückzugs-, Kletter- und Ruheplätze. Jedes Terrarium verfügt über eine eigene Beleuchtung und Sonnenauf- sowie Sonnenuntergangssimulation mit Mondlicht.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Doppelstöckiges Deltaterrarium",
     "Terrarientypen": [
@@ -12473,7 +12538,8 @@
   "id": 161,
   "title": "In eine Schrankwand integriertes Wüstenterrarium für Stachelschwanzwarane",
   "description": "Großzügiges Wüstenterrarium für Stachelschwanzwarane, vollständig in eine maßgefertigte Wohnzimmerschrankwand integriert. Die Anlage kombiniert funktionalen Möbelbau mit artgerechter Terraristik und bildet eine harmonische Wohnraumeinrichtung. Das 250 cm lange Terrarium ruht auf zwei seitlichen Highboards und wird durch einen mittig angeordneten Technik- und Medienbereich ergänzt. Die naturnahe Wüstenlandschaft mit mehrfarbiger Sandstein- und Terracottaoptik bietet den Waranen strukturierte Sonnenplätze und Rückzugsmöglichkeiten. Aufgrund der außergewöhnlichen Größe musste die Anlage über ein Fenster in das Obergeschoss eingebracht werden.",
-  "images": [],
+  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
+  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüstenterrarium",
     "Terrarientypen": [
