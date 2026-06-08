@@ -76,7 +76,7 @@ export function Home() {
               {
                 title: "Lieferung und Montage",
                 description:
-                  "Wir Liefern ihr Terrarium zu Ihnen und leisten die Endmontage Vorort.",
+                  "Wir liefern ihr Terrarium zu Ihnen und leisten die Endmontage Vorort.",
                 
               },
             ].map((feature, index) => (
