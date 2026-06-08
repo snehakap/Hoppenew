@@ -11,7 +11,19 @@ const [selectedFilters, setSelectedFilters] = useState<string[]>([]);
 const [isFilterOpen, setIsFilterOpen] = useState(false);
   const filterRef = useRef<HTMLDivElement>(null);
 
-  useEffect(() => {
+// Restore scroll position
+useEffect(() => {
+  const savedScroll = sessionStorage.getItem("products-scroll");
+
+  if (savedScroll) {
+    window.scrollTo(0, Number(savedScroll));
+    sessionStorage.removeItem("products-scroll");
+  } else {
+    window.scrollTo(0, 0);
+  }
+}, []);
+
+useEffect(() => {
   const handleClickOutside = (event: MouseEvent) => {
     if (
       filterRef.current &&
@@ -20,6 +32,7 @@ const [isFilterOpen, setIsFilterOpen] = useState(false);
       setIsFilterOpen(false);
     }
   };
+
 
   document.addEventListener("mousedown", handleClickOutside);
 
@@ -273,11 +286,17 @@ const [isFilterOpen, setIsFilterOpen] = useState(false);
 
               {filteredProducts.map((product) => (
 
-                <Link
-                  key={product.id}
-                  to={`/products/${product.id}`}
-                  className="group block"
-                >
+               <Link
+  key={product.id}
+  to={`/products/${product.id}`}
+  onClick={() =>
+    sessionStorage.setItem(
+      "products-scroll",
+      window.scrollY.toString()
+    )
+  }
+  className="group block"
+>
 
                   <div
                     className="overflow-hidden rounded-[30px]
