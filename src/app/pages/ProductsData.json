@@ -7857,7 +7857,7 @@
   "description": "Großes Regenwald-Terrarium für Lowland-Nepenthes mit Granitfels-Wald-Optik, integrierter Klima- und Beregnungstechnik sowie optimierter Luftfeuchtigkeits- und Temperatursteuerung für tropische Pflanzen.",
   "images": ["/images/Totale-im-Raum-2-1024x768.jpg","/images/Landschaftstotale-1-1024x768.jpg","/images/Totale-im-Raum-1-1024x768.jpg","/images/Landschaft-linke-Hälfte-1024x768 (1).jpg","/images/Rückwand-rechts-Bodenfläche-1024x768.jpg","/images/Boden-und-linke-Seite-1024x768.jpg","/images/Totale-von-rechts-1024x768.jpg","/images/Kannenpflanzen-Nepenthes-1024x768.jpg","/images/Kannenpflanzen-1024x768.jpg","/images/Landschaft-rechte-Hälfte-1024x768.jpg","/images/Lowland-Nepenthes-1024x768.jpg"],"technicalDetails": {
     "Terrarium Typ": "Pflanzen",
-    "Terrarientypen": "Orchideen-Vitrine",
+    "Terrarientypen": "Pflanzen",
     "ReptilienTyp": "Lurche (Amphibia)",
     "pflanzen": [
       "Lowland Nepenthes"
@@ -8203,7 +8203,7 @@
   "/images/Landschaftstotale-v.r.-683x1024.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Pflanzen",
-    "Terrarientypen": "Orchideen-Vitrine",
+    "Terrarientypen": "Pflanzen",
     "ReptilienTyp": null,
     "pflanzen": [
       "verschiedene Sukkulenten"
