@@ -9479,10 +9479,10 @@
 },
   {
   "id": 121,
-  "title": "Wandeinbau-Terrarien für einen Wanddurchbruch",
+  "title": "Wandeinbau-Terrarien",
   "description": "Zwei maßgefertigte Wandeinbau-Terrarien für ein Pantherchamäleon und eine Gartenboa. Die Terrarien wurden für einen Wanddurchbruch konzipiert, sodass die Korpusse in den dahinterliegenden Raum hineinragen und sich optisch nahtlos in den Wohnraum integrieren.",
-  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
-  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
+  "images": ["/images/Doppelterra-im-Raum-1024x980.jpg","/images/Doppelterra-1024x683.jpg","/images/Landschaftstotale-hf-683x1024.jpg","/images/Chamäleon-Porträt-2-1024x683.jpg","/images/Landschaftstotale-mit-Chamäleon-1024x683.jpg","/images/Baumstamm-an-Rückwand-683x1024.jpg",
+  "/images/Landschaftstotale-1024x683 (3).jpg","/images/Landschaftstotale-2-683x1024.jpg","/images/Gartenboa-fressend-2-1024x683.jpg","/images/Äste-und-Pflanzen-1024x683.jpg","/images/Hundskopfboa-1024x683.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wandeinbau-Terrarien",
     "Terrarientypen": "Raumteiler",
@@ -9563,10 +9563,10 @@
 },
  {
   "id": 122,
-  "title": "Aqua-Terrarium für Sea Life Oberhausen",
+  "title": "Aqua-Terrarium für Sea Life in Oberhausen",
   "description": "Großes Aqua-Terrarium im Stil einer madagassischen Mangroven-Uferlandschaft, entwickelt für Sea Life Oberhausen. Die Anlage kombiniert einen großzügigen Wasserteil mit einem bepflanzten Landbereich für Fische, Garnelen und Madagaskar-Taggeckos. Nach der Installation wurde das Aquaterrarium vollständig in die Ausstellungs- und Raumgestaltung von Sea Life integriert.",
-  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
-  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
+  "images": ["/images/Totale-im-Raum-1-1024x683.jpg","/images/Totale-von-links-1024x683 (1).jpg","/images/linke-Häfte-total-683x1024.jpg","/images/landschaft-linker-Teil-1024x683.jpg","/images/Landschaft-links-1024x683 (3).jpg","/images/Landschaftstotale-von-links-1024x683.jpg",
+  "/images/Madagaskar-grandis-1024x683.jpg","/images/rechte-Hälfte-total-683x1024.jpg","/images/Sonnenplateau-1024x683.jpg","/images/Wasserpflanzen-und-Salmler-1024x683.jpg","/images/Bedotia-geayi-Rotschwanz-Ährenfisch-1024x683.jpg","/images/Wasserfall-1024x683.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Aqua-Terrarium",
     "Terrarientypen": [
@@ -9661,8 +9661,9 @@
   "id": 123,
   "title": "Paludarium für Dendrobaten und Rotkehlanolis",
   "description": "Individuell gefertigtes Paludarium für Pfeilgiftfrösche und Rotkehlanolis mit integriertem Wasserteil, Wasserfall und dichter tropischer Bepflanzung. Die Gestaltung kombiniert eine Granitfels-Jungle-Landschaft mit epiphytisch aufgebundenen Bromelien und Rankpflanzen für ein naturnahes tropisches Habitat.",
-  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
-  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
+  "images": ["/images/Totale-741x1024.jpg","/images/rechte-Seite-Totale-683x1024.jpg","/images/Rotkehlanolis-2-1024x683.jpg","/images/Dendrobates-tinctorius-Brasilianer-1024x683.jpg","/images/rechte-obere-Ecke-1024x683.jpg","/images/Bodenfläche-1024x683 (2).jpg",
+  "/images/Bach-mit-Moosen-1024x683.jpg","/images/epiphytische-Bromelien2-1024x683.jpg","/images/Bepflanzung-links-oben-1024x683.jpg","/images/Bepflanzung-1024x683 (1).jpg","/images/Boden-mit-Bachlauf-1024x683.jpg","/images/epiphytische-Bromelien-683x1024 (1).jpg","/images/Bodenbereich-mit-Wurzeln-1024x683.jpg","/images/Bromelien-an-Ästen-1024x683.jpg","/images/Dendrobates-tinctorius-Brasilien2-1024x682.jpg","/images/Bromelien-und-Tillandsien-1024x683.jpg","/images/Dendrobates-tinctorius-Brasilien-1024x683.jpg","/images/Rückwand-1024x683.jpg",
+  "/images/Fogger-1024x683.jpg","/images/linke-Seite-Totale-683x1024.jpg","/images/Moose-und-Farne-in-der-Wand-1024x683.jpg","/images/Pileas-1024x683.jpg","/images/Rotkehlanolis-in-der-Landschaft-1024x683.jpg","/images/Rotkehlanolis-1024x735.jpg","/images/Bromelien-und-Rankpflanzen-1024x683.jpg","/images/Landschaft2-1024x683.jpg","/images/Landschaft3-683x1024.jpg","/images/Rankpflanzen2-1024x683.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Terrarientypen": [
@@ -9743,8 +9744,7 @@
   "id": 124,
   "title": "Paludarium für eine Greifschwanz-Lanzenotter",
   "description": "Tropisches Paludarium für die Greifschwanz-Lanzenotter (Bothriechis schlegelii) mit integrierter Wasserzone, Wasserfall und naturnaher Granitfels-Jungle-Landschaft. Die Gestaltung bietet erhöhte Kletterstrukturen und eine feuchtwarme Umgebung mit dichter Bepflanzung und automatisierter Klima- und Bewässerungstechnik.",
-  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
-  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
+  "images": ["/images/Totale-P06-Lanzenotter-2-683x1024.jpg","/images/Landschaftstotale-2-1024x683 (1).jpg","/images/Liegeplateau-mit-Ästen-1024x683.jpg","/images/Wasserfall-683x1024 (1).jpg","/images/Farn-am-Boden-1024x683.jpg","/images/Kletteräste-1-1024x683.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Terrarientypen": [
@@ -9805,8 +9805,8 @@
   "id": 125,
   "title": "Regenwaldterrarium für ein Pantherchamäleon und Taggeckos",
   "description": "Großes Regenwaldterrarium für ein Pantherchamäleon und Phelsuma grandis (Taggeckos). Die Anlage wurde mit einer naturnahen Granitfels-Wald-Landschaft, echten Pflanzen sowie vielfältigen Kletterstrukturen ausgestattet. Die Vergesellschaftung dieser Arten richtet sich an erfahrene Halter und orientiert sich an erfolgreichen Haltungsbeispielen aus zoologischen Einrichtungen und Privathaltungen.",
-  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
-  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
+  "images": ["/images/R03-Totale-642x1024.jpg","/images/Landschaftstotale-1-1024x878.jpg","/images/Bromelien-und-Rankpflanzen-1024x683 (1).jpg","/images/Chamäleon-768x1024.jpg","/images/Landschaft-Totale-links-1024x683.jpg","/images/Landschaft-rechts-hf-683x1024.jpg",
+  "/images/Phelsuma-grandis-1024x768.jpg","/images/Landschaft-links-1024x683 (4).jpg","/images/Bambus-und-dünne-Äste-683x1024.jpg","/images/Bromelien-auf-Ästen-1024x683.jpg","/images/verschiedene-Äste-1024x683.jpg","/images/Landschaft-linke-Hälfte-1024x683.jpg","/images/Landschaft-rechts-1024x683 (2).jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Regenwaldterrarium",
     "Terrarientypen": [
@@ -9889,8 +9889,8 @@
   "id": 126,
   "title": "Terrarium für Boa Constrictor",
   "description": "Großzügiges Regenwaldterrarium für eine Boa Constrictor mit naturnaher Granitfels-Wald-Landschaft, integrierten Pflanzmulden und echten Pflanzen. Die Anlage kombiniert eine hochwertige Möbelausführung mit moderner Klima- und Beleuchtungstechnik und bietet optimale Bedingungen für die Haltung großer Boas.",
-  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
-  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
+  "images": ["/images/T07-Totale-683x1024.jpg","/images/Landschaftstotale-1024x683 (4).jpg","/images/Landschaftstotale-links-1024x683 (1).jpg","/images/Kletteräste-683x1024.jpg","/images/Landschaftstolate-rechts-1024x683.jpg","/images/Korkröhre-als-Höhle3-1024x683.jpg",
+  "/images/Liegeplateaus-1024x683 (1).jpg" ],
   "technicalDetails": {
     "Terrarium Typ": "Regenwaldterrarium",
     "Terrarientypen": [
@@ -9967,8 +9967,8 @@
   "id": 127,
   "title": "Terrarienzimmer für indische Sternschildkröten",
   "description": "Komplett gestaltetes Terrarienzimmer für indische Sternschildkröten (Geochelone elegans). Die Wände wurden mit großflächigen, vorgefertigten Landschaftsmodulen verkleidet und bieten Pflanzmulden für echte Pflanzen. Mehrere unterschiedlich hoch angeordnete Sonnenplätze sowie eine automatische Klima- und Beregnungstechnik schaffen optimale Bedingungen für die Haltung dieser Schildkrötenart.",
-  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
-  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
+  "images": ["/images/Totale-durchs-Fenster-1024x768.jpg","/images/Bodenfläche-Totale-1024x768.jpg","/images/3-Schildkröten-1024x768.jpg","/images/Terrarienzimmer-Totale-1024x522.jpg","/images/rechte-Wand-683x1024.jpg","/images/linke-Ecke-vorne-683x1024.jpg",
+  "/images/Schildizimmer-Türansicht-Totale-860x1024.jpg","/images/Trinkschale-1024x683.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Terrarienzimmer",
     "Terrarientypen": [
@@ -10027,8 +10027,7 @@
   "id": 128,
   "title": "Terrarium in Deltaform für Phelsumen",
   "description": "Maßgefertigtes Delta-Terrarium für den Großen Madagaskar-Taggecko (Phelsuma grandis). Die ungleichschenkelige Deltaform ermöglicht eine platzsparende Ecklösung mit großzügiger Höhe für kletterfreudige Geckos. Die Regenwaldlandschaft wurde in Granitfels-Jungle-Optik mit echten Pflanzen gestaltet und durch moderne Klima-, Beregnungs- und Beleuchtungstechnik ergänzt.",
-  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
-  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
+  "images": ["/images/R-Delta-Totale-576x1024.jpg","/images/Landschaft-in-der-hinteren-Ecke-683x1024.jpg","/images/Bambus-und-Wurzelteile-683x1024.jpg","/images/Eckkonstruktion-683x1024.jpg","/images/epiphytische-Bromelien-1024x683 (1).jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Delta-Terrarium",
     "Terrarientypen": [
@@ -10113,8 +10112,7 @@
   "id": 129,
   "title": "Wüstenterrarium in Hochglanz Acryl",
   "description": "Elegantes Wüsten- und Steppenterrarium in Hochglanz-Acryloptik für Bartagamen, Halsbandleguane, Zwergbartagamen, Dornschwanzagamen und andere trockenheitsliebende Reptilien. Die Landschaft wurde in einer mehrfarbigen Sandsteinoptik mit Terracottastrukturen gestaltet und bietet natürliche Rückzugs- und Sonnenplätze.",
-  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
-  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
+  "images": ["/images/S07-Totale-HG-1024x683.jpg","/images/Landschaft-rechts-1024x683 (3).jpg","/images/Landschaft-links-1024x683 (5).jpg","/images/Landschaft-MItte-1024x683 (2).jpg","/images/Höhle-1024x683 (2).jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüstenterrarium",
     "Terrarientypen": [
@@ -10171,8 +10169,8 @@
   "id": 130,
   "title": "Neugestaltung der Terrarienanlage des Tierheims Krefeld",
   "description": "Umfangreiche Modernisierung der Reptilienanlage des Tierheims Krefeld. Die bestehenden 14 Glas-Terrarien wurden mit neuen, funktionalen Felslandschaften ausgestattet, die den Tieren deutlich mehr Kletter-, Liege- und Sonnenflächen bieten. Zusätzlich wurden die ursprünglichen 3 mm Normalglasscheiben durch sichere 4 mm ESG-Scheiben ersetzt. Die neuen Landschaften wurden in der robusten 'Rustico'-Oberflächenoptik ausgeführt und sowohl für Schlangen als auch für kletternde Reptilien optimiert.",
-  "images": ["/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg",
-  "/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg","/images/0.jpg"],
+  "images": ["/images/Totale-im-Raum-1-1024x683 (1).jpg","/images/Tierheim-Krefeld-Eingang-1024x683.jpg","/images/kompletter-Block-vorne-links-683x1024.jpg","/images/Felslandschaft-quer-1024x683.jpg","/images/Hochterrarium-683x1024.jpg","/images/Landschaft-Rustico-Optik-1024x683.jpg",
+  "/images/die-5-kleinen-Terras-1024x683.jpg","/images/Felslandschaft-hochf-683x1024.jpg","/images/Rechte-Ecke-683x1024.jpg","/images/Ausgangssituation-2-683x1024.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Terrarienanlagen-Sanierung",
     "Terrarientypen": [
