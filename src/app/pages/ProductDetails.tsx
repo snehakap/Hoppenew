@@ -407,10 +407,12 @@ export function ProductDetails() {
                           </p>
 
                           <p className="text-slate-600 leading-relaxed">
-                            {Array.isArray(v)
-                              ? v.join(", ")
-                              : String(v)}
-                          </p>
+  {Array.isArray(v)
+    ? v.join(", ")
+    : typeof v === "object" && v !== null
+      ? JSON.stringify(v, null, 2)
+      : String(v)}
+</p>
 
                         </div>
                       ))}
