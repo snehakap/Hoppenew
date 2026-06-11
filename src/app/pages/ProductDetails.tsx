@@ -378,11 +378,13 @@ export function ProductDetails() {
                           />
 
                           <span
-                            className="text-slate-600 leading-relaxed
-                            [font-family:'Poppins',sans-serif]"
-                          >
-                            {item}
-                          </span>
+  className="text-slate-600 leading-relaxed
+  [font-family:'Poppins',sans-serif]"
+>
+  {typeof item === "object"
+    ? JSON.stringify(item)
+    : String(item)}
+</span>
 
                         </li>
                       ))}
