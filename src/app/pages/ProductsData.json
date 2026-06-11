@@ -10999,7 +10999,7 @@
   "id": 142,
   "title": "Terrarium für Leopardgeckos",
   "description": "Naturnah gestaltetes Wüsten- und Steppenterrarium für Leopardgeckos, realisiert für das Haus Natur und Umwelt in Berlin. Als oberes Terrarium eines doppelstöckigen Systems bietet die Anlage zahlreiche Versteckmöglichkeiten in Form von engen Felsspalten und Höhlen. Die mehrfarbig besandete Felslandschaft in Sandsteinoptik mit Terracotta-Strukturen schafft eine authentische Umgebung für dämmerungsaktive Leopardgeckos. Das Terrarium ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Ausstellungsterrarien.",
-  "images": ["/images/Totale-Leopardgeckoterrarium-1024x683.jpg","/images/Totale-Leo-Kröte-683x1024.jpg","/images/Höhle-Leopardgeckos-1024x683.jpg","/images/Höhlen-Leopardgeckos-1024x683.jpg","/images/leopardgecko-1024x683 (2).jpg","/images/Kletteräste-Höhlen-1024x683.jpg",
+  "images": ["/images2/Totale-Leopardgeckoterrarium-1024x683.jpg","/images2/Totale-Leo-Kröte-683x1024.jpg","/images/Höhle-Leopardgeckos-1024x683.jpg","/images/Höhlen-Leopardgeckos-1024x683.jpg","/images/leopardgecko-1024x683 (2).jpg","/images/Kletteräste-Höhlen-1024x683.jpg",
   "/images/Leopardgecko-in-Höhle-1024x683.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
@@ -11061,7 +11061,7 @@
   "id": 143,
   "title": "Terrarium für eine Panzerschleiche – Scheltopusik",
   "description": "Naturnah gestaltetes Waldterrarium für eine Panzerschleiche (Scheltopusik), gefertigt für das Haus Natur und Umwelt in Berlin. Das Terrarium wurde als oberes Becken über einem Paludarium für Feuersalamander integriert und ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Terrarien. Die detailreiche Sandstein-Wald-Landschaft mit Felsen, Wurzeln, Geröll und Laub schafft eine strukturreiche Umgebung mit zahlreichen Rückzugs- und Erkundungsmöglichkeiten für die Tiere.",
-  "images": ["/images/Totale-Panzerschleichenterrarium-1024x683.jpg","/images/Totale-Panzerschleiche-Salamander-1-887x1024.jpg","/images/Landschaft-linke-Hälfte-Panzenschleiche-1024x683.jpg","/images/Landschaft-rechte-Hälfte-Penzerschleiche-1024x683.jpg","/images/Bodenfläche-Panzerschleiche-1024x683.jpg","/images/Panzerschleiche-1024x683.jpg",
+  "images": ["/images2/Totale-Panzerschleichenterrarium-1024x683.jpg","/images2/Totale-Panzerschleiche-Salamander-1-887x1024.jpg","/images/Landschaft-linke-Hälfte-Panzenschleiche-1024x683.jpg","/images/Landschaft-rechte-Hälfte-Penzerschleiche-1024x683.jpg","/images/Bodenfläche-Panzerschleiche-1024x683.jpg","/images/Panzerschleiche-1024x683.jpg",
   "/images/Landschaft-Panzerschleiche-1024x683.jpg","/images/Landschaft-rechte-Seite-Panzerschleiche-1-1024x683.jpg","/images/Panzerschleiche-im-Terra-1024x683.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Waldterrarium",
@@ -11129,8 +11129,8 @@
   "id": 144,
   "title": "Paludarium für Wechselkröten",
   "description": "Speziell für Wechselkröten gestaltetes Paludarium, gefertigt für das Haus Natur und Umwelt in Berlin. Die Anlage kombiniert einen flachen Wasserbereich mit naturnahen Landzonen und einer detailreichen Granitfels-Jungle-Landschaft. Felsen, Wurzeln, Korkelemente und bepflanzbare Bereiche schaffen vielfältige Strukturen für Rückzug, Nahrungssuche und natürliche Verhaltensweisen. Das Paludarium ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Ausstellungsanlagen.",
-  "images": ["/images/Totale-Krötenterra--1024x683.jpg","/images/Paludarium-2-Landschaft-1024x683.jpg","/images/Landschaft-links-Kröten-1024x683.jpg","/images/Bodengestaltung-1024x683 (2).jpg","/images/Kröte-im-Versteck-1024x682.jpg",
-  "/images/Landschaft-links-Krötenterra-1024x683.jpg","/images/Landschaft-rechts-im-Krötenpaludarium-1024x683.jpg","/images/Landschaft-683x1024 (1).jpg","/images/Wechselkröte-1024x683.jpg","/images/Wurzelstrunk2-1024x683.jpg","/images/Wuzelstrunk-1024x683.jpg"],
+  "images": ["/images2/Totale-Krötenterra--1024x683.jpg","/images/Paludarium-2-Landschaft-1024x683.jpg","/images/Landschaft-links-Kröten-1024x683.jpg","/images/Bodengestaltung-1024x683 (2).jpg","/images/Kröte-im-Versteck-1024x682.jpg",
+  "/images/Landschaft-links-Krötenterra-1024x683.jpg","/images/Landschaft-rechts-im-Krötenpaludarium-1024x683.jpg","/images/Landschaft-683x1024 (1).jpg","/images2/Wechselkröte-1024x683.jpg","/images2/Wurzelstrunk2-1024x683.jpg","/images2/Wuzelstrunk-1024x683.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Terrarientypen": [
@@ -11202,8 +11202,8 @@
   "id": 145,
   "title": "Paludarium für Feuersalamander",
   "description": "Naturnah gestaltetes Paludarium für Feuersalamander, gefertigt für das Haus Natur und Umwelt in Berlin. Die Anlage kombiniert einen flachen Wasserbereich mit strukturreichen Landzonen und einer detailreichen Granitfels-Jungle-Landschaft. Felsen, Wurzeln, Korkelemente und bepflanzbare Bereiche schaffen ideale Bedingungen für die Haltung dieser feuchtigkeitsliebenden Amphibien. Das Paludarium bildet die untere Ebene eines doppelstöckigen Terrariensystems, über dem ein Terrarium für eine Panzerschleiche installiert wurde. Die Anlage ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Ausstellungsterrarien.",
-  "images": ["/images/Totale-Panzerschleiche-Salamander-887x1024.jpg","/images/Palu-Salamander-Wasserfall-1024x683.jpg","/images/Bodenbepflanzung-1024x683 (1).jpg","/images/Landschaft-links-1-1024x683.jpg","/images/Salamander-6-1024x683.jpg","/images/Landschaft-Salamander-1024x683.jpg",
-  "/images/Wasserfall2-683x1024 (1).jpg","/images/Landschaft-rechts-Wasserfall-1024x683.jpg","/images/Linke-Ecke-unten-1024x683.jpg","/images/Palu-Salamander-Landschaft-links-1024x683.jpg","/images/Salamander-Boden-links-1024x683.jpg","/images/Wurzel-1-1024x683.jpg"],
+  "images": ["/images2/Totale-Panzerschleiche-Salamander-887x1024.jpg","/images/Palu-Salamander-Wasserfall-1024x683.jpg","/images/Bodenbepflanzung-1024x683 (1).jpg","/images/Landschaft-links-1-1024x683.jpg","/images/Salamander-6-1024x683.jpg","/images/Landschaft-Salamander-1024x683.jpg",
+  "/images2/Wasserfall2-683x1024 (1).jpg","/images/Landschaft-rechts-Wasserfall-1024x683.jpg","/images/Linke-Ecke-unten-1024x683.jpg","/images/Palu-Salamander-Landschaft-links-1024x683.jpg","/images/Salamander-Boden-links-1024x683.jpg","/images2/Wurzel-1-1024x683.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Terrarientypen": [
@@ -11279,8 +11279,8 @@
   "id": 146,
   "title": "Aquaterrarium für Unken, Laubfrösche und Rotkehlanolis",
   "description": "Großzügiges Aquaterrarium für verschiedene Amphibien- und Reptilienarten, gefertigt für das Haus Natur und Umwelt in Berlin. Die Anlage vereint einen großzügigen Wasserbereich mit einer naturnahen Granitfels-Jungle-Landschaft und bepflanzten Landzonen. Durch sanft ansteigende Uferbereiche, teilweise unterschwimmbare Landflächen sowie zahlreiche Kletter- und Versteckmöglichkeiten bietet das Habitat optimale Bedingungen für Laubfrösche, Rotbauchunken, Rotkehlanolis und begleitende Fischarten. Das Aquaterrarium ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Ausstellungsterrarien.",
-  "images": ["/images/Aquaterrarium-Totale-683x1024.jpg","/images/Landschaftstotale-Aquaterrarium-1024x683.jpg","/images/Aquaterrrarium-linmker-Teil-683x1024.jpg","/images/Wasserfall-Totale2-683x1024.jpg","/images/Wasserfall-Totale-1-683x1024.jpg","/images/Landschaft-rechte-Seite-683x1024 (2).jpg",
-  "/images/Bepflanzung-1024x683 (2).jpg","/images/Wasserfallauslauf-1024x683.jpg","/images/Amerikanischer-Laubfrosch-1024x682.jpg","/images/Laubfrosch-1024x683.jpg","/images/Biophytum-sensitivum-1024x683.jpg","/images/Laubfrosch4-1024x683.jpg","/images/Wurzel-1024x683.jpg","/images/Laubfrosch3-683x1024.jpg","/images/Wasserpart-2-1024x655.jpg","/images/Rotbauchunke-2-1024x689.jpg","/images/Wasserpart-des-Paludariums-1024x679.jpg","/images/Rotbauchunke-1024x683.jpg",
+  "images": ["/images/Aquaterrarium-Totale-683x1024.jpg","/images/Landschaftstotale-Aquaterrarium-1024x683.jpg","/images/Aquaterrrarium-linmker-Teil-683x1024.jpg","/images2/Wasserfall-Totale2-683x1024.jpg","/images2/Wasserfall-Totale-1-683x1024.jpg","/images/Landschaft-rechte-Seite-683x1024 (2).jpg",
+  "/images/Bepflanzung-1024x683 (2).jpg","/images2/Wasserfallauslauf-1024x683.jpg","/images/Amerikanischer-Laubfrosch-1024x682.jpg","/images/Laubfrosch-1024x683.jpg","/images/Biophytum-sensitivum-1024x683.jpg","/images/Laubfrosch4-1024x683.jpg","/images2/Wurzel-1024x683.jpg","/images/Laubfrosch3-683x1024.jpg","/images2/Wasserpart-2-1024x655.jpg","/images/Rotbauchunke-2-1024x689.jpg","/images2/Wasserpart-des-Paludariums-1024x679.jpg","/images/Rotbauchunke-1024x683.jpg",
   "/images/Columnea-magnifica-1024x683.jpg","/images/Columnea-1024x683.jpg","/images/Laubfrosch2-1024x682.jpg","/images/Rotkehlanolis-an-der-Wand-683x1024.jpg","/images/Rotkehlanolis-auf-Ast-1024x683.jpg","/images/Rotkehlanolis-Porträt-1024x682.jpg","/images/Rotkehlanolis2-683x1024.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Aquaterrarium",
@@ -11369,7 +11369,7 @@
   "id": 147,
   "title": "Wüstenterrarium für Stachelleguane",
   "description": "Großzügiges Wüsten- und Steppenterrarium für Blaue Stachelleguane (Sceloporus cyanogenys), gefertigt für das Haus Natur und Umwelt in Berlin. Die naturnahe Landschaftsgestaltung mit sandsteinfarbenen Felsformationen, Terracotta-Strukturen, Geröllfeldern und Höhlen orientiert sich an trockenen Lebensräumen Nordamerikas. Die Anlage bietet zahlreiche Sonnenplätze, Verstecke und erhöhte Aussichtspunkte. Das Terrarium ist Teil einer rund 10 Meter langen Terrarienwand mit insgesamt elf Ausstellungsterrarien.",
-  "images": ["/images/Totale-Wüstenterrarium-1024x683.jpg","/images/Landschaft-links-683x1024 (3).jpg","/images/Landschaft-rechts-683x1024 (5).jpg","/images/Stachelleguane-Gruppe-1024x683.jpg","/images/blauer-Stachelleguan-1024x683.jpg","/images/Deko-am-Boden-683x1024.jpg",
+  "images": ["/images2/Totale-Wüstenterrarium-1024x683.jpg","/images/Landschaft-links-683x1024 (3).jpg","/images/Landschaft-rechts-683x1024 (5).jpg","/images/Stachelleguane-Gruppe-1024x683.jpg","/images/blauer-Stachelleguan-1024x683.jpg","/images/Deko-am-Boden-683x1024.jpg",
   "/images/Stachelleguan-1024x683.jpg","/images/Deko-am-Boden2-1024x683.jpg","/images/Felsbrocken-am-Boden-1024x683.jpg","/images/Kletterast-Wüstenterrarium-683x1024.jpg","/images/Stachelleguan2-1024x683.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
@@ -11492,8 +11492,8 @@
   "title": "10 m lange Terrarienwand mit 11 Terrarien für das Haus Natur und Umwelt",
   "description": "Umfangreiche Sonderanfertigung einer rund 10 Meter langen Terrarienwand für das Haus Natur und Umwelt in Berlin. Die Anlage umfasst elf individuell geplante Terrarien und Paludarien für unterschiedlichste Reptilien, Amphibien und Wirbellose. Ziel des Projekts war die komplette Neugestaltung der Reptilienabteilung des kleinen Zoos. Jede Anlage wurde exakt auf die Bedürfnisse der jeweiligen Tierarten abgestimmt und mit passenden Klimazonen, Landschaftsstrukturen, Beleuchtungs- und Belüftungssystemen ausgestattet. Die gesamte Terrarienwand wurde in der Werkstatt vorgefertigt, nach Berlin transportiert und vor Ort innerhalb von zwei Tagen montiert und in Betrieb genommen.",
   "images": ["/images/komplette-Wand-linke-Hälfte-1024x683.jpg","/images/komplette-Wand-rechte-Häfte-1024x683.jpg","/images/die-beiden-Wastenterras-1024x683.jpg","/images/Terrarienwand-rechte-Häfte-1024x683.jpg","/images/Delta-Wüste-Totale-frontal-683x1024 (1).jpg","/images/Delta-Wüste-Bodenbereich-1024x683 (1).jpg",
-  "/images/Aquaterrarium-Totale-683x1024 (1).jpg","/images/Landschaftstotale-Aquaterrarium-1024x683 (1).jpg","/images/Wasserfall-Totale-683x1024.jpg","/images/Bodenfläche-Kornnattern-1024x683 (1).jpg","/images/Totale-Leo-Kröte-683x1024 (1).jpg","/images/Totale-Leopardgeckoterrarium-1024x683 (1).jpg","/images/Landschaft-Leopardgeckos-1024x683.jpg","/images/Totale-Panzerschleichenterrarium-1024x683 (1).jpg","/images/Landschaft-rechte-Seite-Panzerschleiche-1024x683.jpg","/images/Paludarium-2-Landschaft-1024x683 (1).jpg","/images/Landschaft-links-Kröten-1024x683 (1).jpg","/images/Totale-Panzerschleiche-Salamander-887x1024 (1).jpg",
-  "/images/Landschaft-Salamander-1024x683 (1).jpg","/images/Wasserfall2-683x1024 (2).jpg","/images/Totale-Wüstenterrarium-1024x683 (1).jpg","/images/Landschaft-links-683x1024 (4).jpg","/images/Kletterast-links-Wüstenterra-683x1024 (1).jpg","/images/Insektarium-Totale-649x1024 (1).jpg","/images/Käferterrarium-Totale-1024x682 (1).jpg","/images/Schneckenterrarium-Totale-1024x683.jpg","/images/Spinnenterrarium-Totale-1024x683 (1).jpg"],
+  "/images/Aquaterrarium-Totale-683x1024 (1).jpg","/images/Landschaftstotale-Aquaterrarium-1024x683 (1).jpg","/images2/Wasserfall-Totale-683x1024.jpg","/images/Bodenfläche-Kornnattern-1024x683 (1).jpg","/images2/Totale-Leo-Kröte-683x1024 (1).jpg","/images2/Totale-Leopardgeckoterrarium-1024x683 (1).jpg","/images/Landschaft-Leopardgeckos-1024x683.jpg","/images2/Totale-Panzerschleichenterrarium-1024x683 (1).jpg","/images/Landschaft-rechte-Seite-Panzerschleiche-1024x683.jpg","/images/Paludarium-2-Landschaft-1024x683 (1).jpg","/images/Landschaft-links-Kröten-1024x683 (1).jpg","/images2/Totale-Panzerschleiche-Salamander-887x1024 (1).jpg",
+  "/images/Landschaft-Salamander-1024x683 (1).jpg","/images2/Wasserfall2-683x1024 (2).jpg","/images2/Totale-Wüstenterrarium-1024x683 (1).jpg","/images/Landschaft-links-683x1024 (4).jpg","/images/Kletterast-links-Wüstenterra-683x1024 (1).jpg","/images/Insektarium-Totale-649x1024 (1).jpg","/images/Käferterrarium-Totale-1024x682 (1).jpg","/images/Schneckenterrarium-Totale-1024x683.jpg","/images/Spinnenterrarium-Totale-1024x683 (1).jpg"],
   "technicalDetails": {
     "Projekt Typ": "Terrarienwand",
     "Anlagentyp": [
@@ -11590,8 +11590,8 @@
   "id": 150,
   "title": "Schlangenterrarium für den Vogelpark Schotten",
   "description": "Individuell gefertigtes Halbfeucht- und Tropenterrarium für eine Boa, realisiert für die Reptilienabteilung des Vogelparks Schotten. Das Terrarium wurde für den Einbau in ein kundenseitig gestaltetes Terrarienhaus konzipiert und fügt sich optisch in die vorhandene Architektur ein. Die naturnahe Granitfels-Wald-Landschaft mit Felsen, Wurzeln, Korkelementen und Pflanztrögen bietet zahlreiche Versteck- und Klettermöglichkeiten. Umfangreiche Klima-, Beleuchtungs- und Beregnungstechnik sorgt für optimale Haltungsbedingungen und eine zuverlässige Steuerung von Temperatur und Luftfeuchtigkeit.",
-  "images": ["/images/Backhaus-Totale-1024x576.jpg","/images/Terrarium-im-Haus-1024x576.jpg","/images/Terrarium-im-Backhaus-1024x576.jpg","/images/Terrarium-frontal-1024x576.jpg","/images/eingebautes-Terrarium-1024x576.jpg","/images/Terra-Haus-im-Raum-2-1024x576.jpg",
-  "/images/Terrarienhaus-im-Raum-1024x576.jpg","/images/Boa-1024x576.jpg","/images/Landschaft-mit-Boa-1024x576.jpg","/images/Landschaft-1024x576.jpg"],
+  "images": ["/images/Backhaus-Totale-1024x576.jpg","/images2/Terrarium-im-Haus-1024x576.jpg","/images2/Terrarium-im-Backhaus-1024x576.jpg","/images2/Terrarium-frontal-1024x576.jpg","/images/eingebautes-Terrarium-1024x576.jpg","/images2/Terra-Haus-im-Raum-2-1024x576.jpg",
+  "/images2/Terrarienhaus-im-Raum-1024x576.jpg","/images/Boa-1024x576.jpg","/images/Landschaft-mit-Boa-1024x576.jpg","/images/Landschaft-1024x576.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Halbfeucht- und Tropenterrarium",
     "Terrarientypen": [
@@ -11666,8 +11666,8 @@
   "id": 151,
   "title": "Landschaftseinbau in ein Terrarium für Wickelschwanzskinke",
   "description": "Individueller Landschaftseinbau in ein bereits seit rund 20 Jahren bestehendes Kundenterrarium für Wickelschwanzskinke. Anstatt eines kompletten Neubaus wurde die vorhandene Anlage durch eine vollständig neue Innenraumgestaltung modernisiert. Die Gestaltung erfolgte nach Kundenwunsch mit großflächigen Echt-Korkplatten, künstlicher Bepflanzung sowie einer halbierten Korkröhre als erhöhtem Sitz- und Ruheplatz. Zusätzlich wurden neue ESG-Glasschiebetüren im rollengelagerten Laufschuhsystem angefertigt und eingebaut. Das Projekt zeigt, dass individuelle Landschaftseinbauten unabhängig von Terrarienform, Größe oder Hersteller realisierbar sind und exakt auf die Bedürfnisse der jeweiligen Tierart abgestimmt werden können.",
-  "images": ["/images/Totale-im-Raum-1024x859.jpg","/images/Bodengrund-683x1024.jpg","/images/Wickelschwanzskink-auf-der-Korkröhre-683x1024.jpg","/images/Wickelschwanzskink-Korkplateau2-1024x683.jpg","/images/Deko3-1024x683.jpg","/images/Wickelschwanzskink-Korkröhre-1024x683.jpg",
-  "/images/Deko1-683x1024.jpg","/images/Deko2-683x1024.jpg","/images/Deko4-683x1024.jpg","/images/Wickelschwanzskink-am-Boden-1024x683.jpg","/images/Wickelschwanzskink-an-der-Wand-683x1024.jpg","/images/Wickelschwanzskink-Korkplateau-1024x683 (1).jpg"],
+  "images": ["/images2/Totale-im-Raum-1024x859.jpg","/images/Bodengrund-683x1024.jpg","/images2/Wickelschwanzskink-auf-der-Korkröhre-683x1024.jpg","/images2/Wickelschwanzskink-Korkplateau2-1024x683.jpg","/images/Deko3-1024x683.jpg","/images2/Wickelschwanzskink-Korkröhre-1024x683.jpg",
+  "/images/Deko1-683x1024.jpg","/images/Deko2-683x1024.jpg","/images/Deko4-683x1024.jpg","/images2/Wickelschwanzskink-am-Boden-1024x683.jpg","/images2/Wickelschwanzskink-an-der-Wand-683x1024.jpg","/images2/Wickelschwanzskink-Korkplateau-1024x683 (1).jpg"],
   "technicalDetails": {
     "Projekt Typ": "Landschaftseinbau",
     "Terrarientypen": [
@@ -11723,7 +11723,7 @@
   "title": "Wüstenterrarium mit natürlichen Trockenpflanzen und seitlichen Sichtfenstern",
   "description": "Großzügiges Wüsten- und Steppenterrarium mit besonders naturnaher Gestaltung ausschließlich aus echten verdorrten Pflanzen, Wüstenbüschen, Gräsern, Wurzelteilen und Kletterästen. Die Anlage wurde für Bartagamen und andere steppenbewohnende Reptilien konzipiert. Ein markanter Felsen mit rückseitigem Durchgang bildet das Zentrum der Landschaft und schafft zusätzliche Versteck- und Klettermöglichkeiten. Zwei seitliche Festglaselemente ermöglichen zusätzliche Einblicke in die Anlage. Aufgrund der Größe wurde das Terrarium mehrteilig gefertigt und vor Ort montiert.",
   "images": ["/images/S07-mit-2-FGe-Totale-683x1024.jpg","/images/S07-2-FGe-Totale-683x1024.jpg","/images/Blick-durchs-Seitenfenster-683x1024.jpg","/images/Landschaft-v.rechts-683x1024.jpg","/images/Landschaft-oberer-Teil-1024x683 (1).jpg","/images/0.jpg",
-  "/images/Kletteräste-Gräser-683x1024.jpg","/images/verdorrte-Pflanzen-683x1024.jpg","/images/Durchgang-hinter-Felsen-1024x683.jpg","/images/Felsformationen-683x1024.jpg"],
+  "/images/Kletteräste-Gräser-683x1024.jpg","/images2/verdorrte-Pflanzen-683x1024.jpg","/images/Durchgang-hinter-Felsen-1024x683.jpg","/images/Felsformationen-683x1024.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
     "Terrarientypen": [
@@ -11809,8 +11809,8 @@
   "id": 153,
   "title": "Wasserschildkröten Aqua-Terrarium",
   "description": "Großzügiges Aqua-Terrarium für Sumpf- und Wasserschildkröten mit kombiniertem Wasser- und Landbereich. Die Anlage verbindet ein großes Aquarium mit einer naturnah gestalteten Sonnen- und Ruhezone. Schieferplatten ermöglichen einen einfachen Aufstieg auf den Landteil und die Sonneninsel, während große Korkrindenplatten zusätzliche Struktur und Versteckmöglichkeiten bieten. Die Rückwände wurden mit Natursteinriemchen verkleidet und schaffen gemeinsam mit Sand-, Humus- und Quarzsandbereichen eine natürliche Uferlandschaft. Die Unterkonstruktion sowie der Lichtkasten wurden in einer hochwertigen weißen Kassettenoptik ausgeführt und fügen sich harmonisch in den Wohnraum ein.",
-  "images": ["/images/Schildi-Aquaterra-Totale-frontal-1024x683.jpg","/images/Schildi-Aquaterra-Totale-schräg-1024x898.jpg","/images/Totale-von-linker-Ecke-1024x683.jpg","/images/Sonneninsel-1024x683.jpg","/images/Front-v.links_-1024x683.jpg","/images/Inseln-1024x683.jpg",
-  "/images/Landeinstieg-1024x683.jpg","/images/Landpart-von-oben-1024x683.jpg","/images/Landpart-v.o.-Ecke-1024x683.jpg","/images/auf-dem-Landpart-1024x683.jpg","/images/schräg-von-oben-1024x683.jpg","/images/unter-der-Sonneninsel-1024x683.jpg","/images/Unterwasserpflanzen-Futter-1024x683.jpg","/images/3-Schildis-683x1024.jpg","/images/Schildi-aus-dem-Wasser-schauend-1024x683.jpg","/images/an-der-Sonneninsel-1024x683.jpg"],
+  "images": ["/images/Schildi-Aquaterra-Totale-frontal-1024x683.jpg","/images/Schildi-Aquaterra-Totale-schräg-1024x898.jpg","/images2/Totale-von-linker-Ecke-1024x683.jpg","/images/Sonneninsel-1024x683.jpg","/images/Front-v.links_-1024x683.jpg","/images/Inseln-1024x683.jpg",
+  "/images/Landeinstieg-1024x683.jpg","/images/Landpart-von-oben-1024x683.jpg","/images/Landpart-v.o.-Ecke-1024x683.jpg","/images/auf-dem-Landpart-1024x683.jpg","/images/schräg-von-oben-1024x683.jpg","/images2/unter-der-Sonneninsel-1024x683.jpg","/images2/Unterwasserpflanzen-Futter-1024x683.jpg","/images/3-Schildis-683x1024.jpg","/images/Schildi-aus-dem-Wasser-schauend-1024x683.jpg","/images/an-der-Sonneninsel-1024x683.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Aqua-Terrarium",
     "Terrarientypen": [
@@ -11878,7 +11878,7 @@
   "id": 154,
   "title": "Regenwaldterrarium für Orchideenmantis",
   "description": "Kompaktes Regenwaldterrarium für Orchideenmantiden (Blütenmantis), ausgeführt als Glasterrarium für den passgenauen Einbau in einen bestehenden Wohnzimmerschrank. Die naturnahe Granitfels-Jungle-Landschaft mit Felsen, Wurzeln, Korkelementen und echten Pflanzen schafft ideale Bedingungen für die Haltung tropischer Fangschrecken. Bromelien, Farne, Rankpflanzen sowie feine Kletteräste sorgen für eine strukturreiche Umgebung mit zahlreichen Sitz- und Häutungsplätzen. Das Konzept kann sowohl als reiner Glaseinsatz als auch als vollständiges Terrarium mit Lichtkasten und Holzumbau realisiert werden.",
-  "images": ["/images/Totale-mit-Schrank-768x1024.jpg","/images/Terrariumtotale-1024x659.jpg","/images/im-Schrank-1024x768.jpg","/images/Orchideenmantis2-1024x768.jpg","/images/Landschaft-1024x683 (1).jpg","/images/Bodenfläche-1024x683 (3).jpg","/images/Orchideenmantis-795x1024.jpg",
+  "images": ["/images2/Totale-mit-Schrank-768x1024.jpg","/images2/Terrariumtotale-1024x659.jpg","/images/im-Schrank-1024x768.jpg","/images/Orchideenmantis2-1024x768.jpg","/images/Landschaft-1024x683 (1).jpg","/images/Bodenfläche-1024x683 (3).jpg","/images/Orchideenmantis-795x1024.jpg",
   "/images/Geäst-1024x683.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Pflanzen",
@@ -11940,8 +11940,8 @@
   "id": 155,
   "title": "Terrarium für einen Königspython mit einer Urwaldgott-Skulptur",
   "description": "Individuell gestaltetes Waldterrarium für einen Königspython mit integrierter Urwaldgott-Skulptur „Haceki“. Die außergewöhnliche Landschaft kombiniert naturnahe Fels- und Waldelemente mit einer kunstvoll gestalteten Skulptur als zentrales Gestaltungselement. Sämtliche Liege- und Kletterflächen wurden mit Naturgranulaten beschichtet, um die Schuppen des Königspythons zu schonen und gleichzeitig eine natürliche Optik zu schaffen. Das Terrarium verfügt über moderne Klima-, Beleuchtungs- und Beregnungstechnik sowie eine separate Wetbox in Felsoptik als geschützten Rückzugsort.",
-  "images": ["/images/T07-Totale-echte-Pfl.-Urwaldgott-1024x665.jpg","/images/Landschaft-rechte-Ecke-mit-echten-und-künstl.-Pflanzen-768x1024.jpg","/images/Landschaft-768x1024.jpg","/images/Urwaldgott-in-Landschaft-768x1024.jpg","/images/Urwaldgott-Haceki-2-768x1024.jpg","/images/Urwaldgott-Haceki-768x1024.jpg",
-  "/images/Urwaldgott-in-der-Landschaft-768x1024.jpg"],
+  "images": ["/images2/T07-Totale-echte-Pfl.-Urwaldgott-1024x665.jpg","/images/Landschaft-rechte-Ecke-mit-echten-und-künstl.-Pflanzen-768x1024.jpg","/images/Landschaft-768x1024.jpg","/images2/Urwaldgott-in-Landschaft-768x1024.jpg","/images2/Urwaldgott-Haceki-2-768x1024.jpg","/images2/Urwaldgott-Haceki-768x1024.jpg",
+  "/images2/Urwaldgott-in-der-Landschaft-768x1024.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Waldterrarium",
     "Terrarientypen": [
@@ -12018,7 +12018,7 @@
   "id": 156,
   "title": "Wüstenterrarium für einen Schrankwandeinbau",
   "description": "Maßgefertigtes Wüsten- und Steppenterrarium als reines Glasterrarium für den passgenauen Einbau in eine vorhandene Schrankwand. Die Anlage wurde speziell für Zwergbartagamen und andere steppenbewohnende Reptilien konzipiert und verbindet eine naturnahe Wüstenlandschaft mit moderner Beleuchtungs- und Klimatechnik. Die mehrfarbig besandete Landschaft mit Sandstein- und Terracottaoptik wird durch echte Wüstenbüsche, Wurzelteile, Kletteräste, getrocknete Gräser und hochwertige künstliche Pflanzen ergänzt. Durch die Integration in die vorhandene Möbelanlage entsteht eine harmonische Verbindung von Wohnraum und Terraristik.",
-  "images": ["/images/Terrarium-in-Schrankwand-1024x648.jpg","/images/Terrarium-in-Schrankwand-Totale-1024x576.jpg","/images/Seitenansicht-576x1024.jpg","/images/Terrarium-in-Schrankwand-Seitenansicht-576x1024.jpg","/images/Sonnenuntergang-539x1024.jpg"],
+  "images": ["/images2/Terrarium-in-Schrankwand-1024x648.jpg","/images2/Terrarium-in-Schrankwand-Totale-1024x576.jpg","/images/Seitenansicht-576x1024.jpg","/images2/Terrarium-in-Schrankwand-Seitenansicht-576x1024.jpg","/images/Sonnenuntergang-539x1024.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
     "Terrarientypen": [
@@ -12088,7 +12088,7 @@
   "id": 157,
   "title": "Terrarium für Pfeilgiftfrösche Typ P03 mit Panoramaecke",
   "description": "Hochwertiges Paludarium des Typs P03 mit Panoramaecke für Pfeilgiftfrösche. Die naturnahe Regenwaldlandschaft kombiniert einen großzügigen Landbereich mit dicht bepflanzten Zonen aus Farnen, Moosen, Rankpflanzen und Wurzeln. Ein integrierter Bachlauf mit Wasserfall, kleinen Tümpeln und einem vorderen Wasserkanal sorgt für eine authentische tropische Atmosphäre. Durch die Panoramaecke entstehen zusätzliche Sichtachsen auf die detailreiche Landschaft. Umfangreiche Klima-, Beregnungs- und Beleuchtungstechnik gewährleistet optimale Bedingungen für die Haltung feuchtigkeitsliebender Pfeilgiftfrösche.",
-  "images": ["/images/Totale-fertig-bepflanzt-635x1024.jpg","/images/P06-Panorama-Totale-714x1024.jpg","/images/P06-Panoramaecke-Landschaft-1024x576.jpg","/images/P06-Panoramaecke-576x1024.jpg"],
+  "images": ["/images2/Totale-fertig-bepflanzt-635x1024.jpg","/images/P06-Panorama-Totale-714x1024.jpg","/images/P06-Panoramaecke-Landschaft-1024x576.jpg","/images/P06-Panoramaecke-576x1024.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Terrarientypen": [
@@ -12181,9 +12181,9 @@
   "id": 158,
   "title": "Terrarienwand für den Tierpark Recklinghausen",
   "description": "Individuell gefertigte Terrarienwand für den Tierpark Recklinghausen mit insgesamt sechs artgerecht gestalteten Terrarien für verschiedene Wirbellose. Die Anlage wurde für die Vogel-Freiflughalle konzipiert und ist für Besucher frei zugänglich. Besonderes Merkmal ist die durchgängige Gestaltung der Außenverkleidung in derselben Granitfels-Jungle-Optik wie die Innenlandschaften, wodurch die gesamte Terrarienwand als harmonische Ausstellungseinheit wirkt. Die naturnahen Lebensräume mit Felsen, Wurzeln, Korkelementen und echten Pflanzen bieten optimale Bedingungen für Vogelspinnen, Rosenkäfer, Riesenhundertfüßer, Achatschnecken, Blütenmantiden sowie Gespenster- und Stabschrecken.",
-  "images": ["/images/Terrarienwand-Totale-im-Raum-1024x683.jpg","/images/Terrarienwand-1024x683.jpg","/images/Terrarium-Achatschnecken-i.d.W-1024x683.jpg","/images/Terrarium-Achatschnecke-Landschaft-1024x683.jpg","/images/Achatschnecke-Porträt-1024x680.jpg","/images/Terrarium-f.Hundertfüsser-1024x683.jpg",
-  "/images/Terrarium-Riesenhundertfüsser-1024x683.jpg","/images/Terrarium-Riesenhundertfüsser-Detail-1024x683.jpg","/images/Terrarium-Rosenkäfer-Bodenfläche-1024x683.jpg","/images/Terrarium-Rosenkäfer-1024x683.jpg","/images/Rosenkäfer-Porträt-1024x680.jpg","/images/Terrarium-für-Blüten-Mantiden.jpg","/images/Terrarium-Mantiden-Landschaft-683x1024.jpg","/images/Mantide-Porträt-1024x680.jpg","/images/Terrarium-in-der-Wand-1024x683.jpg","/images/Terrarium-Stabschrecken-i.d.W-683x1024.jpg","/images/Terrarium-Stabschrecke-1024x683.jpg","/images/Terrarium-Stabschrecke-Landschaft-1024x683.jpg",
-  "/images/Stabschrecke-Porträt-1024x680.jpg","/images/Terrarium-Vogelspinne-Landschaft-1024x683.jpg","/images/Vogelspinne-Porträt-1024x680.jpg"],
+  "images": ["/images2/Terrarienwand-Totale-im-Raum-1024x683.jpg","/images2/Terrarienwand-1024x683.jpg","/images2/Terrarium-Achatschnecken-i.d.W-1024x683.jpg","/images2/Terrarium-Achatschnecke-Landschaft-1024x683.jpg","/images/Achatschnecke-Porträt-1024x680.jpg","/images2/Terrarium-f.Hundertfüsser-1024x683.jpg",
+  "/images2/Terrarium-Riesenhundertfüsser-1024x683.jpg","/images2/Terrarium-Riesenhundertfüsser-Detail-1024x683.jpg","/images2/Terrarium-Rosenkäfer-Bodenfläche-1024x683.jpg","/images2/Terrarium-Rosenkäfer-1024x683.jpg","/images/Rosenkäfer-Porträt-1024x680.jpg","/images2/Terrarium-für-Blüten-Mantiden.jpg","/images2/Terrarium-Mantiden-Landschaft-683x1024.jpg","/images/Mantide-Porträt-1024x680.jpg","/images2/Terrarium-in-der-Wand-1024x683.jpg","/images2/Terrarium-Stabschrecken-i.d.W-683x1024.jpg","/images2/Terrarium-Stabschrecke-1024x683.jpg","/images2/Terrarium-Stabschrecke-Landschaft-1024x683.jpg",
+  "/images/Stabschrecke-Porträt-1024x680.jpg","/images2/Terrarium-Vogelspinne-Landschaft-1024x683.jpg","/images2/Vogelspinne-Porträt-1024x680.jpg"],
   "technicalDetails": {
     "Projekt Typ": "Terrarienwand",
     "Terrarientypen": [
@@ -12255,9 +12255,9 @@
   "id": 159,
   "title": "5 qm großes Aqua-Terrarium",
   "description": "Außergewöhnliches Aqua-Terrarium in L-Form mit einer Gesamtgrundfläche von rund 5 Quadratmetern. Die Anlage kombiniert einen großflächigen Aquarienbereich mit einer beeindruckenden tropischen Regenwaldlandschaft und einem mehrstufigen Wasserfall. Der überwiegende Teil der Grundfläche dient als Schwimmbereich für verschiedene Fischarten, während ein kleiner, teilweise unterschwimmbarer Landbereich mit Farnen, Moosen, Bromelien, Tillandsien und Orchideen gestaltet wurde. Durch die offene Bauweise des Paludariumaufsatzes und die umfangreiche Licht-, Klima- und Wassertechnik entsteht ein eindrucksvolles tropisches Ökosystem, das sich nach etwa einem Jahr zu einer üppig bewachsenen Regenwaldlandschaft entwickelt hat.",
-  "images": ["/images/Totale-n1J-1024x683.jpg","/images/rechte-Seite-n1J-683x1024.jpg","/images/Bepflanzung2-1024x683.jpg","/images/Dickicht3-1024x683.jpg","/images/Landschaft-rechte-Seite-mit-Lüfter-683x1024.jpg","/images/Pfanzendickicht-n1J-1024x683.jpg",
-  "/images/Pflanzen-1024x683.jpg","/images/Fisch-1024x683.jpg","/images/Schmerle-1024x683.jpg","/images/Unterwasserpart-rechts-1024x683.jpg","/images/Unterwasserpart-bepflanzt-1024x683.jpg","/images/Seerose-1024x683.jpg","/images/Unterwasserpflanzen-1024x683.jpg","/images/Tigerlotus-1024x683.jpg","/images/Wasserpart-n1J-1024x683.jpg","/images/Bepflanzung-Teil1-4-1024x683.jpg","/images/Bepflanzung-Teil1-6-1024x683.jpg","/images/Dekoration-fertig-Totale-1024x683.jpg",
-  "/images/Totale-n3M-1024x576.jpg","/images/Sonnenuntergang-1024x683.jpg","/images/seitlich-komplett-bepflanzt-576x1024.jpg"],
+  "images": ["/images2/Totale-n1J-1024x683.jpg","/images/rechte-Seite-n1J-683x1024.jpg","/images/Bepflanzung2-1024x683.jpg","/images/Dickicht3-1024x683.jpg","/images/Landschaft-rechte-Seite-mit-Lüfter-683x1024.jpg","/images/Pfanzendickicht-n1J-1024x683.jpg",
+  "/images/Pflanzen-1024x683.jpg","/images/Fisch-1024x683.jpg","/images/Schmerle-1024x683.jpg","/images2/Unterwasserpart-rechts-1024x683.jpg","/images2/Unterwasserpart-bepflanzt-1024x683.jpg","/images/Seerose-1024x683.jpg","/images2/Unterwasserpflanzen-1024x683.jpg","/images2/Tigerlotus-1024x683.jpg","/images2/Wasserpart-n1J-1024x683.jpg","/images/Bepflanzung-Teil1-4-1024x683.jpg","/images/Bepflanzung-Teil1-6-1024x683.jpg","/images/Dekoration-fertig-Totale-1024x683.jpg",
+  "/images2/Totale-n3M-1024x576.jpg","/images/Sonnenuntergang-1024x683.jpg","/images/seitlich-komplett-bepflanzt-576x1024.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Aqua-Terrarium",
     "Terrarientypen": [
