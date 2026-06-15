@@ -11,16 +11,44 @@ export function AboutUs() {
 
   const filterRef = useRef(null);
 
- useEffect(() => {
-    const savedScroll = sessionStorage.getItem("aboutus-scroll");
+ // Restore scroll, filters and search
+useEffect(() => {
+  const savedScroll = sessionStorage.getItem("aboutus-scroll");
+  const filters = sessionStorage.getItem("aboutus-filters");
+  const search = sessionStorage.getItem("aboutus-search");
 
-    if (savedScroll) {
-      window.scrollTo(0, Number(savedScroll));
-      sessionStorage.removeItem("aboutus-scroll");
-    } else {
-      window.scrollTo(0, 0);
-    }
-  }, []);
+  if (filters) {
+    setSelectedFilters(JSON.parse(filters));
+  }
+
+  if (search) {
+    setSearchTerm(search);
+  }
+
+  if (savedScroll) {
+    window.scrollTo(0, Number(savedScroll));
+    sessionStorage.removeItem("aboutus-scroll");
+  } else {
+    window.scrollTo(0, 0);
+  }
+}, []);
+
+// Save filters
+useEffect(() => {
+  sessionStorage.setItem(
+    "aboutus-filters",
+    JSON.stringify(selectedFilters)
+  );
+}, [selectedFilters]);
+
+// Save search term
+useEffect(() => {
+  sessionStorage.setItem(
+    "aboutus-search",
+    searchTerm
+  );
+}, [searchTerm]);
+  
 
   const reptileFilters = [
     "Agamen (Agamidae)",
