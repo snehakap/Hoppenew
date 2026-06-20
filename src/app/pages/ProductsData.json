@@ -14114,7 +14114,7 @@
   "id": 181,
   "title": "Wüsten-Steppenterrarium unter Dachschrägen",
   "description": "Maßgefertigtes Wüsten- und Steppenterrarium für den Einbau unter Dachschrägen. Die spezielle Konstruktion nutzt den vorhandenen Raum optimal aus und verbindet eine großzügige Wüstenlandschaft mit professioneller Beleuchtungs- und Klimatechnik. Die mehrfarbig besandete Felslandschaft mit Terracotta-Strukturen, echten Wüstenbüschen, Wurzelteilen und getrockneten Gräsern bildet ein naturnahes Habitat für Wüstenbewohner. Das Terrarium wurde hier für Seitenwinder-Klapperschlangen konzipiert, kann jedoch individuell für andere Steppen- und Wüstenreptilien angepasst werden.",
-  "images": [],
+  "images": ["/images2/Terrarium-Totale.jpg","/images2/Terra-im-Zimmer.jpg","/images2/Landschaft.jpg","/images2/Schlange-im-Terra.jpg","/images2/Seitenwinder-Porträt3.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
     "Terrarientypen": [
@@ -14186,7 +14186,7 @@
   "id": 182,
   "title": "Terrarium für Pfeilgiftfrösche",
   "description": "Kompaktes Regenwald-Paludarium des Typs P06 für Pfeilgiftfrösche (Dendrobaten). Trotz der platzsparenden Abmessungen bietet die aufwendig gestaltete Granitfels-Jungle-Landschaft mit Wasserfall, Bachlauf, Wasserkanal und dichter Bepflanzung einen naturnahen tropischen Lebensraum. Die drosophila-dichte Konstruktion, automatische Klima- und Feuchtigkeitsregelung sowie die integrierte Wassertechnik schaffen optimale Bedingungen für die Haltung anspruchsvoller Pfeilgiftfrösche. Durch die seitliche Ganzglasfläche entsteht zusätzlich ein attraktiver Einblick in die Landschaft aus mehreren Blickwinkeln.","youtube":"https://www.youtube.com/watch?v=fqAl5G23a6Y",
-  "images": [],
+  "images": ["/images2/Dendrobatenterra-Totale-692x1024.jpg","/images2/Terrarium-Totale-630x1024.jpg","/images2/Seitenansicht-667x1024.jpg","/images2/Landschaftstotale-683x1024.jpg","/images2/Pfeilgiftfrosch-auf-Blatt-926x1024.jpg","/images2/Landschaft-1-683x1024.jpg","/images2/Pfeilgiftfrosch-2-1024x678.jpg","/images2/Bachlauf-683x1024.jpg","/images2/Pfeilgiftfrosch3-1024x768.jpg","/images2/Bepflanzung-2-1024x683.jpg","/images2/Pumpenschacht-1024x683.jpg","/images2/Pfeilgiftfrosch1-1024x776.jpg","/images2/Kaulquappe-1024x748.jpg","/images2/Kaulquappe2-1024x768.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Modell": "P06",
@@ -14273,7 +14273,7 @@
   "id": 183,
   "title": "Terrarium für Pfeilgiftfrösche Typ P03",
   "description": "Großzügiges Regenwald-Paludarium des Typs P03 für Pfeilgiftfrösche (Dendrobaten). Die aufwendig gestaltete Granitfels-Jungle-Landschaft mit dichtem Pflanzenwuchs, Bachlauf, Wasserfall und kleinen Wasserzonen bildet einen naturnahen tropischen Lebensraum. Der integrierte Ganzglaskern schützt die Konstruktion dauerhaft vor Feuchtigkeit und ermöglicht einen sicheren Betrieb des Wasserteils. Automatische Beregnung, Luftbefeuchtung, digitale Feuchtigkeitssteuerung sowie eine Sonnenauf- und Sonnenuntergangssimulation schaffen optimale Bedingungen für die erfolgreiche Haltung und Beobachtung von Pfeilgiftfröschen.",
-  "images": [],
+  "images": ["/images2/Terrariumtotale-1-683x1024.jpg","/images2/Terrariumtotale2-1024x683.jpg","/images2/Landschaftstotale-1024x683 (3).jpg","/images2/Landschaft-linke-Seite-683x1024 (2).jpg","/images2/Landschaft-rechte-Seite2-683x1024.jpg","/images2/Landschaft-rechts-1024x683 (3).jpg","/images2/Landschaft-Boden-683x1024.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Modell": "P03",
@@ -14368,7 +14368,7 @@
   "id": 184,
   "title": "Regenwaldterrarium für Chamäleons Typ R03",
   "description": "Hochwertiges Regenwaldterrarium des Typs R03 für Chamäleons mit großzügiger Vertikalstruktur und professioneller Klimaautomatisierung. Die naturnahe Granitfels-Jungle-Landschaft mit Bromelien, Tillandsien, Farnen und Rankpflanzen bietet ideale Kletter- und Rückzugsmöglichkeiten für baumbewohnende Chamäleons. Der wasserdichte Innenkern schützt die Möbelkonstruktion dauerhaft vor Feuchtigkeit. Durch automatische Beregnung, kontrollierte Belüftung sowie einen integrierten Terrariencomputer zur Steuerung von Temperatur, Luftfeuchtigkeit und Beleuchtung entsteht ein stabiles tropisches Klima. Das hochglänzende Acryl-Dekor verleiht dem Terrarium zusätzlich eine besonders exklusive Möbeloptik.",
-  "images": [],
+  "images": ["/images2/9e-Terra-komplett-683x1024.jpg","/images2/9f-Terra-im-Zimmer-1024x683.jpg","/images2/9d-Dekoration-1024x966.jpg","/images2/9a-Dekoration-1024x683.jpg","/images2/9c-Dekoration-683x1024.jpg","/images2/9h-Chamäleon-1024x683.jpg","/images2/R03-Landschaft--1024x880.jpg","/images2/R03-Landschaft-links--663x1024.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Regenwaldterrarium",
     "Modell": "R03",
@@ -14453,7 +14453,7 @@
   "id": 185,
   "title": "Paludarium für Pfeilgiftfrösche mit diagonaler Frontglasscheibe",
   "description": "Exklusives Sonder-Paludarium für Pfeilgiftfrösche mit außergewöhnlicher Architektur und diagonaler Frontverglasung. Die um 45° geneigte Frontscheibe ermöglicht bei niedriger Bauhöhe einen optimalen Einblick von oben und macht die Anlage besonders für Empfangsbereiche und repräsentative Räume interessant. Hinter der Rückwand verläuft ein hoher Wasserfall über eine separate Glasscheibe, wodurch ein beeindruckender Tiefeneffekt entsteht. Die naturnahe Granitfels-Jungle-Landschaft mit dichtem Pflanzenbewuchs, Bachlauf und Wasserkanal schafft ein ideales Regenwaldhabitat für Dendrobaten. Die gesamte Technik wurde platzsparend im Lichtkasten integriert, sodass die Anlage vollständig ohne Unterschrank realisiert werden konnte.",
-  "images": [],"youtube":"https://www.youtube.com/watch?v=lT3dzh9lQ7s",
+  "images": ["/images2/Terra-hell-frontal-Totale-1-1024x683.jpg","/images2/Terra-hell-frontal-1-1024x683.jpg","/images2/Terra-hell-v.links_-1024x683.jpg","/images2/Terra-hell-v.rechts-1024x683.jpg","/images2/Terra-komplett-1024x683.jpg","/images2/Terrarium-komplett-v.r.-1024x683.jpg","/images2/Terrarium-Totale-6-1024x683.jpg","/images2/Totale-2-683x1024.jpg","/images2/4-im-Nebel-1024x683.jpg","/images2/4-Bepflanzung5-768x1024.jpg","/images2/4-Tümpel-1024x683.jpg","/images2/Frösche6-1024x710.jpg","/images2/Frösche7-1024x755.jpg","/images2/4-Bachlauf1-1024x683.jpg","/images2/Frösche1-1024x672.jpg","/images2/4-Bepflanzung3-1024x768.jpg","/images2/Frösche4-1024x952.jpg","/images2/4-Bepflanzung2-1024x768.jpg","/images2/Frösche5-1024x904.jpg"],"youtube":"https://www.youtube.com/watch?v=lT3dzh9lQ7s",
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Modell": "Sonderanfertigung für Dendrobaten",
@@ -14553,7 +14553,7 @@
   "id": 186,
   "title": "Terrarien als Schrankwände",
   "description": "Individuell geplante Terrarien-Schrankwände als hochwertige Wohnraummöbel mit integrierten Terrarien, Regalen, Vitrinen, Bücherfächern oder Barbereichen. Die Anlagen werden exakt an die vorhandene Raumarchitektur und Einrichtung angepasst und können für sämtliche Reptilienarten sowie unterschiedliche Lebensraumtypen konzipiert werden. Ob Wüsten-, Steppen-, Wald- oder Regenwaldterrarien – jede Schrankwand vereint funktionale Tierhaltung mit exklusivem Möbeldesign und wird in Größe, Dekor, Ausstattung und Technik individuell gefertigt.",
-  "images": [],"youtube":"https://www.youtube.com/watch?v=mim6vYnLZ0Q",
+  "images": ["/images2/Schrankwand-1024x579.jpg","/images2/Schrankwand-Totale-1024x680.jpg","/images2/Schrankwand-Seite-680x1024.jpg","/images2/Terrarienwand-seitlich-1024x718.jpg","/images2/Seitenregal-680x1024.jpg","/images2/R04-Totale-1024x786.jpg"],"youtube":"https://www.youtube.com/watch?v=mim6vYnLZ0Q",
   "technicalDetails": {
     "Kategorie": "Terrarien-Schrankwand",
     "Terrarientypen": [
@@ -14665,7 +14665,7 @@
   "title": "Regenwaldterrarium für Taggeckos Typ R03",
   "description": "Vertikal ausgerichtetes Regenwaldterrarium des Typs R03 für Große Madagaskar-Taggeckos (Phelsuma grandis). Die naturnahe Granitfels-Jungle-Landschaft mit echten Pflanzen, zahlreichen Bambusröhren und Kletterästen bietet ideale Bedingungen für diese aktiven und kletterfreudigen Geckos. Der wasserdichte Kunststoffinnenkern schützt die Möbelkonstruktion dauerhaft vor Feuchtigkeit, während Beregnungsanlage und Belüftung für ein stabiles tropisches Klima sorgen. Die hohe Bauform schafft viel nutzbaren Lebensraum und ermöglicht eine artgerechte Haltung baumbewohnender Taggeckos.",
 "youtube":"https://www.youtube.com/watch?v=hH8eNpt2_mY",
-  "images": [],
+  "images": ["/images2/13-1024x681.jpg","/images2/4-594x1024.jpg","/images2/2-576x1024.jpg","/images2/R03-Phelsumen-in-grau-683x1024.jpg","/images2/R03-Phelsumen-Totale-im-Zimmer-573x1024.jpg","/images2/31-1024x753.jpg","/images2/5-576x1024.jpg","/images2/6-1024x919.jpg","/images2/9-576x1024.jpg","/images2/11-1-576x1024.jpg","/images2/12-1024x902.jpg","/images2/14-1024x681.jpg","/images2/17-1024x681.jpg","/images2/20-1024x681.jpg","/images2/21-1-1024x681.jpg","/images2/24-1024x681.jpg","/images2/25-1024x636.jpg","/images2/29-1024x681.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Regenwaldterrarium",
     "Modell": "R03",
@@ -14739,8 +14739,7 @@
       "individuell in Größe, Dekor und Ausstattung anpassbar"
     ]
   }
-},
- {
+}, {
   "id": 188,
   "title": "Terrarium für Schlangen",
   "description": "Vielseitiges Halbfeucht- und Waldterrarium des Typs T07 für zahlreiche Schlangenarten wie Kornnattern, Boas, Teppichpythons oder Königspythons. Die naturnahe Granitfels-Waldlandschaft mit Felsen, Wurzeln, Rinden- und Korkelementen schafft einen abwechslungsreichen Lebensraum mit zahlreichen Versteck-, Kletter- und Ruheplätzen. Das Terrarium ist in verschiedenen Größen erhältlich und kann mit unterschiedlichen Unterschrankvarianten ausgestattet werden. Durch die modulare Technik- und Ausstattungsoption eignet sich die Anlage sowohl für Einsteiger als auch für anspruchsvolle Schlangenhalter.","youtube":"https://www.youtube.com/watch?v=JDedJjk-fLU",
