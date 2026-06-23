@@ -27,8 +27,28 @@ export function ProductDetails() {
   const [currentIndex, setCurrentIndex] = useState(0);
 
   // ================= IMAGE MODAL =================
-  const [selectedImage, setSelectedImage] =
-    useState<string | null>(null);
+  const [selectedImageIndex, setSelectedImageIndex] =
+  useState<number | null>(null);
+
+  const nextModalImage = () => {
+  if (selectedImageIndex === null || !product) return;
+
+  setSelectedImageIndex(
+    selectedImageIndex === product.images.length - 1
+      ? 0
+      : selectedImageIndex + 1
+  );
+};
+
+const prevModalImage = () => {
+  if (selectedImageIndex === null || !product) return;
+
+  setSelectedImageIndex(
+    selectedImageIndex === 0
+      ? product.images.length - 1
+      : selectedImageIndex - 1
+  );
+};
 
   /* ================= AUTO SLIDE ================= */
   useEffect(() => {
@@ -216,7 +236,7 @@ export function ProductDetails() {
                   <img
                     src={image}
                     alt={`${product.title} ${index + 1}`}
-                    onClick={() => setSelectedImage(image)}
+                   onClick={() => setSelectedImageIndex(index)}
                     className="w-full h-[450px] md:h-[600px]
                     object-contain bg-slate-100
                     cursor-zoom-in"
@@ -442,37 +462,67 @@ export function ProductDetails() {
       </section>
 
       {/* ================= FULLSCREEN IMAGE MODAL ================= */}
-      {selectedImage && (
+      {selectedImageIndex !== null && (
 
         <div
-          className="fixed inset-0 z-[999]
-          bg-black/90 backdrop-blur-sm
-          flex items-center justify-center
-          p-4"
-        >
+  className="fixed inset-0 z-[999]
+  bg-black/90 backdrop-blur-sm
+  flex items-center justify-center
+  p-4"
+>
+  {/* CLOSE BUTTON */}
+  <button
+    onClick={() => setSelectedImageIndex(null)}
+    className="absolute top-6 right-6
+    w-12 h-12 rounded-full
+    bg-white/10 hover:bg-white/20
+    border border-white/20
+    flex items-center justify-center
+    transition-all duration-300"
+  >
+    <X className="w-6 h-6 text-white" />
+  </button>
 
-          {/* CLOSE BUTTON */}
-          <button
-            onClick={() => setSelectedImage(null)}
-            className="absolute top-6 right-6
-            w-12 h-12 rounded-full
-            bg-white/10 hover:bg-white/20
-            border border-white/20
-            flex items-center justify-center
-            transition-all duration-300"
-          >
-            <X className="w-6 h-6 text-white" />
-          </button>
+  {/* PREVIOUS */}
+  {product.images.length > 1 && (
+    <button
+      onClick={prevModalImage}
+      className="absolute left-6 top-1/2
+      -translate-y-1/2
+      w-14 h-14 rounded-full
+      bg-white/10 hover:bg-white/20
+      border border-white/20
+      flex items-center justify-center
+      transition-all duration-300"
+    >
+      <ChevronLeft className="w-8 h-8 text-white" />
+    </button>
+  )}
 
-          {/* IMAGE */}
-          <img
-            src={selectedImage}
-            alt="Fullscreen"
-            className="max-w-full max-h-[90vh]
-            object-contain rounded-2xl"
-          />
+  {/* IMAGE */}
+  <img
+    src={product.images[selectedImageIndex]}
+    alt="Fullscreen"
+    className="max-w-full max-h-[90vh]
+    object-contain rounded-2xl"
+  />
 
-        </div>
+  {/* NEXT */}
+  {product.images.length > 1 && (
+    <button
+      onClick={nextModalImage}
+      className="absolute right-6 top-1/2
+      -translate-y-1/2
+      w-14 h-14 rounded-full
+      bg-white/10 hover:bg-white/20
+      border border-white/20
+      flex items-center justify-center
+      transition-all duration-300"
+    >
+      <ChevronRight className="w-8 h-8 text-white" />
+    </button>
+  )}
+</div>
 
       )}
 
