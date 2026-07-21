@@ -15832,96 +15832,10 @@
   }
 },
 {
-  "id": 200,
-  "title": "Paludarium für Pfeilgiftfrösche als Schrankeinbau (Typ P06)",
-  "description": "Kompaktes Paludarium des Typs P06 für Pfeilgiftfrösche, speziell als maßgeschneiderte Einbaulösung für vorhandene Schrankanlagen konzipiert. Das reine Glasterrarium integriert sich nahtlos in bestehende Möbel und bietet trotz der kompakten Abmessungen einen naturnah gestalteten Regenwald-Lebensraum mit Bachlauf, Wasserfall und dichter tropischer Bepflanzung. Die komplette Technik einschließlich Beregnungsanlage, Wasserreservoir und Lüftung ist platzsparend oberhalb des Terrariums untergebracht und wird durch eine abnehmbare Frontblende in gebürsteter Aluminiumoptik verdeckt.",
-  "images": ["/images2/Totale-im-Schrank-1024x683.jpg","/images2/Terrariumtotale-683x1024.jpg","/images2/Landschaftstotale-links-1024x683 (1).jpg","/images2/0.jpg","/images2/0.jpg","/images2/0.jpg","/images2/0.jpg","/images2/0.jpg","/images2/Landschaftstotale-rechts-683x1024 (1).jpg","/images2/Landschaft-1024x683 (1).jpg","/images2/Wasserpart2-1024x683.jpg","/images2/Wasserpart-vorne-1024x683.jpg","/images2/Tümpel-im-Bachlauf-1024x683.jpg","/images2/Bachlauf-Felsen-1024x683.jpg","/images2/Landschaft2-1-1024x683.jpg","/images2/Bepflanzung5-1024x768.jpg","/images2/Bepflanzung-1024x683 (1).jpg"],"youtube":"https://www.youtube.com/watch?v=fqAl5G23a6Y",
-  "technicalDetails": {
-    "Terrarium Typ": "Paludarium",
-    "Modell": "P06",
-    "Terrarientypen": [
-      "Pfeilgiftfrosch-Terrarium",
-      "Paludarium",
-      "Regenwaldterrarium",
-      "Einbau-Terrarium"
-    ],
-    "ReptilienTyp": [
-      "Amphibien"
-    ],
-    "reptilien": [
-      "Dendrobaten (Pfeilgiftfrösche)"
-    ],
-    "Terrarium Maße": {
-      "breite": "75,5 cm",
-      "tiefe": "41 cm",
-      "hoehe": "80 cm",
-      "technikblendeHoehe": "33 cm",
-      "gesamtHoehe": "113 cm"
-    },
-    "einbauart": [
-      "reines Glasterrarium",
-      "Einbau in bestehende Schrankwand",
-      "ohne Unterschrank",
-      "maßgefertigte Schrankeinbaulösung"
-    ],
-    "landschaft": [
-      "Granitfels-Jungle-Optik",
-      "Rankpflanzen",
-      "Farne",
-      "Moose",
-      "kleinbleibende Tropenpflanzen",
-      "Wurzeln",
-      "kleine Felsbrocken",
-      "integrierter Bachlauf",
-      "Wasserfall"
-    ],
-    "wasserbereich": [
-      "großer Landbereich",
-      "kleine Tümpel",
-      "vorderer Wasserkanal",
-      "natürliche Wasserzirkulation"
-    ],
-    "verglasung": [
-      "4 mm Glas mit polierten Kanten",
-      "Drosophila-dichte Ausführung"
-    ],
-    "beleuchtung": [
-      "2 Bright Sun Jungle",
-      "2 Reflektoren auf der Metallgazefläche"
-    ],
-    "belueftung": [
-      "drosophila-dichte Lüftungsrosetten in der Glasbodenblende",
-      "großflächige Gazedecke",
-      "Lüfterset mit 2 Ventilatoren"
-    ],
-    "beregnungsanlage": [
-      "automatische Beregnungsanlage"
-    ],
-    "wassertechnik": [
-      "Wasserfallpumpe",
-      "Heizstab für den Wasserbereich"
-    ],
-    "technikbereich": [
-      "Wassertank oberhalb des Terrariums",
-      "gesamte Technik im oberen Technikfach",
-      "abnehmbare Frontabdeckung in gebürsteter Aluminiumoptik"
-    ],
-    "besonderheiten": [
-      "speziell für den Einbau in bestehende Schrankanlagen entwickelt",
-      "komplette Technik unsichtbar im oberen Technikbereich integriert",
-      "drosophila-dichte Bauweise für Pfeilgiftfrösche",
-      "naturnaher Regenwaldlebensraum mit Wasserfall",
-      "großer Landbereich trotz kompakter Außenmaße",
-      "optimale Luftzirkulation durch großflächige Gazedecke",
-      "maßgefertigte Sonderanfertigung für individuelle Möbelintegration",
-      "in Größe und Ausstattung individuell anpassbar"
-    ]
-  }
-},{
   "id": 201,
-  "title": "Terrarien-Landschaften für den Selbsteinbau",
+  "title": "Landschaften für den Selbsteinbau",
   "description": "Individuell gefertigte Terrarien-Landschaften für den nachträglichen Einbau in bereits vorhandene Terrarien. Die Landschaftsmodule werden exakt auf die vorhandenen Innenmaße abgestimmt und können als Rückwand, L-Form oder U-Form gefertigt werden. Je nach Tierart und Terrarientyp entstehen naturgetreue Wüsten-, Wald- oder Regenwaldlandschaften mit integrierten Strukturen für Klettern, Verstecken und Bepflanzen. Die vorgefertigten Elemente ermöglichen eine professionelle Terrariengestaltung ohne kompletten Neubau und können vom Kunden selbst montiert oder direkt durch den Hersteller eingebaut werden.",
-  "images": [],
+  "images": ["/images3/Totale-eingebaute-Landschaft-1024x900.jpg","/images3/Landschaft-eingebaut-1024x576.jpg","/images3/grosse-Wüstenlandschaft-U-Form-1024x727.jpg","/images3/2m-Wüstenlandschaft-eingebaut-1024x768.jpg"], "youtube":"https://www.youtube.com/watch?v=fahr2BKvnCo",
   "technicalDetails": {
     "Produktart": "Terrarien-Landschaften für den Selbsteinbau",
     "Einsatzbereich": [
@@ -16008,8 +15922,8 @@
 {
   "id": 202,
   "title": "Paludarium für australische Wasseragamen",
-  "description": "Großzügiges Paludarium in Sonderbauform für australische Wasseragamen (Physignathus lesueurii). Die naturnahe Granitfels-Jungle-Landschaft mit echter Bepflanzung und integriertem Wasserbereich bietet ideale Bedingungen für diese semiaquatischen Echsen. Das mit Felsen verkleidete Aquarium schafft einen natürlichen Schwimmbereich, während die erhöhte Regenwaldlandschaft zahlreiche Kletter- und Sonnenplätze bietet. Durch den vollständigen Glasinnenkern, die automatische Klima- und Wassertechnik sowie die integrierte Lichtsteuerung entsteht ein hochwertiges, langlebiges Habitat mit professioneller Ausstattung.",
-  "images": [],
+  "description": "Großzügiges Paludarium in Sonderbauform für australische Wasseragamen (Physignathus lesueurii). Die naturnahe Granitfels-Jungle-Landschaft mit echter Bepflanzung und integriertem Wasserbereich bietet ideale Bedingungen für diese semiaquatischen Echsen. Das mit Felsen verkleidete Aquarium schafft einen natürlichen Schwimmbereich, während die erhöhte Regenwaldlandschaft zahlreiche Kletter- und Sonnenplätze bietet. Durch den vollständigen Glasinnenkern, die automatische Klima- und Wassertechnik sowie die integrierte Lichtsteuerung entsteht ein hochwertiges, langlebiges Habitat mit professioneller Ausstattung.","youtube":"https://www.youtube.com/watch?v=vqYwV0B5FIU",
+  "images": ["/images3/9-Paludarium-Totale1-683x1024.jpg","/images3/8-Landschaftstotale-1024x683.jpg","/images3/8-Landschaft-9-1024x683.jpg","/images3/8-Landschaft-Agame-3-1024x575.jpg","/images3/8-Landschaft-Agame-2-1024x575.jpg","/images3/8-Landschaft-5-683x1024.jpg","/images3/8-Landschaft-Wasserpart-1-1024x683.jpg","/images3/8-Landschaft-Agame-5-1024x575.jpg","/images3/8-Landschaft-Wasserfall-2-1024x683.jpg","/images3/8-Landschaft-1-1024x683.jpg","/images3/8-Landschaft-4-1024x683.jpg","/images3/8-Landschaft-Agame-1-1024x575.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Modell": "Sonderform",
@@ -16109,8 +16023,8 @@
 },{
   "id": 203,
   "title": "Terrarium für Fidschi-Leguane Typ R03",
-  "description": "Großzügiges Regenwaldterrarium des Typs R03 für Fidschi-Leguane mit naturnaher Granitfels-Jungle-Landschaft. Die Gestaltung kombiniert tropische Felsstrukturen mit einem sandigen Bodenbereich und echten Pflanzen in integrierten Pflanzmulden, wodurch die natürlichen Lebensbedingungen der Fidschi-Leguane optimal nachgebildet werden. Die hochwertige Konstruktion mit wasserdichtem Innenkern, automatischer Beregnung und Feuchtigkeitssteuerung sorgt für ein dauerhaft stabiles Klima. Das elegante Möbeldesign in weiß glänzender Ausführung fügt sich harmonisch in moderne Wohnräume ein.",
-  "images": [],
+  "description": "Großzügiges Regenwaldterrarium des Typs R03 für Fidschi-Leguane mit naturnaher Granitfels-Jungle-Landschaft. Die Gestaltung kombiniert tropische Felsstrukturen mit einem sandigen Bodenbereich und echten Pflanzen in integrierten Pflanzmulden, wodurch die natürlichen Lebensbedingungen der Fidschi-Leguane optimal nachgebildet werden. Die hochwertige Konstruktion mit wasserdichtem Innenkern, automatischer Beregnung und Feuchtigkeitssteuerung sorgt für ein dauerhaft stabiles Klima. Das elegante Möbeldesign in weiß glänzender Ausführung fügt sich harmonisch in moderne Wohnräume ein.","youtube":"https://www.youtube.com/watch?v=yMNX73YkI6A",
+  "images": ["/images3/Totale-699x1024.jpg","/images3/Fidschi-Leguane-1024x683.jpg","/images3/Landschaft1-847x1024.jpg","/images3/Landschaft-2-761x1024.jpg","/images3/Fidschi-Leguan3-1024x683.jpg","/images3/Bepflanzung-683x1024.jpg","/images3/Fidschi-Leguan2-1024x683.jpg","/images3/Bepflanzung3-683x1024.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Regenwaldterrarium",
     "Modell": "R03",
@@ -16190,8 +16104,8 @@
   {
   "id": 204,
   "title": "Wüsten-Steppenterrarium Typ S08",
-  "description": "Großzügiges Wüsten- und Steppenterrarium des Typs S08 für Bartagamen und andere trockenheitsliebende Reptilien. Die naturnahe Wüstenlandschaft mit mehrfarbiger Sandstein- und Terracottaoptik, echten Wüstenbüschen, Kletterästen und Felsstrukturen schafft ein authentisches Habitat mit optimalen Sonnen-, Kletter- und Ruheplätzen. Das Modell verfügt über eine dezente Bodenblende mit verdeckt liegenden Füßen oder Möbelrollen und eignet sich insbesondere für große Terrarienanlagen. Aufgrund der Abmessungen werden viele Anlagen modular gefertigt und erst beim Kunden vor Ort montiert.",
-  "images": [],
+  "description": "Großzügiges Wüsten- und Steppenterrarium des Typs S08 für Bartagamen und andere trockenheitsliebende Reptilien. Die naturnahe Wüstenlandschaft mit mehrfarbiger Sandstein- und Terracottaoptik, echten Wüstenbüschen, Kletterästen und Felsstrukturen schafft ein authentisches Habitat mit optimalen Sonnen-, Kletter- und Ruheplätzen. Das Modell verfügt über eine dezente Bodenblende mit verdeckt liegenden Füßen oder Möbelrollen und eignet sich insbesondere für große Terrarienanlagen. Aufgrund der Abmessungen werden viele Anlagen modular gefertigt und erst beim Kunden vor Ort montiert.","youtube":"https://www.youtube.com/watch?v=mim6vYnLZ0Q",
+  "images": ["/images3/S08-Totale-frontal-1024x904.jpg","/images3/S08-Totale-1024x963.jpg","/images3/S08-Totale-2-861x1024.jpg","/images3/Landschafstotale-1024x683.jpg","/images3/Landschaft-v.l-1024x683.jpg","/images3/Landschaft-hf-683x1024.jpg","/images3/Bartagame-im-S08-1024x576.jpg","/images3/Boden-1024x683.jpg","/images3/Höhle-1024x683.jpg","/images3/S08-Totale-1024x727.jpg","/images3/linke-Seite-mit-Bartagame-1024x748.jpg","/images3/Totale-v.l.-1024x768.jpg","/images3/S08-220x100x100-Totale-1024x683.jpg","/images3/Wurzeln-und-Gräser-1024x683.jpg","/images3/S08-mit-Mondlicht-1024x1006.jpg","/images3/Landschaft-rechte-Ecke-683x1024.jpg","/images3/Landschaft-linke-Seite-683x1024.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
     "Modell": "S08",
@@ -16278,9 +16192,9 @@
   }
 },{
   "id": 205,
-  "title": "Halbfeucht-Waldterrarium für Schlangen mit Buddha-Skulptur (Typ T07)",
-  "description": "Exklusives Halbfeucht- und Waldterrarium des Typs T07 mit integrierter Buddha-Skulptur als dekorativem Gestaltungselement. Die naturnahe Granitfels-Waldlandschaft mit Felsen, Wurzeln, Rinden- und Korkelementen schafft ein abwechslungsreiches Habitat für Kornnattern, Boas, Königspythons und weitere Schlangenarten. Künstliche Pflanzen und Kletteräste ergänzen die Gestaltung und sorgen für eine dauerhaft pflegeleichte Optik. Die hochwertige Konstruktion mit wasserdichter Innenverkleidung, optionaler Klimaautomatisierung und großzügigem Stauraum im Unterschrank verbindet Funktionalität mit außergewöhnlichem Design.",
-  "images": [],
+  "title": "Halbfeucht-Waldterrarium für Schlangen mit Buddha-Skulptur Typ T07",
+  "description": "Exklusives Halbfeucht- und Waldterrarium des Typs T07 mit integrierter Buddha-Skulptur als dekorativem Gestaltungselement. Die naturnahe Granitfels-Waldlandschaft mit Felsen, Wurzeln, Rinden- und Korkelementen schafft ein abwechslungsreiches Habitat für Kornnattern, Boas, Königspythons und weitere Schlangenarten. Künstliche Pflanzen und Kletteräste ergänzen die Gestaltung und sorgen für eine dauerhaft pflegeleichte Optik. Die hochwertige Konstruktion mit wasserdichter Innenverkleidung, optionaler Klimaautomatisierung und großzügigem Stauraum im Unterschrank verbindet Funktionalität mit außergewöhnlichem Design.","youtube":"https://www.youtube.com/watch?v=JDedJjk-fLU",
+  "images": ["/images3/Landschaftstotale2-2-1024x735.jpg","/images3/T09-Buddha-Totale-764x1024.jpg","/images3/Ecke-mit-Buddha1-683x1024.jpg","/images3/Korni-im-Buddha-768x1024.jpg","/images3/Ecke-mit-Buddha2-683x1024.jpg","/images3/linke-Seite-1-683x1024.jpg","/images3/Landschaft-mit-Buddha1-1024x683.jpg","/images3/Landschaft-mit-Buddha2-1024x683.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Halbfeucht- und Waldterrarium",
     "Modell": "T07",
@@ -16376,8 +16290,8 @@
 },{
   "id": 206,
   "title": "Terrarium in Granitfels-Optik Typ S07",
-  "description": "Wüsten- und Steppenterrarium des Typs S07 mit einer Landschaftsgestaltung nach dem Vorbild der nordamerikanischen Sonora-Wüste. Die markante Granitfelslandschaft mit Terracottastrukturen, zahlreichen Felsspalten, Höhlen und Vorsprüngen bietet ideale Lebensbedingungen für Chuckwallas und andere felsbewohnende Wüstenreptilien. Die Kombination aus echten Wüstenbüschen, trockenem Geäst, Kletterästen und naturgetreuen Felsformationen schafft ein authentisches Habitat mit vielfältigen Sonnen-, Versteck- und Rückzugsmöglichkeiten. Die Landschaft kann in ähnlicher Farbgebung auch individuell für andere Wüsten- und Steppenarten angepasst werden.",
-  "images": [],
+  "description": "Wüsten- und Steppenterrarium des Typs S07 mit einer Landschaftsgestaltung nach dem Vorbild der nordamerikanischen Sonora-Wüste. Die markante Granitfelslandschaft mit Terracottastrukturen, zahlreichen Felsspalten, Höhlen und Vorsprüngen bietet ideale Lebensbedingungen für Chuckwallas und andere felsbewohnende Wüstenreptilien. Die Kombination aus echten Wüstenbüschen, trockenem Geäst, Kletterästen und naturgetreuen Felsformationen schafft ein authentisches Habitat mit vielfältigen Sonnen-, Versteck- und Rückzugsmöglichkeiten. Die Landschaft kann in ähnlicher Farbgebung auch individuell für andere Wüsten- und Steppenarten angepasst werden.","youtube":"https://www.youtube.com/watch?v=tjHgtFRj1ME",
+  "images": ["/images3/Totale-Sonora-Wüste-1024x785.jpg","/images3/Totale-von-rechts-1024x749.jpg","/images3/.Vergleich-Landschaft-Sonora-Wueste-937x1024jpg","/images3/FB-Sonora-1024x544.jpg","/images3/Felsdetail-4-683x1024.jpg","/images3/Felsdetails-1-1024x683.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
     "Modell": "S07",
@@ -16458,8 +16372,8 @@
 },{
   "id": 207,
   "title": "Halbfeucht-Waldterrarium für Schlangen Typ T09",
-  "description": "Hochwertiges Halbfeucht- und Waldterrarium des Typs T09 für Boas, Kornnattern, Teppichpythons, Königspythons und weitere Schlangenarten. Die naturnahe Granitfels-Waldlandschaft mit Felsen, Wurzeln, Rinden- und Korkelementen bietet zahlreiche Versteck-, Kletter- und Ruheplätze. Die Gestaltung entspricht dem Typ T07; der wesentliche Unterschied liegt in der Ausführung des Unterschranks. Das hier gezeigte Modell T09F verfügt zusätzlich über seitliche Festglaselemente für erweiterte Einblicke in die Terrarienlandschaft. Durch die modulare Bauweise und umfangreiche optionale Technik lässt sich das Terrarium individuell an die Bedürfnisse unterschiedlicher Schlangenarten anpassen.",
-  "images": [],
+  "description": "Hochwertiges Halbfeucht- und Waldterrarium des Typs T09 für Boas, Kornnattern, Teppichpythons, Königspythons und weitere Schlangenarten. Die naturnahe Granitfels-Waldlandschaft mit Felsen, Wurzeln, Rinden- und Korkelementen bietet zahlreiche Versteck-, Kletter- und Ruheplätze. Die Gestaltung entspricht dem Typ T07; der wesentliche Unterschied liegt in der Ausführung des Unterschranks. Das hier gezeigte Modell T09F verfügt zusätzlich über seitliche Festglaselemente für erweiterte Einblicke in die Terrarienlandschaft. Durch die modulare Bauweise und umfangreiche optionale Technik lässt sich das Terrarium individuell an die Bedürfnisse unterschiedlicher Schlangenarten anpassen.","youtube":"https://www.youtube.com/watch?v=JDedJjk-fLU",
+  "images": ["/images3/Totale-Landschaft-1-1024x768.jpg","/images3/Seitenansicht-1024x832.jpg","/images3/.Bodenfläche-1-1024x768jpg","/images3/Landschaft-mit-Korni-1024x768.jpg","/images3/Jungle-Landschaft-1024x683.jpg","/images3/Korni-im-Geäst-683x1024.jpg","/images3/Kornnatter-1024x683.jpg","/images3/Kornnatter2-1-1024x683.jpg","/images3/0.jpg","/images3/Ruheplatz-1024x683.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Halbfeucht- und Waldterrarium",
     "Modell": "T09",
@@ -16555,7 +16469,7 @@
   "id": 208,
   "title": "Regenwaldterrarium für ein Chamäleon Typ R09",
   "description": "Elegantes Regenwaldterrarium des Typs R09 für Panther-Chamäleons mit hochwertiger Integration in moderne Wohnlandschaften. Die naturnahe Granitfels-Jungle-Landschaft mit Wurzel- und Korkelementen, Bromelien, Tillandsien, Farnen und Rankpflanzen schafft optimale Lebensbedingungen für baumbewohnende Chamäleons. Durch die Kombination aus automatischer Klima- und Feuchtigkeitssteuerung, leistungsstarker Beleuchtung und hochwertiger Möbelverarbeitung entsteht ein funktionales und zugleich dekoratives Terrarium für anspruchsvolle Tropenbewohner.",
-  "images": [],
+  "images": ["/images3/R09-Totale-685x1024.jpg","/images3/R09-Regenwaldterrarium-in-Wohnlandschaft-1024x768.jpg","/images3/R09-Regenwaldterrarium-in-Wohnlandschaft-1024x768.jpg","/images3/R09-Jungle-Landschaft-1024x683.jpg","/images3/R09-Chamäleon3-1024x683.jpg","/images3/R09-Chamäleon3-1024x683.jpg","/images3/R09-Chamäleon3-1024x683.jpg","/images3/R09-Chamäleon2-1024x768.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Regenwaldterrarium",
     "Modell": "R09",
@@ -16641,7 +16555,7 @@
   "id": 209,
   "title": "Wüsten-Steppenterrarium Typ S09",
   "description": "Großzügiges Wüsten- und Steppenterrarium des Typs S09 für Bartagamen und andere trockenheitsliebende Reptilien. Die Landschaftsgestaltung entspricht dem bewährten Typ S07 und bildet mit ihrer mehrfarbigen Sandstein- und Terracottaoptik, natürlichen Wüstenpflanzen, Kletterästen und Felsstrukturen ein authentisches Wüstenhabitat nach. Der wesentliche Unterschied zum Typ S07 liegt in der alternativen Unterschrankkonstruktion, die zusätzliche Gestaltungsmöglichkeiten für die Möbelintegration bietet. Das Terrarium verbindet artgerechte Haltung, hochwertige Verarbeitung und eine wohnraumtaugliche Optik.",
-  "images": [],
+  "images": ["/images3/S09-Totale-832x1024.jpg","/images3/Gondelterra-857x1024.jpg","/images3/S09-Büro-686x1024.jpg","/images3/Landschaft-2-1024x683.jpg","/images3/Landschaft-v.r.-1-1024x683.jpg","/images3/Jungtier-1024x683.jpg","/images3/Landschaft-v.l.-1024x683.jpg","/images3/Landschaft-rechts-1-1024x683.jpg","/images3/Bartagame-1024x683.jpg","/images3/Bartis-auf-Stein-1024x768.jpg","/images3/S02-Kletterast-683x1024.jpg","/images3/S02-linke-Seite-683x1024.jpg","/images3/Struktur-1024x683.jpg","/images3/Felsüberstand-1024x768.jpg","/images3/Landschaft-1024x768.jpg","/images3/Zwergbartagame-an-der-Wand-1024x768.jpg","/images3/Zwergbartagame-768x1024.jpg"], "youtube":"https://www.youtube.com/watch?v=nkZ2TDdNtZc",
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
     "Modell": "S09",
@@ -16714,8 +16628,8 @@
 },{
   "id": 210,
   "title": "Wüsten-Steppenterrarium in Panoramaform",
-  "description": "Großzügiges Panorama-Wüsten- und Steppenterrarium mit einer Länge von 250 cm für Bartagamen und andere trockenheitsliebende Reptilien. Die weitläufige Frontansicht ermöglicht beeindruckende Einblicke in die naturnah gestaltete Wüstenlandschaft mit Sandstein- und Terracottaoptik, Felsstrukturen, Wüstenvegetation und zahlreichen Kletter- und Sonnenplätzen. Durch die außergewöhnlichen Abmessungen wurde das Terrarium modular gefertigt und direkt beim Kunden vor Ort montiert. Die Panorama-Bauform eignet sich ebenso für Halbfeucht-, Wald- oder Regenwaldterrarien mit entsprechender Anpassung der Landschaftsgestaltung.",
-  "images": [],
+  "description": "Großzügiges Panorama-Wüsten- und Steppenterrarium mit einer Länge von 250 cm für Bartagamen und andere trockenheitsliebende Reptilien. Die weitläufige Frontansicht ermöglicht beeindruckende Einblicke in die naturnah gestaltete Wüstenlandschaft mit Sandstein- und Terracottaoptik, Felsstrukturen, Wüstenvegetation und zahlreichen Kletter- und Sonnenplätzen. Durch die außergewöhnlichen Abmessungen wurde das Terrarium modular gefertigt und direkt beim Kunden vor Ort montiert. Die Panorama-Bauform eignet sich ebenso für Halbfeucht-, Wald- oder Regenwaldterrarien mit entsprechender Anpassung der Landschaftsgestaltung.", "youtube":"https://www.youtube.com/watch?v=iqZmcAV7MMQ",
+  "images": ["/images3/0a-Terrarium-Totale-frontal-1024x898.jpg","/images3/0-Terrarium-Totale-seitlich-1024x922.jpg","/images3/5f-rechte-Hälfte-1024x683.jpg","/images3/5-Landschaftsdetail-683x1024.jpg","/images3/5e-Felsbrücke-1024x683.jpg","/images3/5e-Felsbrücke-1024x683.jpg","/images3/5h-Mitte-Boden-1024x683.jpg","/images3/5g-linke-Hälfte-1024x683.jpg","/images3/6a-Barti-auf-Stein-1024x768.jpg","/images3/5d-Landschaft-von-rechts-683x1024.jpg","/images3/5a-Höhle-1024x683.jpg","/images3/5c-Kletterast-683x1024.jpg","/images3/6b-Barti-am-Boden-1024x768.jpg","/images3/6f-Sonnenanbeter-1024x768.jpg","/images3/6e-Bartis-auf-Ast-1024x768.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
     "Bauform": "Panoramaform",
@@ -16798,7 +16712,7 @@
   "id": 211,
   "title": "Wüsten-Steppenterrarium für Leopardgeckos",
   "description": "Speziell für Leopardgeckos entwickeltes Wüsten- und Steppenterrarium mit einer auf die Bedürfnisse dieser dämmerungs- und nachtaktiven Geckos abgestimmten Landschaftsgestaltung. Im Gegensatz zu klassischen Wüstenterrarien verfügt die Anlage über besonders viele enge Felsspalten, Überhänge und Höhlen, die den natürlichen Rückzugsorten der Tiere nachempfunden sind. Die mehrfarbige Sandstein- und Terracottaoptik wird durch echte Wüstenbüsche, Wurzelteile, Kletteräste und trockenes Geäst ergänzt. Realisierbar als Standardterrarium der Typen S07, S08, S09 oder S11 sowie als Panorama-, Delta- oder doppelstöckige Sonderform.",
-  "images": [],
+  "images": ["/images3/S-Panorama-Totale-1024x810.jpg","/images3/Terra-im-Zimmer-789x1024.jpg","/images3/Landschaftstotale-2-1024x576.jpg","/images3/Leopardgeckoterra-oU-Totale-1024x666.jpg","/images3/Höhle-am-Boden-1024x576.jpg","/images3/Felslandschaft2-2-1024x768.jpg","/images3/Blick-aus-der-Höhle-am-Boden-1024x576.jpg","/images3/Leo-in-Felsspalte-1024x576.jpg","/images3/Leos-kletternd-1024x768.jpg","/images3/Sonnenuntergang-mit-GHL-1024x768.jpg","/images3/schattige-Höhle-1024x576.jpg","/images3/schattige-Felsspalten-1024x576.jpg","/images3/Leos-in-Felswand-1024x768.jpg","/images3/Felslandschaft-1-1024x779.jpg","/images3/Dämmerung-1024x768.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
     "Spezialisierung": "Leopardgecko-Terrarium",
@@ -16896,7 +16810,7 @@
   "id": 212,
   "title": "Terrarium für einen Angola-Python (Typ S07F)",
   "description": "Artgerecht gestaltetes Wüsten- und Steppenterrarium des Typs S07F für Angola-Pythons. Die Landschaft orientiert sich am natürlichen Lebensraum der Art und kombiniert sandfarbene Felsformationen, Geröllfelder und geschützte Versteckplätze mit trockener Vegetation. Durch das seitliche Festglaselement entsteht eine zusätzliche Einsicht in die Terrarienlandschaft. Die hochwertige Ausstattung mit abschließbaren Schiebescheiben, integrierter Beleuchtung und Sonnenauf- sowie Sonnenuntergangssimulation sorgt für optimale Haltungsbedingungen und eine ansprechende Präsentation des Tieres.",
-  "images": [],
+  "images": ["/images3/Terrarium-im-Zimmer-683x1024.jpg","/images3/Terrarium-Totale1-1024x882.jpg","/images3/Python-Plateau-1024x683.jpg","/images3/Python-auf-Sonnenplateau-1024x683.jpg","/images3/Landschaftsvergleich-1024x683.jpg","/images3/Landschaftstotale-1-1024x748.jpg","/images3/Python-Kopf-1024x683.jpg","/images3/Geröllbrocken-1024x683.jpg","/images3/Sonnenplateau-1024x683.jpg","/images3/Python-am-Boden-1024x683.jpg","/images3/Totale-Landschaft-1024x683.jpg","/images3/Python-komplett-1024x683.jpg","/images3/Python-Ast-1024x683.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
     "Modell": "S07F",
@@ -16980,8 +16894,8 @@
 },{
   "id": 213,
   "title": "Wüsten-Steppenterrarium mit Metallsäulen Typ S11",
-  "description": "Modernes Wüsten- und Steppenterrarium des Typs S11 mit markanter Möbelkonstruktion auf vier Metallsäulen aus Edelstahl oder Aluminium. Die Terrarienlandschaft entspricht den bewährten Modellen S07 und S09 und bildet mit naturgetreuen Sandstein- und Terracotta-Strukturen, Wüstenvegetation und Kletterelementen ein authentisches Habitat für Bartagamen und andere Wüstenreptilien. Die offene und elegante Gestaltung des Unterbaus verleiht dem Terrarium eine besonders hochwertige, moderne Optik und macht es zu einem Blickfang im Wohnraum.",
-  "images": [],
+  "description": "Modernes Wüsten- und Steppenterrarium des Typs S11 mit markanter Möbelkonstruktion auf vier Metallsäulen aus Edelstahl oder Aluminium. Die Terrarienlandschaft entspricht den bewährten Modellen S07 und S09 und bildet mit naturgetreuen Sandstein- und Terracotta-Strukturen, Wüstenvegetation und Kletterelementen ein authentisches Habitat für Bartagamen und andere Wüstenreptilien. Die offene und elegante Gestaltung des Unterbaus verleiht dem Terrarium eine besonders hochwertige, moderne Optik und macht es zu einem Blickfang im Wohnraum.", "youtube":"https://www.youtube.com/watch?v=nkZ2TDdNtZc",
+  "images": ["/images3/S11-Totale-702x1024.jpg","/images3/S01-Totale-917x1024.jpg","/images3/Landschaft-2-1024x683 (1).jpg","/images3/Landschaft-v.r.-1-1024x683 (1).jpg","/images3/Landschaft-v.l.-1024x683 (1).jpg","/images3/Landschaft-rechts-1-1024x683 (1).jpg","/images3/Landschaft-links-1024x683.jpg","/images3/Bartagame-1024x683 (1).jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
     "Modell": "S11",
@@ -17069,9 +16983,9 @@
   }
 },{
   "id": 214,
-  "title": "2 Terrarien mit Durchgang – Wüsten-Steppenterrarium Typ S07",
+  "title": "2 Terrarien mit Durchgang",
   "description": "Modulare Terrarienanlage aus zwei miteinander verbundenen Wüsten- und Steppenterrarien des Typs S07. Durch einen in die Felslandschaft integrierten Durchbruch werden beide Terrarien zu einer zusammenhängenden Anlage mit einer Gesamtlänge von 240 cm verbunden. Diese Bauweise eignet sich insbesondere für große oder aktive Wüstenreptilien wie Stachelschwanzwarane und ermöglicht den Transport großer Anlagen auch bei beengten Zugangswegen. Die naturnahe Wüstenlandschaft mit Sandstein- und Terracottaoptik bietet zahlreiche Sonnenplätze, Kletterstrukturen und Rückzugsmöglichkeiten.",
-  "images": [],
+  "images": ["/images3/Terras-Totale-1024x576.jpg","/images3/Bodendekoration-1-1024x576.jpg","/images3/Durchbruch-2-1024x576.jpg","/images3/Durchbruch-3-1024x576.jpg","/images3/Durchgang-v.l-1024x576.jpg","/images3/Stachelschwanzwaran-im-Durchbruch-1024x576.jpg","/images3/Durchgang-v.r.-1024x576.jpg","/images3/linkes-Terra-Totale-1024x576.jpg","/images3/rechtes-Terrarium-1024x576.jpg","/images3/Varanus-acanthurus-576x1024.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
     "Modell": "2x Typ S07 mit Landschaftsdurchgang",
@@ -17160,9 +17074,9 @@
   }
 },{
   "id": 215,
-  "title": "Terrarium für Felsspalten und Mauern bewohnende Reptilien (Typ F07)",
-  "description": "Spezialterrarium des Typs F07 für Reptilien, die in Felsspalten, Trockenmauern und felsigen Habitaten leben. Die individuell gestaltete Trockenmauer- oder Felsspaltenlandschaft bietet zahlreiche schmale Verstecke, Kletterstrukturen und Rückzugsbereiche, die dem natürlichen Lebensraum von Mauergeckos, Eidechsen, Chuckwallas oder Leopardgeckos nachempfunden sind. Je nach Tierart kann das Terrarium als Hochformat für kletternde Arten oder als längliche Ausführung für bodenbewohnende Felsspaltenbewohner konzipiert werden. Die naturnahe Gestaltung wird durch echte Wüstenvegetation, Wurzelstrukturen und naturgetreue Felsoberflächen ergänzt.",
-  "images": [],
+  "title": "Terrarium für Felsspalten und Mauern bewohnende Reptilien",
+  "description": "Spezialterrarium des Typs F07 für Reptilien, die in Felsspalten, Trockenmauern und felsigen Habitaten leben. Die individuell gestaltete Trockenmauer- oder Felsspaltenlandschaft bietet zahlreiche schmale Verstecke, Kletterstrukturen und Rückzugsbereiche, die dem natürlichen Lebensraum von Mauergeckos, Eidechsen, Chuckwallas oder Leopardgeckos nachempfunden sind. Je nach Tierart kann das Terrarium als Hochformat für kletternde Arten oder als längliche Ausführung für bodenbewohnende Felsspaltenbewohner konzipiert werden. Die naturnahe Gestaltung wird durch echte Wüstenvegetation, Wurzelstrukturen und naturgetreue Felsoberflächen ergänzt.","youtube":"https://www.youtube.com/watch?v=tjHgtFRj1ME",
+  "images": ["/images3/Felsenterra-Landschaft-643x1024.jpg","/images3/Felsenterra-seitlich-543x1024.jpg","/images3/Felsenterrarium-421x1024.jpg","/images3/Felslandschaft-Totale-683x1024.jpg","/images3/Felslandschaft-4-1024x683.jpg","/images3/Terrarium-Totale-schräg-438x1024.jpg","/images3/Terrarium-Totale1-1-448x1024.jpg","/images3/Totale-seitlich-602x1024.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Felsspalten- und Trockenmauerterrarium",
     "Modell": "F07",
@@ -17259,8 +17173,8 @@
 },{
   "id": 216,
   "title": "Doppelstöckiges Terrarium als Schrankwand",
-  "description": "Großzügige doppelstöckige Terrarienanlage in Schrankwandoptik mit zwei übereinander angeordneten Terrarien. Die gezeigte Ausführung wurde für Dornschwanzagamen konzipiert und verfügt über eine naturnahe Wüsten- und Steppenlandschaft mit zahlreichen Sonnenplätzen, Felsstrukturen und Versteckmöglichkeiten. Durch die modulare Bauweise eignet sich das Konzept ebenso für Halbfeucht-, Wald- oder Regenwaldterrarien. Die integrierte Schrankwandoptik verbindet hochwertige Möbelgestaltung mit professioneller Terrarientechnik und bietet auf kompakter Grundfläche maximale Nutzfläche für die Tierhaltung.",
-  "images": [],
+  "description": "Großzügige doppelstöckige Terrarienanlage in Schrankwandoptik mit zwei übereinander angeordneten Terrarien. Die gezeigte Ausführung wurde für Dornschwanzagamen konzipiert und verfügt über eine naturnahe Wüsten- und Steppenlandschaft mit zahlreichen Sonnenplätzen, Felsstrukturen und Versteckmöglichkeiten. Durch die modulare Bauweise eignet sich das Konzept ebenso für Halbfeucht-, Wald- oder Regenwaldterrarien. Die integrierte Schrankwandoptik verbindet hochwertige Möbelgestaltung mit professioneller Terrarientechnik und bietet auf kompakter Grundfläche maximale Nutzfläche für die Tierhaltung.", "youtube":"https://www.youtube.com/watch?v=GQGzrlwcHIY",
+  "images": ["/images3/10-Doppelstöcker-Totale-frontal-1024x683.jpg","/images3/10-Doppelstöcker-Totale-seitl-683x1024.jpg","/images3/11-Landschaft-1-1024x683.jpg","/images3/11-Landschaft-2-1024x683.jpg","/images3/Dornschwanzagame4-1024x575.jpg","/images3/11-Landschaft-3-1024x683.jpg","/images3/11-Landschaft-4-1024x683.jpg","/images3/Dornschwanzagame1-1024x575.jpg","/images3/11-Landschaft-5-1024x683.jpg","/images3/Dornschwanzagame2-1024x575.jpg","/images3/11-Landschaft-8-1024x683.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Doppelstöckige Terrarien-Schrankwand",
     "Bauform": "Zwei übereinander angeordnete Terrarien",
@@ -17347,7 +17261,7 @@
   "id": 217,
   "title": "Terrarium für Chuckwallas (Sauromalus) – Wüsten-/Steppenterrarium",
   "description": "Speziell für Chuckwallas und andere felsbewohnende Wüstenreptilien entwickeltes Wüsten- und Steppenterrarium. Die Landschaftsgestaltung orientiert sich an den natürlichen Lebensräumen dieser Tiere und zeichnet sich durch zahlreiche enge Felsspalten, Überhänge und Höhlen aus, die als Rückzugs- und Sicherheitsbereiche dienen. Die naturnahe Wüstenlandschaft mit Sandstein- und Terracottaoptik wird durch echte Wüstenbüsche, Kletteräste und trockenes Geäst ergänzt. Das Konzept kann auf allen Terrarienmodellen der Baureihen S07, S08, S09, S11 sowie auf Panorama-, Delta- oder doppelstöckige Sonderformen angewendet werden.",
-  "images": [],
+  "images": ["/images3/Terrarium-Totale-3-1024x848.jpg","/images3/Landschaft-Chuckwallas-1024x768.jpg","/images3/Chuckwalla-in-Felswand-1024x768.jpg","/images3/Chuckwallas-2-1024x768.jpg","/images3/Chuckwallas-825x1024.jpg","/images3/Felsspalten-1024x768.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
     "Spezialisierung": "Chuckwalla-Terrarium",
@@ -17440,9 +17354,9 @@
   }
 },{
   "id": 218,
-  "title": "Paludarium für Salamander und Unken – Sonderform",
-  "description": "Spezial-Paludarium für einheimische Feuersalamander und Gelbbauchunken, entwickelt im Rahmen der vollständigen Neugestaltung der Reptilienausstellung des Tierparks Herborn. Die Anlage bildet einen naturnahen Flussufer-Lebensraum mit Waldcharakter nach und kombiniert Wasser- und Landzonen zu einem artgerechten Habitat. Moose, Farne und Gräser schaffen eine authentische Uferlandschaft, während ein integrierter Wasserfall und eine Strömungszone für natürliche Wasserbewegung sorgen. Das Paludarium wurde als Schaubecken für den öffentlichen Ausstellungsbereich im Foyer des Tierparks konzipiert.",
-  "images": [],
+  "title": "Paludarium für Salamander und Unken",
+  "description": "Spezial-Paludarium für einheimische Feuersalamander und Gelbbauchunken, entwickelt im Rahmen der vollständigen Neugestaltung der Reptilienausstellung des Tierparks Herborn. Die Anlage bildet einen naturnahen Flussufer-Lebensraum mit Waldcharakter nach und kombiniert Wasser- und Landzonen zu einem artgerechten Habitat. Moose, Farne und Gräser schaffen eine authentische Uferlandschaft, während ein integrierter Wasserfall und eine Strömungszone für natürliche Wasserbewegung sorgen. Das Paludarium wurde als Schaubecken für den öffentlichen Ausstellungsbereich im Foyer des Tierparks konzipiert.","youtube":"https://www.youtube.com/watch?v=Q43Q5nFonKs",
+  "images": ["/images3/Paludarium-komplett2-1024x683.jpg","/images3/Paludarium-im-Raum-1024x683.jpg","/images3/Palu-6-1024x683.jpg","/images3/Palu-14-1024x683.jpg","/images3/Salamander-2-1024x683.jpg","/images3/Palu-13-1024x683.jpg","/images3/Palu-12-1024x683.jpg","/images3/Salamander-6-1024x683.jpg","/images3/Palu-16-1024x683.jpg","/images3/Palu-16-1024x683.jpg","/images3/Palu-17-1024x683.jpg","/images3/Salamander-8-768x1024.jpg","/images3/Salamander-1-1024x683","/images3/Palu-21-1024x683.jpg","/images3/Palu-22-1024x683.jpg","/images3/Palu-9-1024x683.jpg","/images3/Salamander-7-1024x683.jpg","/images3/Salamander-7-1024x683.jpg","/images3/Palu-10-1024x683.jpg","/images3/Gelbbauchunke-in-Pflanze-1024x682.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Paludarium",
     "Ausführung": "Sonderform für öffentliche Ausstellung",
@@ -17535,8 +17449,8 @@
 },{
   "id": 219,
   "title": "Wüsten-Steppenterrarium 290 cm lang – Sonderform",
-  "description": "Großformatiges Wüsten- und Steppenterrarium als maßgefertigte Sonderanfertigung mit einer Länge von 290 cm. Die Anlage wurde für Bartagamen und andere steppenbewohnende Reptilien konzipiert und bietet durch ihre außergewöhnlichen Abmessungen ein weitläufiges, naturnah strukturiertes Habitat. Die detailreiche Wüstenlandschaft mit Sandstein- und Terracottaoptik, Felsformationen, Kletterstrukturen und Wüstenvegetation schafft unterschiedliche Temperatur- und Aktivitätszonen. Durch die hochwertige Möbelintegration und die leistungsstarke Beleuchtung eignet sich das Terrarium sowohl als repräsentatives Wohnraumobjekt als auch für anspruchsvolle Reptilienhaltung.",
-  "images": [],
+  "description": "Großformatiges Wüsten- und Steppenterrarium als maßgefertigte Sonderanfertigung mit einer Länge von 290 cm. Die Anlage wurde für Bartagamen und andere steppenbewohnende Reptilien konzipiert und bietet durch ihre außergewöhnlichen Abmessungen ein weitläufiges, naturnah strukturiertes Habitat. Die detailreiche Wüstenlandschaft mit Sandstein- und Terracottaoptik, Felsformationen, Kletterstrukturen und Wüstenvegetation schafft unterschiedliche Temperatur- und Aktivitätszonen. Durch die hochwertige Möbelintegration und die leistungsstarke Beleuchtung eignet sich das Terrarium sowohl als repräsentatives Wohnraumobjekt als auch für anspruchsvolle Reptilienhaltung.", "youtube":"https://www.youtube.com/watch?v=mim6vYnLZ0Q",
+  "images": ["/images3/Totale-im-Zimmer-1024x768.jpg","/images3/Totale-1024x861.jpg","/images3/rechte-Seite-1-1024x768.jpg","/images3/Schädel-Skelett-1024x768.jpg","/images3/0.jpg","/images3/0.jpg","/images3/0.jpg","/images3/0.jpg","/images3/0.jpg","/images3/0.jpg","/images3/0.jpg","/images3/0.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
     "Ausführung": "Sonderform",
@@ -17624,8 +17538,8 @@
 },{
   "id": 220,
   "title": "Wüsten-/Steppenterrarium im Stil einer Mayatempelanlage",
-  "description": "Außergewöhnliche Terrarien-Sonderanfertigung im Stil der berühmten Mayatempelanlage Chichén Itzá in Mexiko. Die begehbare Anlage wurde für Nashornleguane konzipiert und verbindet monumentale Architektur mit naturnaher Terrariengestaltung. Die Landschaft umfasst pyramidenförmige Tempelstufen, massive Tempelwände, einen kunstvoll gestalteten Drachenkopf sowie zahlreiche Sonnen- und Kletterbereiche. Durch die großzügige Trapezform, die begehbare Konstruktion und die leistungsstarke Beleuchtung entsteht ein spektakulärer Lebensraum, der zugleich als repräsentatives Schaubecken dient. Die Lichtdecke und die komplette Landschaftsgestaltung wurden individuell angefertigt, während die Tragkonstruktion bauseits gestellt wurde.",
-  "images": [],
+  "description": "Außergewöhnliche Terrarien-Sonderanfertigung im Stil der berühmten Mayatempelanlage Chichén Itzá in Mexiko. Die begehbare Anlage wurde für Nashornleguane konzipiert und verbindet monumentale Architektur mit naturnaher Terrariengestaltung. Die Landschaft umfasst pyramidenförmige Tempelstufen, massive Tempelwände, einen kunstvoll gestalteten Drachenkopf sowie zahlreiche Sonnen- und Kletterbereiche. Durch die großzügige Trapezform, die begehbare Konstruktion und die leistungsstarke Beleuchtung entsteht ein spektakulärer Lebensraum, der zugleich als repräsentatives Schaubecken dient. Die Lichtdecke und die komplette Landschaftsgestaltung wurden individuell angefertigt, während die Tragkonstruktion bauseits gestellt wurde.","youtube":"https://www.youtube.com/watch?v=74WdJJTrhfw",
+  "images": ["/images3/5-Terrarium-Totale-1024x683.jpg","/images3/5-Dormero-Eingang-1024x683.jpg","/images3/5-Dormero-Foyer-Totale-1024x683.jpg","/images3/5-Totale-im-Raum-1024x683.jpg","/images3/5-Wand-von-vorne-1024x683.jpg","/images3/5-Sonnenplateau-Drachenkopf3-1024x683.jpg","/images3/5-Wand-Innen-1024x683.jpg","/images3/5-Leguan-im-Maul-1024x683.jpg","/images3/5-Wand-Innentotale-1024x683.jpg","/images3/5-Sonnenplateau-Drachenkopf-1024x683.jpg","/images3/5-Wand-m.-Drachenkopf-683x1024.jpg","/images3/5-Wand-von-aussen-rechts-683x1024.jpg","/images3/5-Leguan-Liegeplateau-unter-der-Decke-1024x683.jpg","/images3/5-Leguan-Liegeplateau-unter-der-Decke-1024x683.jpg","/images3/dormero-hotel1-1024x384.jpg","/images3/dormero-hotel2-1024x384.jpg","/images3/dormero-hotel3-1024x384.jpg"],
   "technicalDetails": {
     "Terrarium Typ": "Wüsten- und Steppenterrarium",
     "Ausführung": "Begehbare Sonderform",
