@@ -1,8 +1,6 @@
 export const legalData = {
 
-  agb: `
-
-  1. Geltungsbereich 
+  agb: `1. Geltungsbereich 
 
 Diese Allgemeinen Geschäftsbedingungen gelten für sämtliche Willenserklärungen, Verträge und rechtsgeschäftlichen oder rechtsgeschäftsähnlichen Handlungen von der Firma Hoppe Terrarienbau GmbH & Co. KG (nachfolgend „Hoppe Terrarienbau“ genannt) mit ihren Kunden (nachfolgend „Kunde“ genannt). Von diesen Bedingungen abweichende Geschäftsbedingungen des Kunden finden keine Anwendung. Gegenbestätigungen des Kunden unter Hinweis auf seine eigenen Geschäfts- und/oder Einkaufsbedingungen wird ausdrücklich widersprochen; diese werden nicht Bestandteil von Vereinbarungen, es sei denn, die Bedingungen werden durch Hoppe Terrarienbau schriftlich bestätigt.
 
@@ -123,8 +121,7 @@ IBAN: DE98 3505 0000 0200 4655 73
 
  `,
 
-  datenschutz: `
-Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz hat einen besonders hohen Stellenwert für die Geschäftsleitung der Hoppe Terrarienbau GmbH & Co. KG. Eine Nutzung der Internetseiten der Hoppe Terrarienbau GmbH & Co. KG ist grundsätzlich ohne jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir generell eine Einwilligung der betroffenen Person ein.
+  datenschutz: `Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz hat einen besonders hohen Stellenwert für die Geschäftsleitung der Hoppe Terrarienbau GmbH & Co. KG. Eine Nutzung der Internetseiten der Hoppe Terrarienbau GmbH & Co. KG ist grundsätzlich ohne jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir generell eine Einwilligung der betroffenen Person ein.
 Die Verarbeitung personenbezogener Daten, beispielsweise des Namens, der Anschrift, E-Mail-Adresse oder Telefonnummer einer betroffenen Person, erfolgt stets im Einklang mit der Datenschutz-Grundverordnung und in Übereinstimmung mit den für die Hoppe Terrarienbau GmbH & Co. KG geltenden landesspezifischen Datenschutzbestimmungen. Mittels dieser Datenschutzerklärung möchte unser Unternehmen die Öffentlichkeit über Art, Umfang und Zweck der von uns erhobenen, genutzten und verarbeiteten personenbezogenen Daten informieren. Ferner werden betroffene Personen mittels dieser Datenschutzerklärung über die ihnen zustehenden Rechte aufgeklärt.
 Die Hoppe Terrarienbau GmbH & Co. KG hat als für die Verarbeitung Verantwortlicher zahlreiche technische und organisatorische Maßnahmen umgesetzt, um einen möglichst lückenlosen Schutz der über diese Internetseite verarbeiteten personenbezogenen Daten sicherzustellen. Dennoch können Internetbasierte Datenübertragungen grundsätzlich Sicherheitslücken aufweisen, sodass ein absoluter Schutz nicht gewährleistet werden kann. Aus diesem Grund steht es jeder betroffenen Person frei, personenbezogene Daten auch auf alternativen Wegen, beispielsweise telefonisch, an uns zu übermitteln.
 
@@ -329,11 +326,9 @@ Durch die Nutzung unserer Webseite erklären Sie sich mit der Bearbeitung der ü
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Wichtiger Hinweis: Für die generierten Datenschutzerklärungen übernimmt der Autor keine Haftung. Sie müssen selbst sicherstellen, dass alle von Ihnen verwendeten Plugins und Website-Elemente, über die personenbezogene Daten verarbeitet werden, auch in der Datenschutzerklärung erwähnt werden. Die Texte sind nach Kenntnisstand des Autors verfasst. Durch die Rechtsprechung und der Überarbeitung von Regelungen kann sich jederzeit die Notwendigkeit der Überarbeitung ergeben.
-
 `,
 
-  impressum: `
-Angaben gemäß § 5 TMG:
+  impressum: `Angaben gemäß § 5 TMG:
 Hoppe Terrarienbau GmbH & Co. KG
 Gewerbering 11
 47661Issum
@@ -357,4 +352,23 @@ Quelle: http://www.e-recht24.de
 Informationen zur Online-Streitbeilegung
 Die EU-Kommission wird im ersten Quartal 2016 eine Internetplattform zur Online-Beilegung von Streitigkeiten (sog. „OS-Plattform“) bereitstellen. Die OS-Plattform soll als Anlaufstelle zur außergerichtlichen Beilegung von Streitigkeiten betreffend vertragliche Verpflichtungen, die aus Online-Kaufverträgen erwachsen, dienen. Die OS-Plattform wird unter dem folgendem Link erreichbar sein: http://ec.europa.eu/consumers/odr
   `,
+Versand- und Zahlungsbedingungen: `
+
+Zahlungsbedingungen
+
+Die Lieferung der Ware erfolgt ausschließlich nach vollständigem Zahlungseingang. Folgende Zahlungsmethoden stehen Ihnen zur Verfügung: Vorkasse, SEPA Lastschriftverfahren, PayPal oder Kreditkarte. Erst nach erfolgreicher Verbuchung des Gesamtbetrags wird Ihre Bestellung bearbeitet und versendet.
+
+Versandbedingungen
+
+Wir liefern ausschließlich innerhalb Deutschlands sowie nach Österreich. Ein Versand in andere Länder ist derzeit nicht möglich.
+
+Die Lieferung erfolgt versandkostenfrei. Es fallen keine zusätzlichen Versandkosten für Sie an.
+
+Die Bearbeitungs- und Lieferzeit beträgt in der Regel 2–5 Werktage nach Zahlungseingang, sofern beim jeweiligen Produkt keine abweichende Lieferzeit angegeben ist.
+
+Hinweise zur Lieferung
+
+Sollte es ausnahmsweise zu Lieferverzögerungen kommen, werden wir Sie umgehend informieren. Bitte stellen Sie sicher, dass die angegebene Lieferadresse korrekt und vollständig ist, um eine reibungslose Zustellung zu gewährleisten.`
+
+  
 };
