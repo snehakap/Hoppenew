@@ -33,7 +33,7 @@ export function Legal() {
     },
     {
       icon: AlertTriangle,
-      title: "Versand- und Zahlungsbedingungen",
+      title: "Versand",
       content: legalData.versand,
     },
   ];
