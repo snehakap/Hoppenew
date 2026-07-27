@@ -351,20 +351,4 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 Quelle: http://www.e-recht24.de
 Informationen zur Online-Streitbeilegung
 Die EU-Kommission wird im ersten Quartal 2016 eine Internetplattform zur Online-Beilegung von Streitigkeiten (sog. „OS-Plattform“) bereitstellen. Die OS-Plattform soll als Anlaufstelle zur außergerichtlichen Beilegung von Streitigkeiten betreffend vertragliche Verpflichtungen, die aus Online-Kaufverträgen erwachsen, dienen. Die OS-Plattform wird unter dem folgendem Link erreichbar sein: http://ec.europa.eu/consumers/odr
-  `,
-versand: `Zahlungsbedingungen
-
-Die Lieferung der Ware erfolgt ausschließlich nach vollständigem Zahlungseingang. Folgende Zahlungsmethoden stehen Ihnen zur Verfügung: Vorkasse, SEPA Lastschriftverfahren, PayPal oder Kreditkarte. Erst nach erfolgreicher Verbuchung des Gesamtbetrags wird Ihre Bestellung bearbeitet und versendet.
-
-Versandbedingungen
-
-Wir liefern ausschließlich innerhalb Deutschlands sowie nach Österreich. Ein Versand in andere Länder ist derzeit nicht möglich.
-
-Die Lieferung erfolgt versandkostenfrei. Es fallen keine zusätzlichen Versandkosten für Sie an.
-
-Die Bearbeitungs- und Lieferzeit beträgt in der Regel 2–5 Werktage nach Zahlungseingang, sofern beim jeweiligen Produkt keine abweichende Lieferzeit angegeben ist.
-
-Hinweise zur Lieferung
-
-Sollte es ausnahmsweise zu Lieferverzögerungen kommen, werden wir Sie umgehend informieren. Bitte stellen Sie sicher, dass die angegebene Lieferadresse korrekt und vollständig ist, um eine reibungslose Zustellung zu gewährleisten.`  
-};
+  `};
