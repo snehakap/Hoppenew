@@ -30,12 +30,7 @@ export function Legal() {
       icon: FileText,
       title: "Impressum",
       content: legalData.impressum,
-    },
-    {
-      icon: AlertTriangle,
-      title: "Versand",
-      content: legalData.versand,
-    },
+    }
   ];
 
   return (
